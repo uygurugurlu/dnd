@@ -1,0 +1,47 @@
+---
+type: city
+name: Caélora
+continent: Ravonia
+canon: homebrew
+status: stub
+tags: [caelora, elf, silvaerun, ravonia-kitasi]
+source: Dünya haritası (07-maps/ager/world-ager-aeltharys.jpg)
+updated: 2026-08-11
+---
+
+# Caélora
+
+**Yukarı:** [Ravonia kıtası](../README.md) · **Harita:** [dünya haritası](../../../../07-maps/ager/world-ager-aeltharys.jpg)
+
+> Haritadan okundu. İçerik henüz yazılmadı.
+
+## Kimlik Kartı
+
+| | |
+|---|---|
+| **Tip** | city |
+| **Kıta** | Ravonia |
+| **Haritadaki yeri** | Silvaerûn ormanının içi, kuzeybatı |
+| **Nüfus** | <!-- doldur --> |
+| **Yönetim** | <!-- doldur --> |
+| **Baskın halk** | <!-- doldur --> |
+
+## Genel Bakış
+
+<!-- doldur: 3-5 cümle. Buraya gelen biri ilk neyi görür, neyi duyar, neyi koklar? -->
+
+## Önemli Yerler
+
+| Yer | Ne |
+|---|---|
+| <!-- doldur --> | |
+
+## NPC'ler
+
+| Kim | Ne |
+|---|---|
+| <!-- doldur --> | |
+
+## Kampanya Kancaları
+
+> **[HOOK]** <!-- doldur -->

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ager — Kampanya Evreni</title>
+<link rel="stylesheet" href="site/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚜️</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#/">
+    <span class="brand-mark">⚜</span>
+    <span class="brand-text">Ager<small>kampanya evreni</small></span>
+  </a>
+
+  <button class="searchbox" id="search-open" type="button">
+    <span class="ico">🔎</span>
+    <span class="ph">Ara…</span>
+    <kbd>⌘K</kbd>
+  </button>
+
+  <div class="topbar-actions">
+    <button class="iconbtn" id="dm-toggle" type="button" title="DM-only içerik">🎲</button>
+    <button class="iconbtn" id="theme-toggle" type="button" title="Tema">🌙</button>
+  </div>
+</header>
+
+<main id="view" class="view"><div class="loading">Yükleniyor…</div></main>
+
+<footer class="footer">
+  <span>⚜ Ager · Aeltharys &amp; Shae'Khar</span>
+  <span class="dot">·</span>
+  <span id="footer-stats"></span>
+  <span class="dot">·</span>
+  <span>Kozmoloji ve tanrılar FR, harita ve tarih biz.</span>
+</footer>
+
+<div class="overlay" id="search-overlay" hidden>
+  <div class="search-panel">
+    <div class="search-head">
+      <span class="ico">🔎</span>
+      <input id="search-input" type="text" placeholder="Kişi, yer, tanrı, oturum… ara" autocomplete="off" spellcheck="false">
+      <button class="iconbtn" id="search-close" type="button">esc</button>
+    </div>
+    <div class="search-results" id="search-results"></div>
+  </div>
+</div>
+
+<script src="site/vendor/marked.min.js"></script>
+<script src="site/app.js"></script>
+</body>
+</html>
