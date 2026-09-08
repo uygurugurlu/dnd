@@ -13,6 +13,7 @@ updated: 2026-08-10
 | **[Zariel](zariel/README.md)** | Archduchess of Avernus, düşmüş solar | Avernus | ✅ tam dosya |
 | **[Bel](bel/README.md)** | Avernus'un eski lordu; ruh tedarik zinciri | Avernus / Material recruitment | ✅ |
 | **[Marcus Hale](marcus-hale/README.md)** | Lvl 8 Paladin (Vengeance), Ilmater | Karsovia | ✅ statblock + lore |
+| **[Halden Rooke](halden-rooke/README.md)** | *"the Hand"* — [Level Hand](../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-level-hand.md) lideri; gizli Unwoven sorcerer, CR 10 | Cold Ward, Sparkhold | ✅ statblock + lore |
 
 ## Aralarındaki Bağ
 

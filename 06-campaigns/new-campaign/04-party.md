@@ -5,24 +5,35 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [party, player-characters]
-updated: 2026-08-11
+updated: 2026-08-30
 ---
 
 # Parti
 
 **Yukarı:** [New Campaign](README.md)
 
-> Dört karakter. İsimler ve oyuncular henüz girilmedi —
+> Dört karakter. **İkisi yazıldı.** Her PC'nin lore'u, dünya bağları ve
+> **gelişim günlüğü** ayrı bir dosyada duruyor:
+> 📁 **[player-characters/new-campaign/](../../05-characters/player-characters/new-campaign/README.md)**
+
+| Oyuncu | Karakter | Sınıf | Tür | Dosya |
+|---|---|---|---|---|
+| **Ardan** | **Gwyndor** | **Paladin** — **undead** | ⬜ reborn? revenant? | [→](../../05-characters/player-characters/new-campaign/gwyndor.md) |
+| **Koray** | **Grimnor** | **Druid** — Circle of the Moon | **Orc** | [→](../../05-characters/player-characters/new-campaign/grimnor/README.md) |
+| **Erdem** | **Vasili von Holtz** | **Wizard** — Bladesinger | ⬜ | [→](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md) |
+| **Burak** | **Roful Roger** | **Monk** | ⬜ | [→](../../05-characters/player-characters/new-campaign/roful-roger.md) |
+
+> ✏️ **Değişti (2026-08-30):** **Fighter slotu kaldırıldı, yerine Monk geldi.**
+> Aşağıdaki bölüm ve [Nat 1 / Nat 20 tabloları](../../08-rules/house-rules/crit-and-fumble.md#monk)
+> buna göre yeniden yazıldı.
+
+> ⚠️ **Vasili von Holtz bir Bladesinger** — ve bladesinging bir **elf** geleneği.
+> Karakter *"düşük ırklar yüksek ırklara hizmet etmeli"* diyen biri. Bunu kimden
+> öğrendiği hâlâ açık.
+>
 > `<!-- doldur -->` alanları dolunca bu tablo ve
 > [Nat 1 / Nat 20 tabloları](../../08-rules/house-rules/crit-and-fumble.md)
 > aynı anda güncellenir.
-
-| Oyuncu | Karakter | Sınıf | Tür |
-|---|---|---|---|
-| <!-- doldur --> | <!-- doldur --> | **Paladin** (undead) | ⬜ reborn? revenant? |
-| <!-- doldur --> | <!-- doldur --> | **Druid** — Circle of the Moon | ⬜ |
-| <!-- doldur --> | <!-- doldur --> | **Wizard** — Bladesinger | ⬜ (bladesinger genelde elf/half-elf) |
-| <!-- doldur --> | <!-- doldur --> | **Fighter** | ⬜ |
 
 ---
 
@@ -32,6 +43,10 @@ Kampanyanın konusu **tanrıların susması**. Dört karakterin dördü de bu ko
 farklı bir yerden değiyor — bu tesadüf değil, kampanyanın omurgası.
 
 ### Undead Paladin — *susan tanrıya yemin etmiş bir ceset*
+
+> 👤 **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor.md)** *(Ardan)* —
+> ✅ **undead olduğu doğrulandı** (2026-08-31); ⬜ tanrısı, oath'u ve undead tipi açık.
+> **Partide sessizliği en çok hisseden kişi o** — aşağıdaki üç soru artık onun soruları.
 
 En sert bağ bu. Yemin ediyorsun, yemin **işliyor** — smite geliyor, aura duruyor —
 ama yemin ettiğin şey bir yıldır cevap vermiyor. Ve zaten ölüsün, yani teorik
@@ -48,6 +63,11 @@ olarak çoktan yargılanmış olman gerekirdi.
 
 ### Moon Druid — *doğa hiç konuşmadı ki sussun*
 
+> 👤 **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)** *(Koray)* — ork,
+> [Gorestead](../../03-ager/continents/ravonia/villages/gorestead.md)'li, [Selûne](../../02-lore/pantheon/faerunian/selune.md)'e bağlı,
+> [Emerald Enclave](../../02-lore/factions/emerald-enclave.md) ile temaslı. Güçleri **doğuştan değil** —
+> ailesini kaybettiği bir *oyundan* sonra geldi.
+
 Druid, primal güce bağlı; tanrı bağı zorunlu değil. Bu onu partinin **hâlâ
 cevap alabilen** üyesi yapabilir — ya da tam tersi: doğa da bir şey hissediyor
 ve söylemiyor.
@@ -60,6 +80,10 @@ ve söylemiyor.
 
 ### Bladesinger Wizard — *ölçebilen tek kişi*
 
+> 👤 **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** *(Erdem)* —
+> bütün gücü **geri alınmış** eski bir hükümdar. Elinde **bir yıldır gelecek
+> söylemeyen** bir omen destesi var: kıtadaki en somut sessizlik kanıtı.
+
 Wizard, büyüyü *öğrenilmiş bir sistem* olarak görüyor. Sistemde bir sapma varsa
 onu fark edecek kişi bu. Bladesong ayrıca elf geleneği —
 **[Silvaerun](05-world-seeds.md#4-silvaerun--kuzeyin-elf-şehri)** kapısı.
@@ -70,20 +94,34 @@ onu fark edecek kişi bu. Bladesong ayrıca elf geleneği —
 | Bladesong bir *sanat* mı, bir *silah* mı? | Silvaerun bu soruyu ciddiye alır |
 | Zayıflama hissini not tutuyor mu? | Tuttuysa elinde kıtadaki en değerli defter var |
 
-### Fighter — *tek numarası olmayan kişi*
+### Monk — *hiçbir şey ödünç almamış olan*
 
-Büyüsü yok, tanrısı olmak zorunda değil, ölü değil. Bu onu **normal insanın
-temsilcisi** yapıyor — ve bu kampanyada normal insan, olayın farkında bile değil.
+> 👤 **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger.md)** *(Burak)*
+
+Diğer üçünün gücü bir yerden **geliyor** ve o yer ya **susmuş** ya **düşman**.
+Roger'ınki gelmiyor — **onun.** Beden, disiplin, tekrar.
+
+| Kim | Gücü nereden | Sessizlik ona ne yapıyor |
+|---|---|---|
+| **Gwyndor** | Susan bir tanrıya edilmiş yemin | **Her şey** |
+| **Grimnor** | 🔒 Bir av tanrısının deneyinden kalan | Sessizlik onun **koruyucusu** |
+| **Vasili** | Yüzyıllarca **ödünçtü**, geri alındı | Borcunu kimin çağırdığını arıyor |
+| ⭐ **Roger** | **Kendisi** | **Hiçbir şey** |
 
 | Soru | Neden önemli |
 |---|---|
-| **[Mürai savaşı](01-premise.md#mürai-savaşı)**nda savaştı mı? | Savaş **bu yıl** bitti (1492–1495). Barış aylık. |
-| Kimin ordusundaydı? | **Karsovia** (kazanan) mı, **Ravonia** (kaybeden, ordusu dağıtıldı) mı, paralı asker mi |
-| Ravonia tarafındaysa: şimdi ne yapıyor? | Terhis edildi. [Iron Concord](factions-in-play/the-four-answers/the-iron-concord.md) tam olarak onun gibi adamları topluyor. |
-| Neden hâlâ silah taşıyor? | Barış zamanında bir asker ne yapar |
+| **Disiplini nereden geldi?** | Manastır mı, bir usta mı, kendi kendine mi? Kimseye borçlu değilse kimseye **hesap** da vermiyor |
+| **[Mürai savaşı](01-premise.md#mürai-savaşı)**nda var mıydı? | Savaş **bu yıl** bitti (1492–1495). Barış aylık |
+| Bir manastır varsa, o manastır bir yıldır ne yapıyor? | Tapınaklar panikte; bir manastır panik yapmayabilir |
+| Gücü kendisinden geliyorsa, **kaybedebilir mi?** | Kampanyanın ona soracağı tek zor soru |
 
-> **[HOOK]** Fighter tek başına şunu sorabilir: *"Tanrılar konuşuyor muydu ki?"*
+> **[HOOK]** Roger tek başına şunu sorabilir: *"Siz hiç kendi gücünüz olmadı mı?"*
 > Parti bu soruya cevap veremezse kampanyanın tonu bulunmuş demektir.
+
+> ⭐⭐ **[HOOK] — bedava gerilim:** [Vasili](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)'yi
+> yenen ve Tatyana'yı elinden alan kişi, [günlüğünde](../../05-characters/player-characters/new-campaign/vasili-von-holtz/handout-journal.md)
+> **"kel keşiş"** diye geçiyor — bir **monk.** Vasili artık keşişlerden nefret
+> ediyor ve sebebini kimseye söyleyemiyor. **Masaya ilk oturdukları anda işler.**
 
 ---
 
@@ -105,6 +143,6 @@ temsilcisi** yapıyor — ve bu kampanyada normal insan, olayın farkında bile 
 
 | Sistem | Bağ |
 |---|---|
-| [Nat 1 / Nat 20 tabloları](../../08-rules/house-rules/crit-and-fumble.md) | 13–20 satırları **bu dört sınıf için** yazıldı |
+| [Nat 1 / Nat 20 tabloları](../../08-rules/house-rules/crit-and-fumble.md) | 13–20 satırları **bu dört sınıf için** yazıldı *(Fighter → **Monk** olarak güncellendi)* |
 | [Söylenti Sistemi](../../08-rules/house-rules/rumor-system.md) | Undead bir paladin şehre girdiğinde bir söylenti kartı otomatik açılır |
 | [Bölgesel Ekonomi](../../08-rules/house-rules/economy.md) | Savaş sonrası bölgeler; Thornhold geçidi |

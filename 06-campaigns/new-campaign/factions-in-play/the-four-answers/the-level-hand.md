@@ -128,7 +128,7 @@ Faerûn tarihinde büyücülere karşı fanatik düşmanlık geliştirmiş bir g
 | **Suppressor halkaları** | Boyna/bileğe takılan, spellcasting'i engelleyen demir. **Concord üretimi.** |
 | **Sayım defterleri** | Bir şehirdeki her caster'ın adı, gücü, adresi. En değerli varlıkları. |
 | **Kalabalık** | Asıl silah bu. Yüz kişi bir wizard'ı taşlayabilir. |
-| **Rooke'un kendisi** | ⬜ taban bunu bilmiyor |
+| **Rooke'un kendisi** | ⬜ taban bunu bilmiyor → [statblock](../../../../05-characters/npcs/major/halden-rooke/statblock.md) |
 
 ---
 
@@ -155,6 +155,9 @@ büyü yapamaz. Kalabalık bunu görür.
 
 ## Halden Rooke
 
+> 📄 **Tam dosya:** [05-characters/npcs/major/halden-rooke/](../../../../05-characters/npcs/major/halden-rooke/README.md)
+> · [statblock (CR 10)](../../../../05-characters/npcs/major/halden-rooke/statblock.md)
+
 > ### *"I do not wield the Gift. I return it."*
 
 ### Kimlik Kartı
@@ -166,7 +169,7 @@ büyü yapamaz. Kalabalık bunu görür.
 | **Yaş** | 44 |
 | **Doğum yeri** | Sparkhold, **Low Ward** |
 | **Sınıf** | Sorcerer — [The Unwoven](../../../../02-lore/magic/the-unwoven.md) origin, **Severance** dalı |
-| **Görünüş** | Orta boy, zayıf, kâtip duruşu. Ellerinde **her zaman** düz gri iş eldiveni. Sol gözünün altında şebeke kâtiplerinin mürekkep lekesi — yirmi yıl önce silinmesi gerekirdi, silinmedi. |
+| **Görünüş** | Siyahi, orta boy, zayıf, kâtip duruşu. **Saçları bembeyaz** — yaşlılıktan değil; 1494'te Cold Ward'daki o üç saniyeden sonra bir ay içinde ağardı. Ellerinde **her zaman** düz gri iş eldiveni. Sol gözünün altında şebeke kâtiplerinin mürekkep lekesi — yirmi yıl önce silinmesi gerekirdi, silinmedi. |
 
 ### Hikâyesi
 
@@ -332,12 +335,20 @@ Rooke şu anda **7 Fraying** puanında. Görünür belirtileri:
 
 ## Kilit İsimler
 
-| Kişi | Rol | Not |
-|---|---|---|
-| **Halden Rooke** | "the Hand" | ⬜ dosya terfisi bekliyor |
-| ⬜ **Perra Voight** | Ölçüm Kurulları'nın başı; eski şebeke müdür yardımcısı | Rooke'un sorcerer olduğundan **şüpheleniyor** |
-| ⬜ **Tem "Kâğıt" Ossary** | Sokak örgütleyicisi, yirmi yaşında, gerçek inanan | Hareketin masum yüzü. **Öldürülmesi kampanyayı sertleştirir.** |
-| ⬜ **Concord irtibatı** | Adı kimsede yok | [Iron Concord](the-iron-concord.md) gizli hattı |
+> 📁 **Kadro klasörü:** [05-characters/npcs/minor/the-level-hand/](../../../../05-characters/npcs/minor/the-level-hand/README.md)
+> — statsheet'ler, sahne dizilimi ve kim-kimi-biliyor tablosu orada.
+
+Hareketin gövdesi ağırlıklı olarak **insanlar, drowlar ve halflingler** —
+yani Sparkhold'un yüksüz mahallelerinin nüfusu. Beşi de statblock'lu:
+
+| Kişi | Tür | Rol | CR |
+|---|---|---|---|
+| **[Halden Rooke](../../../../05-characters/npcs/major/halden-rooke/README.md)** | Human, 44 | *"the Hand"* — lider | **10** |
+| **[Nyrra Delsaeth](../../../../05-characters/npcs/minor/the-level-hand/nyrra-delsaeth.md)** | Drow, 107 | *"the Voice"* — **Rooke'un sevgilisi**; Unmaking'lerde kalabalığa o konuşuyor. Rooke'un sorcerer olduğunu **bilen tek kişi** | 5 |
+| **[Selvarr Dhune](../../../../05-characters/npcs/minor/the-level-hand/selvarr-dhune.md)** | Drow, 149 | *"the Ninth Glove"* — **the Hand**'in dokuz hücresinin komutanı. Baskınları o yapıyor | 7 |
+| **[Perra Voight](../../../../05-characters/npcs/minor/the-level-hand/perra-voight.md)** | Human, 53 | Ölçüm Kurulları'nın başı; eski şebeke müdür yardımcısı. Rooke'tan **şüpheleniyor** | 4 |
+| **[Tem "Kâğıt" Ossary](../../../../05-characters/npcs/minor/the-level-hand/tem-ossary.md)** | Halfling, 20 | Sokak örgütleyicisi, gerçek inanan. Hareketin masum yüzü. **Öldürülmesi kampanyayı sertleştirir** | 1 |
+| ⬜ **Concord irtibatı** | — | Adı kimsede yok — *kasten*. [Iron Concord](the-iron-concord.md) gizli hattı; ulaşan tek kişi Selvarr | — |
 
 ---
 

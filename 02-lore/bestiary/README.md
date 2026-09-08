@@ -20,7 +20,8 @@ Buraya sadece şunlar girer:
 
 | Yaratık | CR | Habitat | Origin | Dosya |
 |---|---|---|---|---|
-| <!-- doldur --> | | | | |
+| **Concord Ironclad** | 4 | Grassland, Urban (Ravonia) | Hammerfall kazı construct'ının askerî varyantı | [concord-ironclad.md](concord-ironclad.md) |
+| **the Tallyman** *(Sayman)* | 6 | Underdark (Charaxis — maden ağızları) | Kayıp imparatorluğun izleme matrisinin uzantısı | [the-tallyman.md](the-tallyman.md) |
 
 ## Nasıl Eklenir
 

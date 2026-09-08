@@ -138,6 +138,10 @@ Kasabanın üç kuralından ikisi zaten faction'ın programı: kimse namlusunu k
 > müttefik yapma fırsatı verir — ve **Barutdere'nin kimseye müttefik olmama
 > hakkını** savunma fırsatı da.
 
+> **[DM ONLY]** **[Corr](../../../../05-characters/npcs/minor/the-unfettered-wind/corr.md) da istemiyor** — ve Vane'e
+> söylemedi. Vane'in en yetenekli adamını hareketten koparmanın yolu bu:
+> öldürmek değil, kasabasına dokunulduğunu **ona göstermek.**
+
 ---
 
 ## Vane
@@ -249,16 +253,38 @@ Kaçış gecesi kimseyi öldürmedi. Kapıları açık bıraktı.
   çıkmayabilir.**
 - **Tik:** Otururken de ayakları zeminden birkaç parmak yukarıdadır. Fark etmiyor.
 
-### Üç yoldaş
+### Kilit İsimler
 
-| Kim | Ne | Not |
-|---|---|---|
-| ⬜ **Corr** | Human nişancı, [Barutdere](../../05-world-seeds.md#7-barutdere--silah-kulübü) çıkışlı | Faction'daki tek profesyonel. Vane'in ilkelerine değil, **Vane'e** bağlı. |
-| ⬜ **Ashka** | Goliath, [Iron Concord](the-iron-concord.md) firarisi | Concord'un ne olduğunu **içeriden** bilen tek kişi. Bu yüzden en fanatik olan o. |
-| ⬜ **Emrys Tal** | Gnome; sahtecilik, kilit, kimlik | Kırk yıl bir lonca kâtibiydi. *"Bir mührün kaç insan öldürdüğünü sayabilirim."* |
+> 📁 **Kadro klasörü:** [05-characters/npcs/minor/the-unfettered-wind/](../../../../05-characters/npcs/minor/the-unfettered-wind/README.md)
+> — statsheet'ler, sahne dizilimi ve kim-kimi-biliyor tablosu orada.
+
+Hareketin üye listesi yok — ama Vane'in etrafında beş isim var ve beşi de
+**farklı bir işi** yapıyor: ikisi öldürüyor, biri kapıları açıyor, biri
+ilan ediyor, biri hücre yönetiyor.
+
+| Kişi | Tür | Rol | CR |
+|---|---|---|---|
+| **Vane** | Tiefling, 38 | *"the Footless"* — lider | ⬜ statblock bekliyor |
+| **[Corr](../../../../05-characters/npcs/minor/the-unfettered-wind/corr.md)** | Human, 39 | **Nişancı.** [Barutdere](../../05-world-seeds.md#7-barutdere--silah-kulübü) çıkışlı; faction'daki tek profesyonel. Vane'in ilkelerine değil, **Vane'e** bağlı. On bir ilan, on bir ölü | 7 |
+| **[Ashka](../../../../05-characters/npcs/minor/the-unfettered-wind/ashka.md)** | Goliath, 36 | **Gedik açıcı.** [Iron Concord](the-iron-concord.md) firarisi — Concord'un ne olduğunu **içeriden** bilen tek kişi, ve bu yüzden en fanatik olan o | 8 |
+| **[Emrys Tal](../../../../05-characters/npcs/minor/the-unfettered-wind/emrys-tal.md)** | Gnome, 121 | **Sahteci.** Kırk yıl lonca kâtibiydi. *"Bir mührün kaç insan öldürdüğünü sayabilirim."* Hareketin kapılarını o açıyor | 4 |
+| **[Serane Ardo](../../../../05-characters/npcs/minor/the-unfettered-wind/serane-ardo.md)** | Aasimar, 34 | **İlancı.** Hedef listesini duvara o çiviliyor — ve listeye giren adama **önce bir şans veriyor.** Aurelium aasimar konseyinin kaçağı | 5 |
+| **[Kesh Duva](../../../../05-characters/npcs/minor/the-unfettered-wind/kesh-duva.md)** | Half-orc, 24 | **Hücre lideri.** Lirion'un alt katmanından; kıtanın en aktif hücresini yönetiyor. Vane'i çocukluğundan tanıyor | 6 |
 
 > **[HOOK]** Ashka'nın firar sebebi, partinin Iron Concord hakkında
-> öğrenebileceği **en somut kanıt.** Ve Ashka bunu bedavaya anlatmaz.
+> öğrenebileceği **en somut kanıt.** Ve Ashka bunu bedavaya anlatmaz —
+> bedeli para değil, **bir kapı.**
+
+> **[DM ONLY]** Yukarıdaki *"Vane ölürse yerine kim geçer?"* kancasının cevabı
+> **[Kesh Duva](../../../../05-characters/npcs/minor/the-unfettered-wind/kesh-duva.md).** Üç hücre lideri ona zaten
+> *"seninle konuşuruz"* diyor ve Kesh bunu Vane'e söylemedi. Parti bu adı
+> yayarsa hareketi **kendi ilkesiyle** öldürür.
+
+> **[DM ONLY]** Faction'ın iç çatlağı da kadroda: [Serane](../../../../05-characters/npcs/minor/the-unfettered-wind/serane-ardo.md)
+> hedefleri ikna etmeye çalışıyor, [Corr](../../../../05-characters/npcs/minor/the-unfettered-wind/corr.md) ve
+> [Ashka](../../../../05-characters/npcs/minor/the-unfettered-wind/ashka.md) buna karşı. Vane izin veriyor çünkü Serane'le
+> tartışmayı seviyor. **Vane ölürse ilk düşen şey Serane'in eklemesi olur** —
+> ve hareket o gün gerçekten bir katil örgütüne dönüşür.
 
 ---
 
@@ -365,7 +391,7 @@ Vane **6 Fraying** puanında.
 > Parti kazanamayacağı bir savunmayı örgütlemek zorunda ve savundukları adam
 > gerçekten iğrenç biri. **Bu tek sahne kampanyanın tonunu kurar.**
 
-> **[HOOK]** **Fighter için:** Vane ona *"Kimin ordusundaydın?"* diye sorar.
+> **[HOOK]** **[Roger](../../../../05-characters/player-characters/new-campaign/roful-roger.md) için:** Vane ona *"Kimin ordusundaydın?"* diye sorar.
 > Cevap ne olursa olsun, bir sonraki sorusu: *"Ve o adam şimdi nerede yaşıyor?"*
 
 > **[HOOK]** Vane partiye zarar vermek istemiyor. **İşe almak** istiyor.

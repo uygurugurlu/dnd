@@ -116,7 +116,9 @@ Charaxis hattının Ager'e getirdikleri:
 | Maden, cevher | Brakk-Dur Omurga | R-1, K-2 |
 | "Charaxis'ten çıkarılanlar" ⬜ | ⬜ | Gharuk Kumpanyası'nın defterleri |
 
-→ [Ticaret ve Ekonomi](../00-overview/trade-and-economy.md)
+→ [Ticaret ve Ekonomi](../00-overview/trade-and-economy.md) ·
+**Charaxis tarafı:** [Altı İniş](../../04-charaxis/planar-sites/README.md) ·
+[Madenler](../../04-charaxis/mines/README.md)
 
 > **[HOOK]** Gharuk Kumpanyası'nın zenginliği **tek bir kapıya** dayanıyor: R-1.
 > O kapı kapanırsa ork ekonomisi çöker — ve
@@ -168,7 +170,10 @@ Kararsızlık tablosu (d6, geçiş başına):
 ## Açık Sorular
 
 - [ ] Kapıların **elfçe adı** ne? ("Sabit Altı" halk dilindeki karşılık olarak kondu.)
-- [ ] Charaxis tarafında bu altı kapı **nereye** çıkıyor? Hepsi Meridyen Yolu'na mı?
+- [x] ✅ **Charaxis tarafında bu altı kapı nereye çıkıyor?** Beşi Meridyen Yolu'na,
+      biri (**R-2**) yol dışına — cam düzlüğe, 3 mil uzağa. Ravonia'nın üçü hattın
+      **Kül** yarısına, Karsovia'nın üçü **Don** yarısına iniyor.
+      → [Altı İniş](../../04-charaxis/planar-sites/README.md)
 - [ ] Yetkiyi kim veriyor?
 - [ ] Sabitleme büyüsünü **bakımı** yapan biri var mı? Varsa kuyruklu yıldızlardan beri ne diyor?
 - [ ] 1385'te kapatılan **kararsız portallar** nereye açılıyordu? Kapatılanlardan biri hâlâ bir yerde mühürlü duruyor olabilir.

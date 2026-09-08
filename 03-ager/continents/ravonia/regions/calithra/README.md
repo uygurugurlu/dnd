@@ -485,3 +485,4 @@ Cevaplandı — hepsi [05-secrets-dm-only.md](05-secrets-dm-only.md)'de:
 | [Northcurrent](../../sites/northcurrent.md) | En yakın kale (konum adayı doğruysa) |
 | [Ticaret ve Ekonomi](../../../../00-overview/trade-and-economy.md) | Şarap ihracatı buraya bağlanır |
 | [New Campaign](../../../../../06-campaigns/new-campaign/README.md) | ☄️ Kızıl gök, sessiz tanrılar |
+| ☄️ [**Calithra Kavşağı**](../../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/field-ops/calithra-standoff.md) | **Kampanya katmanı** — 1495 Uktar'ında şehirde ne oluyor. Dünya dosyası değil, oynanan durum |

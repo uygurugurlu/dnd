@@ -17,6 +17,9 @@ updated: 2026-08-10
 | [timeline-index.md](timeline-index.md) | Tüm zaman çizelgelerine giriş |
 | [tags.md](tags.md) | Etiket dizini |
 
+> 👥 **[townsfolk.md](townsfolk.md)** — sivil NPC'ler (hancı, esnaf, muhtar, guard),
+> yerleşim indeksi ve **anında NPC üreteci** (dört zar).
+
 ## Bakım
 
 Bu dosyalar **elle güncellenir**. Yeni bir yer/kişi eklendiğinde ilgili dizine

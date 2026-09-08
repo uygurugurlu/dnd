@@ -141,12 +141,30 @@ Haritada yok; [New Campaign tohumlarından](../06-campaigns/new-campaign/05-worl
 | **Meridyen Yolu** / Dünya Omurgası | Yol | Ekvator boyunca |
 | **Scorchvault** / Yakım Kubbesi | Yarımküre | Camlaşmış çöl, ateş elementalleri |
 | **Black Still** / Kara Dinginlik | Yarımküre | Sonsuz buz; ölüler çürümez. ☄️ **Vaha burada** |
-| **Brakk-Dur Omurga** | Şehir | Cüce/ork; madencilik lojistiği |
-| **Vael'Serith** | Şehir | Elf; kutsal gözlem |
-| **Ashkar Reach** | Şehir | **Moondust** ticaretinin merkezi |
-| **Stillreach** | Şehir | Zaman anomalisi madenciliği |
+| **Ashkar Reach** | Şehir · Kül-71 | İnsan/tiefling; **moondust** ticareti, kara pazar | [→](../04-charaxis/regions/ashkar-reach.md) |
+| **Brakk-Dur Omurga** | Şehir · Kül-28 | Cüce/ork; madencilik lojistiği, denge odaları | [→](../04-charaxis/regions/brakk-dur.md) |
+| **Vael'Serith** | Şehir · Taş 0 | Elf; **Sıfır Taşı**, Nöbet, izleme matrisi | [→](../04-charaxis/regions/vael-serith.md) |
+| **Nen-Kharal** | Köy · Don-14 | **Deep gnome**; Dinleyiciler loncası, yolun altında | [→](../04-charaxis/regions/nen-kharal.md) |
+| **Stillreach** | Şehir · Don-64 | Karsovyalı; Chronoshard, soğuk depo, Saatçiler | [→](../04-charaxis/regions/stillreach.md) |
 
-Hepsi: [Charaxis](../04-charaxis/README.md)
+### Madenler *(hepsi Meridyen Yolu üzerinde, taş sırasına göre)*
+
+| Maden | Taş | Ne çıkar |
+|---|---|---|
+| [the Kiln Stair](../04-charaxis/mines/kiln-stair.md) | Kül-84 | Sunshard, Gold |
+| [Emberdrift](../04-charaxis/mines/emberdrift.md) | Kül-58 | Pyroclast Iron |
+| [the Amber Wells](../04-charaxis/mines/amber-wells.md) | Kül-44 | Solar Amber |
+| [Blackglass Deep](../04-charaxis/mines/blackglass-deep.md) | Kül-33 | **Adamantine** |
+| [Spinecut](../04-charaxis/mines/spinecut.md) | Kül-9 | Basalt Mithril |
+| [Hollowlight](../04-charaxis/mines/hollowlight.md) | 0 | Aether Quartz |
+| [the Grey Seam](../04-charaxis/mines/the-grey-seam.md) | Don-6 | ☠ **Moondust** |
+| [Widowsilver](../04-charaxis/mines/widowsilver.md) | Don-38 | Frostvein Silver |
+| [the Black Orchard](../04-charaxis/mines/black-orchard.md) | Don-52 | Chardalyn *(yasak)* |
+| [the Slow Pit](../04-charaxis/mines/slow-pit.md) | Don-71 | **Chronoshard** |
+
+**Altı İniş** (portalların Charaxis ucu): [planar-sites/](../04-charaxis/planar-sites/README.md)
+
+Hepsi: [Charaxis](../04-charaxis/README.md) · [Hat ve harita](../04-charaxis/regions/README.md)
 
 ## Düzlemler
 

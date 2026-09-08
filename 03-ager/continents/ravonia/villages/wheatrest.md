@@ -25,6 +25,30 @@ Köyün en dikkat çeken yapılarından biri, ironik ismiyle bilinen **“Smith 
 
 Bunun dışında Wheatrest’te birkaç **bakkal ve küçük dükkân** bulunur. Hepsi temel ihtiyaçlara yöneliktir; nadir eşyalar ya da lüks mallar neredeyse hiç yoktur. Köy, hayatta kalmaya odaklıdır — fazlasına değil.
 
+## 👥 Halk
+
+Köyün adı konmuş sivilleri. **Savaşacak NPC değiller** — statblock sütunu resmî
+SRD referansıdır ([kural](../../../../09-index/townsfolk.md#statblock-kuralı--sivil-npcler)).
+
+| Kim | Ne | Statblock | Tik · ne ister |
+|---|---|---|---|
+| **Muhtar Sipsi Illenum** | Muhtar, orta yaşlı, insan | Noble | Sert bakışlı, pratik zekâlı. **İster:** üç kulenin de nöbetli kalmasını |
+| **Ocakbaşı Geyren** | *Smith Sarayı*'nın demircisi — **Ocak 152** | Guard | Dükkânın alaycı adını sever. **İster:** [gerçek Saray](../../../../02-lore/factions/smith-palace.md)'ın kota artırmasını |
+| **Old Fenrick** | Tahıl tüccarı, insan | Commoner | Gece geçen arabaların kaydını tutuyor |
+| **Elira Fenwill** | 16, wild magic laneti taşıyor | Commoner | Köyün bir kısmı ona *"şeytan işi"* diyor |
+| **Soren Fenwill** | Gnome, Elira'nın akrabası | Commoner | Kız için köyle tek başına tartışıyor |
+| **Roran & Lysa Kest** | Çiftçi çift | Commoner | Ağabeyleri [Brannoc](../../../../09-index/townsfolk.md) kuzey kulesinde yatıyor ve sofraya oturmuyor |
+| **Ellyn Brevin** | Çiftçi, Tomas'ın karısı | Commoner | Oğlu askerlikten ve *pact*'ten bahsediyor ve o bunu duymak istemiyor |
+| **Mara Cole** | Çiftçi, köyün ebesi | Commoner | Üç kulenin nöbet listesini **o** hatırlıyor, muhtar değil |
+
+> 🎲 Listede olmayan biri lazımsa: [Anında NPC üreteci](../../../../09-index/townsfolk.md#anında-npc--dört-zar).
+
+> **[HOOK]** Köyün demircisine ironi olsun diye *"Smith Sarayı"* deniyor —
+> ve [gerçek Smith Sarayı](../../../../02-lore/factions/smith-palace.md) adını
+> **bu şakadan** aldı. Wheatrest bunu öğrendiğinde ne hissedeceği açık değil.
+
+---
+
 ## 🏡 Aile 1
 
 - **Baba:** **Edric Cole**

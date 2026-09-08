@@ -278,15 +278,40 @@ Silvaerun bunu küfür saydı. Marr görevden alındı.
 
 ### İki öğrenci
 
-| Kim | Ne |
-|---|---|
-| ⬜ **Ilrien** | İkizlerden sessiz olanı. Geçenler'in başı. **Marr'un bilmediği şeyleri yapıyor.** |
-| ⬜ **Nerath** | İkizlerden konuşanı. Grafting'i bir **silah** olarak görüyor, bir lütuf olarak değil. |
+| Kim | Ne | CR |
+|---|---|---|
+| **[Ilrien](../../../../05-characters/npcs/minor/the-first-communion/ilrien.md)** | Elf, 214. İkizlerden **sessiz** olanı — 1494'ten beri tek kelime etmedi. Geçenler'in başı; cemaatin casusu ve kuryesi. **Marr'un bilmediği şeyleri yapıyor** | 5 |
+| **[Nerath](../../../../05-characters/npcs/minor/the-first-communion/nerath.md)** | Elf, 214. İkizlerden **konuşanı.** Grafting'i bir lütuf değil bir **silah** olarak görüyor; bu yıl üç Grafting yaptı, ikisi izinsiz | 8 |
 
 > **[HOOK]** İkizler, Marr'un fren mekanizması olmadan hareket eden hâli.
 > Kampanyanın orta bölümünde **onlar** düşman olmalı; Marr'un kendisi
 > geç kalmalı. Ve geldiğinde ikizlerin ne yaptığını **savunmalı** —
 > çünkü inkâr edemez.
+
+---
+
+## Kilit İsimler
+
+> 📁 **Kadro klasörü:** [05-characters/npcs/minor/the-first-communion/](../../../../05-characters/npcs/minor/the-first-communion/README.md)
+> — statsheet'ler, sahne dizilimi ve kim-kimi-biliyor tablosu orada.
+
+Cemaatin gövdesi **druid** — çoğunlukla elfler, dragonbornlar ve tieflingler.
+Beş isim statblock'lu ve **beşi aynı işi yapmıyor**: ikisi gözcü/casus,
+ikisi doğrudan dövüşçü, biri ritüelist.
+
+| Kişi | Tür | Halka | Rol | CR |
+|---|---|---|---|---|
+| **Ysolde Marr** | Elf, 341 | Ağız | Lider | ⬜ statblock bekliyor |
+| **[Nerath](../../../../05-characters/npcs/minor/the-first-communion/nerath.md)** | Elf, 214 | Bağlayanlar | **Dövüşçü.** Planar overlay; izinsiz Grafting | 8 |
+| **[Thava Vessek](../../../../05-characters/npcs/minor/the-first-communion/thava-vessek.md)** | Dragonborn, 58 | Bağlayanlar (baş) | **Ritüelist.** Grafting'i **o icat etti** — ve durduramıyor | 7 |
+| **[Mirel Ashvane](../../../../05-characters/npcs/minor/the-first-communion/mirel-ashvane.md)** | Tiefling, 44 | *(halkasız)* | **Dövüşçü / kurtarıcı.** Circle of the Moon; grafted bölgelerden insan çıkarıyor | 7 |
+| **[Ilrien](../../../../05-characters/npcs/minor/the-first-communion/ilrien.md)** | Elf, 214 | Geçenler (baş) | **Casus.** Ethereal kurye; konuşmuyor, yazıyor | 5 |
+| **[Corvane Sull](../../../../05-characters/npcs/minor/the-first-communion/corvane-sull.md)** | Tiefling, 31 | Dinleyiciler | **Gözcü.** İnce yerleri bulan; ölüleri duyan | 4 |
+
+> **[DM ONLY]** Cemaatin içinde **iki kişilik gizli bir muhalefet** var:
+> [Ilrien](../../../../05-characters/npcs/minor/the-first-communion/ilrien.md) ile [Mirel](../../../../05-characters/npcs/minor/the-first-communion/mirel-ashvane.md).
+> Ilrien, Nerath'ın hedeflerini önceden Mirel'e yazıyor. Ne Marr ne Nerath
+> bunu biliyor ve parti bu hattı keşfederse faction'ı **içeriden** bölebilir.
 
 ---
 

@@ -54,7 +54,7 @@ tapınakları ve Ager'deki siyasi ağırlıkları homebrew'dur.
 | **Loviatar** | Acı | LE | Death |
 | **Talona** | Hastalık, zehir | CE | Death |
 | **Auril** | Kış, soğuk | NE | Nature, Tempest |
-| **Malar** | Av, vahşet | CE | Nature |
+| **[Malar](faerunian/malar.md)** | Av, vahşet | CE | Nature |
 | **Deneir** | Yazı, kayıt | NG | Knowledge |
 | **Eldath** | Huzur, sükûnet | NG | Life, Nature |
 | **Azuth** | Büyücüler | LN | Arcana, Knowledge |

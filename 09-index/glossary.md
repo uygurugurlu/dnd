@@ -86,7 +86,19 @@ karşılıklarını değil, **ne anlama geldiklerini** açıklar.
 | Terim | Ne demek |
 |---|---|
 | **Ager** | Ana gezegen |
-| **Charaxis** | Ager'in uydusu |
+| **Charaxis** | Ager'in uydusu — bir uydu değil, **yaşanan bir dünya** → [04-charaxis/](../04-charaxis/README.md) |
+| **Vael'Toruun** | Charaxis'in yaşanabilir ekvator kuşağı; *Kül ve Don Kuşağı* |
+| **Meridyen Yolu** | Charaxis'i ekvator boyunca çevreleyen antik yol; *Dünya Omurgası* |
+| **Taş** | Charaxis'te mesafe birimi = 1 mil. **Kül-##** yukarı (sıcak), **Don-##** aşağı (soğuk) |
+| **Vuruş** | Charaxis'in saati. Kilometre taşları ~6 saatte bir titrer; gün yoktur |
+| **Kol** | Bir vardiya = 1 vuruş = ~6 saat |
+| **Göz** | Charaxis'in ayı; Ager'in bir evre döngüsü. Maaş ve faiz bununla hesaplanır |
+| **Pul** | Şirket parası. Yemek alır, **portal bileti almaz** |
+| **Denge yükü** | Sırtta taşınan buz/ısı taşı; Charaxis'te madenciliğin ön şartı |
+| **Rün çivisi** | Electrum çivi; galerideki ham büyüyü topraklar |
+| **Cep** | Taşın içinde birikmiş ham büyü. Rün çivisi yoksa patlar |
+| **Moondust / Gri Nefes** | Charaxis'in tek homebrew maddesi; kehanet + bağımlılık |
+| **Sayman** *(the Tallyman)* | Maden ağzında vardiyayı sayan şey → [bestiary](../02-lore/bestiary/the-tallyman.md) |
 | **`canon: fr-canon`** | Forgotten Realms'ten doğrudan alındı |
 | **`canon: adapted`** | FR kaynaklı, Ager'e uyarlanırken değişti |
 | **`canon: homebrew`** | Tamamen bize ait |

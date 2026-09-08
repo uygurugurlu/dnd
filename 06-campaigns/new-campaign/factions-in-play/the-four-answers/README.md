@@ -36,6 +36,8 @@ updated: 2026-08-12
 | [the-unfettered-wind.md](the-unfettered-wind.md) | **Unfettered Wind** — "Açık gökyüzünün altında taht olmaz" |
 | [the-iron-concord.md](the-iron-concord.md) | **Iron Concord** — "Düzen merhamettir" |
 | [the-loomless-chamber.md](the-loomless-chamber.md) | Dört liderin buluştuğu yer — ki orası bir *yer* değil |
+| [art-prompts.md](art-prompts.md) | **Görsel prompt'ları** — 23 karakterin her biri için ayrı Midjourney promptu |
+| ⭐ **[field-ops/](field-ops/README.md)** | **Saha Tahtası** — ekipler şu an hangi şehirde, neyi kovalıyor, sıradaki hamle |
 
 ---
 
@@ -334,6 +336,26 @@ Birbirlerini besliyorlar:
 
 Dördü de diğer üçünü **geçici araç** olarak görüyor.
 Aslında araç olan: **dördü de.**
+
+---
+
+## 6.5. Peki şu an neredeler
+
+Yukarısı dördünün **ne olduğunu** anlatır. Hangi ekiplerinin bu hafta hangi
+şehirde olduğu, neyi kovaladığı ve parti müdahale etmezse ne yapacağı ayrı
+tutulur:
+
+> ⭐ **[Saha Tahtası → field-ops/](field-ops/README.md)**
+
+| Orada ne var | |
+|---|---|
+| [Ana tahta](field-ops/README.md#2-ana-tahta--20-uktar-1495-dr-d8) | 20 ekip, kod, konum, durum, sıradaki hamle |
+| [Şehir görünümü](field-ops/README.md#3-şehir-görünümü) | Parti nereye giderse o satır okunur |
+| [Calithra Kavşağı](field-ops/calithra-standoff.md) | **Açılış durumu** — dördü de aynı vadide |
+| [Güncelleme protokolü](field-ops/README.md#5-güncelleme-protokolü) | Oturum sonrası altı adım |
+
+> **[DM ONLY]** Tahtanın tek kuralı: **parti hiçbir şey yapmasa da ekipler
+> hareket eder.** Bir şehre iki oturum sonra dönüldüğünde şehir değişmiş olmalı.
 
 ---
 

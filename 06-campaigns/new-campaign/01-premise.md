@@ -211,7 +211,7 @@ Bu, halk arasında tek bir okuma doğurdu ve o okuma **artık siyaset:**
 
 > **[HOOK]** Parti bu barışın **ilk yılında** dolaşıyor. Her kasabada savaştan
 > dönmüş biri var ve hiçbiri aynı hikâyeyi anlatmıyor.
-> **Fighter için:** *"Hangi tarafta savaştın?"* artık ucuz bir soru değil.
+> **[Roger](../../05-characters/player-characters/new-campaign/roful-roger.md) için:** *"Hangi tarafta savaştın?"* artık ucuz bir soru değil.
 
 > **[AÇIK SORU]** Geriye tek bir soru kaldı: **"Mürai" ne demek?**
 > Bir yer adı mı, bir kişi mi, bir muharebenin adı mı? Haritada "Mürai" yok.
@@ -232,7 +232,7 @@ geçmek için **şifre** *(“Vael'Toruun u thalas—shaen, khar.”)* ve **yetk
 | Ne | Etki |
 |---|---|
 | **Ager ↔ Charaxis ticareti** | Kesintili. Moondust hattı aksıyor → fiyatlar oynuyor |
-| Bir geçiş | Riskli; varış noktası kayabilir → [d6 tablosu](05-world-seeds.md#9-kararsız-portallar) |
+| Bir geçiş | Riskli; varış noktası kayabilir → [d6 tablosu](05-world-seeds.md#9-kararsız-portallar--charaxis-kapıları) |
 | Teleport / Word of Recall | DM takdirinde bir komplikasyon zarı |
 
 > Bu, **coğrafyayı tekrar önemli kılıyor.** Parti yürüyecek. Thornhold geçidi,

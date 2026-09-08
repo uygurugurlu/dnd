@@ -2,10 +2,10 @@
 type: meta
 title: Güney Takımadası
 canon: homebrew
-status: stub
+status: usable
 tags: [archipelago, islands, south]
 source: Dünya haritası (07-maps/ager/world-ager-aeltharys.jpg)
-updated: 2026-08-11
+updated: 2026-08-30
 ---
 
 # Güney Takımadası
@@ -16,9 +16,9 @@ updated: 2026-08-11
 
 | Ada | Not | Dosya |
 |---|---|---|
-| **Anchorrest** | Güneybatı; en büyüklerden biri, limanında gemi var | [→](anchorrest.md) |
-| **Brinefield** | Güneydoğu; uzun ince ada, limanında gemi var | [→](brinefield.md) |
-| **Windfall** | Güney; volkanik tepelerin arasında | [→](windfall.md) |
+| **Anchorrest** | Güneybatı; **kayıtsız liman** — vergi yok, kayıt yok. 6 NPC | [→](anchorrest.md) |
+| **Brinefield** | Güneydoğu; **tuzla adası**, tek işveren tek lonca. 6 NPC | [→](brinefield.md) |
+| **Windfall** | Güney; **volkanik bağ adası**, üç aile üç yamaç. 6 NPC | [→](windfall.md) |
 | İsimsiz adalar | 8+ ada, volkanik ve ormanlık | ⬜ |
 
 > Haritada takımadanın iki yerinde **deniz yılanı** çizili — biri Brinefield'in

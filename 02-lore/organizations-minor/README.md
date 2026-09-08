@@ -17,6 +17,9 @@ Kıtalar arası büyük faksiyonlar için: **`../factions/`**
 |---|---|---|---|
 | <!-- doldur --> | | | |
 
+> **Smith Sarayı** buraya değil, [`../factions/smith-palace.md`](../factions/smith-palace.md)'ye
+> yazıldı — iki kıtaya yayıldığı için aşağıdaki terfi kuralı gereği.
+
 ## Ne buraya girer
 
 - Bir şehre/bölgeye özgü lonca ya da çete

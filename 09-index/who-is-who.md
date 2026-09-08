@@ -3,10 +3,13 @@ type: meta
 title: Kim Kimdir
 canon: mixed
 status: usable
-updated: 2026-08-10
+updated: 2026-08-30
 ---
 
 # Kim Kimdir
+
+> 👥 **Sivil NPC arıyorsan burası değil:** hancılar, esnaf, muhtarlar, guard'lar ve
+> **anında NPC üreteci** → [townsfolk.md](townsfolk.md). Bu dosya kampanya kadrosu.
 
 > **Kadrolar kampanyaya göre ayrılmıştır.** Bir NPC'nin hangi kampanyaya ait
 > olduğu önemlidir — [06-campaigns/README.md](../06-campaigns/README.md#ayrım-kuralı)
@@ -18,6 +21,7 @@ updated: 2026-08-10
 | [Zariel](../05-characters/npcs/major/zariel/README.md) | Archduchess of Avernus; düşmüş solar | CotBC (+ evrensel lore) | **→** |
 | [Bel](../05-characters/npcs/major/bel/README.md) | Avernus'un eski lordu; 3. Lejyon recruitment ağı | CotBC | **→** |
 | [Marcus Hale](../05-characters/npcs/major/marcus-hale/README.md) | Lvl 8 Paladin (Vengeance), Ilmater; max'ın hocası | CotBC | **→** |
+| [Halden Rooke](../05-characters/npcs/major/halden-rooke/README.md) | "the Hand" — Level Hand lideri; gizli Unwoven sorcerer, CR 10 | New Campaign | **→** |
 
 ---
 
@@ -70,8 +74,15 @@ Simone Dumble · Milon Blackmane
 
 ## Parti
 
-Undead Paladin · Moon Druid · Bladesinger Wizard · Fighter
-→ [04-party.md](../06-campaigns/new-campaign/04-party.md) *(isimler girilmedi)*
+| Oyuncu | Karakter | Sınıf | Dosya |
+|---|---|---|---|
+| **Ardan** | **Gwyndor** | Paladin — **undead** | [→](../05-characters/player-characters/new-campaign/gwyndor.md) |
+| **Koray** | **Grimnor** | Druid — Circle of the Moon *(orc)* | [→](../05-characters/player-characters/new-campaign/grimnor/README.md) |
+| **Erdem** | **Vasili von Holtz** | Wizard — Bladesinger | [→](../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md) |
+| **Burak** | **Roful Roger** | Monk | [→](../05-characters/player-characters/new-campaign/roful-roger.md) |
+
+📁 [Parti dosyaları](../05-characters/player-characters/new-campaign/README.md) ·
+[04-party.md](../06-campaigns/new-campaign/04-party.md) *(dünyayla bağları)*
 
 ## Kadro
 
@@ -88,13 +99,63 @@ Unwoven'ın seçtiği dört lider →
 
 | Kim | Tür | Ne | Dosya |
 |---|---|---|---|
-| **Halden Rooke** | Human, 44 | *"the Hand"* — [Level Hand](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-level-hand.md) lideri; büyü ayrıcalığına karşı devrim yapan **gizli sorcerer** | **→** |
+| [**Halden Rooke**](../05-characters/npcs/major/halden-rooke/README.md) | Human, 44 | *"the Hand"* — [Level Hand](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-level-hand.md) lideri; büyü ayrıcalığına karşı devrim yapan **gizli sorcerer**. **CR 10** | ✅ tam dosya |
 | **Ysolde Marr** | Elf, 341 | Silvaerun'un eski yüksek rahibesi; [First Communion](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)'ın *"Mouth of the First Voice"*u | **→** |
 | **Vane** | Tiefling, 38 | *"the Footless"* — [Unfettered Wind](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-unfettered-wind.md); yere on bir yıldır değmedi | **→** |
 | **Marshal Vharra Stane** | Dwarf, 137 | [Iron Concord](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md)'un kurucusu; Mürai savaşının mühendis-komutanı | **→** |
 
-**Lieutenant'lar (⬜):** Perra Voight · Tem "Kâğıt" Ossary · Ilrien · Nerath ·
-Corr · Ashka · Emrys Tal · Aleth Brann · Torvi Sedd
+### Faksiyon kadroları — statsheet'li NPC'ler
+
+> 📁 **Her faksiyonun kendi klasörü var.** Kadro tablosu, sahne dizilimi ve
+> iç çatlaklar o klasörün README'sinde:
+> [the-level-hand/](../05-characters/npcs/minor/the-level-hand/README.md) ·
+> [the-iron-concord/](../05-characters/npcs/minor/the-iron-concord/README.md) ·
+> [the-first-communion/](../05-characters/npcs/minor/the-first-communion/README.md) ·
+> [the-unfettered-wind/](../05-characters/npcs/minor/the-unfettered-wind/README.md)
+
+**[The Level Hand](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-level-hand.md)** — insanlar, drowlar, halflingler
+
+| Kim | Tür | Rol | CR |
+|---|---|---|---|
+| [Halden Rooke](../05-characters/npcs/major/halden-rooke/README.md) | Human | *"the Hand"* — lider, gizli sorcerer | **10** |
+| [Nyrra Delsaeth](../05-characters/npcs/minor/the-level-hand/nyrra-delsaeth.md) | Drow | *"the Voice"* — Rooke'un sevgilisi; Unmaking'lerde konuşan | 5 |
+| [Selvarr Dhune](../05-characters/npcs/minor/the-level-hand/selvarr-dhune.md) | Drow | *"the Ninth Glove"* — silahlı çekirdeğin komutanı | 7 |
+| [Perra Voight](../05-characters/npcs/minor/the-level-hand/perra-voight.md) | Human | Ölçüm Kurulları'nın başı; eski şebeke müdür yrd. | 4 |
+| [Tem "Kâğıt" Ossary](../05-characters/npcs/minor/the-level-hand/tem-ossary.md) | Halfling | Sokak örgütleyicisi; hareketin masum yüzü | 1 |
+
+**[The Iron Concord](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md)** — gaziler, asker, mühendis; büyü değil **strateji**
+
+| Kim | Tür | Rol | CR |
+|---|---|---|---|
+| [Vashka Durn](../05-characters/npcs/minor/the-iron-concord/vashka-durn.md) | Orc | Paladin of Helm; *"Warden of the Fortyday"* | **9** |
+| [Torvi Sedd](../05-characters/npcs/minor/the-iron-concord/torvi-sedd.md) | Dwarf | Baş Mühendis; Concord Towers + construct'lar | 8 |
+| [Rhoswen Marek](../05-characters/npcs/minor/the-iron-concord/rhoswen-marek.md) | Human | Yüzbaşı, taktik subayı; zemini o seçer | 7 |
+| [Gruvv Ashani](../05-characters/npcs/minor/the-iron-concord/gruvv-ashani.md) | Orc | Çavuş; kalkan duvarı | 6 |
+| [Aleth Brann](../05-characters/npcs/minor/the-iron-concord/aleth-brann.md) | Human | Komiser; **the Ledger**'ın başı | 4 |
+| [Concord Ironclad](../02-lore/bestiary/concord-ironclad.md) | Construct | Hammerfall yapımı savaş makinesi | 4 |
+
+**[The First Communion](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)** — druidler; elfler, dragonbornlar, tieflingler
+
+| Kim | Tür | Rol | CR |
+|---|---|---|---|
+| [Nerath](../05-characters/npcs/minor/the-first-communion/nerath.md) | Elf | İkizlerden konuşanı; Grafting'i **silah** sayıyor | 8 |
+| [Thava Vessek](../05-characters/npcs/minor/the-first-communion/thava-vessek.md) | Dragonborn | Bağlayanlar'ın başı; **Grafting'i o icat etti** | 7 |
+| [Mirel Ashvane](../05-characters/npcs/minor/the-first-communion/mirel-ashvane.md) | Tiefling | Circle of the Moon; grafted bölgelerin çeperi | 7 |
+| [Ilrien](../05-characters/npcs/minor/the-first-communion/ilrien.md) | Elf | İkizlerden sessiz olanı; Geçenler'in başı — **casus** | 5 |
+| [Corvane Sull](../05-characters/npcs/minor/the-first-communion/corvane-sull.md) | Tiefling | Dinleyici; ince yerleri bulan gözcü | 4 |
+
+**[The Unfettered Wind](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-unfettered-wind.md)** — anarşist hücreler; her biri farklı bir iş yapıyor
+
+| Kim | Tür | Rol | CR |
+|---|---|---|---|
+| [Ashka](../05-characters/npcs/minor/the-unfettered-wind/ashka.md) | Goliath | Gedik açıcı; **Iron Concord firarisi** | 8 |
+| [Corr](../05-characters/npcs/minor/the-unfettered-wind/corr.md) | Human | Nişancı; Barutdere çıkışlı, faction'ın tek profesyoneli | 7 |
+| [Kesh Duva](../05-characters/npcs/minor/the-unfettered-wind/kesh-duva.md) | Half-orc | Hücre lideri; Lirion'un alt katmanı | 6 |
+| [Serane Ardo](../05-characters/npcs/minor/the-unfettered-wind/serane-ardo.md) | Aasimar | İlancı / müzakereci; konsey kaçağı | 5 |
+| [Emrys Tal](../05-characters/npcs/minor/the-unfettered-wind/emrys-tal.md) | Gnome | Sahteci, kilit, kimlik; eski lonca kâtibi | 4 |
+
+**Hâlâ ⬜:** Marshal Vharra Stane *(statblock)* · Ysolde Marr *(statblock)* ·
+Vane *(statblock)* · Level Hand ↔ Concord irtibatı *(kasten isimsiz)*
 
 Yazılacaklar: [02-cast.md](../06-campaigns/new-campaign/02-cast.md)
 
@@ -139,6 +200,25 @@ Hepsi tek dosyada: [qereth/people.md](../03-ager/continents/karsovia/cities/qere
 
 ⚠️ = DM-only bilgi → [05-secrets-dm-only.md](../03-ager/continents/karsovia/cities/qereth/05-secrets-dm-only.md)
 
+## 🌔 Charaxis kadrosu
+
+Hepsi tam statsheet + `## CR Doğrulaması`.
+Dünya: [04-charaxis/](../04-charaxis/README.md) · Hat: [regions/](../04-charaxis/regions/README.md)
+
+| Kim | Tür | Rol | CR | Dosya |
+|---|---|---|---|---|
+| **Kapitan Vidrek Solyan** | İnsan (Karsovyalı), 38 | [Soğuk İmtiyaz](../04-charaxis/factions.md#soğuk-i̇mtiyaz--the-cold-concession) komiseri; Stillreach. ⚠️ Karsovia'ya **kendi kapısını** arıyor | **7** | [→](../05-characters/npcs/minor/vidrek-solyan.md) |
+| **Isthaen** | Elf, 312 | [Sıfır Taşı'nın](../04-charaxis/regions/vael-serith.md#sıfır-taşı) bekçisi. ⚠️ **Vuruşun kaydığının kanıtı onda** | **6** | [→](../05-characters/npcs/minor/isthaen-of-the-zero-stone.md) |
+| **Ansel Corr** | İnsan (Ravonyalı), 41 | Widowsilver ustabaşı; Mürai savaşı gazisi, dağıtılmış ordudan | **6** | [→](../05-characters/npcs/minor/ansel-corr.md) |
+| **Murag Ghesk** | Ork, 44 | [Gharuk](../04-charaxis/factions.md#gharuk-kumpanyası) kâtibi, Ashkar Reach Kapı masası. ⚠️ **İki defter** | **5** | [→](../05-characters/npcs/minor/murag-ghesk.md) |
+| **Miren Talvo** | İnsan, 34 | Eski Selûne cleric'i; Grey Seam'de rüya okuyor. ⚠️ **Silüetle iki kez konuştu** | **5** | [→](../05-characters/npcs/minor/miren-talvo.md) |
+| **Dwig Hollowear** | Deep gnome, 96 | Usta [Dinleyici](../04-charaxis/regions/nen-kharal.md#dinleyiciler), Nen-Kharal | **4** | [→](../05-characters/npcs/minor/dwig-hollowear.md) |
+
+**Yaratık:** [the Tallyman / Sayman](../02-lore/bestiary/the-tallyman.md) — CR 6,
+maden ağızlarında vardiyayı sayar.
+
+⚠️ = DM-only bilgi, dosyanın içinde
+
 ## 🕯️ Mordavia Keep — ev halkı (hepsi ölü)
 
 Hepsi tek dosyada: [mordavia-keep/the-household.md](../03-ager/continents/karsovia/sites/mordavia-keep/the-household.md) ·
@@ -181,10 +261,11 @@ Tam liste: [`02-lore/pantheon/`](../02-lore/pantheon/README.md)
 | [Ilmater](../02-lore/pantheon/faerunian/ilmater.md) | Marcus Hale'in tanrısı |
 | [Lathander](../02-lore/pantheon/faerunian/lathander.md) | Ravonia'nın en güçlü dini; Zariel'in eski efendisi |
 | **Deneir** | Quill 4'ün tanrısı (oneshot) |
+| 🔒 **[Malar](../02-lore/pantheon/faerunian/malar.md)** | **New Campaign** — [Grimnor](../05-characters/player-characters/new-campaign/grimnor/README.md)'ın ailesini öldüren avı kurdu. 1494'te hattı koptu; **kapıda bekliyor** |
 
 **Faerûnian:** Mystra · Shar · Selûne · Lathander · Kelemvor · Bane · Tempus · Tyr ·
 Torm · Ilmater · Helm · Chauntea · Silvanus · Talos · Oghma · Sune · Cyric · Tymora ·
-Umberlee · Mielikki · Waukeen · Gond · Malar · Loviatar · Auril · Talona · Myrkul ·
+Umberlee · Mielikki · Waukeen · Gond · [Malar](../02-lore/pantheon/faerunian/malar.md) · Loviatar · Auril · Talona · Myrkul ·
 Bhaal · Mask · Azuth · Beshaba · Deneir · Eldath · Savras · Leira · Tiamat · Bahamut · Asmodeus
 
 **Irksal:** Moradin · Corellon · Lolth · Yondalla · Garl Glittergold · Gruumsh · Maglubiyet

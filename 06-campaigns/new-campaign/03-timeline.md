@@ -36,7 +36,11 @@ updated: 2026-08-11
 | **1495** | Dağıtılan Ravonia ordusundan **[The Iron Concord](factions-in-play/the-four-answers/the-iron-concord.md)** doğuyor |
 | **1495, son aylar** | **Black Still vahasındaki silüet** rüyalarda görülmeye başladı; sonra **iletişim kurmaya** başladı. |
 | **1495** | Ataman Ghorag'ın reformları hızlandı |
-| **1495** | ★ **Kampanya başlıyor** — barış **aylık**, yaralar açık |
+| **1495, Marpenoth sonu** | [Level Hand](factions-in-play/the-four-answers/the-level-hand.md)'in Kâğıt Kolu **Calithra**'ya girer, on bir duvara afiş asar ve gider → [afiş kodu](factions-in-play/the-four-answers/field-ops/calithra-standoff.md#4-afişler) |
+| **12 Uktar 1495** | ⭐ **İkinci Dikiş açılır.** Calithra'nın kuzeyinde, Kırıkbağ'da bir [First Communion](factions-in-play/the-four-answers/the-first-communion.md) ekibi **Feywild ile Shadowfell'i birbirine bağlar** |
+| **17 Uktar 1495** | [Iron Concord](factions-in-play/the-four-answers/the-iron-concord.md)'un Sekizinci Kolu Kırıkbağ'a kordon kurar |
+| **19 Uktar 1495** | Concord, [Standing Stone](../../03-ager/continents/ravonia/regions/calithra/standing-stone.md) düzlüğünde **kayıt masasını** açar — kimsenin kaydedilmediği şehirde |
+| **20 Uktar 1495** | ★ **Kampanya başlıyor** — barış **aylık**, yaralar açık. Dört faction aynı vadide → [Calithra Kavşağı](factions-in-play/the-four-answers/field-ops/calithra-standoff.md) |
 
 ### Zincir
 

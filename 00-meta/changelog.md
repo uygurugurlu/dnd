@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Değişiklik Kaydı
-updated: 2026-08-17
+updated: 2026-09-07
 ---
 
 # Değişiklik Kaydı
@@ -10,6 +10,314 @@ Evrende ne zaman ne değişti. Her önemli ekleme/karar buraya bir satır.
 Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
+
+- **2026-09-07** — 🌔 **Charaxis yazıldı.** İkiz dünya bir stub olmaktan çıkıp
+  masada oynanabilir bir bölgeye dönüştü. `04-charaxis/` altında 25 yeni/dolmuş dosya.
+  - **Hat kuruldu:** yerleşimler, madenler ve portallar **tek bir çizgi** üzerinde.
+    Ölçü birimi **taş** (1 mil), sıfır noktası Vael'Serith'teki **Sıfır Taşı**;
+    yukarı **Kül-##** (sıcak), aşağı **Don-##** (soğuk). Yerleşik hat 185 taş;
+    ekvatorun geri kalanı **Boş Hat** → [regions/README.md](../04-charaxis/regions/README.md)
+  - **Gün yok, vuruş var.** Güneş ufka çivili; Ager gökte asılı ("Göz").
+    Zamanı [Meridyen Yolu'nun](../04-charaxis/regions/meridian-road.md) titreşimi
+    tutuyor — ve **1494'ten beri kayıyor.** Bu, portalların kararsızlaşmasının
+    da açıklaması hâline geldi
+  - **Beş yerleşim:** Ashkar Reach · Brakk-Dur Omurga · Vael'Serith · **Nen-Kharal**
+    *(yeni — deep gnome)* · Stillreach
+  - **Dokuz maden**, hepsi adlı ve yerleşimli → [mines/](../04-charaxis/mines/README.md)
+  - **Madencilik mekaniği:** denge yükü, kol/vardiya, rün çivisi, **pul** (şirket
+    parası) ve borç sistemi; cep patlaması d10 tablosu → [mining/](../04-charaxis/mining/README.md)
+  - **Tuhaflıklar:** dokuz **Kural** (handout), entitiyler, **Mavi Saat**,
+    d20 rüya · d20 yol · d12 galeri tabloları, ham büyü masa kuralı
+    → [phenomena/](../04-charaxis/phenomena/README.md)
+  - ✅ **Portal ağının açık sorusu cevaplandı:** altı kapının Charaxis ucu.
+    Ravonia'nın üçü hattın **zengin (Kül)** yarısına, Karsovia'nın üçü **fakir (Don)**
+    yarısına iniyor — savaşı kazanan taraf gezegenin fakir yarısını aldı
+    → [planar-sites/](../04-charaxis/planar-sites/README.md)
+  - **Altı güç:** Gharuk Kumpanyası · Örs Beratı · **Soğuk İmtiyaz** (Karsovia tacı,
+    işgücü %70 dağıtılmış Ravonia ordusu) · Nöbet · Saatçiler · Dinleyiciler
+    → [factions.md](../04-charaxis/factions.md)
+  - **6 NPC + 1 yaratık**, hepsi 2024 formatı ve `## CR Doğrulaması` ile:
+    Vidrek Solyan (7) · Isthaen (6) · Ansel Corr (6) · Murag Ghesk (5) ·
+    Miren Talvo (5) · Dwig Hollowear (4) · **the Tallyman** (yaratık, 6).
+    Homebrew sihirli eşya yok; Solyan'da *+1 Rapier* ve *Cloak of Protection*,
+    Murag'da *Ring of Mind Shielding* — hepsi SRD 5.2
+  - **Kampanyaya bağlandı:** moondust ↔ rüyalar ↔
+    [vahadaki silüet](../06-campaigns/new-campaign/01-premise.md#4-charaxis-tarafı--vaha) ↔
+    [The Unwoven](../02-lore/magic/the-unwoven.md); Mürai savaşının gazileri
+    Widowsilver'da; barışın fitili Don yarısında
+  - Güncellenen indeksler: `09-index/gazetteer.md` · `who-is-who.md` · `glossary.md` ·
+    `02-lore/bestiary/README.md` · `05-characters/npcs/minor/README.md` ·
+    `03-ager/planar-sites/portal-network.md` · `00-meta/open-questions.md`
+
+- **2026-09-07** — 🎨 **Dört Cevap kadrosu için görsel prompt seti.**
+  [art-prompts.md](../06-campaigns/new-campaign/factions-in-play/the-four-answers/art-prompts.md)
+  — dört liderin ve on dokuz leftenantın **her biri için ayrı** Midjourney promptu.
+  - Her prompt ilgili statsheet'in *Görünüş* / *Gear* / *Akılda kalıcı detay*
+    alanlarından türetildi; görsel karar AI'a bırakılmadı.
+  - Faction başına sabit palet + ışık, kadro yan yana konunca seri gibi dursun diye.
+  - 🔁 **Aynı gün baştan yazıldı.** İlk sürüm karikatür çıktı; sebep araştırıldı:
+    `--v 7` (V8.2 varsayılanken), stil cümlesinin prompt **sonunda** olması,
+    `--stylize 200` ve `--no` listesinde *cartoon* bulunmaması.
+    Yeni sürüm **medium-first** formüle geçti; sürüm parametresi hiç yazılmıyor.
+  - **Stil A** (sinematik grimdark) / **Stil B** (yağlıboya concept art) — tek
+    satır değiştirerek geçiş. 23 prompt ortak gövdeyi paylaşıyor.
+  - Grup sahneleri **kare başına üç kişi** ile sekiz panele bölündü
+    *(çekirdek / saha)*; MJ dört yüzden fazlasını tutamıyor.
+  - Lore değişmedi; yalnızca yeni dosya + `the-four-answers/README.md` tablo satırı.
+
+- **2026-08-31** — ✅ **[Gwyndor](../05-characters/player-characters/new-campaign/gwyndor.md)
+  bir undead — doğrulandı.** DM onayı; karakterin kendi hikâye metninde de belirtiliyor.
+  - Kampanyanın bu slot için baştan yaptığı **"undead paladin"** tasarımı aynen geçerli:
+    [04-party.md](../06-campaigns/new-campaign/04-party.md#undead-paladin--susan-tanrıya-yemin-etmiş-bir-ceset)'deki
+    üç soru *(yemin ölümden önce mi sonra mı · Kelemvor onu neden almadı · yemin
+    çalışıyorsa gücü kimden geliyor)* artık **Gwyndor'ın** soruları.
+  - ⚠️ **Bir boşluk bulundu:** *"undead paladin şehre girince otomatik söylenti kartı"*
+    kuralı 04-party.md'de **tasarım notu** olarak duruyor ama
+    [rumor-system.md](../08-rules/house-rules/rumor-system.md)'de **yazılı değil.**
+    → [open-questions.md](open-questions.md)
+  - **Hâlâ açık:** hangi tür undead (reborn / revenant / başka).
+  - **"Roful Roger" tam ad olarak doğrulandı** — masada *Roger*.
+  - 📄 **Ham not koruması genişletildi:** [00-raw-notes.md](../05-characters/player-characters/new-campaign/00-raw-notes.md)'ye
+    **Ardan ve Burak bölümleri** açıldı; DM'den gelen satırlar birebir kaydedildi.
+    İki karakterin **hikâye metinleri henüz repoda değil** ve bu dosyada
+    açıkça işaretlendi — geldiklerinde özetlenmeden, düzeltilmeden oraya yazılacaklar.
+  - Güncellenen: `gwyndor.md` · `00-raw-notes.md` · `04-party.md` ·
+    `new-campaign/README.md` *(frontmatter dâhil)* · `who-is-who.md` ·
+    `05-characters/README.md` · iki PC README'si · `open-questions.md`
+
+- **2026-08-30** — 👥 **PARTİ TAMAMLANDI (4/4) + Fighter slotu Monk oldu.**
+  - **[Gwyndor](../05-characters/player-characters/new-campaign/gwyndor.md)** *(Ardan)* — **Paladin.**
+    Kampanya bu slotu *undead* olarak tasarlamıştı; ⬜ doğrulanmayı bekliyor
+    çünkü **üç sistem** buna bağlı ([04-party.md](../06-campaigns/new-campaign/04-party.md) ·
+    [rumor-system](../08-rules/house-rules/rumor-system.md) · [crit-and-fumble](../08-rules/house-rules/crit-and-fumble.md)).
+  - **[Roful Roger](../05-characters/player-characters/new-campaign/roful-roger.md)** *(Burak)* — **Monk.**
+    ⚠️ **Fighter slotu kaldırıldı.** Etkilenen her yer güncellendi:
+    `04-party.md` (premise bağı yeniden yazıldı) · `crit-and-fumble.md`
+    (**Fighter tablosu → Monk tablosu**, 2024 terimleriyle: Focus Point,
+    Martial Arts die, Deflect Attacks, Stunning Strike) · `01-premise.md` ve
+    `the-unfettered-wind.md`'deki *"Fighter için"* hook'ları Roger'a bağlandı.
+  - ⭐ **Monk premise'e yeni bir bağ getirdi:** partide **gücünü kimseden ödünç
+    almamış tek kişi.** Gwyndor'ınki susan bir tanrıdan, Grimnor'ınki bir av
+    tanrısının deneyinden, Vasili'ninki geri alınmış — Roger'ınki **kendisinin.**
+  - ⭐⭐ **Ve bedava bir gerilim çıktı:** [Vasili'yi](../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)
+    yenip Tatyana'yı elinden alan kişi günlüğünde **"kel keşiş"** diye geçiyor.
+    Partiye bir **monk** girdi. Vasili keşişlerden nefret ediyor ve sebebini
+    kimseye söyleyemiyor. **Tesadüf olarak bırakılması önerildi** — bir PC
+    diğerinin arka planı olmamalı.
+  - İki dosya **tek dosya olarak** açıldı ([CLAUDE.md §4](../CLAUDE.md) ölçek terfisi):
+    içerik dolunca `gwyndor/` ve `roful-roger/` klasörlerine terfi edecekler.
+  - Güncellenen index'ler: `who-is-who.md` · `05-characters/README.md` ·
+    `player-characters/README.md` · `player-characters/new-campaign/README.md` ·
+    `new-campaign/README.md` *(frontmatter `players:` dâhil)*
+
+- **2026-08-30** — 🐺 **KARAR: Grimnor'ın geçmişindeki "oyun"u [Malar](../02-lore/pantheon/faerunian/malar.md) kurdu.**
+  - **Yeni dosya:** [02-lore/pantheon/faerunian/malar.md](../02-lore/pantheon/faerunian/malar.md) —
+    *the Beastlord*, **Chaotic Evil**, av/pusu/kan hırsı tanrısı, *Deities of Fury*.
+    FR canon ve Ager homebrew'u dosyada **ayrı bölümlerde** tutuldu; `sources:` dolduruldu.
+    - **Kanonik dayanak:** People of the Black Blood'ın avlanma biçimi —
+      *"kurbanı insan hâlindeyken kaçırır, ıssız bir bölgeye salıverir ve sürüyle peşine düşerler."*
+      Malar'ın Ager denemesi bunu bir adım öteye taşıdı: **av ile sürüyü aynı köye koydu**
+      ve herkese bir **hayvan** verdi.
+  - **Deney 1494'te bitti:** kuyruklu yıldızlar tanrıların ölümlü düzlemle hattını kesti;
+    Malar **bu düzlemden değil**, avını yönetemez oldu. Grimnor'ın
+    *"keşke biraz daha erken gelseymiş"* cümlesi artık **birebir doğru.**
+  - ⭐ **Kampanya ölçeğinde tersine çevirme:** sessizlik Malar'ı **dışarıda tutuyor.**
+    Parti tanrılarla iletişimi onarırsa **avı da geri açar** — ve masada buna
+    *"hayır"* diyecek bir PC var. → [06-clocks.md, Saat 1](../06-campaigns/new-campaign/06-clocks.md)
+  - **Grimnor'ın iki düşmanı oldu:** avı kuran tanrı **ve** durdurmayan iyi tanrılar —
+    Chauntea, [Helm](../02-lore/pantheon/faerunian/helm.md), Mielikki, Silvanus, Nobanion ve
+    **[Selûne](../02-lore/pantheon/faerunian/selune.md)**. Hepsi ya Malar'ın kanonik düşmanı
+    ya da o gecenin görev tanımı.
+    - **Selûne artık bir hâmi değil, bir tanık:** Grimnor sembolünü taşıyor ama **dua etmiyor.**
+      Druid olduğu için gücü bundan etkilenmiyor — [CLAUDE.md §5.5/5](../CLAUDE.md) maddesi
+      böylece en sert biçimde karşılandı.
+  - **[Mother Ulkryssa](../05-characters/npcs/minor/mother-ulkryssa.md) tasarımcılıktan
+    çıkarıldı** — artık avın **leşçisi ve tek tanığı**; Grimnor'a ismi **satabilecek** kişi.
+  - Güncellenen: `grimnor/*` (5 dosya) · `selune.md` · `pantheon/README.md` ·
+    `faerunian/README.md` · `02-cast.md` · `06-clocks.md` · `who-is-who.md` ·
+    `player-characters/new-campaign/README.md` · `open-questions.md`
+
+- **2026-08-30** — 👤 **OYUNCU KARAKTERİ SİSTEMİ KURULDU + iki PC yazıldı.**
+  - **Yeni yapı:** `05-characters/player-characters/<kampanya>/<karakter>/` —
+    her PC'de beş dosya: kimlik (`README`), geçmiş (`01`), dünya bağları (`02`),
+    ⭐ **gelişim günlüğü** (`03`) ve 🔒 DM notları (`04`).
+    Kapak: [player-characters/README.md](../05-characters/player-characters/README.md)
+  - **İki yeni şablon:** [player-character.md](templates/player-character.md) ve
+    [pc-development.md](templates/pc-development.md). **PC'lere statblock yazılmaz** —
+    sheet oyuncunundur; statblock kuralı NPC/yaratık içindir.
+  - **[Grimnor](../05-characters/player-characters/new-campaign/grimnor/README.md)** *(Koray)* —
+    ork, **Circle of the Moon**, [Gorestead](../03-ager/continents/ravonia/villages/gorestead.md)'li,
+    [Selûne](../02-lore/pantheon/faerunian/selune.md), [Emerald Enclave](../02-lore/factions/emerald-enclave.md).
+    Güçleri, ailesini kaybettiği bir **oyundan** sonra geldi; amacı o oyunu kuranı bulmak.
+    - 🔒 **Repodaki iki bağ çıktı:** [Mother Ulkryssa](../05-characters/npcs/minor/mother-ulkryssa.md)'nın
+      hizmetkârları **rolleri olan hayvanlar** (Paper Wolves, sadece izleyen geyik) ve ormanı
+      **Gorestead'in tam kuzeyi** — dosyasındaki *"laneti oraya da uğradı mı"* hook'unun cevabı olabilir.
+      [The Unwoven](../02-lore/magic/the-unwoven.md)'ın *tanıma* şekli de Grimnor'ın anına birebir uyuyor.
+  - **[Vasili von Holtz](../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** *(Erdem)* —
+    **Bladesinger wizard**; bütün gücü geri alınmış, **ölümlü** bir eski Darklord.
+    Oyuncunun yazdığı [Ölümlünün Günlüğü](../05-characters/player-characters/new-campaign/vasili-von-holtz/handout-journal.md)
+    aynen korundu.
+    - ⭐ **Tarokka destesi 1494'ten beri gelecek söylemiyor ama konuşuyor** —
+      *gücü duruyor, iletişimi kesilmiş.* Kampanyanın tezinin bir PC'nin cebindeki hâli.
+  - **Ham oyuncu notları** değiştirilmeden saklandı:
+    [00-raw-notes.md](../05-characters/player-characters/new-campaign/00-raw-notes.md)
+  - **Karar:** ham nottaki *"Stormhold kalesi"* = **[Thornhold](../03-ager/continents/ravonia/sites/thornhold-kalesi.md)**.
+  - Güncellenen dosyalar: `04-party.md` · `new-campaign/README.md` · `who-is-who.md` ·
+    `05-characters/README.md` · `templates/README.md` · `gorestead.md` · `open-questions.md`
+
+- **2026-08-30** — 🏘️ **DÜNYA YAŞANIR HÂLE GETİRİLDİ: 26 yerleşim dolduruldu,
+  181 sivil NPC, bir yeni lonca ve bir NPC üreteci.**
+  - **⚒️ [Smith Sarayı](../02-lore/factions/smith-palace.md)** *(yeni faksiyon)* —
+    Ager'de **bağımsız demirci yok**; her demirhane tek loncaya kayıtlı bir **"Ocak"**
+    ve numarası var. Başında hayatında çekiç tutmamış bir adam:
+    **Grandmaster Berent Oskal.** Tekelin dayanağı cevher sözleşmeleri
+    ([Hammerfall](../03-ager/continents/ravonia/regions/hammerfall/README.md) +
+    Urkhal), savaş yıllarında tek tek satın alınan borçlar.
+    - **Adın kökeni [Wheatrest](../03-ager/continents/ravonia/villages/wheatrest.md)'ten geldi:**
+      köyün damı akan demirhanesine zaten alay olsun diye *"Smith Sarayı"* deniyordu.
+      Mevcut lore ezilmedi, loncanın adı ona **bağlandı**.
+    - İki kıtaya yayıldığı için `organizations-minor/` yerine `factions/` altına yazıldı
+      (o dizinin kendi terfi kuralı).
+  - **👥 [09-index/townsfolk.md](../09-index/townsfolk.md)** *(yeni)* — masa aracı:
+    **d20 ad · d20 iş · d12 istek · d12 detay** + tavır ve *"ne duymuş"* tabloları.
+    *Ne duymuş* tablosunun on satırı dört faksiyona ve susan tanrılara bağlı —
+    yoldan çevrilen rastgele bir köylü kampanya bilgisi verebiliyor.
+    Ayrıca bütün yerleşimlerin sivil NPC indeksi burada.
+  - **🏘️ 26 stub yerleşim `stub` → `usable`:** nüfus, yönetim, 3–5 cümlelik atmosfer,
+    önemli yerler ve **`## NPC'ler` tablosu** dolduruldu.
+    - *Karsovia:* Karsovia şehri, Halden · Softsoil, Breslau, Ruthen, Valden, Zarkhul,
+      Grak'Tor, Frostmaw, Marshfall, Dunfen, Karsfen · Northwatch, Surfwale, Tidewatch
+    - *Ravonia:* Caélora, Tharn'Kel · Redburrow, Ragethorn, Gorestead, Grak Hollow ·
+      Northcurrent, Stone Raven
+    - *Güney Takımadası:* Anchorrest *(kayıtsız liman)*, Brinefield *(tuzla)*,
+      Windfall *(volkanik bağ adası)*
+    - **Zarkhul'un mevcut Mordavia içeriği korundu**, üstüne yazılmadı.
+  - **Yeni `people.md`:** [Ravonia metropolü](../03-ager/continents/ravonia/cities/ravonia/people.md)
+    — üç kanat, 12 sivil + *"sokakta rastgele biri"* d6 tablosu.
+  - **`## Halk` eklendi:** [Wheatrest](../03-ager/continents/ravonia/villages/wheatrest.md)
+    *(mevcut aileler ve Elira Fenwill korunarak)* ve
+    [Nethryn](../03-ager/continents/ravonia/villages/nethryn/README.md)
+    *(lanet tonuna uygun: beş kişi, Lanet Seviyesi düştükçe açılıyorlar)*.
+  - **Statblock kuralı — sivil NPC'ler:** CLAUDE.md §5.5 gereği statblock'suz NPC
+    bırakılmadı; ama hancıya özel statblock yazmak yerine **resmî SRD referansı**
+    atandı (Commoner / Guard / Guard Captain / Noble / Priest / Acolyte / Scout /
+    Spy / Veteran / Thug). Homebrew statblock ve CR doğrulaması **yok** — ortada
+    yeni mekanik yok. Kural [townsfolk.md](../09-index/townsfolk.md#statblock-kuralı--sivil-npcler)'de yazılı.
+  - Her yerleşimde **en az bir hancı, bir Ocak numaralı demirci ve bir muhtar/çavuş**
+    var; parti nereye giderse gitsin bu üçü hazır.
+  - **Kapsam dışı:** [Mournwood](../03-ager/continents/ravonia/regions/mournwood.md) ve
+    [Eirathalas](../03-ager/continents/ravonia/regions/eirathalas.md) hâlâ `stub` —
+    ikisi de yerleşim değil, **nüfussuz bölge**; sivil kadro anlamsız olurdu.
+
+- **2026-08-30** — 🗺️ **Saha Tahtası açıldı: Dört Cevap'ın ekipleri artık takip ediliyor.**
+  Faksiyon dosyaları *ne olduklarını* anlatıyordu; **şu an ne yaptıkları** tutulmuyordu.
+  (`06-campaigns/new-campaign/factions-in-play/the-four-answers/field-ops/`)
+  - **20 ekip**, sabit kodlarla (`FC-` · `IC-` · `LH-` · `UW-`). Her ekipte: başındaki
+    NPC, kadro, **şu anki şehir**, neden orada, **neyi kovaladığı**, sıradaki hamle,
+    tetikleyicileri ve partinin gördüğü iz.
+  - Ana tahta + **şehir görünümü** (parti nereye giderse o satır okunur) + mesafe
+    tablosu + **güncelleme protokolü** (oturum sonrası altı adım) + hareket defteri.
+  - ⭐ **Açılış durumu yazıldı: [Calithra Kavşağı](../06-campaigns/new-campaign/factions-in-play/the-four-answers/field-ops/calithra-standoff.md).**
+    Calithra'nın kuzeyinde **İkinci Dikiş** — First Communion Feywild ile Shadowfell'i
+    birbirine bağladı (sebep: Marr'ın dokuz gününü tekrarlamak). Iron Concord kordon
+    kurdu **ve Standing Stone düzlüğüne kayıt masası açtı**; Level Hand'in üç hafta
+    önce astığı **el afişleri bir posta kutusu çıktı**; Unfettered Wind kayıt memurunun
+    adını çivilemeye geliyor. **Dört faksiyon, bir vadi, sekiz gün.**
+  - Kampanya tarihi netleşti: **20 Uktar 1495 DR** (dikiş 12 Uktar'da açıldı).
+  - Yeni NPC yaratılmadı — bütün ekipler mevcut kadroyu kullanıyor (CLAUDE.md §5.5).
+  - Güncellenen dosyalar: `the-four-answers/README.md` (§6.5 + klasör tablosu),
+    `factions-in-play/README.md`, `06-clocks.md`, `03-timeline.md` (Uktar 1495 satırları),
+    `arcs/README.md`, `03-ager/.../calithra/README.md`, `open-questions.md`.
+
+- **2026-08-30** — 📁 **Dört Cevap NPC'leri faksiyon klasörlerine ayrıldı.**
+  19 dosya tek bir `minor/` dizininde takip edilemez hâle gelmişti.
+  (`05-characters/npcs/minor/`)
+  - Yeni yapı: `minor/the-level-hand/` · `minor/the-iron-concord/` ·
+    `minor/the-first-communion/` · `minor/the-unfettered-wind/` —
+    **dördünün de kendi README'si var** (kadro tablosu, sahne dizilimi,
+    kim-kimi-biliyor ve iç çatlaklar).
+  - [Halden Rooke](../05-characters/npcs/major/halden-rooke/README.md) major
+    klasöründe kaldı; [Concord Ironclad](../02-lore/bestiary/concord-ironclad.md)
+    bestiary'de — ikisi de ilgili kadro README'sinden linkli.
+  - **Bütün relative linkler yeniden hesaplandı** (CLAUDE.md §4: kırık link
+    bırakılmaz). Güncellenen dosyalar: `09-index/who-is-who.md`,
+    `05-characters/npcs/minor/README.md`, `major/halden-rooke/{README,statblock}.md`,
+    `02-lore/bestiary/concord-ironclad.md`, `06-campaigns/new-campaign/02-cast.md`,
+    dört faksiyon dosyası, `changelog.md`, `open-questions.md`.
+  - `minor/README.md` yeniden yazıldı: klasör tablosu + **CR sırasına göre
+    hızlı bakış** listesi eklendi.
+
+- **2026-08-29** — 🌬️ **UNFETTERED WIND KADROSU: 5 NPC.** Dört Cevap'ın dördüncü
+  ve son faksiyonu da statsheet'lendi; artık **dört faksiyonun da kadrosu tam.**
+  (`05-characters/npcs/minor/`)
+  - **[Ashka](../05-characters/npcs/minor/the-unfettered-wind/ashka.md)** (goliath, CR 8) — gedik açıcı;
+    [Iron Concord](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md)
+    firarisi. *Concord Drill*: hâlâ Concord dizilişiyle dövüşüyor, Concord'a karşı.
+    Elinde **iki sayfa** var: kayıt masalarından geçenlerin kule şantiyelerine
+    yük verici olarak sevk edildiğini gösteren liste.
+  - **[Corr](../05-characters/npcs/minor/the-unfettered-wind/corr.md)** (human, CR 7) — nişancı,
+    [Barutdere](../06-campaigns/new-campaign/05-world-seeds.md#7-barutdere--silah-kulübü)
+    çıkışlı. *Declared Target* trait'i DPR bütçesinin **dışında**: partiye karşı
+    CR 7, ilan edilmiş hedefe karşı bir doğa kanunu.
+  - **[Kesh Duva](../05-characters/npcs/minor/the-unfettered-wind/kesh-duva.md)** (half-orc, CR 6) —
+    Lirion alt katmanından hücre lideri. **Faksiyon dosyasındaki *"Vane ölürse
+    yerine kim geçer?"* kancasının cevabı o** ve bunu Vane'e söylemedi.
+  - **[Serane Ardo](../05-characters/npcs/minor/the-unfettered-wind/serane-ardo.md)** (aasimar, CR 5) —
+    ilanları çivileyen kişi; hedefi önce **ikna etmeye** çalışıyor. Aurelium
+    aasimar konseyinin kaçağı — ve koltuğu **hâlâ açık.** Susan tanrılar
+    sorusunun en keskin hâli: miras alınmış ışığı sönmedi.
+  - **[Emrys Tal](../05-characters/npcs/minor/the-unfettered-wind/emrys-tal.md)** (gnome, CR 4) —
+    kırk yıllık lonca kâtibi, şimdi sahteci. *Forged Order* sadece **emir
+    zincirine bağlı** yaratıklara işliyor: faksiyonun tezi mekanikleşmiş hâlde.
+    Concord'un Ledger'ına dokuz sahte satır yazdı.
+  - **Faksiyonlar arası yeni bağlar:** Ashka ↔ [Gruvv Ashani](../05-characters/npcs/minor/the-iron-concord/gruvv-ashani.md)
+    aynı bölükte savaştı ve Gruvv firarını rapor etmedi *(ikisi de bilmiyor)* ·
+    Emrys, [Aleth Brann'in](../05-characters/npcs/minor/the-iron-concord/aleth-brann.md) imzasını
+    taklit edebiliyor · Serane ile Emrys arasında **1489 tahliye davası** var ·
+    Vane'in gerçek adını bilen kişi **Kesh'in annesi**.
+  - İndeksler güncellendi: `09-index/who-is-who.md`,
+    `05-characters/npcs/minor/README.md`, `06-campaigns/new-campaign/02-cast.md`,
+    `the-unfettered-wind.md` *(Kilit İsimler bölümü açıldı)*.
+
+- **2026-08-29** — ⚔️ **DÖRT CEVAP KADROLARI AÇILDI: 15 NPC + 1 construct, hepsi statblock'lu.**
+  2024 (MM 2025) formatı; her dosyada `## CR Doğrulaması` bloğu var, tek bir homebrew
+  sihirli eşya yaratılmadı. (`05-characters/npcs/`, `02-lore/bestiary/`)
+  - **[Level Hand](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-level-hand.md)**
+    *(insanlar, drowlar, halflingler)* — **[Halden Rooke](../05-characters/npcs/major/halden-rooke/README.md)**
+    major klasöre terfi etti (CR 10, README + statblock; siyahi, beyaz saçlı, 44).
+    Yanına dört isim: **[Nyrra Delsaeth](../05-characters/npcs/minor/the-level-hand/nyrra-delsaeth.md)**
+    (drow, CR 5 — *sevgilisi*, doğuştan caster ama on bir yıldır büyü yapmıyor),
+    **[Selvarr Dhune](../05-characters/npcs/minor/the-level-hand/selvarr-dhune.md)** (drow, CR 7 — gizli
+    çekirdeğin komutanı), **[Perra Voight](../05-characters/npcs/minor/the-level-hand/perra-voight.md)**
+    (human, CR 4), **[Tem Ossary](../05-characters/npcs/minor/the-level-hand/tem-ossary.md)** (halfling, CR 1).
+  - **[Iron Concord](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md)**
+    *(hepsi Mürai savaşı gazisi; arcane büyü yok, strateji ve makine var)* —
+    **[Vashka Durn](../05-characters/npcs/minor/the-iron-concord/vashka-durn.md)** (ork paladin of Helm, CR 9 —
+    tanrısı bir yıldır susuyor, smite'ı hâlâ çalışıyor),
+    **[Torvi Sedd](../05-characters/npcs/minor/the-iron-concord/torvi-sedd.md)** (cüce baş mühendis, CR 8),
+    **[Rhoswen Marek](../05-characters/npcs/minor/the-iron-concord/rhoswen-marek.md)** (human yüzbaşı, CR 7 —
+    *Ground Chosen First*: savaşı zemini seçerek kazanıyor),
+    **[Gruvv Ashani](../05-characters/npcs/minor/the-iron-concord/gruvv-ashani.md)** (ork çavuş, CR 6 — kalkan duvarı),
+    **[Aleth Brann](../05-characters/npcs/minor/the-iron-concord/aleth-brann.md)** (human komiser, CR 4 — the Ledger).
+  - **Yeni yaratık:** **[Concord Ironclad](../02-lore/bestiary/concord-ironclad.md)** (CR 4) —
+    Hammerfall kazı construct'ının askerî varyantı; Concord'un construct taktiğinin gövdesi.
+    Bestiary tablosuna işlendi.
+  - **[First Communion](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)**
+    *(druidler; elf, dragonborn, tiefling — roller kasten çeşitlendirildi)* —
+    **[Nerath](../05-characters/npcs/minor/the-first-communion/nerath.md)** (elf, CR 8, dövüşçü),
+    **[Thava Vessek](../05-characters/npcs/minor/the-first-communion/thava-vessek.md)** (dragonborn, CR 7,
+    ritüelist — **Grafting'i o icat etti**),
+    **[Mirel Ashvane](../05-characters/npcs/minor/the-first-communion/mirel-ashvane.md)** (tiefling, CR 7,
+    moon druid / kurtarıcı), **[Ilrien](../05-characters/npcs/minor/the-first-communion/ilrien.md)** (elf, CR 5,
+    casus — 1494'ten beri konuşmuyor), **[Corvane Sull](../05-characters/npcs/minor/the-first-communion/corvane-sull.md)**
+    (tiefling, CR 4, gözcü).
+  - **Lore bağları kuruldu:** Nyrra Rooke'un sırrını bilen tek kişi · Selvarr, Concord'un
+    suppressor hattını yürüten kişi ve Bladesinger'ın adını deftere **o** yazdı ·
+    Perra'nın 1470 imzası Wynne Rooke'un ölüm kaydında · Marek üç köyü sular altında bıraktı ·
+    Brann'in masasından geçen iki asker bir kule şantiyesinde yük verici · Torvi'nin sapan
+    aletleri Stane'in Fraying'ini ölçüyor · Ilrien ile Mirel cemaat içinde **gizli muhalefet**.
+  - İndeksler güncellendi: `09-index/who-is-who.md`, `05-characters/npcs/{major,minor}/README.md`,
+    `02-lore/bestiary/README.md`, `06-campaigns/new-campaign/02-cast.md` ve üç faksiyon dosyası.
 
 - **2026-08-10** — Repo kuruldu. Dizin yapısı, konvansiyonlar ve şablonlar oluşturuldu.
 - **2026-08-10** — Great Wheel kozmolojisi dolduruldu: 16 Outer Plane, Inner Planes,

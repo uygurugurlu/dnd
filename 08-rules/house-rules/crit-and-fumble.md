@@ -8,7 +8,7 @@ sources:
   - https://a5e.tools/rules/criticals-and-fumbles
   - https://www.hipstersanddragons.com/critical-misses-5e-dnd/
   - https://www.enworld.org/threads/what-are-your-favourite-fumble-tables.552370/
-updated: 2026-08-11
+updated: 2026-08-30
 ---
 
 # Nat 1 / Nat 20 — Komplikasyon ve Ödül
@@ -93,9 +93,16 @@ Yani sonuçların %40'ı sana özeldir.
 # Karaktere Özel Tablolar (13–20)
 
 > Bu dört tablo **[New Campaign](../../06-campaigns/new-campaign/README.md)**
-> partisi için yazıldı. Karakter ve oyuncu isimleri girilince başlıklar
-> güncellenir → [04-party.md](../../06-campaigns/new-campaign/04-party.md)
-> <!-- doldur: oyuncu ve karakter adları -->
+> partisi için yazıldı → [04-party.md](../../06-campaigns/new-campaign/04-party.md)
+
+| Sınıf | Karakter | Oyuncu |
+|---|---|---|
+| [Undead Paladin](#undead-paladin) | **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor.md)** | Ardan |
+| [Moon Druid](#moon-druid) | **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)** | Koray |
+| [Bladesinger Wizard](#bladesinger-wizard) | **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** | Erdem |
+| [Monk](#monk) | **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger.md)** | Burak |
+
+> ✏️ **2026-08-30:** Fighter tablosu kaldırıldı, yerine **Monk** yazıldı.
 
 ## Undead Paladin
 
@@ -193,35 +200,35 @@ Yani sonuçların %40'ı sana özeldir.
 
 ---
 
-## Fighter
+## Monk
 
-*Tek numarası yok. Bin tane küçük numarası var ve hepsi tekrarlanabilir.*
+*Gücü ödünç değil. Bu yüzden tökezlediğinde suçlayacak kimse yok.*
 
 ### Komplikasyon (13–20)
 
 | d20 | Sonuç |
 |---|---|
-| 13 | **Duruş bozuldu.** Bir tur boyunca **AC −2**. |
-| 14 | **Fazla yüklendin.** Bir sonraki saldırın **Disadvantage** — kaslar tuttu. |
-| 15 | **Nefes kontrolü.** **Second Wind** bu sahne boyunca kullanılamaz. |
-| 16 | **Kayış koptu.** Zırhının bir parçası düştü: onarılana kadar **AC −1**. Onarım 10 dakikalık iş. |
-| 17 | **Silah saplandı.** Silahın hedefin zırhına/kemiğine sıkıştı. Çıkarmak: Bonus Action + DC 12 Strength. Yedeğe geçmek serbest. |
-| 18 | **Fazla ileri.** 10 fit ileri savrulup düşmanların **arasında** kalırsın. Bu turda geri çekilemezsin. |
-| 19 | **Komuta hatası.** Bağırdığın şey yanlış anlaşıldı: bir müttefik sıradaki turunda hareketinin yarısını boşa harcar. (Oyuncu karakteriyse hangi yarı olduğunu o seçer.) |
-| 20 | **Eski yara.** Geçmişten bir yara zonkluyor: bu sahne boyunca aldığın her iyileştirme **1d4 eksik** gelir. |
+| 13 | **Duruş bozuldu.** Bir tur boyunca **AC −2** — Unarmored Defense duruşa bağlıdır. |
+| 14 | **Fazla uzandın.** Bir sonraki saldırın **Disadvantage**. |
+| 15 | **Nefes kaçtı.** **1 Focus Point** kaybedersin. Kalmadıysa: bir tur boyunca hızın yarıya iner. |
+| 16 | **Yanlış iniş.** 15 fit savrulursun (yönü DM seçer) ve bu turda **Disengage edemezsin**. |
+| 17 | **Zamanlama kaydı.** **Deflect Attacks** bir sonraki turunun sonuna kadar kullanılamaz. |
+| 18 | **Bilek.** Bu sahne boyunca **Martial Arts zarın bir kademe düşer** (d8 → d6). |
+| 19 | **Sessizlik bozuldu.** Yaptığın şey ses çıkardı: 60 fit içindeki herkes yerini bilir, bu sahnede Stealth roll'ların **Disadvantage**. |
+| 20 | **Zihin dağıldı.** Bu sahne boyunca **Stunning Strike** kullanılamaz. Odak geri gelmiyor. |
 
 ### Ödül (13–20)
 
 | d20 | Sonuç |
 |---|---|
-| 13 | **İkinci hamle.** Bu turda bir silah saldırısı daha yaparsın — **hasar zarı atmazsın**, sadece ability modifier'ın kadar hasar. |
-| 14 | **Nefes yerinde.** **Second Wind** geri gelir. |
-| 15 | **Siperini buldun.** Bir tur boyunca **AC +2**. |
-| 16 | **Devirici.** Hedef DC 14 Strength save, başarısızsa **Prone** *veya* silahını düşürür (sen seç). |
-| 17 | **Komuta.** Bir müttefik hemen, Reaction olarak, ya 10 fit hareket eder ya **Dodge** alır. |
-| 18 | **Silah okuma.** Bu yaratığın nasıl dövüştüğünü çözdün: sahne boyunca **aynı tipteki** yaratıklara karşı saldırı roll'larında **+1**. |
-| 19 | **Elinden aldın.** Hedefin silahı ya da kalkanı artık **senin elinde**. |
-| 20 | **Efsane anı.** Herkes bunu anlatacak: lehine bir söylenti **Mahalle** seviyesinde doğar ([rumor-system.md](rumor-system.md)) ve oturumun kalanında bir **Intimidation** roll'un otomatik başarılı sayılır. |
+| 13 | **Devam eden hareket.** Bu turda bir **Unarmed Strike** daha yaparsın — **hasar zarı atmazsın**, sadece ability modifier'ın kadar hasar. |
+| 14 | **Nefes yerinde.** **1 Focus Point** geri gelir. |
+| 15 | **Akış.** Bir tur boyunca **AC +2**. |
+| 16 | **Denge bozdu.** Hedef DC 8 + proficiency + Dexterity save, başarısızsa **Prone** *veya* 15 fit itilir (sen seç). |
+| 17 | **Adımı öğretti.** Bir müttefik hemen, Reaction olarak, **15 fit** hareket eder — opportunity attack tetiklemez. |
+| 18 | **Ritim okuma.** Bu yaratığın ritmini çözdün: sahne boyunca **aynı tipteki** yaratıkların sana yönelen saldırılarına karşı **AC +1**. |
+| 19 | **Sinir noktası.** Hedef DC 8 + proficiency + Wisdom **Constitution save**, başarısızsa bir sonraki turunun sonuna kadar **hızı 0**. |
+| 20 | **Boşluk.** Bu sahnede bir kez: sana yönelen bir saldırıyı Reaction ile **tamamen** kaçırırsın — Focus harcamaz, Deflect Attacks saymaz. Ve bunu gören anlatır: lehine **Mahalle** seviyesinde bir söylenti doğar ([rumor-system.md](rumor-system.md)). |
 
 ---
 

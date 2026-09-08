@@ -410,13 +410,25 @@ Stane **8 Fraying** puanında. Ve dördü içinde bunu **kayıt altına alan tek
 
 ## Kilit İsimler
 
-| Kişi | Rol | Not |
-|---|---|---|
-| **Marshal Vharra Stane** | Marshal | ⬜ dosya terfisi bekliyor |
-| ⬜ **Komiser Aleth Brann** | Ledger'ın başı, human | Sadık, dürüst, ve **hiçbir şeyden şüphelenmiyor** |
-| ⬜ **Baş Mühendis Torvi Sedd** | Concord Towers programı, dwarf | Hammerfall'la pazarlığı o yürütüyor |
-| ⬜ **Ashka** ✝ | Firari | → [Unfettered Wind](the-unfettered-wind.md) |
-| ⬜ **Level Hand irtibatı** | Adı hiçbir kayıtta yok | Suppressor ticareti |
+> 📁 **Kadro klasörü:** [05-characters/npcs/minor/the-iron-concord/](../../../../05-characters/npcs/minor/the-iron-concord/README.md)
+> — statsheet'ler, sahne dizilimi ve kim-kimi-biliyor tablosu orada.
+
+Concord'un kadrosu **asker**: orklar, cüceler, insanlar ve birkaç paladin.
+Ortak özellikleri — **[Mürai savaşı](../../01-premise.md#mürai-savaşı) gazisi**
+olmaları, arcane büyü kullanmamaları, ve savaşı **zeminle, düzenle ve makineyle**
+kazanmaları.
+
+| Kişi | Tür | Rol | CR |
+|---|---|---|---|
+| **Marshal Vharra Stane** | Dwarf, 137 | Marshal | ⬜ statblock bekliyor |
+| **[Vashka Durn](../../../../05-characters/npcs/minor/the-iron-concord/vashka-durn.md)** | Orc, 41 | **Paladin of [Helm](../../../../02-lore/pantheon/faerunian/helm.md)**; *"Warden of the Fortyday"*. Tanrısı bir yıldır susuyor ve smite'ı hâlâ çalışıyor | **9** |
+| **[Torvi Sedd](../../../../05-characters/npcs/minor/the-iron-concord/torvi-sedd.md)** | Dwarf, 118 | Baş Mühendis; Concord Towers programı, Hammerfall pazarlığı, construct hattı | 8 |
+| **[Rhoswen Marek](../../../../05-characters/npcs/minor/the-iron-concord/rhoswen-marek.md)** | Human, 38 | Yüzbaşı, taktik subayı. Kırk Gün'ün sol kanadı. **Savaşı zemini seçerek kazanıyor** | 7 |
+| **[Gruvv Ashani](../../../../05-characters/npcs/minor/the-iron-concord/gruvv-ashani.md)** | Orc, 34 | Çavuş; kalkan duvarı. Bir müfrezeyi ikiye katlayan adam | 6 |
+| **[Aleth Brann](../../../../05-characters/npcs/minor/the-iron-concord/aleth-brann.md)** | Human, 46 | Komiser, **Ledger**'ın başı. Sadık, dürüst, ve **hiçbir şeyden şüphelenmiyor** | 4 |
+| **[Concord Ironclad](../../../../02-lore/bestiary/concord-ironclad.md)** | Construct | Hammerfall kazı makinesinin askerî varyantı. Kolonların iş gücü ve kalkanı | 4 |
+| ⬜ **Ashka** ✝ | — | Firari → [Unfettered Wind](the-unfettered-wind.md) | — |
+| ⬜ **Level Hand irtibatı** | — | Adı hiçbir kayıtta yok. Suppressor ticareti → [Selvarr Dhune](../../../../05-characters/npcs/minor/the-level-hand/selvarr-dhune.md) ona ulaşan tek kişi | — |
 
 ---
 

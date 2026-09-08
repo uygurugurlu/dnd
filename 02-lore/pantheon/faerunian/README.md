@@ -48,7 +48,7 @@ Bir tanrı kampanyada önem kazandığında dosyaya terfi eder.
 | **Lliira** | Our Lady of Joy | CG | Life |
 | **Waukeen** | Merchant's Friend | N | Trickery, Knowledge |
 | **Gond** | Wonderbringer | N | Knowledge, Forge |
-| **Malar** | The Beastlord | CE | Nature |
+| **[Malar](malar.md)** | The Beastlord | CE | Nature |
 | **Loviatar** | Maiden of Pain | LE | Death |
 | **Auril** | Frostmaiden | NE | Nature, Tempest |
 | **Talona** | Lady of Poison | CE | Death |

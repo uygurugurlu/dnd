@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Şablonlar
-updated: 2026-08-10
+updated: 2026-08-30
 ---
 
 # Şablonlar
@@ -17,7 +17,9 @@ Yeni bir şey oluştururken **buradan kopyala**, sıfırdan format uydurma.
 | [village.md](village.md) | Köy (<500) |
 | [site.md](site.md) | Zindan, harabe, tapınak, kule, geçit — yerleşim olmayan mekân |
 | [region.md](region.md) | Ülkeye bağlı olmayan coğrafi bölge (orman, dağ silsilesi, bozkır) |
-| [character.md](character.md) | NPC / PC lore dosyası (major NPC klasöründe README olarak) |
+| [character.md](character.md) | NPC lore dosyası (major NPC klasöründe README olarak) |
+| **[player-character.md](player-character.md)** | **Oyuncu karakteri dosyası** — PC klasörünün README'si. Statblock içermez |
+| **[pc-development.md](pc-development.md)** | **PC gelişim günlüğü** — seviye, olaylar, dönüm noktaları, kişisel saat |
 | **[npc-statsheet.md](npc-statsheet.md)** | **Tek dosyalık NPC statsheet'i: lore + statblock + CR doğrulaması.** Minor NPC'ler için varsayılan |
 | [statblock.md](statblock.md) | Ayrı dosyaya çıkan mekanik statblock (İngilizce, 2024 formatı) |
 | [faction.md](faction.md) | Örgüt, lonca, tarikat, düzen |

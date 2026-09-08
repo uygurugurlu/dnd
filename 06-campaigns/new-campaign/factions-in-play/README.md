@@ -35,3 +35,7 @@ updated: 2026-08-11
 
 Buluştukları yer — ki orası bir *yer* değil:
 [The Loomless Chamber](the-four-answers/the-loomless-chamber.md)
+
+⭐ **Ekipleri şu an nerede:** [Saha Tahtası](the-four-answers/field-ops/README.md) —
+kim hangi şehirde, neyi kovalıyor, sıradaki hamle ne. Açılış durumu:
+[Calithra Kavşağı](the-four-answers/field-ops/calithra-standoff.md).

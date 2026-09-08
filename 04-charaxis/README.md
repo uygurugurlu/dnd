@@ -79,12 +79,13 @@ Ekvator boyunca gezegenin etrafını dolaşan büyük yol. Farklı çağlarda in
 Hepsi Meridyen Yolu üzerinde, ekvator boyunca dizili.
 Detay: [regions/README.md](regions/README.md)
 
-| # | Şehir | Kim | Rolü | Çıkardığı maden |
+| # | Şehir | Taş | Kim | Rolü |
 |---|---|---|---|---|
-| 1 | **Brakk-Dur Omurga** | Cüce / Ork | Madencilik lojistik merkezi; yolun bakım noktası | Pyroclast Iron, Basalt Mithril, Solar Amber |
-| 2 | **Vael'Serith** | Elf | Kutsal gözlem merkezi; yolun en eski rünlü bölümü | Frostvein Silver, Aether Quartz, az Chronoshard |
-| 3 | **Ashkar Reach** | İnsan + Tiefling + kaçak | **Moondust ticaretinin merkezi**; kara pazar | Sunshard Crystals + moondust arıtma |
-| 4 | **Stillreach** | — | Zaman anomalisi madenciliği, yasak deneyler | Chronoshard |
+| 1 | **[Ashkar Reach](regions/ashkar-reach.md)** | Kül-71 | İnsan + tiefling + kaçak | **Moondust ticaretinin merkezi**; kara pazar |
+| 2 | **[Brakk-Dur Omurga](regions/brakk-dur.md)** | Kül-28 | Cüce / ork | Madencilik lojistiği; yolun bakım noktası |
+| 3 | **[Vael'Serith](regions/vael-serith.md)** | 0 | Elf | Sıfır Taşı; Nöbet; yolun en eski rünlü bölümü |
+| 4 | **[Nen-Kharal](regions/nen-kharal.md)** | Don-14 | **Deep gnome** | Dinleyiciler loncası; yolun altında |
+| 5 | **[Stillreach](regions/stillreach.md)** | Don-64 | Karsovyalı + mahkûm | Zaman anomalisi madenciliği, yasak deneyler |
 
 ### Sırlar
 
@@ -155,22 +156,46 @@ Sonsuz buz · **zaman garip davranır** · **ölüler burada çürümez**
 
 | Dosya | Ne |
 |---|---|
-| [regions/README.md](regions/README.md) | Kuşaklar ve dört şehir |
-| [00-overview/physical.md](00-overview/physical.md) | Fiziksel özellikler, yörünge |
-| [00-overview/from-ager.md](00-overview/from-ager.md) | Ager'den görünüşü, kültürel etkisi |
-| [00-overview/access.md](00-overview/access.md) | Oraya ulaşma yolları |
-| [00-overview/inhabitants.md](00-overview/inhabitants.md) | Halklar |
+| ★ [regions/README.md](regions/README.md) | **Hat** — dikey harita, mil taşları, beş yerleşim |
+| ★ [regions/meridian-road.md](regions/meridian-road.md) | **Yol** — vuruş (gezegenin saati), electrum, yol sökücüler, seyahat tablosu |
+| [regions/scorchvault.md](regions/scorchvault.md) · [regions/black-still.md](regions/black-still.md) | İki yaşanamaz yarımküre |
+| [regions/ashkar-reach.md](regions/ashkar-reach.md) · [brakk-dur.md](regions/brakk-dur.md) · [vael-serith.md](regions/vael-serith.md) · [stillreach.md](regions/stillreach.md) · [nen-kharal.md](regions/nen-kharal.md) | Beş yerleşim |
+| ★ [mines/README.md](mines/README.md) | **Dokuz maden** — adlar, cevherler, fiyatlar |
+| ★ [mining/README.md](mining/README.md) | **Nasıl kazılıyor** — denge yükü, vardiya, rün çivisi, pul ve borç |
+| ★ [phenomena/README.md](phenomena/README.md) | **Tuhaflıklar** — Kurallar, entitiyler, Mavi Saat, d20 rüya/yol tabloları |
+| ★ [planar-sites/README.md](planar-sites/README.md) | **Altı İniş** — kapılar Charaxis tarafında nereye çıkar |
+| ★ [factions.md](factions.md) | Altı şirket, lonca ve Nöbet |
+| [00-overview/physical.md](00-overview/physical.md) | Fiziksel özellikler, yörünge, gökyüzü |
+| [00-overview/inhabitants.md](00-overview/inhabitants.md) | Halklar, nüfus, kim niye burada |
+| [00-overview/access.md](00-overview/access.md) | Oraya ulaşma — ve **oradan dönme** |
 | [00-overview/history.md](00-overview/history.md) | Tarih ve kayıp imparatorluk |
-| [planar-sites/README.md](planar-sites/README.md) | Planar bağlantılar |
+| [00-overview/from-ager.md](00-overview/from-ager.md) | Ager'den görünüşü, kültürel etkisi ⬜ |
+| [00-overview/source-notes.md](00-overview/source-notes.md) | Orijinal Notion notu (değiştirilmedi) |
+
+### Kadro
+
+| Kim | Rol | CR |
+|---|---|---|
+| [Kapitan Vidrek Solyan](../05-characters/npcs/minor/vidrek-solyan.md) | Soğuk İmtiyaz komiseri, Stillreach | 7 |
+| [Isthaen](../05-characters/npcs/minor/isthaen-of-the-zero-stone.md) | Sıfır Taşı'nın bekçisi, Vael'Serith | 6 |
+| [Ansel Corr](../05-characters/npcs/minor/ansel-corr.md) | Widowsilver ustabaşı; Ravonyalı gazi | 6 |
+| [Murag Ghesk](../05-characters/npcs/minor/murag-ghesk.md) | Gharuk kâtibi, Ashkar Reach | 5 |
+| [Miren Talvo](../05-characters/npcs/minor/miren-talvo.md) | Rüya okuyucu, eski Selûne cleric'i | 5 |
+| [Dwig Hollowear](../05-characters/npcs/minor/dwig-hollowear.md) | Deep gnome Dinleyici, Nen-Kharal | 4 |
+| [the Tallyman](../02-lore/bestiary/the-tallyman.md) *(yaratık)* | Vardiyayı sayar | 6 |
 
 ---
 
 ## Açık Sorular
 
-> **[AÇIK SORU]** Ager ile Charaxis arasında nasıl seyahat ediliyor? İki dünya arasında
-> düzenli **gezegenler arası ticaret portalı** olduğu Wheatrest dungeon'ından biliniyor
-> (Bel'in recruitment noktası oranın yanındaydı) — ama portal ağı kim tarafından,
-> nasıl işletiliyor?
+> ✅ **Cevaplandı (2026-09-07):** Altı kapı, Charaxis tarafında **beşi Meridyen
+> Yolu'na, biri yol dışına** iniyor. Ravonia'nın üç kapısı hattın **Kül (zengin)**
+> yarısına, Karsovia'nın üç kapısı **Don (fakir)** yarısına çıkıyor — yani savaşı
+> Karsovia kazandı, gezegenin fakir yarısını aldı.
+> → [Altı İniş](planar-sites/README.md)
+>
+> İşleten: devlet değil, **şirket.** Her kapının başında bir defter var ve
+> geçişin üçüncü şartı **borçsuzluk.** → [factions.md](factions.md)
 
 > **[AÇIK SORU]** Charaxis = Selûne ise, tanrıça ile gezegen arasındaki ilişki ne?
 > Gezegen onun bedeni mi, diyarı mı, yoksa sadece adaşı mı?

@@ -5,9 +5,9 @@ campaign: New Campaign
 status: planning
 canon: homebrew
 in_world_start: 1495 DR
-players: [undead paladin, moon druid, bladesinger wizard, fighter]
+players: [Gwyndor — undead paladin (Ardan), Grimnor — moon druid (Koray), Vasili von Holtz — bladesinger wizard (Erdem), Roful Roger — monk (Burak)]
 tags: [campaign, planning, comets, silent-gods, unwoven]
-updated: 2026-08-11
+updated: 2026-08-30
 ---
 
 # New Campaign *(henüz adlandırılmadı)*
@@ -34,7 +34,7 @@ updated: 2026-08-11
 | | |
 |---|---|
 | **Durum** | Planlama |
-| **Parti** | Undead Paladin · Moon Druid · Bladesinger Wizard · Fighter |
+| **Parti** | **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor.md)** *(undead paladin)* · **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)** *(moon druid)* · **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** *(bladesinger)* · **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger.md)** *(monk)* |
 | **Başlangıç** | ⬜ seviye ve konum belirlenmedi |
 | **Ton** | Kozmik sessizlik + sınır coğrafyası + teknolojik büyü. Şehir entrikası değil, **kıta ölçeği**. |
 
@@ -47,6 +47,7 @@ updated: 2026-08-11
 | [02-cast.md](02-cast.md) | Kadro: kim var, kim yazılacak |
 | [03-timeline.md](03-timeline.md) | Olay akışı |
 | [04-party.md](04-party.md) | Dört karakter ve dünyayla bağları |
+| ★ [player-characters/new-campaign/](../../05-characters/player-characters/new-campaign/README.md) | **PC dosyaları** — kimlik, geçmiş, bağlar ve **gelişim günlükleri** |
 | [05-world-seeds.md](05-world-seeds.md) | Ham notlardaki *popup ideas*'ın işlenmiş hâli |
 | [06-clocks.md](06-clocks.md) | Kampanya saatleri — arka planda ne ilerliyor |
 | **factions-in-play/** | Bu kampanyada sahnede olan güçler |

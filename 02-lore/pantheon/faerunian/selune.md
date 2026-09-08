@@ -11,7 +11,7 @@ home_plane: Gates of the Moon (Ysgard)
 canon: fr-canon
 status: usable
 tags: [selune, moon, charaxis, light, lycanthropes]
-updated: 2026-08-10
+updated: 2026-08-30
 ---
 
 # Selûne
@@ -80,7 +80,14 @@ arasında doğrudan bir bağ vardır.
 | [Shar](shar.md) | İkiz, düşman, ayna |
 | **Sune** | Dost |
 | [Mystra](mystra.md) | Müttefik |
-| **Malar** | Düşman (lycanthrope'lar üzerinden) |
+| **[Malar](malar.md)** | 🔴 Düşman (lycanthrope'lar üzerinden) |
+
+> 👤 **PC bağı — New Campaign:** **[Grimnor](../../../05-characters/player-characters/new-campaign/grimnor/README.md)**
+> Selûne'ün sembolünü taşıyor ama **dua etmiyor.** Ailesi bir
+> [Malar](malar.md) avında öldü ve Grimnor Selûne'ü — Malar'ın karşıtı ve
+> *iyi lycanthrope'ların koruyucusu* olarak — **gelmemekle** suçluyor.
+> Onun için Selûne bir hâmi değil, bir **tanık.**
+> → [02-ties.md](../../../05-characters/player-characters/new-campaign/grimnor/02-ties.md#selûne--tapınma-değil-dava)
 
 ## Ager'de
 

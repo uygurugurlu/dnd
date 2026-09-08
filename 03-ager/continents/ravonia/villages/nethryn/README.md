@@ -129,6 +129,27 @@ Glyph olan evlere:
 - Yardım istemezler
 - Ama **engellemezler**
 
+## 👥 Halk — adı olan beş kişi
+
+Nethryn halkı **konuşmaz.** Aşağıdakiler istisna değil, sadece adı olanlar.
+Lanet Seviyesi düştükçe her biri bir kademe daha açılır.
+
+| Kim | Ne | Statblock | Lanet 3 · Lanet 1 |
+|---|---|---|---|
+| **Muhtar Halla Vellum** | Muhtar, 54, insan | Noble | *Kapıyı aralar, konuşmaz* · **Köyün adını yeniden söyler** |
+| **Ocakbaşı Grimna** | Demirci — **Ocak 191**, 87, cüce | Guard | *Çalışıyor, bakmıyor* · **Ne dövdüğünü açıklar** |
+| **Peder Ossic** | Rahip, 60, insan | Priest | *Ayin yapmıyor* · **Bir yıldır neden cevap gelmediğini sorar** |
+| **Bettony** | Hancı, 41, halfling | Commoner | *Yatak verir, para almaz* · **Yemek verir ve oturur** |
+| **Nim** | Çocuk, 11, insan | Commoner | *Bakar, kaçar* · **Adını söyler** |
+
+> 🎲 [Anında NPC üreteci](../../../../../09-index/townsfolk.md#anında-npc--dört-zar) ·
+> [statblock kuralı](../../../../../09-index/townsfolk.md#statblock-kuralı--sivil-npcler)
+
+> **[HOOK]** Beşinin de laneti farklı ölçüde tutuyor. **Nim en az etkilenen** —
+> ve sebebini kimse sormadı.
+
+---
+
 # 🏠 EV TÜRLERİ & ENCOUNTER YAPISI
 
 Her ev **lanetin bir parçasıdır**.

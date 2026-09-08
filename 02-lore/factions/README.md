@@ -21,6 +21,12 @@ uyarlanacaklar**: amaçları ve karakterleri aynı, merkezleri ve kadroları Age
 | [Red Wizards](red-wizards.md) | Büyü tekeli ve sızma yoluyla iktidar | LE | [red-wizards.md](red-wizards.md) |
 | [Cult of the Dragon](cult-of-the-dragon.md) | Undead ejderhaların hükmü | CE | [cult-of-the-dragon.md](cult-of-the-dragon.md) |
 
+**Ager'e özgü (FR'den gelmedi):**
+
+| Faksiyon | Ne ister | AL | Dosya |
+|---|---|---|---|
+| **[Smith Sarayı](smith-palace.md)** | Kıtadaki bütün demirciliği tek çatı altında tutmak — ve **cevheri** | LN | [smith-palace.md](smith-palace.md) |
+
 ## Faksiyon Kullanımı (masada)
 
 Faksiyonlar sadece arka plan değil, **oyuncu araçlarıdır**:

@@ -5,7 +5,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [clocks, fronts]
-updated: 2026-08-11
+updated: 2026-08-30
 ---
 
 # Kampanya Saatleri
@@ -34,6 +34,17 @@ Dolduğunda dünya değişir — geri alınmaz.
 | 6 | **İlahi büyü gerçekten zayıflıyor.** Artık his değil, mekanik. |
 
 > Bu saat **partinin araştırmasıyla yavaşlar**, görmezden gelmesiyle hızlanır.
+
+> 🔒 **[DM ONLY] — bu saatin ters yüzü.** Sessizlik sadece kaybettirmiyor;
+> **bir şeyi de dışarıda tutuyor.** [Malar](../../02-lore/pantheon/faerunian/malar.md)'ın
+> Ager'de yürüttüğü av 1494'te hattı koptuğu için **kesildi** ve tanrı hâlâ kapıda.
+>
+> Yani bu saati **geri sarmak** — iletişimi onarmak — avı da geri açar.
+> Ve masada bunu bilen bir PC var:
+> **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)**'ın
+> ailesi o avda öldü. Kampanya *"bariyer kalksın mı"* sorusuna vardığında
+> **partinin içinden "hayır" gelecek.**
+> → [Grimnor — Kapıdaki Avcı saati](../../05-characters/player-characters/new-campaign/grimnor/03-development.md#4-kişisel-saat--kapıdaki-avcı)
 
 ## ⏳ 2. Vahadaki Şey Yaklaşıyor
 
@@ -83,7 +94,7 @@ büyüsüyle sabitlenmiş, kuyruklu yıldızlarla bozulan.
 
 | Dilim | Ne olur |
 |---|---|
-| 1 | Sapma tablosu her geçişte atılıyor → [05-world-seeds.md](05-world-seeds.md#9-kararsız-portallar) |
+| 1 | Sapma tablosu her geçişte atılıyor → [05-world-seeds.md](05-world-seeds.md#9-kararsız-portallar--charaxis-kapıları) |
 | 2 | Bir kapı **haftalarca** açılmıyor; moondust fiyatı fırlıyor |
 | 3 | Yetki denetimi çöküyor — kapı zaten zar zor açılıyorsa kimse kâğıt sormuyor |
 | 4 | Bir kapı **kapanmıyor** ve içinden bir şey geliyor |
@@ -108,6 +119,10 @@ birbirinden bağımsız görünüyor. Değiller.
 | 4 | [Level Hand](factions-in-play/the-four-answers/the-level-hand.md) bir şehirde iktidara oynuyor; ilk **Equal Field** denemesi |
 | 5 | [First Communion](factions-in-play/the-four-answers/the-first-communion.md) ilk büyük **Grafting**'i yapıyor — bir yerleşim yankısıyla birleşiyor |
 | 6 | ⬜ **Dördünün tek bir iş olduğu ortaya çıkıyor.** → [The Unweave](factions-in-play/the-four-answers/README.md#4-unwovenın-gerçek-planı--the-unweave) |
+
+> ⭐ **Bu saati besleyen tahta:** [field-ops/](factions-in-play/the-four-answers/field-ops/README.md)
+> — dört faction'ın ekipleri şu an hangi şehirde, neyi kovalıyor, sıradaki hamle ne.
+> Açılış durumu: [Calithra Kavşağı](factions-in-play/the-four-answers/field-ops/calithra-standoff.md).
 
 > Bu saat **partinin hangi faction'a vurduğuna göre şekil değiştirir.**
 > Wind'i durdurmak Concord'u yavaşlatır. Concord'u durdurmak Wind'i besler.

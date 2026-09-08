@@ -3,8 +3,8 @@ type: meta
 title: Yaylar
 campaign: New Campaign
 canon: homebrew
-status: stub
-updated: 2026-08-11
+status: draft
+updated: 2026-08-30
 ---
 
 # Yaylar
@@ -15,4 +15,5 @@ updated: 2026-08-11
 
 | Dosya | Ne |
 |---|---|
+| ⭐ [Calithra Kavşağı](../factions-in-play/the-four-answers/field-ops/calithra-standoff.md) | **Açılış yayı.** Dört faction, bir vadi, sekiz gün. İkinci Dikiş · kayıt masası · el afişleri · üç günlük sayaç |
 | <!-- doldur --> | |
