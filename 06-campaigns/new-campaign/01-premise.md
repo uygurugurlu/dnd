@@ -211,7 +211,7 @@ Bu, halk arasında tek bir okuma doğurdu ve o okuma **artık siyaset:**
 
 > **[HOOK]** Parti bu barışın **ilk yılında** dolaşıyor. Her kasabada savaştan
 > dönmüş biri var ve hiçbiri aynı hikâyeyi anlatmıyor.
-> **[Roger](../../05-characters/player-characters/new-campaign/roful-roger.md) için:** *"Hangi tarafta savaştın?"* artık ucuz bir soru değil.
+> **[Roger](../../05-characters/player-characters/new-campaign/roful-roger/README.md) için:** *"Hangi tarafta savaştın?"* artık ucuz bir soru değil.
 
 > **[AÇIK SORU]** Geriye tek bir soru kaldı: **"Mürai" ne demek?**
 > Bir yer adı mı, bir kişi mi, bir muharebenin adı mı? Haritada "Mürai" yok.

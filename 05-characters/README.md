@@ -3,7 +3,7 @@ type: meta
 title: Karakterler
 canon: homebrew
 status: usable
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # 05 — Karakterler
@@ -68,10 +68,10 @@ Sistem ve klasör yapısı: [player-characters/README.md](player-characters/READ
 
 | Oyuncu | Karakter | Kampanya | Dosya |
 |---|---|---|---|
-| **Ardan** | **Gwyndor** — undead paladin | New Campaign | [→](player-characters/new-campaign/gwyndor.md) |
+| **Ardan** | **Gwyndor** — undead paladin, Mürai gazisi | New Campaign | [→](player-characters/new-campaign/gwyndor/README.md) |
 | **Koray** | **Grimnor** — moon druid, ork | New Campaign | [→](player-characters/new-campaign/grimnor/README.md) |
 | **Erdem** | **Vasili von Holtz** — bladesinger wizard | New Campaign | [→](player-characters/new-campaign/vasili-von-holtz/README.md) |
-| **Burak** | **Roful Roger** — monk | New Campaign | [→](player-characters/new-campaign/roful-roger.md) |
+| **Burak** | **Roful Roger** — monk, denizci | New Campaign | [→](player-characters/new-campaign/roful-roger/README.md) |
 | — | **Nada Coldo** — psion / truth-sayer | CotBC | [→](player-characters/nada-coldo.md) |
 
 **Kim kimdir dizini:** [09-index/who-is-who.md](../09-index/who-is-who.md)

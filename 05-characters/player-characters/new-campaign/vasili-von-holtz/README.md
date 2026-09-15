@@ -17,10 +17,10 @@ status: active
 canon: adapted
 doc_status: usable
 tags: [pc, vasili-von-holtz, bladesinger, wizard, barovia, shar, tarokka, new-campaign]
-source: Oyuncunun kendi metni → handout-journal.md
+source: Oyuncunun kendi metni → handout-journal.md + DM notları (2026-09-13)
 sources:
   - https://forgottenrealms.fandom.com/wiki/Shadowfell
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # Vasili von Holtz
@@ -50,6 +50,7 @@ değiştirilmemiş metin. Bu dosyadaki her şey oradan türer.
 | **Tanrı** | Yok. *"[Shar](../../../../02-lore/pantheon/faerunian/shar.md) da fena değil"* |
 | **Faksiyon** | Yok. Dört Cevap'a **"çoluk çocuk"** diyor |
 | **Tek eşyası** | **Madam Eva'nın Tarokka destesi** |
+| **Ager'de ilk dostu** | ⬜ Bir **pixie** — Mournwood'da hayatını kurtardı. **Vasili onu kendi elleriyle öldürdü** → [01-background.md](01-background.md#8-pixie--ilk-dost-ilk-adak) |
 | **Durum** | active — ve **ölümlü** |
 
 ## Mekanik Künye
@@ -148,7 +149,8 @@ Vasili bunu kıtadaki herkesten **erken** ve **elinde tutarak** biliyor.
 |---|---|---|
 | **Gücünü geri almak** | Kendisi | Bladesinger ilerlemesi — bu sefer **öğrenerek** |
 | Kimin ödünç verdiğini ve **kimin geri aldığını** öğrenmek | Kimse | Kampanyanın merkezî sorusu |
-| Barovia'ya dönüp dönemeyeceğini anlamak | Kimse | **Portallar** → [02-ties.md](02-ties.md#portallar) |
+| Barovia'ya dönüp dönemeyeceğini anlamak | Kimse | **Portallar** → [02-ties.md](02-ties.md#portallar) · **Silvaerûn** → [02-ties.md](02-ties.md#mournwood--silvaerûn--kuzey-yolu) |
+| **Dark Powers'a ulaşmak** — adağı kabul edildi mi? | Kimse | 🔒 [04-dm-notes.md](04-dm-notes.md#adak--dark-powers-duydu-mu) |
 | Yeni bir düzen kurmak | ⬜ | Monarşi + otorite boşluğu = [Iron Concord](02-ties.md#iron-concord-sorunu) |
 | **Merakını doyurmak** | Kendisi bile yeni fark etti | Karakterin tek iyi huyu. Kampanya bunu ödüllendirmeli |
 
@@ -160,7 +162,8 @@ Vasili bunu kıtadaki herkesten **erken** ve **elinde tutarak** biliyor.
 | [01-background.md](01-background.md) | Barovia, düşüş, sislerin bırakması, Vasili adının seçilmesi |
 | [02-ties.md](02-ties.md) | Ager'e bağları: başkent, portallar, tanrılar, faksiyonlar |
 | ⭐ [03-development.md](03-development.md) | **Gelişim günlüğü** |
-| 🔒 [04-dm-notes.md](04-dm-notes.md) | Gerçek kimlik, deste neden sustu, kaldıraçlar |
+| 🔒 [04-dm-notes.md](04-dm-notes.md) | Gerçek kimlik, deste neden sustu, **adak ve pixie**, kaldıraçlar |
+| 📖 [05-encyclopedia.md](05-encyclopedia.md) | **Bildikleri** — kronoloji, gördüğü yerler, tanıdığı kişiler, bildiği/bilmediği her şey |
 
 ## Doğrulanacaklar
 
@@ -171,3 +174,7 @@ Vasili bunu kıtadaki herkesten **erken** ve **elinde tutarak** biliyor.
 - [ ] **Tarokka destesi mekanik mi, sadece anlatı mı?** Mekanikse homebrew item dosyası gerekir
 - [ ] Barovia'yı ve isimleri (Tatyana, Sergei, Madam Eva) **partiye anlatıyor mu?**
 - [ ] *"Portallara bakmış olabilir"* — **baktı mı, bakmadı mı?** Bu bir tarih sorusu
+- [ ] **Pixie'nin adı ne?** Ne zaman tanıştılar, dostluk ne kadar sürdü?
+- [ ] **Adağı nerede, nasıl sundu?** Bir cevap aldı mı — ya da aldığını sandı mı?
+- [ ] **Silvaerûn'a girdi mi?** Davet gerekiyor. Kapıda mı kaldı, içeri mi alındı?
+- [ ] **Sıra:** başkent önce mi, kuzey yolu önce mi?

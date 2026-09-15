@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: adapted
 status: draft
 tags: [pc, vasili-von-holtz, dm-only, strahd, tarokka, mists, shar]
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # 🔒 Vasili von Holtz — DM Notları
@@ -51,7 +51,7 @@ Kıtada Barovia'yı bilen **kimse yok.** Ama üç kapı açık:
 
 ## ⭐⭐ Partide bir keşiş var
 
-> **[Roful Roger](../roful-roger.md)** *(Burak)* — **Monk.**
+> **[Roful Roger](../roful-roger/README.md)** *(Burak)* — **Monk.**
 
 [Günlükte](handout-journal.md) Vasili'yi yenen üçlünün en dayanılmaz olanı
 **"kel keşiş"**:
@@ -77,6 +77,50 @@ demek. Partinin gördüğü tek şey: bu adam Roger'a sebepsiz yere soğuk.
 > **[HOOK]** İlk sahnelerden birinde Roger sıradan bir şey yapsın — bir yumruk,
 > bir duruş, bir nefes düzeni. Vasili'nin oyuncusuna **özel** bir cümle söyle:
 > *"Bunu daha önce gördün."* Başka hiçbir şey söyleme.
+
+---
+
+## Adak — Dark Powers duydu mu?
+
+> DM notu: *"vasili dark powersa bir adak adamak için bu pixieyi kendisi
+> öldürüyor bir pişmanlık hissetmeden ama içinde bunun sonradan çıkacak bir
+> acısı var."*
+
+Vasili bir cevap bekledi. **Ne aldığı** üç okumaya bağlı — ve üçü de aşağıdaki
+*"Borcu kim çağırdı?"* tablosuyla **aynı** karara bağlanıyor:
+
+| Okuma | Adak ne oldu | Sonucu |
+|---|---|---|
+| ⭐ **Aynı bariyer** *(önerilen)* | **Hiçbir şey.** Dark Powers da tanrılar gibi perdenin öbür yanında; adak **ulaşmadı.** Vasili bunu bilmiyor — bir sessizlik daha aldı ve sessizliğe alışık | Pixie **boşuna** öldü. Bu, "sonradan çıkacak acının" en sert hâli: *"değdi mi?"* sorusunun cevabı **hayır** ve bunu öğrenmesi kampanyanın işi |
+| **Dark Powers duydu** | Adak kabul edildi — ama Darklord olmayan birinden gelen adak bir **başvuru**dur. Dark Powers'ın Vasili'ye tekrar bakmasının sebebi bu | [Kişisel saatin 6. dilimi](03-development.md#4-kişisel-saat--kartlar-yeniden-konuşuyor) — *sisler geldi* — **bu adakla** başlar. Vasili sisleri **kendi çağırdı** |
+| **Başkası duydu** | Perde Dark Powers'ı kesti ama **kesmediği** bir şey var: [The Unwoven](../../../../02-lore/magic/the-unwoven.md) — bu düzlemin içinde, Weave'in dışında. Bir ihanet kanı, ham güç, bir dilek. Silüet **dinliyor** | Vasili rüyayı görenlerden biri olur. Ve "Dark Powers"a sunduğu adağı **başka bir şey** kabul etti |
+
+> ⭐ **Öneri: birincisi — ama ikincisini kapatma.** Adak şu an cevapsız; sisler
+> gelirse (6. dilim) Vasili *"adağım kabul edildi"* diye okur ve **yanılabilir.**
+> Yanılıp yanılmadığı, bariyer kalkınca belli olur.
+
+### Pixie'nin ölümü nereye dokunuyor
+
+| Kim / ne | Neden ilgilenir |
+|---|---|
+| **[Grimnor](../grimnor/README.md)** | Mournwood *"kendi ormanı"*; Feywild'a **meraklı** tek PC. Bir fey'in o ormanda **bir insan tarafından** öldürüldüğünü öğrenirse — ve *"seyirci suçludur"* ahlakıyla — Vasili'yi affetmez. ⚠️ Bu bilgiyi **saklı tut**; Grimnor'ın öğrendiği sahne kampanyanın parti-içi ikinci büyük çatlağı |
+| **[Mother Ulkryssa](../../../npcs/minor/mother-ulkryssa.md)** | Kendi ormanında bir fey kesildi ve bir Darklord'un kanıyla adak sunuldu. Hag **gördü.** Vasili'nin adını *satabilecek* olması bu yüzden — ve bir hag için fey kanı da **para** |
+| **Bir fey mahkemesi** | Pixie birine aitti. *Hediye borç yaratır*; borcu vereni öldürmek bir **ihlal**. Feywild'ın Ager bağlantısı boş — Vasili'nin cinayeti o bağlantıyı **yazmak** için bir sebep. *(İkinci Dikiş'te Feywild Shadowfell'e bağlandı; bir fey kanı Shadowfell'in efendilerine sunuldu — tema aynı)* |
+| **[Roful Roger](../roful-roger/README.md)** | Aynı ormanda, aynı yıllarda, trans hâlinde. **Gördü mü?** Roger hatırlamıyor olabilir |
+| **Deste** | *"Barovia'dan olmayan bir ses"* — pixie. Fey ölür ama **susmaz** |
+
+### "Sonradan çıkacak acı" — nasıl çıkar
+
+Vasili kendini affetmez, **hesaplar.** Acı bir vicdan sahnesi olarak değil,
+bir **hesap hatası** olarak çıkmalı:
+
+1. Adak boşa gittiyse → *"Bir dostu boşuna kestim"* — Vasili'nin dilinde **israf**
+2. Grimnor öğrenirse → parti içi bedel
+3. Deste pixie'nin sesiyle konuşursa → Tatyana'nın sessizliğinin **yanına** ikinci bir ses
+4. Bir fey mahkemesi hesap sorarsa → Vasili ilk kez **borçlu** taraf
+
+> Dördünü aynı anda kullanma. Bir tanesi yeter; **Vasili'nin oyuncusu**
+> hangisinin işlediğini masada gösterecek.
 
 ---
 
@@ -210,6 +254,8 @@ kalır.
 | Kaldıraç | Nasıl kullanılır |
 |---|---|
 | **Tatyana'nın sessizliği** | Tek gerçek acısı. Bir NPC ona sessiz kalırsa, o NPC'yi hiç unutmaz |
+| **Pixie** | İkinci acı — henüz **çıkmadı.** Bir fey, bir orman, bir moon druid: tetiklerden birini seç |
+| **Adak** | Cevapsız. Sisler gelirse Vasili bunu **adağının kabulü** sanır — ve bu yanılgı kampanyanın sonunu belirleyebilir |
 | **"Buna değdi mi?"** | Sergei'nin sorusu. Partiden biri aynı soruyu sorarsa sahne durur |
 | **Cüce meselesi** | Concord'a ihtiyacı olduğu gün, Vharra Stane'in elini sıkması gerekecek |
 | **Merak** | Karakterin tek zayıf noktası **iyi** bir zayıflık. Kampanya onu meraktan yakalayabilir |
@@ -223,7 +269,8 @@ kalır.
 - Grimnor **Charaxis'e gitti**, Vasili gitmedi. Bilgi asimetrisi masada kullanılabilir
 - 🔒 **Grimnor sessizliğin sürmesini istiyor.** Vasili gücünü geri almak için
   sessizliğin **çözülmesine** ihtiyaç duyabilir. İkisi henüz farkında değil
-- **Ulkryssa** her ikisinin de sırrını tutuyor olabilir
+- **Ulkryssa** her ikisinin de sırrını tutuyor olabilir — ve **Roger'ın** bedenini bir yıl sürdü. Aynı orman, üç PC
+- **Grimnor'ın ormanında bir fey öldürdü.** Grimnor bilmiyor
 - [First Communion](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)
   **12 Uktar 1495'te Shadowfell'e bir dikiş açtı.** Vasili bunu duyduğunda
   kampanyanın en hızlı tepkisini o verir — çünkü oradan geldiğini bilen tek kişi o

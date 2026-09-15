@@ -6,7 +6,7 @@ faction: The Iron Concord
 canon: homebrew
 status: usable
 tags: [npc, roster, iron-concord, four-answers, new-campaign]
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # The Iron Concord — Kadro
@@ -20,6 +20,11 @@ updated: 2026-08-30
 Hepsi **[Mürai savaşı](../../../../06-campaigns/new-campaign/01-premise.md#mürai-savaşı) gazisi.**
 Orklar, cüceler, insanlar ve bir paladin. **Arcane büyü kullanmıyorlar** —
 savaşı zeminle, düzenle ve makineyle kazanıyorlar.
+
+> 👤 **PC bağı:** [Gwyndor](../../../player-characters/new-campaign/gwyndor/README.md)
+> *(New Campaign — Ardan)* bu ordunun **Concord olmadan önceki hâlinden** — Mürai
+> gazisi, undead paladin. Aşağıdaki kadronun çoğu **eski silah arkadaşı.**
+> Kimin onu ölü bildiği 🔒 → [Gwyndor DM notları](../../../player-characters/new-campaign/gwyndor/04-dm-notes.md#ne-zaman-öldü--üç-okuma)
 
 ## Kadro
 

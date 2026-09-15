@@ -76,10 +76,10 @@ Simone Dumble · Milon Blackmane
 
 | Oyuncu | Karakter | Sınıf | Dosya |
 |---|---|---|---|
-| **Ardan** | **Gwyndor** | Paladin — **undead** | [→](../05-characters/player-characters/new-campaign/gwyndor.md) |
+| **Ardan** | **Gwyndor** | Paladin — **undead** | [→](../05-characters/player-characters/new-campaign/gwyndor/README.md) |
 | **Koray** | **Grimnor** | Druid — Circle of the Moon *(orc)* | [→](../05-characters/player-characters/new-campaign/grimnor/README.md) |
 | **Erdem** | **Vasili von Holtz** | Wizard — Bladesinger | [→](../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md) |
-| **Burak** | **Roful Roger** | Monk | [→](../05-characters/player-characters/new-campaign/roful-roger.md) |
+| **Burak** | **Roful Roger** | Monk | [→](../05-characters/player-characters/new-campaign/roful-roger/README.md) |
 
 📁 [Parti dosyaları](../05-characters/player-characters/new-campaign/README.md) ·
 [04-party.md](../06-campaigns/new-campaign/04-party.md) *(dünyayla bağları)*

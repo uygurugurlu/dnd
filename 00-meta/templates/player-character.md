@@ -90,6 +90,7 @@ updated: YYYY-MM-DD
 | [02-ties.md](02-ties.md) | Dünyaya bağları: yerler, kişiler, faksiyonlar |
 | ⭐ [03-development.md](03-development.md) | **Gelişim günlüğü** — oyun sırasında ne oldu |
 | 🔒 [04-dm-notes.md](04-dm-notes.md) | DM-only: kancalar, kaldıraçlar, cevabı DM'de olan sorular |
+| 📖 [05-encyclopedia.md](05-encyclopedia.md) | Bildikleri — kronoloji, gördüğü yerler, tanıdığı kişiler; oyuncuya açık |
 
 ## Doğrulanacaklar
 

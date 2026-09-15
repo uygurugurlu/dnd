@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Açık Sorular
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # Açık Sorular
@@ -47,19 +47,43 @@ yazılır ve buradaki satır **Kapananlar**'a taşınır.
       **tasarım notu** olarak söylüyor ama
       [rumor-system.md](../08-rules/house-rules/rumor-system.md)'nin içinde böyle bir kural
       **yok.** Gwyndor artık kesin undead olduğuna göre kuralın yazılması gerekiyor
-- [ ] 📄 **Gwyndor'ın ve [Roger](../05-characters/player-characters/new-campaign/roful-roger.md)'ın
-      hikâye metinleri repoda değil.** İkisi de `stub`; metinler geldiğinde önce
+- [ ] 📄 **Gwyndor'ın ve [Roger](../05-characters/player-characters/new-campaign/roful-roger/README.md)'ın
+      kendi (oyuncu) hikâye metinleri repoda değil.** *(2026-09-13: DM özetiyle klasöre
+      terfi ettiler; oyuncu metni geldiğinde önce
       [00-raw-notes.md](../05-characters/player-characters/new-campaign/00-raw-notes.md)'ye
-      **birebir** yazılacak, sonra dosyalar ondan doldurulacak
-- [ ] **Gwyndor hangi tanrıya yemin etti?** Karakterin tamamı buna bağlı
-- [ ] **[Roger](../05-characters/player-characters/new-campaign/roful-roger.md)'ın disiplini nereden geliyor?**
-      Manastır, usta, ya da kendi kendine. Kimseye borçlu değilse kimseye **hesap** da vermiyor
+      **birebir**, sonra dosyalar düzeltilir)*
+- [ ] **Gwyndor hangi tanrıya yemin etti?** Karakterin tamamı buna bağlı.
+      *Ordunun garnizon dini Helm; Vashka Durn'la aynı garnizon olabilir*
+- [ ] **Gwyndor ne zaman, nerede öldü?** Üç okuma; **öneri: 1494, Kırk Gün** — o zaman
+      Concord'un kurucu kadrosu onu **ölü** biliyor ve undead oluşu sessizliğin ilk somut sonucu
+      → [gwyndor/04-dm-notes.md](../05-characters/player-characters/new-campaign/gwyndor/04-dm-notes.md#ne-zaman-öldü--üç-okuma)
+- [ ] **Gwyndor'ın cepheleri ve rütbesi.** *Öneri: Thornhold (1492) → Northcurrent (1493) → Fortyday (1494)* — Concord çekirdeğinin rotası
+- [ ] 🚧 **the Fortyday koridorunun yer dosyası yok** — Concord'un merkezi ve muhtemelen
+      Gwyndor'ın öldüğü yer. Haritadaki konumu belirlenmedi. Kuzey cephesi de dosyasız
+- [x] ~~**Roger'ın disiplini nereden geliyor?**~~ → ✅ *(2026-09-13)* Night hag'in bir yıl
+      sürdüğü bedenin üstüne **kendi** kurdu; usta/manastır ⬜
+- [ ] **"Arch hag" — Ulkryssa terfi edecek mi?** DM notu Roger için *"arch hag"* diyor;
+      repodaki [Mother Ulkryssa](../05-characters/npcs/minor/mother-ulkryssa.md) bir Night Hag.
+      Vurgu mu, coven anası mı, archhag mı? Terfi ise `Skill(statblock)` + CR doğrulaması
+- [ ] **Roger trans hâlinde ne taşıdı, nereye?** *Öneri: limandan ormana moondust,
+      ormandan diğer kurbanlara lanet* → [roful-roger/04-dm-notes.md](../05-characters/player-characters/new-campaign/roful-roger/04-dm-notes.md#ne-taşıdı)
+- [ ] **Hag'in kontrolü neden bitti?** *Öneri: aynı bariyer + hag geri çekildi* —
+      bu seçilirse Roger sessizliğin **ikinci** savunucusu olur
+- [ ] **Roger'ın büyüsü sheet'te var mı?** Varsa Ledger, Level Hand ve Unwoven onu görür
+- [ ] **Roger'ın limanları** — [02-ties.md](../05-characters/player-characters/new-campaign/roful-roger/02-ties.md#limanlar--onu-tanıyan-insanlar)'deki
+      aday listesi Burak'la seçilecek. Ev limanı hangisi? *(öneri: Anchorrest)*
+- [ ] **Vasili'nin pixie'sinin adı?** Hangi mahkeme? Dostluk ne kadar sürdü?
+- [ ] **Vasili'nin adağı duyuldu mu?** *Öneri: hayır — aynı bariyer.* Sisler gelirse
+      Vasili bunu adağın kabulü sanır → [vasili/04-dm-notes.md](../05-characters/player-characters/new-campaign/vasili-von-holtz/04-dm-notes.md#adak--dark-powers-duydu-mu)
+- [ ] **Vasili Silvaerûn'a girdi mi?** Davet gerekiyor; Caélora'nın kapı bekçisi davetsiz birini **bekliyor**
+- [ ] ⚠️ **Grimnor, Vasili'nin ormanında bir fey öldürdüğünü ne zaman öğrenir?** Parti içi ikinci büyük çatlak
+- [ ] **Mournwood'da bir Feywild geçidi var mı?** Pixie oradaydı → [feywild.md](../01-cosmology/echo-planes/feywild.md#ager-bağlantısı)
 - [ ] **"Roful" ne demek** — lakap mı, soyadı mı?
 - [ ] **Vasili'yi yenen "kel keşiş" ile Roger arasında bağ var mı?**
       **Öneri: yok** — tesadüf bırakılırsa gerilim bedavaya çalışır ve Roger kendi
       hikâyesine sahip kalır → [Vasili DM notları](../05-characters/player-characters/new-campaign/vasili-von-holtz/04-dm-notes.md#-partide-bir-keşiş-var)
-- [ ] **Dört karakterin ikisi hâlâ `stub`.** Tür, seviye, memleket ve
-      *"dünyaya en az bir bağ"* ([session zero şartı](../08-rules/character-creation.md#session-zero)) eksik
+- [x] ~~**Dört karakterin ikisi hâlâ `stub`.**~~ → ✅ *(2026-09-13)* dördü de klasör.
+      Tür, seviye, memleket hâlâ ⬜ ama *"dünyaya en az bir bağ"* şartı dördünde de karşılandı
 
 - [ ] **Ham nottaki `kom 20 15 değiş` ne demek?** Koray'ın notunda duruyor;
       ability score düzeltmesi olabilir. Yorumlanmadı, aynen saklandı

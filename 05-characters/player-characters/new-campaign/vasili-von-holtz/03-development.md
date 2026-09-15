@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: adapted
 status: draft
 tags: [pc, vasili-von-holtz, development, log]
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # Vasili von Holtz — Gelişim Günlüğü
@@ -47,6 +47,11 @@ updated: 2026-08-30
 | 0.6 | 1494–95 | **Büyüyü sıfırdan öğrendi** | Elindeki her şey artık **kendi emeği** |
 | 0.7 | ⬜ | **Ravonia başkentine** gitti | Otorite boşluğunu gördü |
 | 0.8 | ⬜ | **Portallara baktı.** Charaxis'e geçmedi | Bir dönüş yolu aradı ve bulamadı |
+| 0.9 | ⬜ | **Kuzeye yürüdü** — Mournwood'dan Silvaerûn'a, kapıları sabitleyen elflere | Dönüş yolunun adresi: elfler |
+| 0.10 | ⬜ | Mournwood'da ölümün eşiğinde; **bir pixie onu kurtardı** | Ager'de ilk kez birine **muhtaç** oldu |
+| 0.11 | ⬜ | İnişli çıkışlı bir dostluk | Yüzyıllardır ilk **dost** — bir fey |
+| 0.12 | ⬜ | **Pixie'yi öldürdü** — Dark Powers'a adak | Pişmanlık yok. *"Sonradan çıkacak bir acı"* |
+| 0.13 | ⬜ | Silvaerûn'a ⬜ girdi / giremedi | ⬜ |
 
 ### Oyun sırasında
 
@@ -60,6 +65,7 @@ updated: 2026-08-30
 |---|---|---|
 | **Adını gömdü** | Uyandığı gün | *"Bu sefil hâlim o ismi taşımayı hak etmiyor"* — **geri alınabilir** bir karar |
 | **Güneşte yürüdü** | Uyandığı gün | Ölümsüzlük gitti. Zaman **onun için de** işliyor artık |
+| **Pixie'yi öldürdü** | Mournwood, ⬜ | Ager'deki ilk dostu, ilk adağı. **Geri alınamaz** — ve henüz hissedilmedi |
 | <!-- doldur --> | | |
 
 ## 4. Kişisel Saat — *Kartlar Yeniden Konuşuyor*
@@ -75,7 +81,7 @@ updated: 2026-08-30
 | 1 | Bir gece **hiçbir ses gelmez.** Bir yıl içinde ilk kez |
 | 2 | Sabah destede **olmayan bir kart** bulunur |
 | 3 | **Van Richten** artık *"canavar"* demiyor — **adını** söylüyor |
-| 4 | Barovia'dan **olmayan** bir ses konuşur. Ager'den biri, hâlâ yaşayan biri |
+| 4 | Barovia'dan **olmayan** bir ses konuşur. Ager'den biri — ⭐ *(öneri: **pixie.** Yaşamıyor; ama bir fey için ölüm bir son değil)* |
 | 5 | Deste bir **omen** verir. Ve omen **doğru çıkar** |
 | 6 | ⬜ **Deste geleceği yeniden söyler** — çünkü onu geri çağıran bir şey vardır |
 
@@ -89,6 +95,7 @@ updated: 2026-08-30
 | Kim | Nasıl tanıştı | Şu anki durum |
 |---|---|---|
 | **Kartlardaki sesler** | Barovia | Madam Eva · Vistaniler · Van Richten · Sergei · **Tatyana** |
+| **Pixie** ⬜ ad | Mournwood — onu kurtardı | **Ölü.** Vasili öldürdü. *"Sonradan çıkacak bir acı"* |
 | **Parti** | ⬜ *(buluşma sahnesi kararlaşmadı)* | → [04-party.md](../../../../06-campaigns/new-campaign/04-party.md#partiyi-bir-araya-getiren-şey) |
 | ⬜ Bladesong'u öğreten kişi | ⬜ | **Kim olduğu belirlenmedi** → [01-background.md](01-background.md#7-adın-gömülmesi) |
 
@@ -99,6 +106,8 @@ updated: 2026-08-30
 | **Kayıp** | Ölümsüzlük · sisler · kurtlar · gece · bütün büyüsü | Son yenilgi | — |
 | **Kayıp** | Tatyana · Barovia · adı | Son yenilgi | — |
 | **Kazanım** | **Merak** ve **özgürlük** — kendi deyimiyle *"elimde kalan tek servet"* | Uyanış | — |
+| **Kayıp** | Pixie — Ager'deki ilk ve tek dostu | Kendi eliyle, Mournwood | — |
+| **Borç / söz** | ⬜ Adağın karşılığı — Dark Powers ona **bir şey borçlu mu**, o mu onlara? | Mournwood | — |
 | Eşya | **Tarokka destesi** | Barovia | — |
 | Yara / iz | <!-- doldur --> | | |
 | Borç / söz | <!-- doldur --> | | |
@@ -112,3 +121,5 @@ updated: 2026-08-30
 - [ ] Deste **kime** çalışıyor?
 - [ ] Parti gerçek kimliğini öğrenirse ne olur?
 - [ ] Bladesong'u kimden öğrendi? *(Elf geleneği — ve o elfleri küçümsüyor)*
+- [ ] **Adak duyuldu mu?** → 🔒 [04-dm-notes.md](04-dm-notes.md#adak--dark-powers-duydu-mu)
+- [ ] **"Sonradan çıkacak acı" ne zaman çıkar?** Ve kim tetikler — deste mi, Grimnor mı, bir fey mi?

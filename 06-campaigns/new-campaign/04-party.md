@@ -5,23 +5,23 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [party, player-characters]
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # Parti
 
 **Yukarı:** [New Campaign](README.md)
 
-> Dört karakter. **İkisi yazıldı.** Her PC'nin lore'u, dünya bağları ve
-> **gelişim günlüğü** ayrı bir dosyada duruyor:
+> Dört karakter. **Dördü de yazıldı** *(ikisi DM özetiyle — oyuncu metinleri bekleniyor)*.
+> Her PC'nin lore'u, dünya bağları, **gelişim günlüğü** ve **ansiklopedisi** ayrı dosyada:
 > 📁 **[player-characters/new-campaign/](../../05-characters/player-characters/new-campaign/README.md)**
 
 | Oyuncu | Karakter | Sınıf | Tür | Dosya |
 |---|---|---|---|---|
-| **Ardan** | **Gwyndor** | **Paladin** — **undead** | ⬜ reborn? revenant? | [→](../../05-characters/player-characters/new-campaign/gwyndor.md) |
+| **Ardan** | **Gwyndor** | **Paladin** — **undead**; Mürai gazisi, eski Ravonia ordusu | ⬜ reborn? revenant? | [→](../../05-characters/player-characters/new-campaign/gwyndor/README.md) |
 | **Koray** | **Grimnor** | **Druid** — Circle of the Moon | **Orc** | [→](../../05-characters/player-characters/new-campaign/grimnor/README.md) |
 | **Erdem** | **Vasili von Holtz** | **Wizard** — Bladesinger | ⬜ | [→](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md) |
-| **Burak** | **Roful Roger** | **Monk** | ⬜ | [→](../../05-characters/player-characters/new-campaign/roful-roger.md) |
+| **Burak** | **Roful Roger** | **Monk** — denizci; night hag'in eski kurbanı | ⬜ | [→](../../05-characters/player-characters/new-campaign/roful-roger/README.md) |
 
 > ✏️ **Değişti (2026-08-30):** **Fighter slotu kaldırıldı, yerine Monk geldi.**
 > Aşağıdaki bölüm ve [Nat 1 / Nat 20 tabloları](../../08-rules/house-rules/crit-and-fumble.md#monk)
@@ -44,8 +44,10 @@ farklı bir yerden değiyor — bu tesadüf değil, kampanyanın omurgası.
 
 ### Undead Paladin — *susan tanrıya yemin etmiş bir ceset*
 
-> 👤 **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor.md)** *(Ardan)* —
+> 👤 **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor/README.md)** *(Ardan)* —
 > ✅ **undead olduğu doğrulandı** (2026-08-31); ⬜ tanrısı, oath'u ve undead tipi açık.
+> ✅ **Mürai savaşı gazisi** (2026-09-13): Ravonia Kraliyet Ordusu — yani
+> [Iron Concord](factions-in-play/the-four-answers/the-iron-concord.md)'un **öncülü**; kadrosunun çoğu **eski silah arkadaşı.**
 > **Partide sessizliği en çok hisseden kişi o** — aşağıdaki üç soru artık onun soruları.
 
 En sert bağ bu. Yemin ediyorsun, yemin **işliyor** — smite geliyor, aura duruyor —
@@ -60,6 +62,10 @@ olarak çoktan yargılanmış olman gerekirdi.
 
 > **[HOOK]** Bir undead paladin, "tanrılar sustu" krizinin **canlı kanıtı**:
 > gücün kaynağı ile gücün sahibi ayrılabiliyor.
+
+> **[HOOK]** Kampanyanın dört antagonist faksiyonundan biri onun **eski birliği.**
+> Concord asla kötü adam olarak girmez, yardım ederek girer — ve yardım edenler
+> Gwyndor'ın arkadaşları. → [Gwyndor 02-ties](../../05-characters/player-characters/new-campaign/gwyndor/02-ties.md#the-iron-concord--eski-birliği)
 
 ### Moon Druid — *doğa hiç konuşmadı ki sussun*
 
@@ -96,22 +102,31 @@ onu fark edecek kişi bu. Bladesong ayrıca elf geleneği —
 
 ### Monk — *hiçbir şey ödünç almamış olan*
 
-> 👤 **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger.md)** *(Burak)*
+> 👤 **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger/README.md)** *(Burak)* —
+> denizci; doğuştan büyüsü var; [Mother Ulkryssa](../../05-characters/npcs/minor/mother-ulkryssa.md)
+> onu komaya soktu ve bedenini bir yıl **kurye** olarak sürdü. ☄️ **Kuyruklu yıldızlar
+> hag'in kontrolünü bitirdi**; Roger cadının güçlendirdiği bedenin üstüne **kendi**
+> disiplinini kurdu. Limanlarda tanınıyor.
 
 Diğer üçünün gücü bir yerden **geliyor** ve o yer ya **susmuş** ya **düşman**.
 Roger'ınki gelmiyor — **onun.** Beden, disiplin, tekrar.
+
+> ✏️ **Ama bir çatlak var (2026-09-13):** gücü ödünç alınmadı, **bedeni ödünç
+> verildi** — sorulmadan, bir yıl. Ve onu kurtaran şey kıtanın felaketi.
+> Kontrol grubu hâlâ o; ama artık *"bariyer kalksın mı"* sorusuna kayıtsız değil
+> → [Roger DM notları](../../05-characters/player-characters/new-campaign/roful-roger/04-dm-notes.md#kontrol-neden-bitti)
 
 | Kim | Gücü nereden | Sessizlik ona ne yapıyor |
 |---|---|---|
 | **Gwyndor** | Susan bir tanrıya edilmiş yemin | **Her şey** |
 | **Grimnor** | 🔒 Bir av tanrısının deneyinden kalan | Sessizlik onun **koruyucusu** |
 | **Vasili** | Yüzyıllarca **ödünçtü**, geri alındı | Borcunu kimin çağırdığını arıyor |
-| ⭐ **Roger** | **Kendisi** | **Hiçbir şey** |
+| ⭐ **Roger** | **Kendisi** — bir hag'in bıraktığı bedenin üstünde | **Onu kurtardı.** Kalkarsa? |
 
 | Soru | Neden önemli |
 |---|---|
-| **Disiplini nereden geldi?** | Manastır mı, bir usta mı, kendi kendine mi? Kimseye borçlu değilse kimseye **hesap** da vermiyor |
-| **[Mürai savaşı](01-premise.md#mürai-savaşı)**nda var mıydı? | Savaş **bu yıl** bitti (1492–1495). Barış aylık |
+| ~~Disiplini nereden geldi?~~ | ✅ Cadının bir yıl sürdüğü beden + kendi ruhu. Usta/manastır ⬜ |
+| **[Mürai savaşı](01-premise.md#mürai-savaşı)**nda var mıydı? | ⬜ *(öneri: hayır — uyuyordu)*. *"Hangi tarafta savaştın?"* → *"Hiçbirinde"* |
 | Bir manastır varsa, o manastır bir yıldır ne yapıyor? | Tapınaklar panikte; bir manastır panik yapmayabilir |
 | Gücü kendisinden geliyorsa, **kaybedebilir mi?** | Kampanyanın ona soracağı tek zor soru |
 

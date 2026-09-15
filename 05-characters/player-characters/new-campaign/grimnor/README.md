@@ -18,7 +18,7 @@ canon: homebrew
 doc_status: usable
 tags: [pc, grimnor, moon-druid, orc, selune, malar, emerald-enclave, gorestead, new-campaign]
 source: Oyuncu notları → 00-raw-notes.md
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # Grimnor
@@ -161,6 +161,7 @@ diyecek kişi o olacak.
 | [02-ties.md](02-ties.md) | Dünyaya bağları: Gorestead, Mournwood, Charaxis, Thornhold, başkent, Selûne, Enclave |
 | ⭐ [03-development.md](03-development.md) | **Gelişim günlüğü** — oyun sırasında başına gelen her şey |
 | 🔒 [04-dm-notes.md](04-dm-notes.md) | **Avı Malar kurdu** · iki düşman · bariyer tersine çevirmesi · kaldıraçlar |
+| 📖 [05-encyclopedia.md](05-encyclopedia.md) | **Bildikleri** — kronoloji, gördüğü yerler, tanıdığı kişiler, bildiği/bilmediği her şey |
 
 ## Doğrulanacaklar
 

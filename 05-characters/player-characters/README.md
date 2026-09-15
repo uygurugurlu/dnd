@@ -3,7 +3,7 @@ type: meta
 title: Oyuncu Karakterleri
 canon: homebrew
 status: usable
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # Oyuncu Karakterleri
@@ -17,9 +17,10 @@ updated: 2026-08-30
 | Kural | Neden |
 |---|---|
 | **Kampanya başına bir klasör** | PC'ler kampanyaya bağlıdır; NPC'ler değil |
-| **Önemli PC başına bir klasör, beş dosya** | Karakter büyüdükçe dosya bölünür, README şişmez |
+| **Önemli PC başına bir klasör, altı dosya** | Karakter büyüdükçe dosya bölünür, README şişmez |
 | ⭐ **Her PC'nin bir `03-development.md`'si vardır** | *"Başına ne geldi, neye dönüştü"* tek yerde durur |
 | 🔒 **DM-only içerik ayrı dosyada** | [CLAUDE.md §7](../../CLAUDE.md) |
+| 📖 **Her PC'nin bir `05-encyclopedia.md`'si vardır** | *"Bugüne kadar ne biliyor"* — oyuncuya açık; kronoloji, gördüğü yerler, tanıdıkları. Dosyası olmayan yer/kişi 🚧 ile işaretlenir |
 | **Ham oyuncu notu değiştirilmez** | Yorum ile kaynak ayrı tutulur; çelişince kaynak haklıdır |
 | **Statblock yazılmaz** | Sheet oyuncunundur. Statblock kuralı NPC/yaratık içindir ([§5.5](../../CLAUDE.md)) |
 
@@ -37,7 +38,8 @@ player-characters/
         ├── 01-background.md        oyun başlamadan önce
         ├── 02-ties.md              dünyaya bağları
         ├── 03-development.md       ⭐ gelişim günlüğü
-        └── 04-dm-notes.md          🔒 DM-only
+        ├── 04-dm-notes.md          🔒 DM-only
+        └── 05-encyclopedia.md      📖 bildikleri — oyuncuya açık
 ```
 
 ### Şablonlar
@@ -46,11 +48,12 @@ player-characters/
 |---|---|
 | [player-character.md](../../00-meta/templates/player-character.md) | Yeni PC klasörü açarken |
 | [pc-development.md](../../00-meta/templates/pc-development.md) | Gelişim günlüğü iskeleti |
+| [pc-encyclopedia.md](../../00-meta/templates/pc-encyclopedia.md) | Bildikleri — kronoloji, yerler, kişiler |
 
 ### Yeni PC eklerken
 
 1. `player-characters/<kampanya>/<isim>/` klasörünü aç
-2. Şablondan **beş dosyayı** kur
+2. Şablondan **altı dosyayı** kur
 3. Oyuncunun ham notunu `<kampanya>/00-raw-notes.md`'ye **aynen** ekle
 4. `<kampanya>/README.md`'deki kadro tablosuna satır ekle
 5. Kampanyanın `04-party.md`'sine ve [who-is-who.md](../../09-index/who-is-who.md)'ye satır ekle
@@ -64,13 +67,13 @@ player-characters/
 
 | Oyuncu | Karakter | Sınıf | Durum |
 |---|---|---|---|
-| **Ardan** | **[Gwyndor](new-campaign/gwyndor.md)** | Paladin — **undead** | 🟡 Stub — hikâye metni bekleniyor |
+| **Ardan** | **[Gwyndor](new-campaign/gwyndor/README.md)** | Paladin — **undead**, Mürai gazisi | 🟠 Klasör — oyuncu metni bekleniyor |
 | **Koray** | **[Grimnor](new-campaign/grimnor/README.md)** | Druid — Circle of the Moon *(orc)* | ✅ Yazıldı |
 | **Erdem** | **[Vasili von Holtz](new-campaign/vasili-von-holtz/README.md)** | Wizard — Bladesinger | ✅ Yazıldı |
-| **Burak** | **[Roful Roger](new-campaign/roful-roger.md)** | **Monk** | 🟡 Stub — ad + sınıf |
+| **Burak** | **[Roful Roger](new-campaign/roful-roger/README.md)** | **Monk** — denizci, hag kurbanı | 🟠 Klasör — oyuncu metni bekleniyor |
 
-> 📈 **Stub'lar tek dosya, yazılanlar klasör.** [CLAUDE.md §4](../../CLAUDE.md)'ün
-> ölçek terfisi kuralı: kayıt tek dosyada başlar, dolunca klasöre terfi eder.
+> 📈 **Dördü de klasör** *(2026-09-13)*. 🟠 = DM özetiyle yazıldı, oyuncunun kendi
+> metni gelince düzeltilir. [CLAUDE.md §4](../../CLAUDE.md)'ün ölçek terfisi kuralı işledi.
 
 📁 **Parti sayfası:** [new-campaign/README.md](new-campaign/README.md) —
 parti içi eksenler, session akışı, bekleyenler

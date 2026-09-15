@@ -9,7 +9,7 @@ status: draft
 tags: [elf, north, silvaerun, evermeet, corellon, new-campaign]
 sources:
   - https://forgottenrealms.fandom.com/wiki/Evermeet
-updated: 2026-08-11
+updated: 2026-09-13
 ---
 
 # Silvaerun
@@ -82,6 +82,11 @@ Yani Ager'de kullanılan bütün takvim, Silvaerun'un attığı bir imzayı say�
 Chains of the Burning Compact'te infernal sözleşmeyi çözen elfler Silvaerun'daydı —
 ama parti oraya hiç gitmedi. **Bu kampanyada gidilecek.**
 (İki kampanyanın aynı zaman çizgisinde olup olmadığı henüz belirsiz.)
+
+> 👤 **PC bağı:** [Vasili von Holtz](../../../../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)
+> *(New Campaign — Erdem)* kendi evrenine dönüş yolu için Mournwood'dan buraya
+> **geçmeye çalıştı** — davetsiz. İçeri girip girmediği ⬜
+> → [02-ties.md](../../../../../05-characters/player-characters/new-campaign/vasili-von-holtz/02-ties.md#mournwood--silvaerûn--kuzey-yolu)
 
 ## Kampanya Kancaları
 

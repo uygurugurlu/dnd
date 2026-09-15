@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Şablonlar
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # Şablonlar
@@ -20,6 +20,7 @@ Yeni bir şey oluştururken **buradan kopyala**, sıfırdan format uydurma.
 | [character.md](character.md) | NPC lore dosyası (major NPC klasöründe README olarak) |
 | **[player-character.md](player-character.md)** | **Oyuncu karakteri dosyası** — PC klasörünün README'si. Statblock içermez |
 | **[pc-development.md](pc-development.md)** | **PC gelişim günlüğü** — seviye, olaylar, dönüm noktaları, kişisel saat |
+| **[pc-encyclopedia.md](pc-encyclopedia.md)** | **PC ansiklopedisi** — karakterin bildikleri: kronoloji, gördüğü yerler, tanıdığı kişiler. Oyuncuya açık |
 | **[npc-statsheet.md](npc-statsheet.md)** | **Tek dosyalık NPC statsheet'i: lore + statblock + CR doğrulaması.** Minor NPC'ler için varsayılan |
 | [statblock.md](statblock.md) | Ayrı dosyaya çıkan mekanik statblock (İngilizce, 2024 formatı) |
 | [faction.md](faction.md) | Örgüt, lonca, tarikat, düzen |

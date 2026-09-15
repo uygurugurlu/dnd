@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: adapted
 status: usable
 tags: [pc, vasili-von-holtz, ties, tarokka, portals, shar, monarchy]
-updated: 2026-08-30
+updated: 2026-09-13
 ---
 
 # Vasili von Holtz — Dünya Bağları
@@ -138,6 +138,46 @@ Yetkisi yok — ya da geçmeyi **istemedi.**
 > Vasili'nin cevap araması için **elflerin kapısını çalması** gerekiyor.
 > Bunu yapmak zorunda kalması, karakterin en iyi sahnelerinden biri.
 
+## Mournwood → Silvaerûn — kuzey yolu
+
+🌲 **[Mournwood](../../../../03-ager/continents/ravonia/regions/mournwood.md)** ·
+🌿 **[Silvaerûn](../../../../03-ager/continents/ravonia/regions/silvaerun/README.md)**
+
+*"...kendi evrenine dönmenin yolunu ararken Mournwood'dan Silvaerûn'a geçmeye
+çalışırken..."* → [01-background.md §6.5](01-background.md#65-kuzey-yolu--mournwooddan-silvaerûna)
+
+| Yer | Ne | Vasili için |
+|---|---|---|
+| **Mournwood** | Kuzey-orta orman; [Mother Ulkryssa](../../../npcs/minor/mother-ulkryssa.md)'nın ormanı; dosyası **stub** | Ölümün eşiğine geldiği ve **bir pixie'nin onu kurtardığı** yer. Ve pixie'yi **öldürdüğü** yer |
+| **[Gorestead](../../../../03-ager/continents/ravonia/villages/gorestead.md)** | Ormanın güney eteği; *"geceyi ormanda geçiren olmaz"* | ⬜ Ormana buradan mı girdi? [Grimnor](../grimnor/README.md)'ın köyü |
+| **[Eira'thalas](../../../../03-ager/continents/ravonia/regions/eirathalas.md)** | Silvaerûn'un ormanı; stub | Silvaerûn'a giden son orman |
+| **[Tharn'Kel](../../../../03-ager/continents/ravonia/cities/tharn-kel.md)** | Silvaerûn'un doğu sınırı; **cüce–elf ortak yönetimi**; Sınır Taşı bekçisi Hedda Sunder | ⬜ Sınırı buradan mı denedi? Cücelerin yönettiği bir kapı — *"cüceleri sevmiyo"* |
+| **[Caélora](../../../../03-ager/continents/ravonia/cities/caelora.md)** | Ormanın içindeki elf şehri; **davetle**; Yaprak Kapısı bekçisi Nyssen Ithren *"birinin davetsiz girmesini istiyor — merak ediyor"* | ⬜ **Girdi mi?** Bir yıldır davet yok |
+
+> ⚠️ **Grimnor'ın ormanı.** Grimnor *"kendi ormanını askerlere karşı savunur"*
+> ve o orman Mournwood. Vasili orada bir **fey öldürdü.** Grimnor bunu bilmiyor.
+> Feywild'a meraklı bir moon druid için bu, bir gün öğrenilirse **affedilmeyecek**
+> tek şey olabilir. 🔒 [04-dm-notes.md](04-dm-notes.md#adak--dark-powers-duydu-mu)
+
+> **[HOOK]** Silvaerûn'un uzmanlığı *"sözleşme, ant ve bağ çözümlemesi."*
+> Vasili'nin sorusu tam olarak bu: *bir bağ koptu — kim kopardı?* Elfler cevabı
+> biliyor olabilir ve **soruyu soranın kim olduğunu** öğrenmek isteyebilir.
+
+## Pixie
+
+🧚 ⬜ **Adı yok** *(oyuncu)*. Feywild'ın küçük halkı; Mournwood'da.
+
+| | |
+|---|---|
+| **Ne yaptı** | Hayatını kurtardı. İnişli çıkışlı bir dostluk |
+| **Ne oldu** | Vasili onu Dark Powers'a adak olarak **öldürdü** |
+| **Fey kuralları** | [feywild.md](../../../../01-cosmology/echo-planes/feywild.md#fey-kuralları-masada-i̇şleyen): *hediye borç yaratır* — pixie ona **hayat** verdi; Vasili borcu **pixie'nin hayatıyla** ödedi. Fey mantığında bu bir ödeme değil, bir **ihlal.** Bir mahkeme bunu duyabilir |
+| **Repodaki yeri** | Ayrı dosya yok; ölü. Statblock gerekirse resmî **Pixie** |
+
+> **[HOOK]** *"Sonradan çıkacak bir acı."* Deste her gece Barovia'dan konuşuyor.
+> [Kişisel saatin](03-development.md#4-kişisel-saat--kartlar-yeniden-konuşuyor)
+> 4. dilimi *"Barovia'dan olmayan bir ses"* diyordu. **O ses pixie'nin olabilir.**
+
 ## Faksiyonlar — *"çoluk çocuk"*
 
 Dört Cevap'ın liderleri: 44 · 341 · 38 · 137 yaşında.
@@ -177,9 +217,21 @@ construct'ları oradan çıkıyor.
 Yani Vasili'nin sevmediği halk, kıtanın **çalışan** kısmını elinde tutuyor.
 Bu bir önyargı değil, bir **stratejik körlük** — ve masada böyle oynanmalı.
 
+## Grimnor'ın ormanı — ve Roger'ın hapishanesi
+
+Mournwood üç PC'nin geçmişinde:
+
+| PC | Mournwood'da ne |
+|---|---|
+| **[Grimnor](../grimnor/README.md)** | *"Kendi ormanı"*; Gorestead'li; [Ulkryssa](../../../npcs/minor/mother-ulkryssa.md) onun avının tanığı |
+| **[Roful Roger](../roful-roger/README.md)** | Ulkryssa'nın **kurbanı**; bir yıl trans hâlinde o ormana **kurye** olarak gitti geldi |
+| **Vasili** | Bir pixie'nin hayatını kurtardığı ve öldürdüğü yer |
+
+> Aynı orman, aynı yıllar. Üçü de birbirini **görmüş** olabilir — ve tanımamış.
+
 ## Partideki keşiş
 
-🔒 **[Roful Roger](../roful-roger.md)** *(Burak)* bir **Monk.**
+🔒 **[Roful Roger](../roful-roger/README.md)** *(Burak)* bir **Monk.**
 
 [Günlükte](handout-journal.md) Vasili'yi yenen ve **Tatyana'yı elinden alan**
 kişi *"kel keşiş"* diye geçiyor. Vasili artık keşişlerden nefret ediyor ve

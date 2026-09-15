@@ -34,7 +34,7 @@ updated: 2026-08-30
 | | |
 |---|---|
 | **Durum** | Planlama |
-| **Parti** | **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor.md)** *(undead paladin)* · **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)** *(moon druid)* · **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** *(bladesinger)* · **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger.md)** *(monk)* |
+| **Parti** | **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor/README.md)** *(undead paladin)* · **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)** *(moon druid)* · **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** *(bladesinger)* · **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger/README.md)** *(monk)* |
 | **Başlangıç** | ⬜ seviye ve konum belirlenmedi |
 | **Ton** | Kozmik sessizlik + sınır coğrafyası + teknolojik büyü. Şehir entrikası değil, **kıta ölçeği**. |
 

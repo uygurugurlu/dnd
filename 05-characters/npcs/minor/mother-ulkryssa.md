@@ -13,7 +13,7 @@ canon: homebrew
 doc_status: draft
 tags: [night-hag, curse, mourn-wood, dreams, villain]
 source: Notion export (2026-08-10 aktarım) — Kırık Rüyalar
-updated: 2026-08-11
+updated: 2026-09-13
 ---
 
 # Mother Ulkryssa
@@ -70,6 +70,7 @@ kabuslarından besleniyor.
 | **Rhaegor** | [Kaeryth Vhalassa](kaeryth-vhalassa.md)'nın eşi; dragonborn sorcerer |
 | Akademi öğrencisi bir kız | Ravonia'da; laneti sekiz yaşındayken başlamış |
 | ⬜ **Elira Fenwill**? | Wheatrest'te 16 yaşında Wild Magic Sorcerer, ağır arcane curse altında — bağlantı doğrulanmadı |
+| 👤 **[Roful Roger](../../player-characters/new-campaign/roful-roger/README.md)** *(PC — Burak)* | Denizci, doğuştan büyü. **Kırıldı, komaya girdi, trans hâlinde kurye olarak kullanıldı** — ve 1494'te kuyruklu yıldızlar gelince kontrol koptu. **Sonuna kadar gidip dönen tek kurban.** Şimdi bir monk |
 
 ## Kampanya Kancaları
 
@@ -83,3 +84,13 @@ kabuslarından besleniyor.
 
 > **[HOOK]** Hag ölmüyor, geri çekiliyor. Bu, kampanya boyunca geri dönebilecek
 > bir düşman demek — ve her dönüşünde daha fazla genç caster tanıyor olacak.
+
+> 👤 **PC bağları (New Campaign) — üç karakter:**
+> [Grimnor](../../player-characters/new-campaign/grimnor/README.md) *(avın tanığı; ormanı onun)* ·
+> [Vasili von Holtz](../../player-characters/new-campaign/vasili-von-holtz/README.md) *(ormanında bir pixie öldürdü; adını biliyor olabilir)* ·
+> [Roful Roger](../../player-characters/new-campaign/roful-roger/README.md) *(kurbanı; bedenini bir yıl sürdü)*.
+> 🔒 → [Roger DM notları](../../player-characters/new-campaign/roful-roger/04-dm-notes.md#ulkryssanın-üç-pcsi)
+
+> **[AÇIK SORU]** DM notu Roger için *"arch hag"* diyor. Ulkryssa bir **Night Hag**;
+> terfi (coven anası / archhag) gerekiyorsa `Skill(statblock)` ile CR yeniden
+> doğrulanır → [open-questions.md](../../../00-meta/open-questions.md)

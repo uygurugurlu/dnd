@@ -7,7 +7,7 @@ ruler: Archfey (Seelie ve Unseelie Courts)
 canon: fr-canon
 status: usable
 tags: [feywild, fey, echo-plane]
-updated: 2026-08-10
+updated: 2026-09-13
 ---
 
 # The Feywild
@@ -89,6 +89,12 @@ Feydark'ta yaşar)
 
 > **[AÇIK SORU]** Ager'de Feywild geçitleri nerede? Bir fey mahkemesiyle antlaşması
 > olan bir ülke var mı?
+
+> 👤 **İlk veri (New Campaign):** [Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)
+> [Mournwood](../../03-ager/continents/ravonia/regions/mournwood.md)'da bir **pixie**yle
+> tanıştı — yani o ormanda bir fey geçidi olması muhtemel. Pixie öldü; *"hediye borç
+> yaratır"* kuralı gereği bir mahkeme bunu duymuş olabilir
+> → 🔒 [Vasili DM notları](../../05-characters/player-characters/new-campaign/vasili-von-holtz/04-dm-notes.md#adak--dark-powers-duydu-mu)
 
 ## Kampanya Kancaları
 

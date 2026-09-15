@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Değişiklik Kaydı
-updated: 2026-09-07
+updated: 2026-09-13
 ---
 
 # Değişiklik Kaydı
@@ -10,6 +10,41 @@ Evrende ne zaman ne değişti. Her önemli ekleme/karar buraya bir satır.
 Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
+
+- **2026-09-13** — 👥 **Gwyndor ve Roful Roger klasöre terfi etti; dört PC'ye ansiklopedi.**
+  DM'den üç yeni geçmiş notu geldi ve [00-raw-notes.md](../05-characters/player-characters/new-campaign/00-raw-notes.md)'ye
+  **birebir** yazıldı (oyuncuların kendi metinleri hâlâ bekleniyor).
+  - **[Gwyndor](../05-characters/player-characters/new-campaign/gwyndor/README.md)** *(Ardan)* —
+    `gwyndor.md` → `gwyndor/` (6 dosya). **Mürai savaşı gazisi; Ravonia Kraliyet Ordusu**
+    — yani [Iron Concord](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md)'un
+    öncülü; kadronun çoğu **eski silah arkadaşı.** Stane/Vashka/Marek/Gruvv/Torvi/Brann/Ashka
+    tek tek bağlandı. 🔒 Ölüm yılı için üç okuma; **öneri: 1494, Kırk Gün** — Gruvv'ün
+    on bir düğümünden biri, Concord onu ölü biliyor, undead oluşu sessizliğin ilk somut sonucu.
+  - **[Roful Roger](../05-characters/player-characters/new-campaign/roful-roger/README.md)** *(Burak)* —
+    `roful-roger.md` → `roful-roger/` (6 dosya). **Denizci; doğuştan büyü;**
+    [Mother Ulkryssa](../05-characters/npcs/minor/mother-ulkryssa.md)'nın kurbanı — koma,
+    sömürü, trans hâlinde **kuryelik**; 1494'te kuyruklu yıldızlar kontrolü bitirdi;
+    cadının güçlendirdiği bedenin üstüne **kendi** monk disiplinini kurdu. Repodaki
+    **13 liman** ve her limandan onu tanıyabilecek NPC *(öneri)* listelendi.
+    Ulkryssa'nın kurban tablosuna eklendi; *"arch hag"* sorusu açıldı.
+  - **[Vasili von Holtz](../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** —
+    yeni bölümler: **Mournwood → Silvaerûn kuzey yolu**, **pixie** (hayatını kurtaran
+    ilk dost) ve **Dark Powers'a adak** (pixie'yi kendi öldürdü; pişmanlık yok,
+    "sonradan çıkacak bir acı"). 🔒 Adak duyuldu mu — üç okuma, öneri: hayır.
+  - 📖 **Yeni dosya tipi: `05-encyclopedia.md`** — dört PC'de de. Oyuncuya açık:
+    NPC formatında **kronoloji**, evren hakkında bildiği/duyduğu/bilmediği, **gördüğü
+    yerler** (dosyası olmayanlar 🚧), **tanıdığı kişiler** (yaratılmamışlar 🚧),
+    faksiyonlar, oyuncuya sorulacaklar. Şablon:
+    [pc-encyclopedia.md](templates/pc-encyclopedia.md).
+  - Parti eksenleri güncellendi: **Mournwood üç PC'nin ortak ormanı** (Grimnor'ın ormanı ·
+    Vasili'nin cinayeti · Roger'ın hapishanesi); **Ulkryssa artık üç PC'nin** sırrını tutuyor;
+    **Concord Gwyndor'ın ailesi, Grimnor'ın işgalcisi**; kuyruklu yıldızları iyi haber
+    sayan **iki** kişi (Grimnor, Roger).
+  - Geri linkler: `mother-ulkryssa.md` · `mournwood.md` · `the-iron-concord/README.md` ·
+    `silvaerun/README.md` · `feywild.md`. Eski yola link veren 13 dosya güncellendi.
+  - Güncellenen: `new-campaign/README.md` · `player-characters/README.md` ·
+    `05-characters/README.md` · `04-party.md` · `who-is-who.md` · `crit-and-fumble.md` ·
+    `templates/README.md` · `templates/player-character.md` · `open-questions.md`
 
 - **2026-09-07** — 🌔 **Charaxis yazıldı.** İkiz dünya bir stub olmaktan çıkıp
   masada oynanabilir bir bölgeye dönüştü. `04-charaxis/` altında 25 yeni/dolmuş dosya.
@@ -65,7 +100,7 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
     *(çekirdek / saha)*; MJ dört yüzden fazlasını tutamıyor.
   - Lore değişmedi; yalnızca yeni dosya + `the-four-answers/README.md` tablo satırı.
 
-- **2026-08-31** — ✅ **[Gwyndor](../05-characters/player-characters/new-campaign/gwyndor.md)
+- **2026-08-31** — ✅ **[Gwyndor](../05-characters/player-characters/new-campaign/gwyndor/README.md)
   bir undead — doğrulandı.** DM onayı; karakterin kendi hikâye metninde de belirtiliyor.
   - Kampanyanın bu slot için baştan yaptığı **"undead paladin"** tasarımı aynen geçerli:
     [04-party.md](../06-campaigns/new-campaign/04-party.md#undead-paladin--susan-tanrıya-yemin-etmiş-bir-ceset)'deki
@@ -86,11 +121,11 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
     `05-characters/README.md` · iki PC README'si · `open-questions.md`
 
 - **2026-08-30** — 👥 **PARTİ TAMAMLANDI (4/4) + Fighter slotu Monk oldu.**
-  - **[Gwyndor](../05-characters/player-characters/new-campaign/gwyndor.md)** *(Ardan)* — **Paladin.**
+  - **[Gwyndor](../05-characters/player-characters/new-campaign/gwyndor/README.md)** *(Ardan)* — **Paladin.**
     Kampanya bu slotu *undead* olarak tasarlamıştı; ⬜ doğrulanmayı bekliyor
     çünkü **üç sistem** buna bağlı ([04-party.md](../06-campaigns/new-campaign/04-party.md) ·
     [rumor-system](../08-rules/house-rules/rumor-system.md) · [crit-and-fumble](../08-rules/house-rules/crit-and-fumble.md)).
-  - **[Roful Roger](../05-characters/player-characters/new-campaign/roful-roger.md)** *(Burak)* — **Monk.**
+  - **[Roful Roger](../05-characters/player-characters/new-campaign/roful-roger/README.md)** *(Burak)* — **Monk.**
     ⚠️ **Fighter slotu kaldırıldı.** Etkilenen her yer güncellendi:
     `04-party.md` (premise bağı yeniden yazıldı) · `crit-and-fumble.md`
     (**Fighter tablosu → Monk tablosu**, 2024 terimleriyle: Focus Point,

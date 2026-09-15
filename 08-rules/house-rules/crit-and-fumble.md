@@ -97,10 +97,10 @@ Yani sonuçların %40'ı sana özeldir.
 
 | Sınıf | Karakter | Oyuncu |
 |---|---|---|
-| [Undead Paladin](#undead-paladin) | **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor.md)** | Ardan |
+| [Undead Paladin](#undead-paladin) | **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor/README.md)** | Ardan |
 | [Moon Druid](#moon-druid) | **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)** | Koray |
 | [Bladesinger Wizard](#bladesinger-wizard) | **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** | Erdem |
-| [Monk](#monk) | **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger.md)** | Burak |
+| [Monk](#monk) | **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger/README.md)** | Burak |
 
 > ✏️ **2026-08-30:** Fighter tablosu kaldırıldı, yerine **Monk** yazıldı.
 

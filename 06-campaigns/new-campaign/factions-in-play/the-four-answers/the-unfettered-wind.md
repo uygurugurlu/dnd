@@ -391,7 +391,7 @@ Vane **6 Fraying** puanında.
 > Parti kazanamayacağı bir savunmayı örgütlemek zorunda ve savundukları adam
 > gerçekten iğrenç biri. **Bu tek sahne kampanyanın tonunu kurar.**
 
-> **[HOOK]** **[Roger](../../../../05-characters/player-characters/new-campaign/roful-roger.md) için:** Vane ona *"Kimin ordusundaydın?"* diye sorar.
+> **[HOOK]** **[Roger](../../../../05-characters/player-characters/new-campaign/roful-roger/README.md) için:** Vane ona *"Kimin ordusundaydın?"* diye sorar.
 > Cevap ne olursa olsun, bir sonraki sorusu: *"Ve o adam şimdi nerede yaşıyor?"*
 
 > **[HOOK]** Vane partiye zarar vermek istemiyor. **İşe almak** istiyor.

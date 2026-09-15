@@ -7,8 +7,8 @@ campaign: New Campaign
 canon: homebrew
 status: usable
 tags: [pc, raw, notes, new-campaign]
-source: DM'in oyuncularla yaptığı görüşmeler + WhatsApp (6.08.2026) + DM notları (30.08.2026)
-updated: 2026-08-30
+source: DM'in oyuncularla yaptığı görüşmeler + WhatsApp (6.08.2026) + DM notları (30.08.2026, 31.08.2026, 13.09.2026)
+updated: 2026-09-13
 ---
 
 # Oyuncu Notları — Ham Metin
@@ -87,14 +87,25 @@ hâliyle duruyor:
 
 📜 **→ [vasili-von-holtz/handout-journal.md](vasili-von-holtz/handout-journal.md)**
 
+DM'den gelen satırlar *(2026-09-13)*:
+
+```
+vasili ise bu evrene geldikten sonra kendi evrenine dönmenin yolunu ararken
+mournwooddan silvaeruna geçmeye çalışırken bir pixie ile tanışıyor ve bu pixie
+hayatını kurtarıyor, biraz inişli çıkışlı da olsa bir arkadaşlık kuruyolar, bu
+arkadaşlığın sonunda ise vasili dark powersa bir adak adamak için bu pixieyi
+kendisi öldürüyor bir pişmanlık hissetmeden ama içinde bunun sonradan çıkacak
+bir acısı var.
+```
+
 ---
 
-## Ardan → [Gwyndor](gwyndor.md) · Paladin *(undead)*
+## Ardan → [Gwyndor](gwyndor/README.md) · Paladin *(undead)*
 
-> ⚠️ **Gwyndor'ın kendi hikâye metni HENÜZ BU REPODA DEĞİL.**
+> ⚠️ **Gwyndor'ın kendi (oyuncunun yazdığı) hikâye metni HENÜZ BU REPODA DEĞİL.**
 > DM *"hikâyesinde de bu belirtiliyor"* dedi — yani bir arka plan metni **var**,
 > ama buraya aktarılmadı. Geldiğinde **birebir** bu bölüme yazılacak;
-> özetlenmeyecek, düzeltilmeyecek.
+> özetlenmeyecek, düzeltilmeyecek. Aşağıdaki DM özeti onun yerini **tutmaz.**
 
 DM'den gelen satırlar *(2026-08-31)*:
 
@@ -104,9 +115,17 @@ gwyndor=paladin
 evet gwyndor bir undead, hikayesinde de bu belirtiliyor
 ```
 
-## Burak → [Roful Roger](roful-roger.md) · Monk
+DM'den gelen satırlar *(2026-09-13)*:
 
-> ⚠️ **Roger'ın kendi hikâye metni de henüz yok.** Aynı kural geçerli.
+```
+gwyndor ise mürai savaşında savaşmış bir asker olarak aslında iron concordun
+iron concord olmadan önceki halini ve bu birlikteki çoğu insanı tanıyor, çoğu
+eski silah arkadaşı.
+```
+
+## Burak → [Roful Roger](roful-roger/README.md) · Monk
+
+> ⚠️ **Roger'ın kendi (oyuncunun yazdığı) hikâye metni de henüz yok.** Aynı kural geçerli.
 
 DM'den gelen satırlar *(2026-08-31)*:
 
@@ -115,6 +134,23 @@ burak'ın karakterinin adı Roful Roger
 Fighter artık yok classı monk olarak değişti ve adı roger
 roful roger tam adı
 ```
+
+DM'den gelen satırlar *(2026-09-13)*:
+
+```
+roful şu repoda bulabileceğin arch hag'in kurbanlarından biri, doğuştan büyü
+gücü var ve bu hag onu komaya sokmuş sömürmüş ve hatta bu trans halindeyken
+getir götür için kullanmış, bu possesslenmiş olduğu vakitte fiziksel gücü
+geliştiği için monk olmasının temeli atılmış, kuyruklu yıldızların gelmesiyle
+bu hagin kontrolü  son bulmuş ve ruhani tarafını güçlendirmiş ve tam bir monka
+dönüşmüş, karakteri bir denizci ve çok arkadaş canlısı çoğu limanda yardım
+ettiği onu tanıyan insanlar var.
+```
+
+> **Not:** *"arch hag"* — repodaki tek hag **[Mother Ulkryssa](../../npcs/minor/mother-ulkryssa.md)**
+> (Night Hag, Mourn Wood). Dosyalar onun üzerinden yazıldı; *"arch"* kelimesinin
+> bir tür yükseltmesi (archhag) mi, yoksa sadece vurgu mu olduğu
+> [open-questions.md](../../../00-meta/open-questions.md)'de açık.
 
 > **Not:** *"adı roger"* bir ad değişikliği değil — **tam ad "Roful Roger"**,
 > masada **Roger**. DM 2026-08-31'de doğruladı.
