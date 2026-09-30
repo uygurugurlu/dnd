@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, roful-roger, development, log, monk, night-hag]
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # Roful Roger — Gelişim Günlüğü
@@ -49,7 +49,7 @@ updated: 2026-09-13
 
 | # | Tarih (DR) | Session | Ne oldu | Karakterde ne değişti |
 |---|---|---|---|---|
-| 1 | <!-- doldur --> | | | |
+| 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | **Kendi gemisi [the Hungry Gull](../../../npcs/minor/the-hungry-gull/README.md) ve mürettebatıyla** Calithra limanına geldi; ekip şehirde takılıyor. **Moondust'lı ekmek** yedi — kafası güzel oldu. Ekiple **Kırıkbağ**'a gidip Iron Concord bariyerine dayandılar | Yalnız bir monk değil — **bir kaptan.** Gemisi ve crew'i Roger'ın **koma sonrası** dünyası; Calithra'da kayıt yok, kimse sormaz |
 
 ## 3. Dönüm Noktaları
 
@@ -88,7 +88,7 @@ updated: 2026-09-13
 |---|---|---|
 | **[Mother Ulkryssa](../../../npcs/minor/mother-ulkryssa.md)** | Onu avladı | Geri çekildi. ⬜ Roger adını biliyor mu? |
 | **Limanlardaki tanıdıklar** ⬜ | Yardım etti | [02-ties.md](02-ties.md#limanlar--onu-tanıyan-insanlar) — Burak seçecek |
-| **Gemisi / kaptanı** ⬜ | ⬜ | ⬜ Koma sırasında gemi ne oldu? |
+| ⭐ **[Hungry Gull mürettebatı](../../../npcs/minor/the-hungry-gull/README.md)** | Kaptanları o — *(session 01: Calithra limanına birlikte geldiler)* | **Yanında.** Şehirde takılıyorlar. ⬜ Koma sırasında gemi ne oldu? *(crew onu uyanınca buldu — öneri)* |
 | **Parti** | ⬜ *(buluşma sahnesi kararlaşmadı)* | → [04-party.md](../../../../06-campaigns/new-campaign/04-party.md#partiyi-bir-araya-getiren-şey) |
 
 ## 6. Kazanımlar ve Kayıplar

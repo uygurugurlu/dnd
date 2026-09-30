@@ -388,8 +388,9 @@ sandığı için Fig muhtemelen Calithra'nın en iyi beslenen sakini.
 > **[HOOK]** Fig üç gün kayboldu ve şehir **gerçekten** paniğe kapıldı. Bulunduğunda
 > boynunda olmayan bir şey vardı: küçük, gümüş, arp şeklinde bir halka. → ⚜️
 
-> **[DM ONLY]** Fig bir familiar olabilir. Kimin? Üç aday →
-> [05-secrets-dm-only.md](05-secrets-dm-only.md)
+> **[DM ONLY]** Fig **yüzlerce yaşında** ve **Calith Auveran'ın familiar'ı** (fey doğumlu bir kedi; *Fey*). **Shapeshifter değil** — *True Seeing* ve *Detect Magic* yalnız bir kedi ve zayıf bir bağ aurası gösterir. Fig'in uzun ömrü, Calith'in **hâlâ yaşadığının** göstergesi. Halka, Calith'in yalnız-arp **Brightcandle** mührü (Harper işareti). Detay, üç açıklama ve statblock → [fig.md](../../../../../05-characters/npcs/minor/fig.md). Sır sırası: [05-secrets-dm-only.md](05-secrets-dm-only.md).
+
+**Statblock:** [fig.md](../../../../../05-characters/npcs/minor/fig.md) — Tiny Fey (familiar), CR 1/2.
 
 ---
 

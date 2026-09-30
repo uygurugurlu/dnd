@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, gwyndor, encyclopedia, knowledge, chronology, murai-war, iron-concord]
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # 📖 Gwyndor — Bildikleri
@@ -160,3 +160,17 @@ updated: 2026-09-13
 - [ ] Concord'dan kimler seni **ölü** biliyor?
 - [ ] Ordu dağıtıldığında neredeydin?
 - [ ] Ashka'ya ne diyorsun?
+
+---
+
+## 7. Session 01 — Yeni Öğrendikleri
+
+> Oyuncuya açık. DM-only cevaplar burada **yok.**
+
+- **Stane**, Gwyndor'ı **tanıyor** — Kırıkbağ kordonunda karşılaştılar; içeri almadı, **ertesi gün** konuşmak istedi
+- **Birkaç shapeshifter** Grafting'e girmeye çalıştı *(Stane'den)*
+- ⭐ Shapeshifter'ların **bir dini** ve **tek bir ortak aklı** var; Grafting'in gücüne erişmek istiyorlar *(Religion Nat 20)*. Ortak aklın **ne** olduğunu **bilmiyor**
+- **Lover's Cut masalı** ([İki Kıta Masalı](../../../../03-ager/continents/ravonia/regions/calithra/lovers-cut-tale.md)): Ravonia ve Karsovia iki sevgiliydi; tanrıların cezasıyla etleri kıta, kanları deniz oldu. Halk masalı — **ama parti ciddiye aldı.** Anlattığı kıtaları kimin/neyin oluşturduğu ⬜
+- **Fig** ([→](../../../npcs/minor/fig.md)): Calithra'nın kedisi **yüzlerce yaşında**; sahibi **kentin kurucusu**. Kim olduğu ve neden bu kadar yaşadığı ⬜
+
+*Kaynak: [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md)*

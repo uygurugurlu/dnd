@@ -3,7 +3,7 @@ type: meta
 title: Kim Kimdir
 canon: mixed
 status: usable
-updated: 2026-08-30
+updated: 2026-09-30
 ---
 
 # Kim Kimdir
@@ -105,6 +105,17 @@ Unwoven'ın seçtiği dört lider →
 | **Ysolde Marr** | Elf, 341 | Silvaerun'un eski yüksek rahibesi; [First Communion](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)'ın *"Mouth of the First Voice"*u | **→** |
 | **Vane** | Tiefling, 38 | *"the Footless"* — [Unfettered Wind](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-unfettered-wind.md); yere on bir yıldır değmedi | **→** |
 | **Marshal Vharra Stane** | Dwarf, 137 | [Iron Concord](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md)'un kurucusu; Mürai savaşının mühendis-komutanı | **→** |
+
+### Parti bağlantılı NPC'ler — New Campaign
+
+| Kim | Tür | Ne | CR |
+|---|---|---|---|
+| [Dagmar Rusk](../05-characters/npcs/minor/the-hungry-gull/dagmar-rusk.md) | Human | The Hungry Gull — birinci zabit | 4 |
+| [Jorun Ladle](../05-characters/npcs/minor/the-hungry-gull/jorun-ladle.md) | Human | The Hungry Gull — aşçı, tekme dövüşçüsü | 3 |
+| [Ione Pell](../05-characters/npcs/minor/the-hungry-gull/ione-pell.md) | Halfling | The Hungry Gull — navigatör | 2 |
+| [Tobbin Tall-Tale](../05-characters/npcs/minor/the-hungry-gull/tobbin-tall-tale.md) | Human | The Hungry Gull — nişancı, yalancı | 2 |
+| [Pip Fenn](../05-characters/npcs/minor/the-hungry-gull/pip-fenn.md) | Gnome | The Hungry Gull — gemi cerrahı | 1 |
+| [Fig](../05-characters/npcs/minor/fig.md) | Fey kedi | Calithra'nın kedisi; Calith Auveran'ın familiar'ı | 1/2 |
 
 ### Faksiyon kadroları — statsheet'li NPC'ler
 

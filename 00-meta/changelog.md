@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Değişiklik Kaydı
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # Değişiklik Kaydı
@@ -11,6 +11,14 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-09-30** — 🎲 **New Campaign: Session 01 — Calithra Kavşağı.**
+  - **[session-01](../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md)** + `sessions/README.md` + `03-timeline.md`.
+  - **PC günlükleri:** dört `03-development.md` satırı; dört `05-encyclopedia.md` §7; Roger README'ye mürettebat bölümü; Gwyndor `04-dm-notes` **Shapeshifter'lar** bölümü (Religion Nat 20: dini + ortak akıl).
+  - **Yeni NPC'ler:** [the-hungry-gull/](../05-characters/npcs/minor/the-hungry-gull/README.md) (Roger'ın crew'i, statblock'lu) · [Fig](../05-characters/npcs/minor/fig.md) (Calith'in familiar'ı; **Calith yaşıyor** — DM-only); Calithra `people.md` + `05-secrets-dm-only.md` Fig satırları güncellendi.
+  - **Lover's Cut masalı** oyunda canon oldu → kıtaları yaratan entity'ye bağlanması `open-questions.md`'de.
+  - **Session 01 devamı:** Ilva takibi (kol kesildi, guild'den atıldı) · Vesna partiyi Merdiven Altı'na aldı (2. giriş: Standing Stone arkası) · Harper görevi → **[session-02](../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md)** (Grafting içi dungeon).
+  - **Session 02 (prep):** [session-02](../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) — Grafting içi dungeon (Z1 köprü/ghoul/köy evi, Feywild, Shadowfell, merkez, Vasili sahnesi, 5×L3 XP dengesi). **Yeni yaratık:** [Hollow Guest](../02-lore/bestiary/hollow-guest.md) (homebrew boss; CR 5 = 5×L3, CR 7 = L5 parti).
+  - **Saha tahtası notu:** Stane Kırıkbağ'a bizzat geldi ([iron-concord-teams.md](../06-campaigns/new-campaign/factions-in-play/the-four-answers/field-ops/iron-concord-teams.md)).
 - **2026-09-27** — 🌲 **CotBC: Silvaerûn Yolu arc'ı (lvl 8, Wheatrest sonrası).**
   - **[arcs/road-to-silvaerun/](../06-campaigns/chains-of-the-burning-compact/arcs/road-to-silvaerun/README.md)**
     (+ `arcs/README.md`): üç rota — **A** kara + orman (~20 gün; Thornhold, Gorestead,

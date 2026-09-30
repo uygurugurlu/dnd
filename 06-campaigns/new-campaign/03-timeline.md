@@ -5,7 +5,7 @@ campaign: New Campaign
 canon: homebrew
 status: stub
 tags: [timeline]
-updated: 2026-08-11
+updated: 2026-09-30
 ---
 
 # Zaman Çizelgesi
@@ -67,7 +67,7 @@ updated: 2026-08-11
 
 | # | Başlık | Tarih | Özet |
 |---|---|---|---|
-| <!-- doldur --> | | | |
+| 1 | [Calithra Kavşağı](sessions/session-01-calithra-kavsagi.md) | 20 Uktar 1495 DR | Parti Calithra'da karşılaştı; Roger kendi gemisi ve crew'iyle geldi. Kırıkbağ'da Iron Concord bariyeri; Stane Gwyndor'ı tanıyor, ertesi gün görüşme. Shapeshifter'ların dini + ortak aklı (Nat 20). Lover's Cut masalı, Fig (Calith'in familiar'ı). Vasili Grafting'e kadar ittifak |
 
 > Her session sonrası: `sessions/session-NN-<slug>.md` aç, bu tabloya satır ekle,
 > değişen dünya dosyalarını güncelle, `00-meta/changelog.md`'ye satır at.

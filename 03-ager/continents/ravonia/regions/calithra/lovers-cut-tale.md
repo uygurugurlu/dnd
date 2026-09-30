@@ -5,7 +5,7 @@ continent: Ravonia
 canon: homebrew
 status: usable
 tags: [calithra, lovers-cut, myth, folklore, bex-anadare, read-aloud]
-updated: 2026-08-12
+updated: 2026-09-30
 ---
 
 # İki Kıta Masalı
@@ -165,6 +165,12 @@ Ve bence tanrılar bunu fark ettiklerinde **çok sinirlenmişlerdir.**
 ---
 
 ## Notlar
+
+> ✅ **Oynandı — Session 01 (20 Uktar 1495).** Parti masalı dinledi ve **çok ilgi gösterdi.**
+> Artık oyuncular nezdinde **canon** — ve **kıtaları oluşturduğu söylenen entity'ye
+> bağlanması gerekiyor** → [open-questions.md](../../../../00-meta/open-questions.md).
+> Aşağıdaki *"Bu doğru mu?"* üç kullanımı bu seçimin adayları.
+> → [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md)
 
 ### Neden bu masal önemli
 

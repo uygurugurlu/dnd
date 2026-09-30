@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, gwyndor, development, log, undead, iron-concord]
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # Gwyndor — Gelişim Günlüğü
@@ -52,7 +52,7 @@ updated: 2026-09-13
 
 | # | Tarih (DR) | Session | Ne oldu | Karakterde ne değişti |
 |---|---|---|---|---|
-| 1 | <!-- doldur --> | | | |
+| 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Calithra'da partiyle karşılaştı. Kırıkbağ'da Iron Concord bariyerine dayandı, **forsunu kullanıp** yetkili biriyle görüşmek istedi; **[Marshal Stane](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md#marshal-vharra-stane)** geldi — daha önce tanışıyorlardı. İçeri alınmadı; **ertesi gün** görüşme sözü. Avı **shapeshifter'lar** — Stane, birkaçının Grafting'e girmeye çalıştığını söyledi. ⭐ **Religion Nat 20:** shapeshifter'ların **dini** ve **tek bir ortak aklı** var; Grafting'in gücüne erişmek istiyorlar | Avı *"kaçaklar"* olmaktan çıktı, **bir kolektif** oldu. Concord ile ilk temas kuruldu — ve Stane onu **bekliyordu** |
 
 ## 3. Dönüm Noktaları
 

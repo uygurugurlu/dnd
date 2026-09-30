@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, grimnor, encyclopedia, knowledge, chronology, gorestead, charaxis, orcs]
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # 📖 Grimnor — Bildikleri
@@ -142,3 +142,16 @@ updated: 2026-09-13
 - [ ] Enclave'de kimi tanıyorsun — üye misin?
 - [ ] Partiye oyunu anlatacak mısın?
 - [ ] `kom 20 15 değiş` ne demek?
+
+---
+
+## 7. Session 01 — Yeni Öğrendikleri
+
+> Oyuncuya açık. DM-only cevaplar burada **yok.**
+
+- Bir **sincap** kediden şikâyetçiydi; Grimnor kediye **yemek verip** sincapları rahat bırakmasını söyledi
+- Roger **moondust'lı** bir ekmek yedi *(Grimnor'ın uyuşturucu karşıtlığı burada devreye girebilir ⬜)*
+- **Lover's Cut masalı** ([İki Kıta Masalı](../../../../03-ager/continents/ravonia/regions/calithra/lovers-cut-tale.md)): Ravonia ve Karsovia iki sevgiliydi; tanrıların cezasıyla etleri kıta, kanları deniz oldu. Halk masalı — **ama parti ciddiye aldı.** Anlattığı kıtaları kimin/neyin oluşturduğu ⬜
+- **Fig** ([→](../../../npcs/minor/fig.md)): Calithra'nın kedisi **yüzlerce yaşında**; sahibi **kentin kurucusu**. Kim olduğu ve neden bu kadar yaşadığı ⬜
+
+*Kaynak: [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md)*

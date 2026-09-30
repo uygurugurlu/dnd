@@ -18,7 +18,7 @@ canon: homebrew
 doc_status: draft
 tags: [pc, roful-roger, monk, sailor, sorcerer-blood, night-hag, mournwood, ulkryssa, ports, new-campaign]
 source: DM notları → 00-raw-notes.md (2026-08-31, 2026-09-13)
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # Roful Roger
@@ -141,6 +141,17 @@ Roger'ın monk gücü **kendisinin.** Ama karakterin asıl cümlesi başka:
 | Denize dönmek / limanları dolaşmak | Herkes | [Limanlar](02-ties.md#limanlar--onu-tanıyan-insanlar) |
 | ⬜ Büyüsünü ne yapacağına karar vermek | Kendisi | [Level Hand](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-level-hand.md) · [Ledger](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md#the-ledger) |
 | İnsanlara yardım etmek | Herkes | Karakterin motoru. Kampanya bunu **ödüllendirmeli** |
+
+## ⭐ Mürettebat — the Hungry Gull
+
+> **Session 01'de eklendi.** Roger Calithra'ya **tekneyle, kendi crew'i ile** geldi.
+> Karakter *One Piece* esinli: coşkulu, sadık, gürültülü bir kaptan; crew onun
+> yardım ettiği insanlardan oluşuyor. Ekip **şu an Calithra'da takılıyor** ve **arada
+> sahneye girer** — boş NPC değiller.
+
+| Klasör | Ne |
+|---|---|
+| 📁 **[the-hungry-gull/](../../../npcs/minor/the-hungry-gull/README.md)** | Gemi, kadro tablosu, sahne dizilimi, her üyenin statblock'u |
 
 ## Bağlı Dosyalar
 

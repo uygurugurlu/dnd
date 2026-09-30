@@ -7,7 +7,7 @@ canon: homebrew
 status: usable
 board_date: 20 Uktar 1495 DR
 tags: [iron-concord, field-ops, tracker, four-answers, ledger, concord-towers, new-campaign]
-updated: 2026-08-30
+updated: 2026-09-30
 ---
 
 # Iron Concord — Saha Kolları
@@ -48,6 +48,7 @@ makbuzu ve yerine geçecek adamı vardır. Bu tahtada bunun üç sonucu var:
 | **Neyi kovalıyor** | Ravonia'nın **doğu kıyısında hukukî dayanak.** Kule programını oraya açmak için bir gerekçe lazımdı — Kırıkbağ o gerekçeyi bedavaya verdi |
 | **Sonraki hamle** | Kule programını doğu kıyısına genişletmek; Hammerfall'a ikinci sipariş |
 | **Ne olursa hareket eder** | Bir kolon **kaybedilirse** kendi gelir. Bunu iki kez yaptı, ikisinde de kolon geri alındı |
+| **Session 01 (2026-09-30)** | ⭐ **Stane Kırıkbağ'a bizzat geldi** — kordonda Gwyndor'la karşılaştı, içeri almadı, ertesi gün görüşme istedi. Tahtadaki *"Fortyday'de"* satırı **artık geçerli değil** ⬜ |
 | **Partinin gördüğü iz** | Her Concord makbuzunun altında aynı imza. Parti kıtanın dört ucunda aynı imzayı görür ve bir süre bunun bir mühür olduğunu sanır |
 
 ---

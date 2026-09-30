@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, roful-roger, encyclopedia, knowledge, chronology, ports, sailor]
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # 📖 Roful Roger — Bildikleri
@@ -173,3 +173,17 @@ updated: 2026-09-13
 - [ ] Monk'u nerede, kiminle tamamladın?
 - [ ] Kuyruklu yıldızlar seni kurtardı — **onlara ne diyorsun?**
 - [ ] Kel misin?
+
+---
+
+## 7. Session 01 — Yeni Öğrendikleri
+
+> Oyuncuya açık. DM-only cevaplar burada **yok.**
+
+- Kendi gemisi **[the Hungry Gull](../../../npcs/minor/the-hungry-gull/README.md)** ve **mürettebatı** Calithra limanında
+- Fırından **moondust'lı ekmek** yedi; kafası güzel oldu. Ekmeğin içine kimin koyduğunu **bilmiyor**
+- Kırıkbağ'da **Iron Concord** bariyeriyle karşılaştılar
+- **Lover's Cut masalı** ([İki Kıta Masalı](../../../../03-ager/continents/ravonia/regions/calithra/lovers-cut-tale.md)): Ravonia ve Karsovia iki sevgiliydi; tanrıların cezasıyla etleri kıta, kanları deniz oldu. Halk masalı — **ama parti ciddiye aldı.** Anlattığı kıtaları kimin/neyin oluşturduğu ⬜
+- **Fig** ([→](../../../npcs/minor/fig.md)): Calithra'nın kedisi **yüzlerce yaşında**; sahibi **kentin kurucusu**. Kim olduğu ve neden bu kadar yaşadığı ⬜
+
+*Kaynak: [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md)*

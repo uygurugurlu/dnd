@@ -277,6 +277,8 @@ neredeyse hiçbir şey yok. Harpers burada **yazmaz.**
 [Nedra Corm](people.md#nedra-corm) (Watcher) · **+ bir kişi daha** — hücrenin kendisi
 bile onun kim olduğunu bilmiyor.
 
+> ✅ **İkinci giriş (Session 01):** [Standing Stone](standing-stone.md)'un **arkasında.** Vesna partiyi buradan aldı — hücre artık partiye **açık.**
+
 Ayrıntı ve hücrenin asıl sorunu → [05-secrets-dm-only.md](05-secrets-dm-only.md)
 
 ---

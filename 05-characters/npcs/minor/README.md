@@ -3,7 +3,7 @@ type: meta
 title: Minor NPC'ler
 canon: homebrew
 status: usable
-updated: 2026-08-30
+updated: 2026-09-30
 ---
 
 # Minor NPC'ler
@@ -31,11 +31,18 @@ tablosunu, sahne dizilimini ve iç çatlaklarını taşır — NPC'yi masada ara
 | 📁 **[the-first-communion/](the-first-communion/README.md)** | [The First Communion](../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md) — *druidler; elf, dragonborn, tiefling* | 5 | 4–8 |
 | 📁 **[the-unfettered-wind/](the-unfettered-wind/README.md)** | [The Unfettered Wind](../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-unfettered-wind.md) — *anarşist hücreler* | 5 | 4–8 |
 
+**Parti bağlantılı:**
+
+| Klasör | Ne | Kaç NPC | CR bandı |
+|---|---|---|---|
+| 📁 **[the-hungry-gull/](the-hungry-gull/README.md)** | [Roger](../../player-characters/new-campaign/roful-roger/README.md)'ın mürettebatı | 5 | 1–4 |
+
 **Klasör dışında duranlar:**
 
 | Kim | Nerede | Neden |
 |---|---|---|
 | [Halden Rooke](../major/halden-rooke/README.md) | `npcs/major/halden-rooke/` | **Major NPC** — çok dosyalı yapı (CLAUDE.md §4) |
+| [Fig](fig.md) | `minor/fig.md` | Calithra'nın kedisi; **Calith Auveran'ın familiar'ı** (CR 1/2) |
 | [Concord Ironclad](../../../02-lore/bestiary/concord-ironclad.md) | `02-lore/bestiary/` | Yaratık, NPC değil |
 
 ### Hızlı bakış — 19 NPC, CR sırasına göre

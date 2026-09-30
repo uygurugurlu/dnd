@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: adapted
 status: draft
 tags: [pc, vasili-von-holtz, development, log]
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # Vasili von Holtz — Gelişim Günlüğü
@@ -57,7 +57,7 @@ updated: 2026-09-13
 
 | # | Tarih (DR) | Session | Ne oldu | Karakterde ne değişti |
 |---|---|---|---|---|
-| 1 | <!-- doldur --> | | | |
+| 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Ekibe **önyargılıydı.** Ama **Shadowfell'e açılan** Grafting'in ve **Dark Powers'a ulaşma açlığının** çekimiyle **Grafting'e girene kadar** ekiple hareket etmeyi kabul etti | İlk kez **başkalarıyla** çalışıyor — süre sınırı kendi koyduğu: **kapıya kadar** |
 
 ## 3. Dönüm Noktaları
 

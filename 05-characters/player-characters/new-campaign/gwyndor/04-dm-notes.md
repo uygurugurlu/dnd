@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, gwyndor, dm-only, undead, iron-concord, fortyday, silent-gods]
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # 🔒 Gwyndor — DM Notları
@@ -135,6 +135,32 @@ kıran istihkâmcı; Kırk Gün'e yetişemedi, Concord'a katıldı, **firar etti
 > Bunu bir kez kullan — iki kez kullanırsan karakteri tarafsız kalmaya zorlar.
 
 ---
+
+## Shapeshifter'lar
+
+> **[DM ONLY]** *(Session 01, 2026-09-30)* Gwyndor'ın bu vadideki **tek amacı**
+> shapeshifter'ları bulmak — ve onları takip ediyor. **Neden** onları avladığı ⬜
+> *(öneri: ölümünde ya da Kırk Gün'de bir shapeshifter vardı — bkz. üç okuma yukarıda)*.
+
+| Ne | Durum |
+|---|---|
+| Stane'in söylediği | **Birkaç shapeshifter Grafting'e girmeye çalıştı** — Concord kayda geçirdi |
+| ⭐ **Religion Nat 20** | Shapeshifter'ların **bir dini** var ve **tek bir ortak akılla** yönetiliyorlar. Grafting'in içindeki güce **hepsi** erişmek istiyor |
+| Oyuncunun bildiği | Yukarıdaki iki satır. **Ortak aklın ne olduğunu bilmiyor** |
+| Kampanyaya etkisi | Kırıkbağ'daki Grafting artık **beşinci bir oyuncu** çekiyor: Level Hand · First Communion · Concord · Wind **+ shapeshifter kolektifi** |
+
+**Ortak akıl ne? ⬜** Üç aday — hiçbiri seçilmedi
+→ [open-questions.md](../../../../00-meta/open-questions.md):
+
+| Aday | Ne anlama gelir |
+|---|---|
+| **Bir doppelganger hive-mind'ı** | Grafting'teki *aralık* onlar için **kimliğin sıfır noktası** — Dikiş'te *"hiçbir yerde"* olmak, hiçbir suretin olmaması demek |
+| **[The Unwoven](../../../../02-lore/magic/the-unwoven.md)'ın bir yüzü** | Şekil değiştirmek = sınırsız yaratıcı güç; Unwoven'ın kendini anlama arayışının *başka bir aynası* |
+| **Bir tanrının kalıntısı** | Susan bir tanrının cevapsız ibadeti — Gwyndor'ın kendi soruşuna **ayna** |
+
+> **[HOOK]** Nat 20 partiyi **yalnız Gwyndor'ın avı** yapmıyor: Vasili'yi çeken şey
+> (Shadowfell) ile shapeshifter'ları çeken şey **aynı yer.** *Dikiş'in içinde bir
+> shapeshifter beklerse, ilk dövüş Vasili'nin kapıdan geçtiği andır.*
 
 ## Altıncı Dilim
 

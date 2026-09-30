@@ -6,7 +6,7 @@ canon: homebrew
 status: draft
 dm_only: true
 tags: [calithra, dm-only, secrets, harpers, finder-wyvernspur]
-updated: 2026-08-12
+updated: 2026-09-30
 ---
 
 # Calithra — Sırlar
@@ -49,6 +49,14 @@ Hücre 1389'dan beri kesintisiz çalışıyor. **106 yıl.**
 | [Ilva Sunderly](people.md#ilva-sunderly) | **Harpshadow** | Vinççi / dansçı | Limandaki her yük. Hiçbirini yazmıyor |
 | [Nedra Corm](people.md#nedra-corm) | **Watcher** | Bağcı / şarap evi | Fıçılar kurye. Ters kapak halkası = mesaj |
 | **?** | ⬜ | ⬜ | Hücre bile bilmiyor — Calith'in bıraktığı "dördüncü sandalye" |
+
+> ✅ **Oynandı (Session 01, 2026-09-30):** parti hücreyi **buldu.** [Ilva](people.md#ilva-sunderly)
+> partiyi takip ederken **Harper olduklarını açığa vurdu**, Vasili **kolunu kesti**,
+> Harpers **Ilva'yla ilişkiyi kesti.** [Vesna](people.md#vesna-marroc) partiyi
+> [Merdiven Altı](places.md#merdiven-altı--the-understair)'na aldı — **ikinci giriş
+> [Standing Stone](standing-stone.md)'un arkasında** — ve partiye
+> [Kırıkbağ Grafting](../../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md)
+> için görev verdi. Hücre artık **açık.**
 
 ### Nota şifresi
 
@@ -202,7 +210,7 @@ partinin ahlaki sorusu tamamlanır.
 | [Ospren](people.md#ospren-callow)'in mahzeni | 1490'da bırakılan sandık: içinde bir çocuk portresi ve bir ordu mührü var. Sahibi [Halvard](people.md#halvard-ost) |
 | [Marto Belh](people.md#marto-belh) | Okuma biliyor. Yaktığı mektuplardan yedisini okudu ve ikisinde parti üyelerinden birinin adı geçebilir |
 | [Sister Nolwen](people.md#sister-nolwen) | Rahibeliği **Ilmater**'e idi. Bıraktı çünkü acıyı hafifletmeyi bıraktı — sadece hatırlıyor |
-| [Fig](people.md#fig) | Familiar mı? d3: 1 = Vesna'nın, 2 = kimsenin (sadece kedi), 3 = **öbür yakadaki hücrenin** |
+| [Fig](people.md#fig) | **Karar (Session 01):** Calith Auveran'ın **familiar**'ı; yüzlerce yaşında, fey doğumlu, shapeshifter **değil.** Uzun ömrü Calith'in **yaşadığının** göstergesi; halka Calith'in yalnız-arp Harper mührü. Üç açıklama ve öneri → [fig.md](../../../../../05-characters/npcs/minor/fig.md#uzun-ömrün-üç-adayı). *(Eski d3 tablosu — Vesna'nın / kimsenin / öbür yaka hücresinin — kaldırıldı.)* |
 | [Bex Anadare](people.md#bex-anadare) | Gerçekten bir kralın üçüncü oğlu. Hangi kralın olduğunu **kendisi de söylemiyor** ⬜ |
 | Kırmızı Perde'nin arka odası | Nedra'nın fıçı deposu değil. Boş bir oda ve bir sandalye. Kimin için, söylemiyor |
 

@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Açık Sorular
-updated: 2026-09-13
+updated: 2026-09-30
 ---
 
 # Açık Sorular
@@ -486,3 +486,19 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
   Kıtalar sadece **doğal sınırlarla** ayrılıyor; çizgi siyasi bir sınır değil.
 - **2026-08-11** — *Portal geçiş şifresi?* → *"Vael'Toruun u thalas—shaen, khar."*
   ("Aeltharys'in gölgesinde, kül ile don bir olur.") `04-charaxis/README.md`'de kayıtlıydı.
+
+## Session 01 — Calithra Kavşağı *(2026-09-30)*
+
+- [ ] ⭐ **Lover's Cut masalı hangi entity'ye bağlanıyor?** Masal oyunda canon; *"kıtaları oluşturduğu söylenen"* bir entity gerekiyor.
+      Adaylar *([masalın DM notları](../03-ager/continents/ravonia/regions/calithra/lovers-cut-tale.md#bu-doğru-mu))*:
+      **(1)** iki *primordial* — **kimse seçilmedi** · **(2)** **Days of Thunder** creator race çifti ·
+      **(3)** [The Unwoven](../02-lore/magic/the-unwoven.md)/kuyruklu yıldız nabzı · **(4)** [Vahadaki silüet](../06-campaigns/new-campaign/01-premise.md).
+      ⚠️ Mevcut *ilahi savaş sonrası kıtaların yaklaştırılması* satırıyla ([history-overview](../03-ager/00-overview/history-overview.md)) uyum gerekiyor
+- [ ] ⭐ **Shapeshifter'ların ortak aklı ne?** *(Gwyndor Religion Nat 20)* → [Gwyndor DM notları](../05-characters/player-characters/new-campaign/gwyndor/04-dm-notes.md#shapeshifterlar). Dini ne, neye tapıyorlar?
+- [ ] **Gwyndor shapeshifter'ları neden avlıyor?** Ölümüyle/Kırk Gün'le bağı?
+- [ ] **Calith nerede?** *(Fig'in bağı onun yaşadığını gösteriyor)* → [Fig](../05-characters/npcs/minor/fig.md)
+- [ ] **Moondust'ı Son Mektup Fırını'ndaki ekmeğe kim koydu?** Marto mu, Gharuk Kumpanyası mı, kaza mı? Grimnor'ın tepkisi
+- [ ] **Stane, Gwyndor'dan ne istiyor?** *(öneri: paladin aurası — Vashka'nın susan tanrısı)*
+- [ ] **Oynanış tarihi ve seviye** — session-01 `real_date` / `level_*` ⬜
+- [ ] **Hollow Guest:** Sprout yeni bir Guest'e dönüşebilir mi? Guest'in Sharran tonu (Shar 1494'ten beri sessiz) nereden? → [hollow-guest](../02-lore/bestiary/hollow-guest.md)
+- [ ] **Session 02:** iki Harper'ın adları · Marr'ın bir sonraki yeri · Wren (berrak pixie) kalsın mı · Yedinci kim

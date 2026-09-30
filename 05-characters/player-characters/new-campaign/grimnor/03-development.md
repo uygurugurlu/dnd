@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, grimnor, development, log, malar]
-updated: 2026-08-30
+updated: 2026-09-30
 ---
 
 # Grimnor — Gelişim Günlüğü
@@ -52,7 +52,7 @@ updated: 2026-08-30
 
 | # | Tarih (DR) | Session | Ne oldu | Karakterde ne değişti |
 |---|---|---|---|---|
-| 1 | <!-- doldur --> | | | |
+| 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Calithra'da bir **sincapla** konuştu; sincap **kediden** rahatsızdı. Kediye zarar vermedi, **yemek verdi**, sincapları rahat bırakmasını söyledi. Kedi [Fig](../../../npcs/minor/fig.md) çıktı: **yüzlerce yaşında**, sahibi **Calithra'nın kurucusu** | Şehirle ilk bağı bir hayvan üzerinden kurdu. **Calithra kedinin onayını okur** — Fig'in ilgisi artık partiye dönük |
 
 ## 3. Dönüm Noktaları
 
