@@ -17,6 +17,7 @@ updated: 2026-08-10
 | [turnuva.md](turnuva.md) | Ravonia, Amber Square | Turnuva; Violet Fungus Necrohulk + Myconid Spore Servant |
 | [kirik-ruyalar.md](kirik-ruyalar.md) | Aurel Meydanı | Wyvern olayı |
 | [bankalar-sokagi.md](bankalar-sokagi.md) | Ironmarket | Zhentarim encounter |
+| 📁 [wheatrest-heist/](wheatrest-heist/README.md) | Wheatrest, Smith Sarayı | **Savaş yılları, lvl 8 soygun** — Mühürlüler, Geyren, Kâtip Skarvaine; oda oda loot |
 
 > Wheatrest dungeon'ı ("Bel'in Recruitment Mağarası") yerin kendi dosyasında:
 > [Wheatrest](../../../03-ager/continents/ravonia/villages/wheatrest.md)

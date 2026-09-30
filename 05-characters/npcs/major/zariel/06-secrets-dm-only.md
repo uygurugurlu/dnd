@@ -128,7 +128,24 @@ bazı insanlar kurtarılmayı beklemez. Bazıları geri dönmeyi reddeder.
 
 ## Ager'e Özgü Sırlar
 
-<!-- doldur: Ager'e uyarlandıkça buraya eklenecek gizli bilgiler -->
+### Kara Mühür Akoru — geçidi açmak *(DM, 2026-09-27)*
+
+> **[DM ONLY]** Zariel'in [Chains of the Burning Compact](../../../../06-campaigns/chains-of-the-burning-compact/README.md)'teki
+> **temel motivasyonu:** [Kara Mühür Akoru](../../../../08-rules/homebrew/items/kara-muhur-akoru.md)'nu
+> kullanarak **Material Plane ile Nine Hells arasındaki geçişi açmak** ve
+> cehennem ordularını Ager'e getirmek.
+
+- Akor **yalnızca parçaları ("tohumlar") bir araya gelirse** aktif olur. Zariel bunu biliyor.
+- Parti iki tohumu bir araya getirdi. Zariel bunu gördü ve **üçüncüyü kendisi aramıyor:**
+  partiyi oraya ([Silvaerûn](../../../../03-ager/continents/ravonia/regions/silvaerun/README.md))
+  yönlendiriyor.
+- aysif'le yaptığı sözleşme (Cyric bağını kesip göğse işlenen rün) bir **tasma**:
+  aysif'in yerini her zaman biliyor. Üçüncü tohum bulunup Akor uyandığında gelip
+  **avlayacak.**
+- Partiye söylediği her şey doğru (Sır 1 — yalan söylemez): *"Gelip ellerinizden
+  alacağım."* Söylemediği şey: nasıl alacağı.
+
+→ Sahnede kullanımı: [Smith Sarayı Soygunu — sırlar](../../../../06-campaigns/chains-of-the-burning-compact/encounters/wheatrest-heist/03-secrets-dm-only.md)
 
 > **[AÇIK SORU]** Ager'de Zariel'in bilmediği bir şey var mı? Bir archdevil'in
 > bilmediği bir şeyin olması, onu insanlaştırır.

@@ -54,6 +54,8 @@ updated: 2026-08-30
 | [Glenda Vhalemor](../05-characters/npcs/minor/glenda-vhalemor.md) | han'ın kız kardeşi; tılsımı çalan kişi | **→** |
 | [Mizora](../05-characters/npcs/minor/mizora.md) | Cambion; Zariel'in ajanı | **→** |
 | [Nada Coldo](../05-characters/npcs/minor/nada-coldo.md) | Kralın truth-sayer'ı | **→** |
+| [Ocakbaşı Geyren](../05-characters/npcs/minor/geyren.md) | Wheatrest demircisi, Ocak 152; savaş yıllarında Mühürlü (CR 6) | **→** |
+| [Kâtip Skarvaine](../05-characters/npcs/minor/skarvaine.md) | Bel'in 3. Lejyon kâtibi; Old Fenrick'in bedeninde (CR 8) | **→** |
 
 ## Henüz dosyası olmayanlar
 
@@ -61,7 +63,7 @@ updated: 2026-08-30
 Ahmet Odacıbaşı · Doloria the Silent Suffering
 **Zhentarim:** Goliath Ash · Darric · Kellen · Rusk · Merek Halvon (kuyumcu)
 **Thornhold:** Elric Varn · Maera Holt · Corin Bale
-**Wheatrest:** Sipsi Illenum · Elira Fenwill · Soren Fenwill · Old Fenrick · Geyren
+**Wheatrest:** Sipsi Illenum · Elira Fenwill · Soren Fenwill · Old Fenrick *(savaş yıllarında bedeni → [Skarvaine](../05-characters/npcs/minor/skarvaine.md))*
 **Aurelium:** Eldrin Faelwyn · Old Garrik · Lysa Quill · Halder · Miran ·
 Simone Dumble · Milon Blackmane
 **Liman:** Morda Vessk · Pell · Aldric Sorn · Tüy Sakal

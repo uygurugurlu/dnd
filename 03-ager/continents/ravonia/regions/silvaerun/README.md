@@ -90,6 +90,11 @@ ama parti oraya hiç gitmedi. **Bu kampanyada gidilecek.**
 
 ## Kampanya Kancaları
 
+> **[HOOK]** *Chains of the Burning Compact (1493):* Zariel üçüncü tohumun
+> Silvaerûn'da olduğunu söyledi. Parti yolda →
+> [Silvaerûn Yolu](../../../../../06-campaigns/chains-of-the-burning-compact/arcs/road-to-silvaerun/README.md)
+> (orman, Charaxis kısa atlama, Nöbet'in elf yolu).
+
 > **[HOOK]** Silvaerun bir yıldır davet vermiyordu. Şimdi birden partiye
 > davet gönderiyor. Neden?
 

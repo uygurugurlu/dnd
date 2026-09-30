@@ -79,6 +79,24 @@ Aysif'in üzerindeki **yarım kalmış possession ritüeli**, kampanyanın en b�
 > **[AÇIK SORU]** Aysif'i ele geçirecek olan varlık kimdi? Cyric'in onu çalması
 > bu ritüelle bağlantılı mı — yoksa Cyric sadece fırsatçılık mı yaptı?
 
+## Parçalar — "tohumlar"
+
+Akor **tek parça değil.** Zariel partiye (savaş yıllarında, Wheatrest'te) şunu söyledi:
+
+- Akor'un **tohumlarından ikisi partide.**
+- **Üçüncüsü Silvaerûn'da.** → [Silvaerûn](../../../03-ager/continents/ravonia/regions/silvaerun/README.md)
+- Üçü bir araya gelince Akor **aktif edilebilir.**
+
+> **[DM ONLY]** Akor ancak parçaları birleşirse aktif olur. Zariel onu
+> **Material Plane ile Nine Hells arasındaki geçişi açmak** için istiyor —
+> cehennem ordularını Ager'e getirmek için. Partiyi üçüncü tohuma yönlendiriyor;
+> aysif'in göğsündeki rünle onları izleyip Akor uyandığında **avlayacak.**
+> → [Zariel — Ager'e Özgü Sırlar](../../../05-characters/npcs/major/zariel/06-secrets-dm-only.md#agere-özgü-sırlar)
+
+> **[AÇIK SORU]** Partideki iki tohum ne, neye benziyor, nasıl ele geçti?
+> ea basr'ın giriş vizyonu (*"Üçü hasadı korumak için dikildiğinde…"*) bununla
+> bağlantılı mı? → [open-questions.md](../../../00-meta/open-questions.md)
+
 ## Mekanik
 
 <!-- doldur: artifakt statları. Şablon: 00-meta/templates/item.md -->

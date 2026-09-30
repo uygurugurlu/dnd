@@ -21,6 +21,8 @@ Buraya sadece şunlar girer:
 | Yaratık | CR | Habitat | Origin | Dosya |
 |---|---|---|---|---|
 | **Concord Ironclad** | 4 | Grassland, Urban (Ravonia) | Hammerfall kazı construct'ının askerî varyantı | [concord-ironclad.md](concord-ironclad.md) |
+| **Mühürlüler** *(Sealed Vessels — Thrall · Watchman · Legionnaire)* | 1 / 3 / 5 | Grassland, Urban (Wheatrest, Ravonia) | Bel'in 3. Lejyonu — sözleşmeyle possession | [sealed-vessels.md](sealed-vessels.md) |
+| **Kök Bekçisi** *(Rootwarden)* | 10 | Forest (Eira'thalas, Silvaerûn) | 1 DR antlaşmasını tutan ormanın cevabı | [rootwarden.md](rootwarden.md) |
 | **the Tallyman** *(Sayman)* | 6 | Underdark (Charaxis — maden ağızları) | Kayıp imparatorluğun izleme matrisinin uzantısı | [the-tallyman.md](the-tallyman.md) |
 
 ## Nasıl Eklenir

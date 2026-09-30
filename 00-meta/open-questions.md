@@ -276,7 +276,36 @@ Dosyalar: [mordavia-keep/](../03-ager/continents/karsovia/sites/mordavia-keep/RE
 - [ ] Zariel bu kampanyada nasıl bir rol oynayacak: düşman mı, patron mu, kurtarılacak mı?
 - [ ] Elturel'in Ager karşılığı hangi şehir? Hellriders'ın karşılığı bir düzen var mı?
       *(Nethryn ipucu veriyor: Zariel melekken orayı kurtarmış.)*
-- [ ] PC'lerin tam adları, ırkları, sınıfları, seviyeleri.
+- [ ] PC'lerin tam adları, ırkları, sınıfları, seviyeleri. *(2026-09-27: parti **seviye 8**)*
+- [ ] **Savaş yıllarındaki Wheatrest session'ı hangi yılda?** Varsayım **1493 DR**
+      (prens 1492'de ölür → savaş; kuyruklu yıldızlar 1494'te). 1494 sonrasıysa
+      tanrılar susmuştur — max'ın (paladin) büyüsü etkilenir mi?
+      → [Smith Sarayı Soygunu](../06-campaigns/chains-of-the-burning-compact/encounters/wheatrest-heist/README.md)
+- [ ] **Partideki iki tohum ne?** Neye benziyor, ne zaman ve nerede ele geçti?
+      [Kara Mühür Akoru](../08-rules/homebrew/items/kara-muhur-akoru.md#parçalar--tohumlar)
+- [ ] **ea basr'ın vizyonu** (*"Üçü hasadı korumak için dikildiğinde…"*) üç tohumla
+      bağlantılı mı? Zariel Wheatrest'in buğdayına neden dokunmadı? *(Öneri soygun
+      DM dosyasında — kanon değil)*
+- [ ] **aysif'in madness mekaniği** Cyric bağı kesildikten sonra ne oluyor?
+      7 level kalıyor mu, fısıltılar Zariel'in rününe mi geçiyor?
+- [ ] **Zariel'in rünü mekanik olarak ne?** Divination mı, sözleşme bağı mı?
+      *Amulet of Proof against Detection and Location* onu keser mi? *(Öneri:
+      boğar, kesmez — soygun DM dosyası)*
+- [ ] **Silvaerûn Yolu** ([arc](../06-campaigns/chains-of-the-burning-compact/arcs/road-to-silvaerun/README.md)) — karar bekleyenler:
+      - **Parti Silvaerûn'a daha önce girdi mi?** Timeline "Silvaerun'da öğrenirler" diyor,
+        Silvaerûn dosyası "hiç gitmedi". Arc ikincisini varsayıyor.
+      - **Kuzey rotası mesafeleri** haritadan kaba ölçüldü (~20 gün Wheatrest→Caélora). Doğrulanmadı.
+      - **1493'te Thornhold'u kim tutuyor?** Varn / kuşatma sonrası Ravonia / terk — üç seçenek arc'ta.
+      - **Mevsim?** Eira'thalas hava tablosu mevsimden bağımsız yazıldı.
+      - **Nöbet'in çemberi** (Vael'Serith ↔ Caélora Kök Salonu, tek yönlü, hane yüzüğüyle geri kabul) —
+        yeni kanon önerisi. Kabul edilirse Vael'Serith / Isthaen / Caélora dosyalarına işlenir.
+        Isthaen'in hanesi kim, konseyde boş sandalye onun mu?
+      - **Silvaerûn Nöbet'e neden 108 yıldır cevap vermiyor?** (Öneri: karantina — Akor'un kazılması)
+      - **Zariel'in rünü aysif'i mi, tohumları mı izliyor?** (Öneri: tohumları)
+      - **Üçüncü tohum Silvaerûn'un neresinde?** (Öneri: Kök halkasında *ekili*, Kök Bekçisi'nin levhasının arkasında)
+      - **Kök Bekçisi** ile Standing Stone devrilince uyanan bekçi aynı soydan mı?
+- [ ] **Geyren kaç kişi?** Timeline'da *"geyren — handa çalışan"*, Wheatrest'te
+      *"Ocakbaşı Geyren — demirci"*. Aynı kişi mi?
 
 ## Kampanya — New Campaign
 

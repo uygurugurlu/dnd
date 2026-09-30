@@ -63,6 +63,10 @@ tartışmayı **yasakladı** — resmen değil, âdeten. Ve bu, sokakta konuşul
 
 ## Kampanya Kancaları
 
+> **[HOOK]** *Chains of the Burning Compact (1493 — tanrılar henüz konuşuyor):*
+> parti Yaprak Kapısı'na davetsiz ya da Kök Salonu'na bir çemberden varıyor →
+> [Varış — Caélora](../../../../06-campaigns/chains-of-the-burning-compact/arcs/road-to-silvaerun/04-arrival-caelora.md)
+
 > **[HOOK]** Caélora, [Silvaerûn schism'inin](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md) hissedildiği ikinci şehir. İki yüz elf gitti; Caélora onların **akrabalarıyla** dolu.
 
 > **[HOOK]** Rahibe Ysolla ayini günde üç kez yapıyor. Bu bir inanç göstergesi değil — **bir panik.** Ve konsey bunu görmezden geliyor.

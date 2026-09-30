@@ -94,6 +94,8 @@ Hepsinde 2024 formatı ve `## CR Doğrulaması` bloğu var; homebrew sihirli eş
 | [Glenda Vhalemor](glenda-vhalemor.md) | han'ın kız kardeşi |
 | [Mizora](mizora.md) | Cambion; Zariel'in ajanı |
 | [Nada Coldo](nada-coldo.md) | Kralın truth-sayer'ı |
+| [Ocakbaşı Geyren](geyren.md) | Wheatrest demircisi (Ocak 152); savaş yıllarında Mühürlü — CR 6 |
+| [Kâtip Skarvaine](skarvaine.md) | 3. Lejyon kâtibi; Old Fenrick'in bedeninde — CR 8 |
 
 ## Ravonia / Karsovia — Siyaset (dosyasız)
 

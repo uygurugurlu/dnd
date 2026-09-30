@@ -13,6 +13,9 @@ updated: 2026-08-10
 
 *A cluttered shop full of hooks, crates, belts, coils of rope, and half-assembled kits. Nothing magical—just the kind of things adventurers forget they need until it’s too late.*
 
+> Demirci: [Ocakbaşı Geyren](../../../../05-characters/npcs/minor/geyren.md) — [Smith Sarayı](../../../../02-lore/factions/smith-palace.md) loncasında **Ocak 152**.
+> Savaş yıllarında Lejyon'un ganimet deposu → [Smith Sarayı Soygunu](../../../../06-campaigns/chains-of-the-burning-compact/encounters/wheatrest-heist/README.md).
+
 ---
 
 ## 🔧 **Tool Sets**

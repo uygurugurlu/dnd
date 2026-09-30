@@ -11,6 +11,50 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-09-27** — 🌲 **CotBC: Silvaerûn Yolu arc'ı (lvl 8, Wheatrest sonrası).**
+  - **[arcs/road-to-silvaerun/](../06-campaigns/chains-of-the-burning-compact/arcs/road-to-silvaerun/README.md)**
+    (+ `arcs/README.md`): üç rota — **A** kara + orman (~20 gün; Thornhold, Gorestead,
+    Mournwood, Tharn'Kel), **B** R-2 → Charaxis (Kül-77 → Ashkar Reach) → R-1 kısa atlama,
+    **C** Hat boyunca Vael'Serith → Isthaen → **Nöbet'in çemberi** → Caélora Kök Salonu.
+  - **Eira'thalas geçişi:** "ormanın gerçek tehlikesi doğa" — **Orman Dikkati** (0–6),
+    günlük döngü, hava d8, yön bulma, toplayıcılık/Exhaustion, 8 tehlike (Kabaran Dere,
+    Kök Bataklığı, Kan Yosunu, Uyku Oyuğu, Kör Öğlen, Dönen Yol, Rüzgâr Devriği,
+    Yıldırım Tacı), d12 karşılaşma (SRD hayvan/fey), 4 kurgulanmış sahne, Dikkat 6 Kapanış.
+  - Yeni yaratık **[Kök Bekçisi (Rootwarden)](../02-lore/bestiary/rootwarden.md)** — CR 10 Plant,
+    `## CR Doğrulaması` ile; *Treaty-Bound*: 1 DR antlaşmasını Elfçe söyleyene saldırmaz.
+  - **[Eira'thalas](../03-ager/continents/ravonia/regions/eirathalas.md)** stub'ı dolduruldu
+    (dört halka, antlaşma, 1493/1495 zaman notu).
+  - Varış: Yaprak Kapısı'nda **davet sorunu**; soygundaki *Cloak of Elvenkind*'ın iadesi bir
+    **hane adı** açıyor. Caélora 1493 çerçevesine uyarlandı (Corellon hâlâ konuşuyor).
+  - 🔧 **Düzeltme:** Soygun dosyalarında Lejyon kervanı yanlışlıkla **R-2**'ye (Charaxis kapısı)
+    gidiyordu → **Bel'in mağarasındaki ayin çemberi** (Avernus geçidi) olarak düzeltildi.
+  - Açık sorular: 9 yeni madde (çember kanonu, üçüncü tohumun yeri, rünün neyi izlediği,
+    Thornhold 1493, mevsim, mesafeler, Silvaerûn'a önceki ziyaret).
+
+- **2026-09-27** — Smith Sarayı ganimeti: Lejyon Sandığı'nda *Bag of Holding* → ***Portable Hole*** (Rare),
+  *Mace of Disruption* → ***Nine Lives Stealer*** (Very Rare). (encounters/wheatrest-heist/02-loot.md, 01-encounters.md)
+- **2026-09-27** — 🔥 **CotBC: Smith Sarayı Soygunu (session hazırlığı, lvl 8).**
+  Savaş yıllarında işgal altındaki Wheatrest; parti Zariel'le tanıştıktan sonra
+  Lejyon'un ganimet deposuna dönmüş demirhaneyi soyuyor.
+  - Yeni yaratık ailesi **[Mühürlüler](../02-lore/bestiary/sealed-vessels.md)** —
+    [statblock'lar](../08-rules/homebrew/monsters/sealed-vessels.md): Sealed Thrall (CR 1),
+    Watchman (CR 3), Legionnaire (CR 5). Possessed köylüler; *Hostage Body* ile
+    "öldür ya da bayılt" seçimi partide.
+  - Yeni NPC'ler: **[Ocakbaşı Geyren](../05-characters/npcs/minor/geyren.md)** (possessed, CR 6),
+    **[Kâtip Skarvaine](../05-characters/npcs/minor/skarvaine.md)** (3. Lejyon kâtibi,
+    Old Fenrick'in bedeninde, CR 8). Hepsinde `## CR Doğrulaması`.
+  - **[encounters/wheatrest-heist/](../06-campaigns/chains-of-the-burning-compact/encounters/wheatrest-heist/README.md)**:
+    harita, Şafak Kervanı + Alarm Saati, E1–E5 (2024 XP bütçesi), oda oda
+    **loot** (≈7,020 gp, 12 resmî magic item, 11 scroll), DM ONLY sırlar.
+  - Timeline'a savaş yılları eklendi: Zariel ile tanışma, **üç tohum**, aysif'in
+    Cyric bağının kesilip **göğse rün** işlenmesi.
+  - **DM kararı:** Zariel'in amacı Akor'la Material Plane ↔ Nine Hells geçidini
+    açmak; Akor ancak tohumlar birleşince aktif — partiyi 3. tohuma yönlendirip
+    avlayacak. → [Zariel sırları](../05-characters/npcs/major/zariel/06-secrets-dm-only.md#agere-özgü-sırlar),
+    [Kara Mühür Akoru](../08-rules/homebrew/items/kara-muhur-akoru.md).
+  - Wheatrest / blacksmith / indeksler (who-is-who, minor NPC, bestiary, monsters,
+    encounters) güncellendi; 6 açık soru eklendi.
+
 - **2026-09-13** — 👥 **Gwyndor ve Roful Roger klasöre terfi etti; dört PC'ye ansiklopedi.**
   DM'den üç yeni geçmiş notu geldi ve [00-raw-notes.md](../05-characters/player-characters/new-campaign/00-raw-notes.md)'ye
   **birebir** yazıldı (oyuncuların kendi metinleri hâlâ bekleniyor).

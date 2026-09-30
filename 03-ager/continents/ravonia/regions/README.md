@@ -16,7 +16,7 @@ updated: 2026-08-11
 | Bölge | Tip | Nerede | Dosya |
 |---|---|---|---|
 | **Silvaerûn** | Elf toprağı | Kuzeybatı yarımada | [→](silvaerun/README.md) |
-| **Eira'thalas** | Orman | Silvaerûn'un ormanı | [→](eirathalas.md) |
+| **Eira'thalas** | Orman | Silvaerûn'un ormanı — **tehlikesi doğa**; Orman Dikkati, [Kök Bekçisi](../../../../02-lore/bestiary/rootwarden.md) | [→](eirathalas.md) |
 | **Urkhal Plains** | Ova / ork toprağı | Batı | [→](urkhal-plains/README.md) |
 | **Mournwood** | Orman | Kuzey-orta | [→](mournwood.md) |
 | **Hammerfall** | Cüce holdu / maden | Urkhal'ın ortası | [→](hammerfall/README.md) |

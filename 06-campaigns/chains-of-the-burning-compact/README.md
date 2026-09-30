@@ -22,9 +22,9 @@ updated: 2026-08-10
 | | |
 |---|---|
 | **Durum** | Aktif |
-| **Parti** | max (Maximus Legroom) · han · ea basr · aysif *(öldü → Cyric aldı)* |
+| **Parti** | max (Maximus Legroom) · han · ea basr · aysif *(öldü → Cyric aldı → **Zariel'in sözleşmesiyle Cyric bağı kesildi**, göğsünde Zariel'in rünü)* — **seviye 8** |
 | **Bölüm** | Chapter 1 — Ravonia |
-| **Son bilinen konum** | Ravonia yeraltı / kaçak rota temizliği |
+| **Son bilinen konum** | **Savaş yılları** — işgal altındaki [Wheatrest](../../03-ager/continents/ravonia/villages/wheatrest.md); sıradaki hedef: Silvaerûn (3. tohum) |
 
 ## Adın Anlamı
 
@@ -41,7 +41,9 @@ yanan bir sözleşmenin (*burning compact*) zincirleri.
 |---|---|
 | [03-timeline.md](03-timeline.md) | ★ **Ana olay akışı** — şu ana kadar olan her şey |
 | [scenes-aysif-canlandirma.md](scenes-aysif-canlandirma.md) | Aysif'in ölümü: Kelemvor → Tempus → **Cyric** |
-| **encounters/** | Savaş ve karşılaşmalar |
+| [encounters/](encounters/README.md) | Savaş ve karşılaşmalar |
+| [encounters/wheatrest-heist/](encounters/wheatrest-heist/README.md) | ★ **Sıradaki session:** Smith Sarayı soygunu (lvl 8) — statblock'lar + loot |
+| [arcs/road-to-silvaerun/](arcs/road-to-silvaerun/README.md) | ★ **Soygundan sonra:** Silvaerûn yolu — orman (doğa), Charaxis kısa atlama, Nöbet'in elf yolu |
 | [factions-in-play/zhentarim-ravonia.md](factions-in-play/zhentarim-ravonia.md) | Zhentarim & Ilyon Verne |
 
 ## Kadro
@@ -76,6 +78,13 @@ Wheatrest yol hanı ──► han basılır (possessed köylüler)
         ├─► aysif ölür → Kelemvor yargılar → Tempus alır → **Cyric çalar**
         └─► Molly'ye itiraf, Zhentarim'e teslim, krala infernal kontrat bildirildi
                 └─► görev: yeraltı kaçak rotasını temizle
+        ⋮
+   SAVAŞ YILLARI
+        ├─► Wheatrest işgal edilir; Zariel köyü yağmalarken parti onunla tanışır
+        │     "İki tohum sizde. Üçüncüsü Silvaerûn'da."
+        ├─► aysif ↔ Zariel sözleşmesi: Cyric bağı kesilir, göğse rün
+        └─► ⏳ Smith Sarayı soygunu (planlanan)
+                └─► ⏳ Silvaerûn yolu: A kara+orman · B R-2→R-1 · C Vael'Serith çemberi
 ```
 
 ## Kritik Kırılma Noktaları
@@ -111,6 +120,12 @@ Zhentarim locası onu **Ilyon Verne**'e emanet etti. Ilyon **kaybetti**. Suç ha
 - **Geceleri sokaklarda insan avlayan bir yaratık** var — avlanması lazım
 
 ## Açık İpler
+
+- **Üç tohum:** Kara Mühür Akoru'nun parçaları. İkisi partide, üçüncüsü
+  **Silvaerûn**'da (Zariel'e göre). Üçü birleşince Akor uyanır — ve Zariel
+  gelip alacağını söyledi. → [Kara Mühür Akoru](../../08-rules/homebrew/items/kara-muhur-akoru.md)
+- **aysif'in rünü:** Zariel onu her zaman bulabiliyor. Cyric'in fısıltısı —
+  ve madness mekaniği — şimdi ne durumda? → açık soru
 
 - **Kara Akor Mührü:** han'ın kız kardeşi çalmaya çalışmış, eline yapışmış.
   Ona bunu **Mizora** söylemiş. han sebebini hâlâ bilmiyor.

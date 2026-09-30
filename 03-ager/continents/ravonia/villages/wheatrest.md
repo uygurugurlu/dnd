@@ -33,7 +33,7 @@ SRD referansıdır ([kural](../../../../09-index/townsfolk.md#statblock-kuralı-
 | Kim | Ne | Statblock | Tik · ne ister |
 |---|---|---|---|
 | **Muhtar Sipsi Illenum** | Muhtar, orta yaşlı, insan | Noble | Sert bakışlı, pratik zekâlı. **İster:** üç kulenin de nöbetli kalmasını |
-| **Ocakbaşı Geyren** | *Smith Sarayı*'nın demircisi — **Ocak 152** | Guard | Dükkânın alaycı adını sever. **İster:** [gerçek Saray](../../../../02-lore/factions/smith-palace.md)'ın kota artırmasını |
+| **[Ocakbaşı Geyren](../../../../05-characters/npcs/minor/geyren.md)** | *Smith Sarayı*'nın demircisi — **Ocak 152** | Guard | Dükkânın alaycı adını sever. **İster:** [gerçek Saray](../../../../02-lore/factions/smith-palace.md)'ın kota artırmasını |
 | **Old Fenrick** | Tahıl tüccarı, insan | Commoner | Gece geçen arabaların kaydını tutuyor |
 | **Elira Fenwill** | 16, wild magic laneti taşıyor | Commoner | Köyün bir kısmı ona *"şeytan işi"* diyor |
 | **Soren Fenwill** | Gnome, Elira'nın akrabası | Commoner | Kız için köyle tek başına tartışıyor |
@@ -42,6 +42,17 @@ SRD referansıdır ([kural](../../../../09-index/townsfolk.md#statblock-kuralı-
 | **Mara Cole** | Çiftçi, köyün ebesi | Commoner | Üç kulenin nöbet listesini **o** hatırlıyor, muhtar değil |
 
 > 🎲 Listede olmayan biri lazımsa: [Anında NPC üreteci](../../../../09-index/townsfolk.md#anında-npc--dört-zar).
+
+## ⚔️ Savaş yılları — işgal *(Chains of the Burning Compact)*
+
+[Zariel](../../../../05-characters/npcs/major/zariel/README.md)'in ordusu
+Wheatrest'i yağmaladı; recruitment mağarasında imza atmış köylüler
+[Bel](../../../../05-characters/npcs/major/bel/README.md)'in 3. Lejyonu'nun
+kiracılarıyla **possessed** — köyde **"imzalılar"** deniyor:
+[Mühürlüler](../../../../02-lore/bestiary/sealed-vessels.md).
+
+> Session hazırlığı (henüz oynanmadı): [Smith Sarayı Soygunu](../../../../06-campaigns/chains-of-the-burning-compact/encounters/wheatrest-heist/README.md)
+> — işgal altındaki köyün tam dökümü orada, bu dosyaya oynandıkça yansıtılır.
 
 > **[HOOK]** Köyün demircisine ironi olsun diye *"Smith Sarayı"* deniyor —
 > ve [gerçek Smith Sarayı](../../../../02-lore/factions/smith-palace.md) adını

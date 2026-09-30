@@ -190,3 +190,15 @@ aysif öldü
 [Aysif canlandırma](scenes-aysif-canlandirma.md)
 
 aysif 7 madness leveli var, cyric ona fısıldadığında yerine getirmezse 1 level madness kazanıcak.
+## Savaş yılları — Wheatrest
+
+> Oyun içi tarih: savaş yılları, **1493 DR (varsayım)** — kesin tarih açık soru.
+
+Wheatrest işgal edildi. [Zariel](../../05-characters/npcs/major/zariel/README.md)'in ordusu köyü yağmalarken parti Zariel'le tanıştı.
+
+- Zariel: **iki tohum partide**, üçüncüsüne de ihtiyaçları var. Üçü bir araya gelince [Kara Mühür Akoru](../../08-rules/homebrew/items/kara-muhur-akoru.md) aktif edilebilir — o zaman gelip Akor'u **ellerinden alacağını** söyledi.
+- Üçüncü tohumun yeri: [Silvaerûn](../../03-ager/continents/ravonia/regions/silvaerun/README.md).
+- aysif ile bir **kontrakt** yaptı: aysif'in **Cyric** ile bağlantısını kesti, yerine **göğüs kafesine bir rün** işledi — bu sayede aysif'in yerini her zaman bilip takip edebilecek.
+- Parti kabul etti. Ama gitmeden önce köydeki possessed insanların ve köylülerin arasından **Smith Sarayı**'na girip soymayı planlıyor. Parti **seviye 8**.
+
+⏳ Sıradaki session: [Smith Sarayı Soygunu](encounters/wheatrest-heist/README.md)
