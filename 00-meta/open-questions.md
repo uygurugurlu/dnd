@@ -500,5 +500,5 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] **Moondust'ı Son Mektup Fırını'ndaki ekmeğe kim koydu?** Marto mu, Gharuk Kumpanyası mı, kaza mı? Grimnor'ın tepkisi
 - [ ] **Stane, Gwyndor'dan ne istiyor?** *(öneri: paladin aurası — Vashka'nın susan tanrısı)*
 - [ ] **Oynanış tarihi ve seviye** — session-01 `real_date` / `level_*` ⬜
-- [ ] **Hollow Guest:** Sprout yeni bir Guest'e dönüşebilir mi? Guest'in Sharran tonu (Shar 1494'ten beri sessiz) nereden? → [hollow-guest](../02-lore/bestiary/hollow-guest.md)
+- [ ] **Gallows Speaker:** Voice yeni bir Speaker'a dönüşebilir mi? Sharran tonu (Shar 1494'ten beri sessiz) nereden? Marr'ın dikişteki *"Ne görüyorsun?"* sesi Speaker mıydı? → [gallows-speaker](../02-lore/bestiary/gallows-speaker.md)
 - [ ] **Session 02:** iki Harper'ın adları · Marr'ın bir sonraki yeri · Wren (berrak pixie) kalsın mı · Yedinci kim

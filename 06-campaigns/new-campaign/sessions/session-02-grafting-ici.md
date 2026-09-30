@@ -37,7 +37,7 @@ updated: 2026-09-30
 | | |
 |---|---|
 | **Yer** | **Kırıkbağ** — Calithra'nın 1 gün kuzeyi, kıyı yolu, Northcurrent yolunun üstü |
-| **Ne** | Terk edilmiş teraslı bağ + **mezarlık** (heyelanda ölen 31 kişi) — **Feywild ⇄ Shadowfell köprüsü** |
+| **Ne** | Terk edilmiş teraslı bağ + **mezarlık** (heyelanda ölen 31 kişi, **adları silinmiş**) — **Feywild ⇄ Shadowfell köprüsü** |
 | **Boyut** | ~yarım mil, **günde 10 ft büyüyor** |
 | **Giriş** | Nehir → tekne → **dış halkanın kuzey kenarı** *(Concord kordonunu atlıyor)* |
 | **Zaman** | Mesafeler **güvenilmez** — seyahat süresi **1d4 çarpanı** |
@@ -47,7 +47,7 @@ updated: 2026-09-30
 | Kuşak | Kural |
 |---|---|
 | 🌿 **Outer Ring — Fey Bloom** | End turn here → **DC 14 Wis save** or **charmed 1 min**, moves full speed toward the ring's deepest part. Success = immune 24 h. |
-| 🌑 **Inner Ring — Sitting Dead** | End turn here → **DC 14 Con save** or **+1 exhaustion** (only removed outside the ring). The 31 dead are **not hostile, can't be turned/destroyed** — they answer truthfully, at length. |
+| 🌑 **Inner Ring — Shadowfell Rot** | End turn here → **DC 14 Con save** or **+1 exhaustion** (only removed outside the ring). Names on stones and speech fade: **Shadowfell Despair** applies (DC 10 Wis on long stays). *(No sitting dead — removed.)* |
 | ➖ **The Seam** | 1-inch line. Creature on it is **incorporeal & unreachable**; can step off freely for **1 hour**, then **DC 20 Cha save each hour, disadvantage stacking.** |
 | 📈 **Growth** | +10 ft in a random direction per day. Closing = undoing the ritual **from the Seam.** |
 
@@ -55,15 +55,16 @@ updated: 2026-09-30
 
 | Kim | Nerede | Ne durumda | Dosya |
 |---|---|---|---|
-| ⚜️ **Harper A** ⬜ *(ad)* | 🌿 Dış halka | ⬜ *(öneri: Fey Bloom'da **mutlu**, çıkmak istemiyor)* | ⬜ |
-| ⚜️ **Harper B** ⬜ *(ad)* | 🌑 İç halka | ⬜ *(öneri: ölülerle konuşuyor, **not tutuyor**)* | ⬜ |
+| ⚜️ **Halime** *(Harper A)* | 🌿 Dış halka | ⬜ *(öneri: Fey Bloom'da **mutlu**, çıkmak istemiyor)* | ⬜ |
+| ⚜️ **Halit** *(Harper B)* | 🌑 İç halka | ⬜ *(öneri: silinen **adsız mezar taşlarını** kâğıda **listeliyor**)* | ⬜ |
 | **İki çoban kardeş** | 🌿 Dış halka | Çıkmak istemiyorlar — *"iyi geliyor"* | — |
-| **Nerath + 6 Bağlayan** | 🌿 Dış halkanın içi, çadır | 3. deneme için **canlı arıyor** | [Nerath](../../../05-characters/npcs/minor/the-first-communion/nerath.md) |
-| **Thava Vessek + 2 çırak** | Ayrı çadır | Dikişi kapatmanın yolunu arıyor — **Nerath'tan gizli** | [Thava](../../../05-characters/npcs/minor/the-first-communion/thava-vessek.md) |
+| **Nerath + 6 Bağlayan** | 🌿 Dış halkanın içi, çadır — 🕶️ **GİZLİ** *(parti tanışmıyor)* | 3. deneme için **canlı arıyor** | [Nerath](../../../05-characters/npcs/minor/the-first-communion/nerath.md) |
+| **Thava Vessek + 2 çırak** | Ayrı çadır — 🕶️ **GİZLİ** | Dikişi kapatmanın yolunu arıyor — **Nerath'tan gizli** | [Thava](../../../05-characters/npcs/minor/the-first-communion/thava-vessek.md) |
 | **Concord çavuşu + 2 asker** | 🌑 İç halka | Kordon kurarken kaldılar. **Concord inkâr ediyor** | [Concord](../factions-in-play/the-four-answers/the-iron-concord.md) |
-| **Mireille'in bağ ustası** | 🌑 İç halka | 31 ölüyle konuşuyor, **not tutuyor** | — |
 | ⬜ **Yedinci** | ➖ Dikiş | 2. denemenin sağ kalanı; 5+ gündür orada, **konuşamıyor** | ⬜ kim? |
 | 👥 **Shapeshifter'lar** ⬜ | Her yerde? | **Girmeye çalışıyorlar** *(Stane, Session 01)* | [Gwyndor DM](../../../05-characters/player-characters/new-campaign/gwyndor/04-dm-notes.md#shapeshifterlar) |
+
+> 🕶️ **DM kararı:** **Nerath, Thava ve Bağlayanlarla parti tanışmıyor** — içerideler ama **gizli.** Yalnız **Nat 20 Investigation** izlerini bulur.
 
 > ⚠️ **Vasili'nin ittifakı burada biter** *(Grafting'e girene kadar)*. İçeri girildi.
 > Sonraki adım: kalıyor mu, ⬜ kendi hedefine mi gidiyor *(Shadowfell — iç halka/Dikiş)*.
@@ -81,10 +82,10 @@ updated: 2026-09-30
 | # | Oda | Kuşak | Sahne | 1 tehlike | 1 cazibe | Encounter |
 |---|---|---|---|---|---|---|
 | **Z1** | **Nehir Köprüsü** | 🌿 *(henüz normal)* | **Bariyeri geçiş** (balona girmek gibi) → **her şey çok normal**; nehir, orman, **köprü** | 🟢 **2 Gelatinous Cube** köprü altında pusu · 🟢 **4 Ghoul** ormandan (1d4 tur sonra) | Cube'lar **ve** ghoul'lar birbirine **düşman değil ama müttefik de değil** | ✅ **§5b** |
-| **Z2** | **Çoban Terası** | 🌿 | Dikkatle bakınca **iki çoban kardeş**, sürüsüyle; **yollar uzuyor** | Süre 1d4× | **Harper A** *(⬜ burada)* | ⬜ |
-| **Z3** | **Bağlayanların Çadırı** | 🌿 | **First Communion kampı**: Nerath, 6 Bağlayan, **Thava** ayrı çadırda | **Nerath partiyi canlı yem** görür | Thava: *"kapatmanın yolu var"* | ⬜ |
+| **Z2** | **Çoban Terası** | 🌿 | Dikkatle bakınca **iki çoban kardeş**, sürüsüyle; **yollar uzuyor** | Süre 1d4× | **Halime** *(⬜ burada)* | ⬜ |
+| **Z3** | **Bağlayanların Çadırı** 🕶️ | 🌿 | **First Communion kampı**: Nerath, 6 Bağlayan, **Thava** ayrı çadırda | **Parti onları görmez** — yalnız **Nat 20 Investigation** bulur | Thava: *"kapatmanın yolu var"* | ⬜ |
 | **Z4** | **Heyelan Eşiği** | 🌿→🌑 | Renk **çekiliyor**; toprak kayması **üstünde bir kapı gibi**; Concord çavuşunun **izleri** | Save DC'leri **ikisi birden** | Çavuşun **kaydı** (Concord'un inkâr ettiği şey) | ⬜ |
-| **Z5** | **Oturanlar** | 🌑 | **31 kişi oturuyor** — kızgın değil, sadece **bitmiyorlar**; bağ ustası not alıyor | **Exhaustion** + *"kal"* tuzağı | Ölüler **doğru** cevap verir → **Harper B** | ⬜ |
+| **Z5** | **Solgun Bağ** | 🌑 | Asmalar **kemik beyazı teller**, mezar taşları **adsız**; **ses boğuk** | **Shadowfell Rot** *(Con / exhaustion)* + **Despair** | **Halit**'in yazdığı liste / **Concord çavuşunun izi** | ⬜ |
 | **Z6** | **Kesişme Terası** | 🌑→➖ | İki halkanın **değdiği yer**; **görüş ikiye bölünür**; yedinci kişi *aşağıda* | ⬜ Shapeshifter pusu | Yedinci **bakıyor** | ⬜ |
 | **Z7** | **Dikiş** | ➖ | Bir el genişliğinde çizgi; **iki taraf da görünür, ikisi de seni görmez** | **1 saat** sonrası çıkış DC 20 | Vasili'nin **Shadowfell teması** | ⬜ |
 
@@ -97,24 +98,24 @@ updated: 2026-09-30
 
 **Z2 — Çoban Terası**
 - 🎬 Kırk yıllık asmalar **meyve veriyor.** Tatlı, yanlış.
-- 🗣️ Çobanlar: *"Çıkmak mı? Neden?"* — **Harper A** ile aynı hâlde: mutlu ve **tehlikeli** derecede memnun.
+- 🗣️ Çobanlar: *"Çıkmak mı? Neden?"* — **Halime** ile aynı hâlde: mutlu ve **tehlikeli** derecede memnun.
 - ⛔ **Vesna: çıkarma.** Ama **rapor için gözlem** lazım: ne yiyor, ne hatırlıyor, saati bilmiyor.
 
 **Z3 — Bağlayanların Çadırı**
-- 🎬 Kamp düzenli, **sessiz.** 6 Bağlayan **ritüel halkasında.**
-- 🗣️ **Nerath** partiyi **kaynak** olarak görür (Dikiş'e girecek biri arıyor). **Thava** ayrıca fısıldar.
+- 🕶️ **GİZLİ.** Kamp **kamufle** — parti **yanından geçer**, **kimseyle tanışmaz.** Yalnız **Nat 20 Investigation** izi bulur *(ritüel halkası, sönmüş ateş, 7 kişilik çadır)*; **sohbet/pazarlık yok.**
+- 🔎 **Nat 20 bulursa:** iz ve çadırlar; Nerath/Thava **görünmez kalır** *(oradalar, saklanıyorlar — parti onları göremez)*. Bulunan iz **Thava kâğıdına** ve **§5f** kancasına bağlanır.
 - ⚠️ Bu oda **sosyal + pazarlık**; savaş çıkarsa **7 kişi** karşı taraf.
 
 **Z4 — Heyelan Eşiği**
 - 🎬 **Renk çekilir.** Işık *"yanlış."*
 - 🪝 Concord çavuşunun **defteri/madalyası** — Concord'un **inkâr ettiği** kanıt. Gwyndor tanır *(eski birlik)*.
-- ⭐ **Buraya kadar Fey Bloom, buradan sonra Sitting Dead** — save değişir.
+- ⭐ **Buraya kadar Fey Bloom, buradan sonra Shadowfell Rot** — save değişir.
 
-**Z5 — Oturanlar**
-- 🎬 **Otuz bir kişi oturmuş, konuşuyor.** Hepsi **aynı anda** birbirine değil, **sana**.
-- 🗣️ Sorulan her şeye **doğru + uzun** cevap. **Parti kalmak isteyecek — tuzak bu.**
-- 👤 **Bağ ustası** not tutuyor; **Harper B** yanında *(⬜ ne yazıyor?)*.
-- 🎲 Her **10 dakikada** 1 kez Con save *(exhaustion gerçek!)*.
+**Z5 — Solgun Bağ**
+- 🎬 **Renk çekilir, ses boğuklaşır.** Asmalar **kemik beyazı tel**, toprak **kül**. Mezar taşlarındaki **adlar silinmiş** *(aynı taşta parmak izi gibi çizgiler)*.
+- 🔍 **Concord çavuşunun izi** *(+2 asker)* — **sürüklenmiş**, sonra **duruyor**. ⬜
+- 👤 **Halit** *(uzakta, sırtı dönük)* silinen adları **kâğıda geçiriyor** *(⬜ ne yazıyor?)*.
+- 🎲 Her **10 dakikada** 1 kez Con save *(exhaustion gerçek)*; Despair **DC 10 Wis**.
 
 **Z6 — Kesişme Terası**
 - 🎬 Bir gözünüzle **renk**, öbürüyle **gri**.
@@ -235,7 +236,7 @@ updated: 2026-09-30
 |---|---|
 | **Kim** | **8–14× Pixie** *(MM 2025, CR 1/4)* + ⬜ **1 lider** *(Sprite/Pixie üstü — ⬜)* |
 | **Modifikasyon** | **Gloomtouched** *(homebrew, `canon: homebrew`)*: **Sting/Ranged +1d4 Necrotic**; **Fear Song** *(1/gün, DC 13 Wis, 10 ft — frightened 1 dk.)*; Invisibility **kırılmaz** *(gölge onları ele veriyor)* |
-| **Neden saldırıyorlar?** | **Shadowfell'deki bir canavar onları bozdu** *(boss — [§5e](#5e-🌑-shadowfell-bölgesi--z5z7))* — **hatırlamıyorlar**, sadece **aç** |
+| **Neden saldırıyorlar?** | **Shadowfell'deki bir canavar onları bozdu** *(boss: [Gallows Speaker](#5e-🌑-shadowfell-bölgesi--z5z7) — çığlığına eşlik ettiler, sesleri artık onların değil)* — **hatırlamıyorlar**, sadece **aç** |
 | **Taktik** | Uçarak **kuşatır**, görünmez olmaz *(gölge)*; **kendi hâline** bırakılan biri kaçar |
 | **Toplam** | 8×50 = **400 XP** *(Low altı)* → **14 Pixie + lider ≈ 1.000** *(Moderate)* öner ([§5h](#5h-️-denge--xp-bütçesi-dmg-2024)) |
 
@@ -254,38 +255,41 @@ updated: 2026-09-30
 | Kuşak | Tasvir | Mekanik |
 |---|---|---|
 | **1 — Solgun Bağ** | Asmalar **kemik beyazı teller**; üzüm **kuru kabuk**; toprak **kül**; ses **boğuk** | **Shadowfell Despair** *(DC 10 Wis / uzun kalışta)* |
-| **2 — Oturanlar** *(iç halka)* | **31 kişi oturuyor**, mezar taşları **adsız** *(isimler silinmiş)*; duvarlar **bulanık** *(eski taş "hatırlamıyor")* | **DC 14 Con** ya da **+1 exhaustion** |
+| **2 — Solgun Bağ** *(iç halka)* | Asmalar **kemik teller**; mezar taşları **adsız** *(isimler silinmiş)*; duvarlar **bulanık** *(eski taş "hatırlamıyor")* | **DC 14 Con** ya da **+1 exhaustion** + **Despair** |
 | **3 — Kül Terası** | Yeni büyüyen **gölge-ağaçlar**; **ölü pixie'ler** dalda asılı; **yankı** gecikmeli | Işık büyüleri **yarı** etkili |
 | **4 — Boşluk** *(merkez)* | **Hiçbir şey** — düz, gri, **kenarları yok**. **Ölü değil, silinmiş.** Boss burada *"yer"* değil **açlık** | **Dikiş** yakın; **1 saat** kuralı |
 
-> 💡 **Çürüme deseni:** merkezden dışa **"unutuş"**. Önce **anı**, sonra **isim**, sonra **şekil.** Boss **hatırlanmayı** yiyor. Kapılarda kazınmış **isimler yumuşamış**, parti **kendi adlarını** duyduğunda bir an **tereddüt eder** ⬜.
+> 💡 **Çürüme deseni:** merkezden dışa **"unutuş"**. Önce **anı**, sonra **isim**, sonra **şekil.** Boss **susturulmuş son sözleri** topluyor, **hatırlanmayı** da yiyor. Kapılarda kazınmış **isimler yumuşamış**, parti **kendi adlarını** duyduğunda bir an **tereddüt eder** ⬜.
 
-### 👑 Boss — *Shadowfell canavarı*
+### 👑 Boss — *Gallows Speaker* *(Darağacının Sözcüsü)*
 
 | | |
 |---|---|
-| **Taslak ad** | ⬜ **"The Hollow Guest"** *(Boş Misafir)* — **özlemi yer** |
-| **Ne** | **Shadowfell yerlisi** — Dikiş'ten **içeri sızmış**; ⬜ *(taban öneri: Shadow Dragon değil — **bir "Wraith/Banshee üstü"** ya da **homebrew** yeni bir yaratık)* |
-| **Yöntem** | **Sevilen birinin yüzünü** takar → **tuzağa çeker**; **fey** ve **insanı** bozar; bir **Grafting'den** beslenir |
-| **Statblock** | ⬜ **`Skill(statblock)`** çağrılacak — **seviye ve taban seçilince** *(aşağıdaki sorular)* |
-| **CR hedefi** | **5** *(5×L3 High = 2.000; CR 5 = 1.800 XP — [§5h](#5h-️-denge--xp-bütçesi-dmg-2024))* |
+| **Ad** | **Gallows Speaker** *(Ravenloft: The Horrors Within uyarlaması, `canon: adapted`)* — halk arasında **Darağacının Sözcüsü** |
+| **Ne** | **Huge Undead, Chaotic Evil** — Kırıkbağ'ın **31 duyulmamış son sözünden** doğmuş; Dikiş'ten **içeri sızdı**. Kendi sesi yok, **ödünç cümlelerle** konuşur |
+| **Yöntem** | **Borrowed Face:** bir PC'nin **sevdiği birinin yüzünü** hafızasından okur → **Lure** *(Wis save)* ile tuzağa çeker. Yüz **hasarla ya da başka aksiyonla düşer** → **gerçek biçim:** dönen bıçak-hortum, **Aura of Violence** *(dostlar birbirine vurur)*, **Howling Wind** *(korku + sağırlık + verbal caster susar)*. Feyi **çığlığıyla** bozdu, iki Harper'a **Voice** yerleştirdi |
+| **Statblock** | ✅ **CR 5, AC 14, HP 67, DC 14, +5** → [📊 Statblock](../../../08-rules/homebrew/monsters/gallows-speaker.md) · [🦴 Bestiary](../../../02-lore/bestiary/gallows-speaker.md) |
+| **CR** | **5** *(5×L3 High = 2.000; CR 5 = 1.800 XP — [§5h](#5h-️-denge--xp-bütçesi-dmg-2024))* · **Full-strength = CR 6** *(daha güçlü parti)* |
+| **Turn Undead** | ⬜ **Frightened bağışık** → **çalışmaz** *(öneri; bkz. statblock notu)* — Gwyndor sorusu, tanrılar sessiz olduğu için zaten açık ([§5b](#5b-encounter--köprü-ve-orman-z1)) |
 
 **Savaş alanı:** Boşluk'un kenarında, **yarım daire** — arkada Dikiş'in **çizgisi**. Dövüş **Dikiş'e yakın** = **1 saat kuralı** *(kapıdan uzaklaşmak = boss'a yaklaşmak)*.
 
-**Boss'un üç eylemi *(taslak)*:**
-1. **Yüz** — hedefin sevdiği kişinin **görünüşü** *(Cha save)*.
-2. **Çürütme** — **Necrotic + exhaustion**.
-3. **Unutuş** — hedef **bir yeteneğini** *1 dk.* **unutur** *(Int save; concentration'ı bozar)*.
+**Boss'un beş hamlesi** *(mekanik metin İngilizce → statblock)*:
+1. **Borrowed Face** *(bonus action)* — **Medium** guise; hedefin sevdiği kişinin görünüşü. Aura/Blades **kapalı**, tek tatlı cümle. **Insight/Perception DC 16:** gölge yanlış açıda.
+2. **Lure** *(action)* — Wis DC 14 → **charmed 1 dk.** *(guise'a yürür, saldıramaz)*. Omuz sarsmak *(Utilize)* ya da **hasar** kırar.
+3. **Whirling Blades** *(2×)* — guise düşünce; **Slashing + Necrotic**.
+4. **Howling Wind** *(Recharge 5–6)* — Con DC 14, 30 ft koni: **Thunder + Frightened + Deafened + verbal büyü yok**.
+5. **Aura of Violence** *(her tur sonu, 15 ft)* — Wis DC 14: **Reaction'ıyla dostuna saldırır** *(host'a düşebilir)*; hedef yoksa **2d6 Psychic**.
 
 ## 5f. Merkez — *kayıp iki Harper*
 
-> 🎬 **Boşluk'un tam ortasında iki figür**, **sırt sırta** oturuyor. **Gözleri simsiyah**, akılları **bulanık.** Kendileri **hâlâ oradalar** — ama içlerinde **başka bir şey** büyüyor.
+> 🎬 **Boşluk'un tam ortasında iki figür**, **sırt sırta** oturuyor. **Gözleri simsiyah**, akılları **bulanık.** Kendileri **hâlâ oradalar** — ama içlerinde **başka birinin sesi** büyüyor.
 
-| | **Harper A** ⬜ *(ad)* | **Harper B** ⬜ *(ad)* |
+| | **Halime** *(Harper A)* | **Halit** *(Harper B)* |
 |---|---|---|
 | **Hâl** | Gözler **siyah**, konuşma **tekrar** ediyor | Aynı; **elleri** boş bir şeyi **yazıyor** |
-| **Söyledikleri** | Ölüler ve Vesna hakkında **parçalar** | *"Dokuz… dokuz…"* |
-| **Ne yapar** | Saldırmaz; **yaklaşana** bakar | **Boss** çağrısında **hareket eder** |
+| **Söyledikleri** | **Vesna** ve **silinen adlar** hakkında **parçalar** | *"Dokuz… dokuz…"* |
+| **Ne yapar** | Saldırmaz; **yaklaşana** bakar | **Boss** çağrısında **hareket eder** *(Kept Voices — Speaker'ın **Voice**'u)* |
 
 ### ⛔ Kurtarma kuralı *(Vesna'nın uyarısı doğru)*
 
@@ -293,9 +297,9 @@ updated: 2026-09-30
 |---|---|
 | **Öldürür** | Sorun **yok** *(içlerindeki şey ölür)* |
 | **Elleme / bırak** | Sorun **yok** |
-| ⚠️ **Dışarı çıkarır / kurtarmaya çalışır** | **Anlık sonuç yok.** Ama **içlerinde büyüyen şey de dışarı çıkar** → **Calithra'da yeni bir Grafting/bozulma**, **Harpers ile aran bozulur** |
+| ⚠️ **Dışarı çıkarır / kurtarmaya çalışır** | **Anlık sonuç yok.** Ama **içlerinde büyüyen Voice da dışarı çıkar** → **Calithra'da yeni bir bozulma (Gallows Echo)**, **Harpers ile aran bozulur** |
 
-> 🔒 **[DM ONLY]** **Saat:** dışarı çıkardıktan **~3 gün** *(⬜)* içinde **içlerindeki şey** patlar — **yeri** çıkardıkları yerin **etrafı**. Vesna **ceza** vermez; **söylemişti.**
+> 🔒 **[DM ONLY]** **Saat:** dışarı çıkardıktan **~72 saat (±1d6)** sonra host'un **sesi boğazından yırtılarak çığlığa döner** *(Eruption)*: host **ölür**, olduğu yerde **60 ft'lik Gallows Echo** *(DC 14 Con / exhaustion, çığlık: Deafened, günde +10 ft)*. **Speaker önce ölmüşse** *Orphaned Voice*: host ölmez, **2 exhaustion**, **1d4 gün sessiz** ve **son söylediği cümleyi** unutur. **Çare:** *Greater Restoration*. Tüm kural: [bestiary](../../../02-lore/bestiary/gallows-speaker.md#kept-voice--host-çıkarılırsa-ne-olur). Vesna **ceza** vermez; **söylemişti.**
 
 ### 📜 Merkezde ne öğrenilir — *ritüelin sırrı*
 
@@ -310,8 +314,8 @@ updated: 2026-09-30
 |---|---|
 | Ritüel **portal değil**, **aralık** yaratıyor | Feywild ⇄ Shadowfell **dokunmuş** — Material şerit **hiçbirine ait değil** |
 | **Nine (Dokuz)** = **Ysolde Marr**'ın dokuz günü | Communion **onu tekrarlamak** istiyor |
-| Dikiş'i **kapatmanın yolu var** — ve **Nerath'tan gizli** | **Thava** partinin **müttefiki** olabilir |
-| Boss = ritüelin **yan etkisi** | Onu **öldürmek** bir çözüm, **kapatmak** ayrı iş |
+| Dikiş'i **kapatmanın yolu var** — ve **Nerath'tan gizli** | **Thava** varlığı **ima** edilir — parti **tanışmaz** |
+| Boss *(Speaker)* = ritüelin **yan etkisi** | Onu **öldürmek** bir çözüm, **kapatmak** ayrı iş |
 
 > 🪝 **[HOOK — First Communion → Marr]** Kâğıdın **arkasına** yeni kalemle: *"Nine, üçüncü halkada bekle. — Y.M."* ⬜ *(bu **mesaj**, Ysolde Marr'ın **kimlere** yazdığı ⬜)*.
 > **Marr nerede?** ⬜ Adaylar: **[Silvaerun](../05-world-seeds.md#4-silvaerun--kuzeyin-elf-şehri)**'un dışında bir *ince yer* · **[Kuyudibi](../05-world-seeds.md#8-kuyudibi--sessiz-köy)** *(iki yüz yıldır sessiz köy)* · **bir sonraki Grafting** ⬜.
@@ -329,24 +333,26 @@ updated: 2026-09-30
 |---|---|---|
 | 1 | 🃏 **Deste uyanır** | Shadowfell'e girer girmez **Vasili'nin destesi ısınır**, kartlar **kendiliğinden** dönmeye başlar. *Bir yıldır sessizdi.* → **Mists** yakın *(erken uyarı — [deste notu](../../../05-characters/player-characters/new-campaign/vasili-von-holtz/04-dm-notes.md#deste-neden-sustu))* |
 | 2 | 🌫️ **Ses** | Merkeze yakın Vasili **kendi düşüncesi gibi** bir ses duyar: *"Adağını duyduk."* — **Dark Powers mı?** |
-| 3 | 👤 **Yüz** | **Boss**, Vasili'nin **sevdiği kişinin** *(Tatyana)* **yüzünü** takar |
+| 3 | 👤 **Yüz** | **Gallows Speaker**, **Borrowed Face** ile Vasili'nin **sevdiği kişinin** *(Tatyana)* **yüzünü** takar ve **Lure** kullanır |
 
 **"Dark Powers konuşuyor mu?" — üç okuma, DM seçer:**
 
 | Okuma | Ne olur | Sonucu |
 |---|---|---|
-| ⭐ **A — Sahte** *(önerilen)* | **Boss** Vasili'nin **kendi anılarını** ve adağın **yankısını** okuyup **taklit** ediyor | Vasili **ayırt edemez** *(Insight/Arcana)*. **Adak boşa gittiyse** bunu **öğrenmemiş kalır** — *"cevap aldım"* sanır → **6. dilimi** *(sisler)* **yanlış** tetikler |
+| ⭐ **A — Sahte** *(önerilen)* | **Speaker** Vasili'nin **kendi anılarını** ve adağın **yankısını** okuyup **taklit** ediyor | Vasili **ayırt edemez** *(Insight/Arcana)*. **Adak boşa gittiyse** bunu **öğrenmemiş kalır** — *"cevap aldım"* sanır → **6. dilimi** *(sisler)* **yanlış** tetikler |
 | **B — Gerçek** | Mists Ager'e **bir an** dokundu; Dark Powers **gerçekten** Vasili'ye baktı | **Deste** kalıcı uyanır; **[Saat 5](../06-clocks.md)** ileri |
 | **C — Başka** | **[The Unwoven](../../../02-lore/magic/the-unwoven.md)** dinliyor; Dark Powers taklit ediyor | Vasili **iki kez** yanılır |
 
 **Tatyana yüzü — sahne:**
 - 🎭 **Konuşmaz** *(Tatyana'nın sessizliğine uygun)* — sadece **bakar**, elini uzatır.
-- 💬 Tek cümle *(Vasili'ye özel not)*: *"Bu kadar çalışmana gerek yok."* *(Shar'ın baştan çıkarma tonu)*
-- ⚖️ **Vasili'nin seçimi:** *dokunmak* = boss'a **yaklaşmak** *(Cha save)*; *reddetmek* = **ilk kez** reddettiğini **kendine** kanıtlar *(karakter arkı)*.
+- 💬 Tek cümle *(Vasili'ye özel not)*: *"Bu kadar çalışmana gerek yok."* *(Shar'ın baştan çıkarma tonu; Speaker'ın topladığı **ödünç bir son söz**)*
+- 🎲 **Mekanik:** **Lure**, Wis DC 14. Başarısız → **charmed**: Vasili **yüze yürür**, ona **saldıramaz**. Yüz **hasar alırsa** ya da Speaker **başka aksiyon** kullanırsa **düşer**; bir dost Vasili'yi **sarsarsa** *(Utilize)* çıkar.
+- ⚖️ **Vasili'nin seçimi:** *dokunmak* = Speaker'a **yaklaşmak** *(Lure'ün Wis save'i)*; *reddetmek* = **ilk kez** reddettiğini **kendine** kanıtlar *(karakter arkı)*.
 - 🔍 **Fark edilebilir** *(Perception/Insight DC 16)*: yüz **aynı**, ama **gölge yanlış açıda düşüyor.**
+- 🔒 **Ad kuralı sürer:** Speaker **Vasili'nin gerçek adını söylemez**, hiçbir yüzün adını söylemez — yalnız **tek cümle**. Ad **masada** da geçmez.
 - ⚠️ **Parti fark ederse:** *"kimdi bu?"* — Vasili **cevap vermek zorunda** ⬜.
 
-> 💡 **Diğer PC'ler için tek satır:** **Gwyndor** — Oturanlar *"sen de oturuyorsun"* der *(ölü → tanır)*. **Grimnor** — **ay ışığı** Shadowfell'de **kırık** *(Selûne cevap vermiyor, ama burada bir şey **yanıt** veriyor)*. **Roger** — **uyku** kokusu *(kabus, kulübe — ⬜)*.
+> 💡 **Diğer PC'ler için tek satır:** **Gwyndor** — **adı silinmiş bir mezar taşı** *"seni tanıyorum"* gibi ısınır *(ölü → tanır; ⬜)*. **Grimnor** — **ay ışığı** Shadowfell'de **kırık** *(Selûne cevap vermiyor, ama burada bir şey **yanıt** veriyor)*. **Roger** — **uyku** kokusu *(kabus, kulübe — ⬜)*.
 
 ## 5h. ⚖️ Denge — *XP bütçesi (DMG 2024)*
 
@@ -361,26 +367,26 @@ updated: 2026-09-30
 |---|---:|---|---|
 | **Z1 — 2 Cube + 4 Ghoul** | 1.700 | ⚠️ **Moderate–High** (High'a yakın) | Ghoul'lar **1d4 tur sonra** gelir → yumuşar. Sert istiyorsan böyle bırak; hafif: **ghoul 4→2 = 1.300** *(Moderate+)* |
 | **Feywild — pixie** | 8×50 = 400 | Low'un **altı** | **14 Pixie = 700** *(Low)* · **14 + lider ≈ 1.000** *(Moderate)* |
-| **Boss** *(tek)* | ⬜ | **High = 2.000** | **CR 5 = 1.800 XP** *(CR 6 = 2.300 → biraz üstü)* |
+| **Boss** *(Gallows Speaker, tek)* | **1.800** | **High = 2.000** | **CR 5 = 1.800 XP** ✅ *(full-strength CR 6 = 2.300 → biraz üstü)* |
 | Oda hazard'ları | — | XP yok | Fey Bloom, Despair, exhaustion **asıl baskı** |
 
 > 💡 **Kurallar:** 2024'te **çarpan yok**, sadece toplam XP. Seviye 3 = **6–8 encounter/gün** rehberi ama **5 oyuncu** aksiyon ekonomisi güçlü.
-> 🔧 **Knob'lar:** Pixie ±4 · Ghoul gecikmesi 1d4→1d2 · Boss **Legendary Resistance** 1→0 · Harper'lar **boss'la** birlikte mi ⬜.
-> ⚠️ **Sert tehlikeler (L3 için):** **Cube engulf** *(6d6 asit)*, **Ghoul paralizisi**, **Exhaustion** *(iç halka)* — üçü **aynı gün** olmasın; **Z5'ten sonra** dinlenme noktası ver ⬜.
+> 🔧 **Knob'lar:** Pixie ±4 · Ghoul gecikmesi 1d4→1d2 · Boss **Legendary Resistance** 1→0 *(→ statblock "kolaylaştır" satırı)* · Harper'lar **boss'la** birlikte mi ⬜.
+> ⚠️ **Sert tehlikeler (L3 için):** **Cube engulf** *(6d6 asit)*, **Ghoul paralizisi**, **Shadowfell Rot exhaustion** *(iç halka)* — üçü **aynı gün** olmasın; **Z5'ten sonra** dinlenme noktası ver ⬜.
 
-### Boss — Hollow Guest
+### Boss — Gallows Speaker
 
-**Öneri:** homebrew *"The Hollow Guest"* — **5×L3 varyantı, CR 5** ✅ *(HP 71, AC 16, DC 13, +5; CR 5)* → [🦴 Bestiary](../../../02-lore/bestiary/hollow-guest.md) · [📊 Statblock](../../../08-rules/homebrew/monsters/hollow-guest.md).
-Önceki **CR 7** blok artık **"5×L5 / daha güçlü parti"** varyantı.
+**Öneri:** *Gallows Speaker* *(Ravenloft uyarlaması)* — **5×L3 varyantı, CR 5** ✅ *(HP 67, AC 14, DC 14, +5; CR 5, D-CR 5 / O-CR 5)* → [🦴 Bestiary](../../../02-lore/bestiary/gallows-speaker.md) · [📊 Statblock](../../../08-rules/homebrew/monsters/gallows-speaker.md).
+**Full-strength** *(resmî CR 6: HP 75, AC 13, DC 15)* = daha güçlü parti için. **Wisp mekaniği kullanılmıyor** *(eski taslaktan)*.
 
 ## 6. Görev rapor kontrol listesi *(Vesna için)*
 
-- [ ] **Harper A** bulundu — durumu: ⬜
-- [ ] **Harper B** bulundu — durumu: ⬜
+- [ ] **Halime** bulundu — durumu: ⬜
+- [ ] **Halit** bulundu — durumu: ⬜
 - [ ] **Concord çavuşu** ve iki asker bulundu / ⬜ *(Concord bunu inkâr ediyor)*
 - [ ] **Yedinci kişi** kim?
 - [ ] Grafting'in **büyüme yönü** kaydedildi
-- [ ] Nerath / Thava **niyeti** öğrenildi
+- [ ] Nerath / Thava **izi** *(yalnız Nat 20 Investigation)*
 - [ ] **Shapeshifter izi** var mı?
 - [ ] ⛔ **Harper'lar dışarı çıkarılmadı**
 
@@ -390,8 +396,8 @@ updated: 2026-09-30
 |---|---|
 | Parti Harper'lardan birini **çıkarırsa** | Vesna'nın uyarısı doğrulanır ⬜ *(neden tehlikeli? → [Session 01 §11](session-01-calithra-kavsagi.md#11-nehir-yolu-ve-iki-harper))* |
 | **Vasili Dikiş'e basarsa** | İlk saat: serbest · Sonra **kilit** |
-| **Nerath'la anlaşırlarsa** | Partiden **biri Dikiş'e** gidecek |
-| **Thava'yla anlaşırlarsa** | **Kapatma** yolu; Nerath'a karşı |
+| **Nat 20 Investigation** ile Bağlayanların izi bulunursa | **Çadır**, halka ve sönmüş ateş görülür; **kimse çıkmaz.** Nerath/Thava **tanışma yok** |
+| **Parti Bağlayanları aramaya devam ederse** | Kamp **boşalır** *(taşındılar)* — **DM kararı** ⬜ |
 | **Concord çavuşuna ulaşırlarsa** | Concord'un **inkârı** çöker — *Stane'in koz kartı* |
 | **Shapeshifter'lar** ortaya çıkarsa | Gwyndor'ın avı **başlar**; ortak aklın **ilk izi** |
 
@@ -399,14 +405,14 @@ updated: 2026-09-30
 
 | d8 | 🌿 Dış halka | 🌑 İç halka |
 |---|---|---|
-| 1 | Bir yol **uzar** — süre ×2 | Bir ölü **adını** sorar |
-| 2 | **Kahkaha** yaklaşır, kaynağı yok | Bir ölü **partiden birinin** adını bilir |
+| 1 | Bir yol **uzar** — süre ×2 | Bir taştaki **ad** yavaşça **silinir** |
+| 2 | **Kahkaha** yaklaşır, kaynağı yok | Bir taşta **partiden birinin** adı **yarım** yazılı |
 | 3 | Asmalar **çiçek açar** — tatlı koku | **Renk** bir an geri gelir |
-| 4 | **Yanlış üzüm** gerçekten iyi geliyor *(HP +1d4)* | **Konuşma kesilir**, hepsi bakar |
-| 5 | Bir **çoban sürüsü** yanlış yönden gelir | Bir ölü **Dikiş'i** işaret eder |
-| 6 | **Save** gerekmeyen bir *"dinlenme"* şansı | Bir ölü **Vesna'yı** tanır ⚜️ |
+| 4 | **Yanlış üzüm** gerçekten iyi geliyor *(HP +1d4)* | **Ses tamamen** kesilir, bir an |
+| 5 | Bir **çoban sürüsü** yanlış yönden gelir | **Toz** Dikiş'e doğru akar |
+| 6 | **Save** gerekmeyen bir *"dinlenme"* şansı | Bir taşta **hilal + arp** silinmiş ⚜️ |
 | 7 | **Sürünün** içinde **bir shapeshifter** ⬜ | **Işık** ikiye yarılır |
-| 8 | **Harper işareti** yeni kazılmış | **Harper'ın yazısı** duvarda |
+| 8 | **Harper işareti** yeni kazılmış | **Halit'in listesinden** bir sayfa |
 
 ## 9. Canlı Notlar *(session sırasında)*
 
@@ -440,4 +446,4 @@ updated: 2026-09-30
 - [ ] `03-timeline.md` (session 02 satırı)
 - [ ] 4× PC `03-development.md`
 - [ ] `00-meta/changelog.md`
-- [ ] Yeni NPC (Harper A/B, Yedinci) → `Skill(statblock)`
+- [ ] Yeni NPC (Halime/Halit, Yedinci) → `Skill(statblock)`
