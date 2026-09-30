@@ -82,7 +82,7 @@ updated: 2026-09-30
 | # | Oda | Kuşak | Sahne | 1 tehlike | 1 cazibe | Encounter |
 |---|---|---|---|---|---|---|
 | **Z1** | **Nehir Köprüsü** | 🌿 *(henüz normal)* | **Bariyeri geçiş** (balona girmek gibi) → **her şey çok normal**; nehir, orman, **köprü** | 🟢 **2 Gelatinous Cube** köprü altında pusu · 🟢 **4 Ghoul** ormandan (1d4 tur sonra) | Cube'lar **ve** ghoul'lar birbirine **düşman değil ama müttefik de değil** | ✅ **§5b** |
-| **Z2** | **Çoban Terası** | 🌿 | Dikkatle bakınca **iki çoban kardeş**, sürüsüyle; **yollar uzuyor** | Süre 1d4× | **Halime** *(⬜ burada)* | ⬜ |
+| **Z2** | **Çoban Terası** | 🌿 | Dikkatle bakınca **iki çoban kardeş**, sürüsüyle; **yollar uzuyor** | Süre 1d4× | **Halime** *(⬜ burada)* | ✅ **§5d** *(teras çıkışında)* |
 | **Z3** | **Bağlayanların Çadırı** 🕶️ | 🌿 | **First Communion kampı**: Nerath, 6 Bağlayan, **Thava** ayrı çadırda | **Parti onları görmez** — yalnız **Nat 20 Investigation** bulur | Thava: *"kapatmanın yolu var"* | ⬜ |
 | **Z4** | **Heyelan Eşiği** | 🌿→🌑 | Renk **çekiliyor**; toprak kayması **üstünde bir kapı gibi**; Concord çavuşunun **izleri** | Save DC'leri **ikisi birden** | Çavuşun **kaydı** (Concord'un inkâr ettiği şey) | ⬜ |
 | **Z5** | **Solgun Bağ** | 🌑 | Asmalar **kemik beyazı teller**, mezar taşları **adsız**; **ses boğuk** | **Shadowfell Rot** *(Con / exhaustion)* + **Despair** | **Halit**'in yazdığı liste / **Concord çavuşunun izi** | ⬜ |
@@ -228,17 +228,20 @@ updated: 2026-09-30
 | 5 | 🤝 **Hediye Borcu** | Bir fey **hediye** verir; kabul edersen **borç** *(hikâye borcu, mekanik değil)* | Reddet ya da **karşılığını** ver |
 | 6 | 🧠 **Unutuş** | **Çıkışta DC 10 Wis** — başarısızsa Feywild anıları **bulanık** | Notlar / bir tanığa anlat |
 
-### ⚔️ Encounter — *Bozulmuş Pixie'ler*
+### ⚔️ Encounter — *Bozulmuş Fey Sürüsü*
 
-> 🎬 Havada **altın toz** — bir an güzel. Sonra toz **grileşir.** Pixie'ler **kanat izleriyle siyah damarlı**, gülüşleri **yanlış**.
+> 🎬 Havada **altın toz** — bir an güzel. Sonra toz **grileşir.** Pixie'ler **kanat izleriyle siyah damarlı**, gülüşleri **yanlış**. Asmaların arasından iki centaur çıkar; bir Blink Dog bir görünüp bir kaybolarak önlerinde koşar.
 
 | | |
 |---|---|
-| **Kim** | **8–14× Pixie** *(MM 2025, CR 1/4)* + ⬜ **1 lider** *(Sprite/Pixie üstü — ⬜)* |
-| **Modifikasyon** | **Gloomtouched** *(homebrew, `canon: homebrew`)*: **Sting/Ranged +1d4 Necrotic**; **Fear Song** *(1/gün, DC 13 Wis, 10 ft — frightened 1 dk.)*; Invisibility **kırılmaz** *(gölge onları ele veriyor)* |
-| **Neden saldırıyorlar?** | **Shadowfell'deki bir canavar onları bozdu** *(boss: [Gallows Speaker](#5e-🌑-shadowfell-bölgesi--z5z7) — çığlığına eşlik ettiler, sesleri artık onların değil)* — **hatırlamıyorlar**, sadece **aç** |
-| **Taktik** | Uçarak **kuşatır**, görünmez olmaz *(gölge)*; **kendi hâline** bırakılan biri kaçar |
-| **Toplam** | 8×50 = **400 XP** *(Low altı)* → **14 Pixie + lider ≈ 1.000** *(Moderate)* öner ([§5h](#5h-️-denge--xp-bütçesi-dmg-2024)) |
+| **Kim** | **2× Centaur Trooper** *(MM 2025, CR 2)* + **1× Blink Dog** *(MM 2025, CR 1/4)* + **21× Pixie** *(MM 2025, CR 1/4)*. Wren varsa **savaş dışı** kalır. |
+| **Mekanik** | Üçü de **resmî MM 2025 statblock'larıyla** oynanır. Siyah damarlar ve bozuk gülüşler **görsel etki**; eski *Gloomtouched* ek hasarı ve *Fear Song* **uygulanmaz**. Böylece XP bütçesi resmî CR'lere dayanır. |
+| **Neden saldırıyorlar?** | Pixie'ler [Gallows Speaker](#5e-🌑-shadowfell-bölgesi--z5z7)'ın çığlığına eşlik ettikten sonra bozuldu; centaur'lar ve Blink Dog da aynı sürünün peşine takılıp Fey Bloom'un etkisiyle partiyi içeri sürüyor. Dikiş'in etkisinden uzaklaşırlarsa takip etmeyi bırakırlar. |
+| **Taktik** | Centaur'lar **Pike/Longbow** ile yolu tutar; **Trampling Charge** için açık hat arar. Blink Dog **Teleport** ile arka sıraya geçer. Pixie'ler asmaların üzerinden yayılır; hepsini tek turda oynatma. Geri çekilen fey takip edilmezse kaçar. |
+| **Dalgalar** | **Tur 1:** 2 Centaur Trooper + Blink Dog + 7 Pixie. **Tur 2 başı:** 7 Pixie. **Tur 3 başı:** son 7 Pixie. Her dalga bağın farklı terasından gelir; oyuncular gelişlerini görür ve konum değiştirebilir. |
+| **Toplam** | 2×450 + 1×50 + 21×50 = **2.000 XP** → **5×L3 High** ([§5h](#5h-️-denge--xp-bütçesi-dmg-2024)). **24 düşman** aksiyon ekonomisi nedeniyle yine çok tehlikeli; dalgalar ve kaçış yolu önemli. |
+
+**Statblock kaynakları:** [Centaur Trooper](https://www.dndbeyond.com/monsters/5194939-centaur-trooper) · [Blink Dog](https://www.dndbeyond.com/monsters/4830980-blink-dog) · [Pixie](https://www.dndbeyond.com/monsters/5195164-pixie) *(Monster Manual 2025)*. [DMG 2024 karşılaşma bütçesi](https://www.dndbeyond.com/sources/dnd/br-2024/dms-toolbox#CombatEncounterDifficulty).
 
 **Bir tane hâlâ kendisi:** ⬜ *(öneri: **Wren**, tek **berrak** pixie — konuşabiliyor; **"aşağıdan bir şey çekiyor"** diyor; partiyi **yönlendirir**, ama **çıkmaya** korkar)*.
 
@@ -366,12 +369,12 @@ updated: 2026-09-30
 | Encounter | XP | 5×L3'e göre | Öneri |
 |---|---:|---|---|
 | **Z1 — 2 Cube + 4 Ghoul** | 1.700 | ⚠️ **Moderate–High** (High'a yakın) | Ghoul'lar **1d4 tur sonra** gelir → yumuşar. Sert istiyorsan böyle bırak; hafif: **ghoul 4→2 = 1.300** *(Moderate+)* |
-| **Feywild — pixie** | 8×50 = 400 | Low'un **altı** | **14 Pixie = 700** *(Low)* · **14 + lider ≈ 1.000** *(Moderate)* |
+| **Feywild — 2 Centaur Trooper + Blink Dog + 21 Pixie** | 2×450 + 50 + 21×50 = **2.000** | **High** | Pixie'leri **7 + 7 + 7** dalga hâlinde sok; ek hasar/Fear Song yok. **5 Pixie** olsaydı toplam **1.200 XP (Moderate)** olurdu. |
 | **Boss** *(Gallows Speaker, tek)* | **1.800** | **High = 2.000** | **CR 5 = 1.800 XP** ✅ *(full-strength CR 6 = 2.300 → biraz üstü)* |
 | Oda hazard'ları | — | XP yok | Fey Bloom, Despair, exhaustion **asıl baskı** |
 
 > 💡 **Kurallar:** 2024'te **çarpan yok**, sadece toplam XP. Seviye 3 = **6–8 encounter/gün** rehberi ama **5 oyuncu** aksiyon ekonomisi güçlü.
-> 🔧 **Knob'lar:** Pixie ±4 · Ghoul gecikmesi 1d4→1d2 · Boss **Legendary Resistance** 1→0 *(→ statblock "kolaylaştır" satırı)* · Harper'lar **boss'la** birlikte mi ⬜.
+> 🔧 **Knob'lar:** Fey karşılaşmasında son 7 Pixie dalgasını çıkarırsan **1.650 XP** *(High altı)*; Ghoul gecikmesi 1d4→1d2 · Boss **Legendary Resistance** 1→0 *(→ statblock "kolaylaştır" satırı)* · Harper'lar **boss'la** birlikte mi ⬜.
 > ⚠️ **Sert tehlikeler (L3 için):** **Cube engulf** *(6d6 asit)*, **Ghoul paralizisi**, **Shadowfell Rot exhaustion** *(iç halka)* — üçü **aynı gün** olmasın; **Z5'ten sonra** dinlenme noktası ver ⬜.
 
 ### Boss — Gallows Speaker
@@ -426,7 +429,7 @@ updated: 2026-09-30
 | Oda | Encounter | Sonuç |
 |---|---|---|
 | Z1 | ✅ *(+ köy evi, §5c)* 2 Gelatinous Cube (köprü altı pusu) + 4 Ghoul (1d4 tur sonra, orman) — **cube/ghoul müttefik değil** | ⬜ |
-| Z2 | ⬜ | |
+| Z2 | ✅ 2 Centaur Trooper + 1 Blink Dog + 21 Pixie *(7 + 7 + 7 dalga; §5d, teras çıkışı)* | ⬜ |
 | Z3 | ⬜ | |
 | Z4 | ⬜ | |
 | Z5 | ⬜ | |
