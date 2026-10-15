@@ -9,14 +9,18 @@ in_world_elapsed: ⬜
 level_at_start: 3
 level_at_end: ⬜
 players_present: [Ardan, Koray, Erdem, Burak, Ozan (konuk)]
-status: prep
-updated: 2026-09-30
+status: played (kısmen — Shadowfell kuşağı Session 03'e kaldı)
+updated: 2026-10-15
 ---
 
 # Session 02 — Grafting'in İçi
 
-**Yukarı:** [Oturumlar](README.md) · **Önceki:** [Session 01](session-01-calithra-kavsagi.md) ·
+**Yukarı:** [Oturumlar](README.md) · **Önceki:** [Session 01](session-01-calithra-kavsagi.md) · **Sonraki:** [Session 03](session-03-silik-koy.md) ·
 **Site kaynağı:** [Calithra Kavşağı §1 — İkinci Dikiş](../factions-in-play/the-four-answers/field-ops/calithra-standoff.md#1-i̇kinci-dikiş)
+
+> ✅ **Oynandı.** Session **Blink Dog'un ölümünde** bitti → [§12 Ne oldu](#12-oynandı--ne-oldu).
+> **Shadowfell kuşağı (Z4–Z7), boss ve merkez [Session 03](session-03-silik-koy.md)'te** —
+> bu dosyadaki §5e–§5g kuralları orada **aynen** kullanılır; boss'tan önce **Silik köy** eklendi.
 
 > 🎲 **Bu dosya masada açık durur.** Kısa, hap notlar. `⬜` = senin dolduracağın slot.
 > Encounter'ları anlattıkça buraya ya da **§9 Canlı Notlar**'a yazarım.
@@ -264,6 +268,11 @@ updated: 2026-09-30
 
 > 💡 **Çürüme deseni:** merkezden dışa **"unutuş"**. Önce **anı**, sonra **isim**, sonra **şekil.** Boss **susturulmuş son sözleri** topluyor, **hatırlanmayı** da yiyor. Kapılarda kazınmış **isimler yumuşamış**, parti **kendi adlarını** duyduğunda bir an **tereddüt eder** ⬜.
 
+> ✏️ **Değişti (2026-10-15):** Boss'tan önce bir **köy** var — Shadowfell'in Kırıkbağ yankısı.
+> Ölü shapeshifter, bozulmuş Harper'lar, saldırmayan ama kötü durumdaki insanlar; Speaker
+> **köyün ortasındaki kilisede**, dikkatli olunursa **papaz evinde bir centaur'u bozarken**
+> yakalanır. Savaş alanı **Boşluk'un kenarı değil, kilise.** → [Session 03 §3–§4](session-03-silik-koy.md#3-silik-köy)
+
 ### 👑 Boss — *Gallows Speaker* *(Darağacının Sözcüsü)*
 
 | | |
@@ -428,8 +437,8 @@ updated: 2026-09-30
 
 | Oda | Encounter | Sonuç |
 |---|---|---|
-| Z1 | ✅ *(+ köy evi, §5c)* 2 Gelatinous Cube (köprü altı pusu) + 4 Ghoul (1d4 tur sonra, orman) — **cube/ghoul müttefik değil** | ⬜ |
-| Z2 | ✅ 2 Centaur Trooper + 1 Blink Dog + 21 Pixie *(7 + 7 + 7 dalga; §5d, teras çıkışı)* | ⬜ |
+| Z1 | ✅ *(+ köy evi, §5c)* 2 Gelatinous Cube (köprü altı pusu) + 4 Ghoul (1d4 tur sonra, orman) — **cube/ghoul müttefik değil** | ✅ **Ghoul'lar öldü.** Köy evinde **Tek Kulak** ile tanışıldı. Cube'lar ⬜ |
+| Z2 | ✅ 2 Centaur Trooper + 1 Blink Dog + 21 Pixie *(7 + 7 + 7 dalga; §5d, teras çıkışı)* | ✅ **Centaur'lar öldü.** Blink Dog Unwoven'dan güç aldı → **Duraklama** → Blink Dog öldü. Pixie'ler ⬜ |
 | Z3 | ⬜ | |
 | Z4 | ⬜ | |
 | Z5 | ⬜ | |
@@ -444,9 +453,25 @@ updated: 2026-09-30
 > - **Ortak akıl** iki halkanın **birleştiği yerde** ilk tepkisini verebilir.
 > - **Ledger:** Concord içeriden çıkanları **kaydeder** — Harper'lar çıkarsa listeye girer.
 
+## 12. Oynandı — ne oldu
+
+| # | Ne oldu | Sonuç |
+|---|---|---|
+| 1 | Parti **nehirden tekneyle** Grafting'e girdi — planlandığı gibi | Concord kordonu atlandı |
+| 2 | Z1'de, ghoul'ların çıktığı **köy evinde** **[Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md)** ile tanıştılar: bir **rogue** *(eskiden barbar; çok hasar alınca rage'e giriyor)*, Calithra'nın **hırsız loncasıyla** çalışıyor. **Kolay** bir ev soymaya gönderilmişti — ev bir kabusa döndü: **tuzağa düşürüldü.** Partide **Roger'ı tanıyor.** *(Konuk oyuncu Ozan; Session 03'te de masada)* | Yeni müttefik · [Dördüncü Saat](../../../05-characters/npcs/minor/tek-kulak.md#dördüncü-saat--calithranın-hırsız-loncası) kancası |
+| 3 | **Ghoul'lar öldürüldü** *(Trell ailesi — §5c)* | — |
+| 4 | Feywild kuşağında **bozulmuş centaur'larla** dövüştüler; **centaur'lar öldü** | — |
+| 5 | ⭐ Centaur'ların **Blink Dog**'u, sahnedeki **yoğun duygular** yüzünden **[The Unwoven](../../../02-lore/magic/the-unwoven.md)'dan destek aldı.** **Kuyruklu yıldızlar anlık durdu.** Partideki herkes — **Tek Kulak hariç** — çok kısa süreliğine **eski güçlerine kavuştu.** Blink Dog öldürüldü | **Duraklama** → [Charaxis Yolu §1](../arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02) |
+| 6 | **Session burada bitti.** | Shadowfell kuşağı → [Session 03](session-03-silik-koy.md) |
+
+> 🔒 **[DM ONLY]** Duraklama'nın kapsamı (her yer mi, yalnız Kırıkbağ mı) ve kimin
+> **ne** geri aldığı ⬜ → [arc §1](../arcs/charaxis-yolu.md#duraklamada-kim-ne-geri-aldı-dm-seçer---öneriler).
+> Tek Kulak'ın neden hiçbir şey almadığı → [Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md#duraklamada-session-02).
+
 ## Güncellenecek Dosyalar
 
-- [ ] `03-timeline.md` (session 02 satırı)
-- [ ] 4× PC `03-development.md`
-- [ ] `00-meta/changelog.md`
+- [x] `03-timeline.md` (session 02 satırı)
+- [x] 4× PC `03-development.md`
+- [x] `00-meta/changelog.md`
+- [x] Yeni NPC: [Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md) *(konuk PC + DM yedeği statblock)*
 - [ ] Yeni NPC (Halime/Halit, Yedinci) → `Skill(statblock)`

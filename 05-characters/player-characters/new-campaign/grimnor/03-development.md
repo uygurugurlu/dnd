@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, grimnor, development, log, malar]
-updated: 2026-09-30
+updated: 2026-10-15
 ---
 
 # Grimnor — Gelişim Günlüğü
@@ -53,6 +53,7 @@ updated: 2026-09-30
 | # | Tarih (DR) | Session | Ne oldu | Karakterde ne değişti |
 |---|---|---|---|---|
 | 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Calithra'da bir **sincapla** konuştu; sincap **kediden** rahatsızdı. Kediye zarar vermedi, **yemek verdi**, sincapları rahat bırakmasını söyledi. Kedi [Fig](../../../npcs/minor/fig.md) çıktı: **yüzlerce yaşında**, sahibi **Calithra'nın kurucusu** | Şehirle ilk bağı bir hayvan üzerinden kurdu. **Calithra kedinin onayını okur** — Fig'in ilgisi artık partiye dönük |
+| 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | Nehirden Grafting'e girdi; ghoul'lar, Feywild'da bozulmuş centaur'lar. [Tek Kulak](../../../npcs/minor/tek-kulak.md) ile tanıştı. ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu, Grimnor bir an **eski gücüne** kavuştu ⬜ *(ne geri geldi)*. Blink Dog'u öldürdüler | Sessizliği savunan adam, sessizliğin **altı saniye kalktığını** gördü |
 
 ## 3. Dönüm Noktaları
 

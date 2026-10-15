@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, roful-roger, development, log, monk, night-hag]
-updated: 2026-09-30
+updated: 2026-10-15
 ---
 
 # Roful Roger — Gelişim Günlüğü
@@ -50,6 +50,7 @@ updated: 2026-09-30
 | # | Tarih (DR) | Session | Ne oldu | Karakterde ne değişti |
 |---|---|---|---|---|
 | 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | **Kendi gemisi [the Hungry Gull](../../../npcs/minor/the-hungry-gull/README.md) ve mürettebatıyla** Calithra limanına geldi; ekip şehirde takılıyor. **Moondust'lı ekmek** yedi — kafası güzel oldu. Ekiple **Kırıkbağ**'a gidip Iron Concord bariyerine dayandılar | Yalnız bir monk değil — **bir kaptan.** Gemisi ve crew'i Roger'ın **koma sonrası** dünyası; Calithra'da kayıt yok, kimse sormaz |
+| 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | Nehirden Grafting'e girdi. Köy evinde [Tek Kulak](../../../npcs/minor/tek-kulak.md) ile karşılaştı — **Roger'ı tanıyor** ⬜ *(nereden)*. Ghoul'lar, bozulmuş centaur'lar. ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu, Roger bir an **eski gücüne** kavuştu ⬜ *(ham büyüsü?)* | Onu kurtaran sessizlik **altı saniye kalktı** — ve o altı saniyede ne olduğunu biliyor |
 
 ## 3. Dönüm Noktaları
 

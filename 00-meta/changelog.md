@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Değişiklik Kaydı
-updated: 2026-09-30
+updated: 2026-10-15
 ---
 
 # Değişiklik Kaydı
@@ -10,6 +10,13 @@ Evrende ne zaman ne değişti. Her önemli ekleme/karar buraya bir satır.
 Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
+
+- **2026-10-15** — 🎲 **New Campaign: Session 02 oynandı + Session 03 hazırlığı + Charaxis yayı.**
+  - **[session-02](../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md)** oynandı olarak işlendi (§10, yeni §12): nehirden giriş, **Tek Kulak**, ghoul'lar, centaur'lar, **Duraklama** (Blink Dog Unwoven'dan güç aldı; kuyruklu yıldızlar durdu; Tek Kulak hariç herkes bir an eski gücüne kavuştu). Boss öncesine **köy** eklendi (işaret §5e'de).
+  - **[session-03](../06-campaigns/new-campaign/sessions/session-03-silik-koy.md)** (prep): **Silik Köy** — Shadowfell yankısı köy, *Spoken Names* kuralı, ölü shapeshifter (Stillreach vardiya pulu), Halime/Halit (Si notası), saldırmayan bozulmuş insanlar; Speaker **papaz evinde centaur bozarken** yakalanabilir, boss **kilisede** (sessiz çan). Dönüş: Stane randevusu, Vesna'nın istihbarat→tepki tablosu ve **sessiz öbür yaka hücresi** kancası, Tek Kulak'ın sabah 4 sahnesi, Hungry Gull, rüya.
+  - **[arcs/charaxis-yolu.md](../06-campaigns/new-campaign/arcs/charaxis-yolu.md)** (yeni yay): her PC'nin Charaxis ipi, **Trell sandığı** (Soğuk İmtiyaz dört kişilik K-1 kâğıdı + Ansel Corr mektubu + moondust), altı ipucu, üç rota (⭐ boğaz → K-1 → Stillreach), S03–S05 takvimi.
+  - **Yeni NPC:** [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) (konuk PC; DM yedeği statblock CR 1, CR doğrulamalı) + **Dördüncü Saat** loncası ve **Esme "Kül"** (MM 2025 Spy). Calithra `places.md` ve `05-secrets-dm-only.md`'ye geri link.
+  - **Güncellenen:** `03-timeline.md`, `sessions/README.md`, `arcs/README.md`, 4× PC `03-development.md`, `09-index/who-is-who.md`, `open-questions.md`.
 
 - **2026-09-30** — 🎲 **New Campaign: Session 01 — Calithra Kavşağı.**
   - **[session-01](../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md)** + `sessions/README.md` + `03-timeline.md`.

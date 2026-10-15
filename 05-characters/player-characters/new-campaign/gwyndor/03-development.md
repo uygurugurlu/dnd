@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, gwyndor, development, log, undead, iron-concord]
-updated: 2026-09-30
+updated: 2026-10-15
 ---
 
 # Gwyndor — Gelişim Günlüğü
@@ -53,6 +53,7 @@ updated: 2026-09-30
 | # | Tarih (DR) | Session | Ne oldu | Karakterde ne değişti |
 |---|---|---|---|---|
 | 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Calithra'da partiyle karşılaştı. Kırıkbağ'da Iron Concord bariyerine dayandı, **forsunu kullanıp** yetkili biriyle görüşmek istedi; **[Marshal Stane](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md#marshal-vharra-stane)** geldi — daha önce tanışıyorlardı. İçeri alınmadı; **ertesi gün** görüşme sözü. Avı **shapeshifter'lar** — Stane, birkaçının Grafting'e girmeye çalıştığını söyledi. ⭐ **Religion Nat 20:** shapeshifter'ların **dini** ve **tek bir ortak aklı** var; Grafting'in gücüne erişmek istiyorlar | Avı *"kaçaklar"* olmaktan çıktı, **bir kolektif** oldu. Concord ile ilk temas kuruldu — ve Stane onu **bekliyordu** |
+| 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | Nehirden Grafting'e girdi; ghoul'lar, bozulmuş centaur'lar. [Tek Kulak](../../../npcs/minor/tek-kulak.md) ile tanıştı. ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu ve Gwyndor bir an **eski gücüne** kavuştu ⬜ *(ne geri geldi — öneri: kalbi attı)* | Undead olarak ilk kez **ne kaybettiğini hissetti.** Stane randevusu (21 Uktar) **kaçtı** |
 
 ## 3. Dönüm Noktaları
 

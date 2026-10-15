@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Açık Sorular
-updated: 2026-09-30
+updated: 2026-10-15
 ---
 
 # Açık Sorular
@@ -502,3 +502,15 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] **Oynanış tarihi ve seviye** — session-01 `real_date` / `level_*` ⬜
 - [ ] **Gallows Speaker:** Voice yeni bir Speaker'a dönüşebilir mi? Sharran tonu (Shar 1494'ten beri sessiz) nereden? Marr'ın dikişteki *"Ne görüyorsun?"* sesi Speaker mıydı? → [gallows-speaker](../02-lore/bestiary/gallows-speaker.md)
 - [ ] **Session 02:** iki Harper'ın adları · Marr'ın bir sonraki yeri · Wren (berrak pixie) kalsın mı · Yedinci kim
+
+## Session 02 — Grafting'in İçi / Session 03 hazırlığı *(2026-10-15)*
+
+- [ ] ⭐ **Duraklama'nın kapsamı:** kuyruklu yıldızlar **her yerde** mi durdu, yalnız Kırıkbağ'da mı? *(öneri: gökyüzü her yerde; eski güçler yalnız Grafting içinde)* → [Charaxis Yolu §1](../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02)
+- [ ] ⭐ **Duraklama'da kim ne geri aldı?** Dört öneri (Gwyndor: kalp atışı · Grimnor: ailenin uluması · Vasili: Darklord gücü + destenin kartı · Roger: ham büyü + cadının sesi) onay bekliyor
+- [ ] **Tek Kulak:** tür, gerçek ad, barbar geçmişi, kulağını nasıl kaybetti, **Roger'ı nereden tanıyor** — oyuncu (Ozan) söyleyecek → [tek-kulak.md](../05-characters/npcs/minor/tek-kulak.md)
+- [ ] **Trell sandığını kim sipariş etti?** *(öneri: Torc Halbrand)* · Sandık şu an kimde?
+- [ ] **Silik köyün ve kuyunun adı** · kilise hangi tanrıya adanmıştı (sembol kazınmış)
+- [ ] **Ölü shapeshifter'ın dönen yüzlerinden biri Gwyndor'ın canlı yüzü mü?** *(öneri; Kırk Gün bağı)* · Concord'un inkâr ettiği "üçüncü kişi" o mu?
+- [ ] **Harpers'ın öbür yaka hücresinin ajanı kim, nereye gitti?** *(öneri: K-1'den aşağı)*
+- [ ] Calithra ↔ Surfwale boğaz geçişi süresi *(Ione: iyi rüzgârla yarım gün)*
+

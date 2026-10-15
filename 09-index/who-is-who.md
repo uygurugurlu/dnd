@@ -3,7 +3,7 @@ type: meta
 title: Kim Kimdir
 canon: mixed
 status: usable
-updated: 2026-09-30
+updated: 2026-10-15
 ---
 
 # Kim Kimdir
@@ -116,6 +116,8 @@ Unwoven'ın seçtiği dört lider →
 | [Tobbin Tall-Tale](../05-characters/npcs/minor/the-hungry-gull/tobbin-tall-tale.md) | Human | The Hungry Gull — nişancı, yalancı | 2 |
 | [Pip Fenn](../05-characters/npcs/minor/the-hungry-gull/pip-fenn.md) | Gnome | The Hungry Gull — gemi cerrahı | 1 |
 | [Fig](../05-characters/npcs/minor/fig.md) | Fey kedi | Calithra'nın kedisi; Calith Auveran'ın familiar'ı | 1/2 |
+| [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) | ⬜ | **Konuk PC (Ozan)** — rogue, eski barbar; Dördüncü Saat'in ihanete uğrayan hırsızı; Roger'ı tanıyor. DM yedeği statblock | 1 |
+| [Esme "Kül"](../05-characters/npcs/minor/tek-kulak.md#esme-kül) | Human | Dördüncü Saat — Son Mektup Fırını'nın külcüsü; Tek Kulak'ı harcadı *(MM 2025 Spy)* | 1 |
 
 ### Faksiyon kadroları — statsheet'li NPC'ler
 

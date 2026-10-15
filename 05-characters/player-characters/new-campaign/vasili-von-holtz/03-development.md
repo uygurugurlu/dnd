@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: adapted
 status: draft
 tags: [pc, vasili-von-holtz, development, log]
-updated: 2026-09-30
+updated: 2026-10-15
 ---
 
 # Vasili von Holtz — Gelişim Günlüğü
@@ -58,6 +58,7 @@ updated: 2026-09-30
 | # | Tarih (DR) | Session | Ne oldu | Karakterde ne değişti |
 |---|---|---|---|---|
 | 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Ekibe **önyargılıydı.** Ama **Shadowfell'e açılan** Grafting'in ve **Dark Powers'a ulaşma açlığının** çekimiyle **Grafting'e girene kadar** ekiple hareket etmeyi kabul etti | İlk kez **başkalarıyla** çalışıyor — süre sınırı kendi koyduğu: **kapıya kadar** |
+| 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | İttifakın sınırı olan **Grafting'e girdi** — ve ekiple kaldı. Ghoul'lar, bozulmuş centaur'lar, [Tek Kulak](../../../npcs/minor/tek-kulak.md). ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu ve Vasili bir an **eski gücüne** kavuştu ⬜ *(deste ne gösterdi?)* | **Güç geri alınabiliyor.** Süreli ittifak bitti; kalmak için artık **kendi sebebi** var |
 
 ## 3. Dönüm Noktaları
 

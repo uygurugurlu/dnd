@@ -5,7 +5,7 @@ continent: Ravonia
 canon: homebrew
 status: draft
 tags: [calithra, taverns, locations, landmarks, harpers]
-updated: 2026-08-12
+updated: 2026-10-15
 ---
 
 # Calithra — Mekânlar
@@ -214,6 +214,7 @@ verir, mektuba bakmaz, para almaz.
 |---|---|
 | **Kimler** | Sabah 4'te uyanık olan tek şehirli; sarhoşlar, hırsızlar, nöbetçiler |
 | **Bilgi** | Marto **kimin ne zaman geldiğini** bilir. Söyler mi? Ekmek karşılığı, evet |
+| **Sabah 4'ün "sorunu"** | 🔒 [Dördüncü Saat](../../../../../05-characters/npcs/minor/tek-kulak.md#dördüncü-saat--calithranın-hırsız-loncası) — mektupları ateşe girmeden alan hırsız loncası *(New Campaign, Session 03)* |
 
 ## Aşağıdaki Ciddi Yer — *The Serious Place Below*
 

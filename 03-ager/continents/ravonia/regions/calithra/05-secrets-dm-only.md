@@ -6,7 +6,7 @@ canon: homebrew
 status: draft
 dm_only: true
 tags: [calithra, dm-only, secrets, harpers, finder-wyvernspur]
-updated: 2026-09-30
+updated: 2026-10-15
 ---
 
 # Calithra — Sırlar
@@ -212,6 +212,7 @@ partinin ahlaki sorusu tamamlanır.
 | [Sister Nolwen](people.md#sister-nolwen) | Rahibeliği **Ilmater**'e idi. Bıraktı çünkü acıyı hafifletmeyi bıraktı — sadece hatırlıyor |
 | [Fig](people.md#fig) | **Karar (Session 01):** Calith Auveran'ın **familiar**'ı; yüzlerce yaşında, fey doğumlu, shapeshifter **değil.** Uzun ömrü Calith'in **yaşadığının** göstergesi; halka Calith'in yalnız-arp Harper mührü. Üç açıklama ve öneri → [fig.md](../../../../../05-characters/npcs/minor/fig.md#uzun-ömrün-üç-adayı). *(Eski d3 tablosu — Vesna'nın / kimsenin / öbür yaka hücresinin — kaldırıldı.)* |
 | [Bex Anadare](people.md#bex-anadare) | Gerçekten bir kralın üçüncü oğlu. Hangi kralın olduğunu **kendisi de söylemiyor** ⬜ |
+| [Dördüncü Saat](../../../../../05-characters/npcs/minor/tek-kulak.md#dördüncü-saat--calithranın-hırsız-loncası) | Şehrin tek kaydı fırına atılan son mektuplar — ve bir lonca onları **ateşe girmeden** alıp sahiplerine geri satıyor. Hücre **bilmiyor.** Külcü Esme'nin işi *(New Campaign, Session 03)* |
 | Kırmızı Perde'nin arka odası | Nedra'nın fıçı deposu değil. Boş bir oda ve bir sandalye. Kimin için, söylemiyor |
 
 ---
