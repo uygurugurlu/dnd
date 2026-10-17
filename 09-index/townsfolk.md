@@ -220,6 +220,7 @@ tablosunda görünüş, tik ve istek yazılı.
 | **Caelora** | şehir | 6 | [→](../03-ager/continents/ravonia/cities/caelora.md#npcler) |
 | **Tharn-Kel** | şehir | 6 | [→](../03-ager/continents/ravonia/cities/tharn-kel.md#npcler) |
 | **Calithra** | şehir | 14 *(ayrı dosya)* | [→](../03-ager/continents/ravonia/regions/calithra/people.md) |
+| **Calithra limanı** *(CotBC, 1493)* | liman | 5 *(tekne satıcıları + donanma subayı)* | [→](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/01-boat-sellers.md) |
 | **Wheatrest** | köy | 8 | [→](../03-ager/continents/ravonia/villages/wheatrest.md#-halk) |
 | **Nethryn** | lanetli köy | 5 | [→](../03-ager/continents/ravonia/villages/nethryn/README.md#-halk--adı-olan-beş-kişi) |
 | **Redburrow** | ork limanı | 6 | [→](../03-ager/continents/ravonia/villages/redburrow.md#npcler) |

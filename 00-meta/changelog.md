@@ -11,6 +11,35 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-10-17** — ⚔️ **CotBC: Kırık Köprü Pususu (Thornhold → Calithra yolu, lvl 8).**
+  - Parti Nethryn'den kurtardığı **~40 köylüyle** Calithra'ya gidiyor (timeline + Nethryn dosyası).
+  - **[Pusu](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/04-road-ambush.md)**: kafile grubu
+    mekaniği (5 grup, yönlendirme, panik, kaçırma, düşen köylüleri kurtarma), uyarı işaretleri, Kırık Köprü
+    haritası, 3 dalga, ahlak/geri çekilme, sonuç tablosu. 7,700 XP — Moderate üstü.
+  - Yeni birlikler **[Kırık Boynuz Yağmacıları](../02-lore/bestiary/broken-horn-raiders.md)** —
+    [statblock'lar](../08-rules/homebrew/monsters/broken-horn-raiders.md): Raider (CR 1), Bloodarrow (CR 2),
+    Reaver (CR 4). SRD 5.2'de ork canavar statblock'u olmadığı için ork tür özellikleriyle kuruldu.
+  - Yeni NPC **[Vorga Yarıkdil](../05-characters/npcs/minor/vorga-split-tongue.md)** (CR 6) — possessed
+    Kırık Boynuz reisi, iki sesle konuşuyor; Thornhold dosyasındaki *"ork liderleri possessed"* sırrının yüzü.
+    Pusu, soygunun Lejyon defterinde bıraktığı açığın sonucu.
+  - Orc-factions, Thornhold, Nethryn, bestiary/monsters/minor/who-is-who indeksleri, açık sorular güncellendi.
+
+- **2026-10-17** — ⚓ **CotBC: Calithra, 1493 (session hazırlığı, lvl 8).** Oyun yılı **1493** olarak
+  kesinleşti; Calithra'nın konumu karara bağlandı (doğu kıyısı, Lover's Cut, Northcurrent'in güneyi).
+  - **[arcs/calithra-1493/](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/README.md)**:
+    1495 dosyasından farklar tablosu (yıldız yok, tanrılar konuşuyor, savaş sürüyor, mülteciler,
+    Halvard/Cassian yok, Nolwen hâlâ rahibe), Thornhold→Calithra yolu, varış, Standing Stone'da
+    **antlaşma maddeleri** (Silvaerûn yoluna bağ), 1493'te geçerli yan görevler.
+  - **[Tekne satıcıları](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/01-boat-sellers.md)**:
+    Usta Ketil Brand (*Geç Kalan*), Mavra Selk (*Kara Martı*, gece geçişi), Torc Halbrand
+    (belgeli tekne, donanma geçiş belgesi), Tarv ailesi (*Selma'nın İnadı*), engel: Teğmen Ashby.
+    PHB 2024 tekne statları, savaş fiyatı ×2.
+  - **[Görev: Gri Tuz'un Batığı](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/02-quest-grey-salt.md)** —
+    Ketil'in mağarasını tıkayan donanma batığı: Wight kaptan, ghast/ghoul tayfa, serbest kalmış
+    water elemental; yapılırsa *Geç Kalan* 6,000 → 3,000 / 2,000 gp.
+  - 🔒 Sırlar: rotayı kim sattı (üç seçenek), Mavra = Harper kurye hattı, Torc–Zhentarim–han bağı.
+  - Calithra README, Northcurrent, townsfolk, who-is-who, timeline, açık sorular güncellendi.
+
 - **2026-10-15** — 🎲 **New Campaign: Session 02 oynandı + Session 03 hazırlığı + Charaxis yayı.**
   - **[session-02](../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md)** oynandı olarak işlendi (§10, yeni §12): nehirden giriş, **Tek Kulak**, ghoul'lar, centaur'lar, **Duraklama** (Blink Dog Unwoven'dan güç aldı; kuyruklu yıldızlar durdu; Tek Kulak hariç herkes bir an eski gücüne kavuştu). Boss öncesine **köy** eklendi (işaret §5e'de).
   - **[session-03](../06-campaigns/new-campaign/sessions/session-03-silik-koy.md)** (prep): **Silik Köy** — Shadowfell yankısı köy, *Spoken Names* kuralı, ölü shapeshifter (Stillreach vardiya pulu), Halime/Halit (Si notası), saldırmayan bozulmuş insanlar; Speaker **papaz evinde centaur bozarken** yakalanabilir, boss **kilisede** (sessiz çan). Dönüş: Stane randevusu, Vesna'nın istihbarat→tepki tablosu ve **sessiz öbür yaka hücresi** kancası, Tek Kulak'ın sabah 4 sahnesi, Hungry Gull, rüya.

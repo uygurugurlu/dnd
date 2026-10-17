@@ -277,10 +277,9 @@ Dosyalar: [mordavia-keep/](../03-ager/continents/karsovia/sites/mordavia-keep/RE
 - [ ] Elturel'in Ager karşılığı hangi şehir? Hellriders'ın karşılığı bir düzen var mı?
       *(Nethryn ipucu veriyor: Zariel melekken orayı kurtarmış.)*
 - [ ] PC'lerin tam adları, ırkları, sınıfları, seviyeleri. *(2026-09-27: parti **seviye 8**)*
-- [ ] **Savaş yıllarındaki Wheatrest session'ı hangi yılda?** Varsayım **1493 DR**
-      (prens 1492'de ölür → savaş; kuyruklu yıldızlar 1494'te). 1494 sonrasıysa
-      tanrılar susmuştur — max'ın (paladin) büyüsü etkilenir mi?
-      → [Smith Sarayı Soygunu](../06-campaigns/chains-of-the-burning-compact/encounters/wheatrest-heist/README.md)
+- [x] ~~**Savaş yıllarındaki Wheatrest session'ı hangi yılda?**~~ → ✅ **1493 DR** *(DM, 2026-10-17)*.
+      Kuyruklu yıldızlardan önce; tanrılar konuşuyor.
+      → [Calithra, 1493](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/README.md)
 - [ ] **Partideki iki tohum ne?** Neye benziyor, ne zaman ve nerede ele geçti?
       [Kara Mühür Akoru](../08-rules/homebrew/items/kara-muhur-akoru.md#parçalar--tohumlar)
 - [ ] **ea basr'ın vizyonu** (*"Üçü hasadı korumak için dikildiğinde…"*) üç tohumla
@@ -304,6 +303,16 @@ Dosyalar: [mordavia-keep/](../03-ager/continents/karsovia/sites/mordavia-keep/RE
       - **Zariel'in rünü aysif'i mi, tohumları mı izliyor?** (Öneri: tohumları)
       - **Üçüncü tohum Silvaerûn'un neresinde?** (Öneri: Kök halkasında *ekili*, Kök Bekçisi'nin levhasının arkasında)
       - **Kök Bekçisi** ile Standing Stone devrilince uyanan bekçi aynı soydan mı?
+- [ ] **Calithra, 1493** ([arc](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/README.md)):
+      - ✅ Calithra'nın konumu: doğu kıyısı, Lover's Cut, Northcurrent'in güneyi *(DM, 2026-10-17)* — haritaya işlenmedi
+      - **Thornhold → Calithra mesafesi** (~1 hafta varsayıldı)
+      - **İki Kıta Masalı** kuyruklu yıldızlardan önce hangi gece anlatılıyordu? *(öneri: hasat gecesi)*
+      - **Gri Tuz'un rotasını kim sattı?** Mavra / Zhentarim (Torc'un işvereni) / Harper'lar
+      - **Torc'un işvereni Zhentarim mi?** (Calithra sırları d4) — CotBC'de han'ın borcuyla bağ kurar
+      - **Sister Nolwen 1493'te hâlâ Ilmater rahibesi mi?** Arc öyle varsayıyor
+      - **Nethryn'den kurtarılan köylüler:** Nethryn'in laneti kaldırıldı mı, yoksa köy terk mi edildi? *(CotBC timeline'ında Nethryn session'ı yazılı değil)*
+      - **Lejyon neden Nim'i istiyor?** Nim lanetten en az etkilenen kişiydi ([Vorga sırları](../05-characters/npcs/minor/vorga-split-tongue.md#sırlar))
+      - **Vorga'nın klanının adı** ve Kırık Boynuz'da kaç reisin Bel'le sözleşme imzaladığı
 - [ ] **Geyren kaç kişi?** Timeline'da *"geyren — handa çalışan"*, Wheatrest'te
       *"Ocakbaşı Geyren — demirci"*. Aynı kişi mi?
 

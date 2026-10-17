@@ -55,6 +55,7 @@ updated: 2026-10-15
 | [Mizora](../05-characters/npcs/minor/mizora.md) | Cambion; Zariel'in ajanı | **→** |
 | [Nada Coldo](../05-characters/npcs/minor/nada-coldo.md) | Kralın truth-sayer'ı | **→** |
 | [Ocakbaşı Geyren](../05-characters/npcs/minor/geyren.md) | Wheatrest demircisi, Ocak 152; savaş yıllarında Mühürlü (CR 6) | **→** |
+| [Vorga Yarıkdil](../05-characters/npcs/minor/vorga-split-tongue.md) | Kırık Boynuz reisi, possessed; Nethryn kafilesine pusu (CR 6) | **→** |
 | [Kâtip Skarvaine](../05-characters/npcs/minor/skarvaine.md) | Bel'in 3. Lejyon kâtibi; Old Fenrick'in bedeninde (CR 8) | **→** |
 
 ## Henüz dosyası olmayanlar
@@ -63,6 +64,7 @@ updated: 2026-10-15
 Ahmet Odacıbaşı · Doloria the Silent Suffering
 **Zhentarim:** Goliath Ash · Darric · Kellen · Rusk · Merek Halvon (kuyumcu)
 **Thornhold:** Elric Varn · Maera Holt · Corin Bale
+**Calithra (1493):** [Ketil Brand · Mavra Selk · Orrin & Selma Tarv · Teğmen Corwin Ashby](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/01-boat-sellers.md) · Kaptan Oswin Harrowgate *(Wight — [Gri Tuz](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/02-quest-grey-salt.md))*
 **Wheatrest:** Sipsi Illenum · Elira Fenwill · Soren Fenwill · Old Fenrick *(savaş yıllarında bedeni → [Skarvaine](../05-characters/npcs/minor/skarvaine.md))*
 **Aurelium:** Eldrin Faelwyn · Old Garrik · Lysa Quill · Halder · Miran ·
 Simone Dumble · Milon Blackmane

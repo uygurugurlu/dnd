@@ -157,6 +157,10 @@ updated: 2026-08-10
 
 Thornhold bunu henüz **bilmiyor**.
 
+> Statblock'lar: [Kırık Boynuz Yağmacıları](../../../../02-lore/bestiary/broken-horn-raiders.md) ·
+> possessed reis örneği: [Vorga Yarıkdil](../../../../05-characters/npcs/minor/vorga-split-tongue.md)
+> (Corin Bale'in raporlarındaki *"Grup 3"*).
+
 ---
 
 # 🧠 DRAMATİK GERİLİM NOKTALARI

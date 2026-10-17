@@ -24,7 +24,7 @@ updated: 2026-08-10
 | **Durum** | Aktif |
 | **Parti** | max (Maximus Legroom) · han · ea basr · aysif *(öldü → Cyric aldı → **Zariel'in sözleşmesiyle Cyric bağı kesildi**, göğsünde Zariel'in rünü)* — **seviye 8** |
 | **Bölüm** | Chapter 1 — Ravonia |
-| **Son bilinen konum** | **Savaş yılları** — işgal altındaki [Wheatrest](../../03-ager/continents/ravonia/villages/wheatrest.md); sıradaki hedef: Silvaerûn (3. tohum) |
+| **Son bilinen konum** | **Savaş yılları** — işgal altındaki [Wheatrest](../../03-ager/continents/ravonia/villages/wheatrest.md); Thornhold üzerinden **Calithra**'ya gidiyor (tekne almak için); büyük hedef: Silvaerûn (3. tohum) |
 
 ## Adın Anlamı
 
@@ -43,6 +43,7 @@ yanan bir sözleşmenin (*burning compact*) zincirleri.
 | [scenes-aysif-canlandirma.md](scenes-aysif-canlandirma.md) | Aysif'in ölümü: Kelemvor → Tempus → **Cyric** |
 | [encounters/](encounters/README.md) | Savaş ve karşılaşmalar |
 | [encounters/wheatrest-heist/](encounters/wheatrest-heist/README.md) | ★ **Sıradaki session:** Smith Sarayı soygunu (lvl 8) — statblock'lar + loot |
+| [arcs/calithra-1493/](arcs/calithra-1493/README.md) | ★ **Sıradaki session:** Thornhold → Calithra; tekne satıcıları + Gri Tuz batığı görevi |
 | [arcs/road-to-silvaerun/](arcs/road-to-silvaerun/README.md) | ★ **Soygundan sonra:** Silvaerûn yolu — orman (doğa), Charaxis kısa atlama, Nöbet'in elf yolu |
 | [factions-in-play/zhentarim-ravonia.md](factions-in-play/zhentarim-ravonia.md) | Zhentarim & Ilyon Verne |
 
@@ -85,6 +86,7 @@ Wheatrest yol hanı ──► han basılır (possessed köylüler)
         ├─► aysif ↔ Zariel sözleşmesi: Cyric bağı kesilir, göğse rün
         └─► ⏳ Smith Sarayı soygunu (planlanan)
                 └─► ⏳ Silvaerûn yolu: A kara+orman · B R-2→R-1 · C Vael'Serith çemberi
+        └─► ⏳ Thornhold üzerinden CALITHRA (1493) — limanda tekne
 ```
 
 ## Kritik Kırılma Noktaları

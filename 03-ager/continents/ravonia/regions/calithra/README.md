@@ -45,11 +45,11 @@ updated: 2026-08-12
 | **Din** | Lliira · Milil · Tymora — ve tapınağı olmayan **Finder Wyvernspur** |
 | **Yönetim** | ⬜ resmen kimse. Gerçekte üç kişi → [sırlar](05-secrets-dm-only.md) |
 
-> **[AÇIK SORU]** **Konum.** Metinde "karşı kıtanın dağları" görülüyor; bu, Calithra'yı
-> Ravonia'nın **doğu kıyısına**, [Lover's Cut](../../../../oceans-and-seas/lovers-cut.md)
-> boğazına bakan yamaca oturtur — [Northcurrent](../../sites/northcurrent.md)'in
-> güneyi en doğal aday. Alternatif okuma: güney kıyı, karşıda **Güney Takımadası**.
-> Haritada Calithra etiketi **yok**; karar DM'de.
+> ✅ **Konum (DM kararı, 2026-10-17):** Ravonia'nın **doğu kıyısı**,
+> [Lover's Cut](../../../../oceans-and-seas/lovers-cut.md) boğazına bakan yamaç,
+> [Northcurrent](../../sites/northcurrent.md)'in **güneyi.** Karşıda Karsovia'nın dağları;
+> boğazın öbür yakasında [Surfwale](../../../karsovia/sites/surfwale.md).
+> Haritada Calithra etiketi hâlâ **yok** — haritaya işlenmesi bekliyor.
 
 ---
 
@@ -485,4 +485,5 @@ Cevaplandı — hepsi [05-secrets-dm-only.md](05-secrets-dm-only.md)'de:
 | [Northcurrent](../../sites/northcurrent.md) | En yakın kale (konum adayı doğruysa) |
 | [Ticaret ve Ekonomi](../../../../00-overview/trade-and-economy.md) | Şarap ihracatı buraya bağlanır |
 | [New Campaign](../../../../../06-campaigns/new-campaign/README.md) | ☄️ Kızıl gök, sessiz tanrılar |
+| 🔥 [**Calithra, 1493**](../../../../../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/README.md) | **CotBC katmanı** — iki yıl önce: savaş sürüyor, yıldız yok, tanrılar konuşuyor. Tekne satıcıları, Gri Tuz batığı |
 | ☄️ [**Calithra Kavşağı**](../../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/field-ops/calithra-standoff.md) | **Kampanya katmanı** — 1495 Uktar'ında şehirde ne oluyor. Dünya dosyası değil, oynanan durum |

@@ -202,3 +202,13 @@ Wheatrest işgal edildi. [Zariel](../../05-characters/npcs/major/zariel/README.m
 - Parti kabul etti. Ama gitmeden önce köydeki possessed insanların ve köylülerin arasından **Smith Sarayı**'na girip soymayı planlıyor. Parti **seviye 8**.
 
 ⏳ Sıradaki session: [Smith Sarayı Soygunu](encounters/wheatrest-heist/README.md)
+
+## Savaş yılları — Thornhold'dan Calithra'ya
+
+Parti Wheatrest'ten sonra **Thornhold üzerinden** doğuya, [Calithra](../../03-ager/continents/ravonia/regions/calithra/README.md)'ya yöneldi. Limanda **tekne almak** istiyorlar; nereye gidecekleri henüz belli değil. Oyun yılı **1493 DR** (DM onayı, 2026-10-17).
+
+⏳ Sıradaki session: [Calithra, 1493](arcs/calithra-1493/README.md)
+
+Yanlarında [Nethryn](../../03-ager/continents/ravonia/villages/nethryn/README.md)'den kurtardıkları **~40 köylü** var (Muhtar Halla Vellum, Grimna, Peder Ossic, Bettony, Nim); onları Calithra'ya götürüyorlar.
+
+⏳ Yolda: [Kırık Köprü Pususu](arcs/calithra-1493/04-road-ambush.md) — Kırık Boynuz orkları, possessed reis Vorga Yarıkdil.

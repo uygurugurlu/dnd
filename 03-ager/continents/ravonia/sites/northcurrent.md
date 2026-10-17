@@ -64,6 +64,10 @@ o günden beri boş — kimse temizlemedi.
 
 ## Kampanya Kancaları
 
+> **[HOOK]** *Chains of the Burning Compact (1493):* Northcurrent **aktif cephe**; boğaz
+> savaşları ağır kayıplı, donanma Calithra'daki teknelere el koyuyor →
+> [Calithra, 1493](../../../../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/README.md).
+
 > **[HOOK]** **[Usta Dagna](../../../../02-lore/factions/smith-palace.md#usta-dagna-vorhelm) partiye bu ocağı sordu:** *"Ocak 63'ten üç aydır kalite mührü gelmiyor. Git bak."* Cevap bir suç değil — bir **utanç.**
 
 > **[HOOK]** İki yüz eğitimli, aç, maaşsız asker ve emir veren kimse yok. [Iron Concord](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md) buraya gelirse tek kelime etmeden kaleyi alır.

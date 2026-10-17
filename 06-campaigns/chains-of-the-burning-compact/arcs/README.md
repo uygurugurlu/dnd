@@ -16,4 +16,5 @@ Birden fazla session'a yayılan hikâye blokları. Tek karşılaşmalar
 
 | Arc | Ne | Seviye | Durum |
 |---|---|---|---|
+| 📁 [calithra-1493/](calithra-1493/README.md) | Thornhold üzerinden Calithra: savaş yılında kıyı şehri, **tekne satıcıları**, Gri Tuz batığı görevi (indirim) | 8 | ⏳ hazırlık |
 | 📁 [road-to-silvaerun/](road-to-silvaerun/README.md) | Wheatrest'ten Silvaerûn'a: üçüncü tohum. Üç rota: orman, Charaxis kısa atlama, elf yolu | 8 | ⏳ hazırlık |

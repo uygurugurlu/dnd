@@ -73,6 +73,11 @@ unutmuş" diyor; onlar da "aç kalmadık" diye cevap veriyor.
 Eski yol. Ve eski yol **kaybediyor** — bunu kendileri de biliyor.
 Kırık Boynuz saldırgan olduğu için değil, **kaybettiği için** tehlikeli.
 
+> **Statblock'lar:** [Kırık Boynuz Yağmacıları](../../../02-lore/bestiary/broken-horn-raiders.md)
+> (Raider CR 1 · Bloodarrow CR 2 · Reaver CR 4). *Chains of the Burning Compact (1492–93):*
+> bazı reisler Bel'in koruma sözleşmesini imzaladı ve possessed — örn.
+> [Vorga Yarıkdil](../../../05-characters/npcs/minor/vorga-split-tongue.md).
+
 > **[HOOK]** Baskınların hedefi son bir yılda değişti: erzak yerine **kitap,
 > harita ve rahip** alıyorlar. Neden?
 

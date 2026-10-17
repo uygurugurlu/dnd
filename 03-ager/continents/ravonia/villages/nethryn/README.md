@@ -129,6 +129,13 @@ Glyph olan evlere:
 - Yardım istemezler
 - Ama **engellemezler**
 
+## 🔥 Chains of the Burning Compact — göç *(1493)*
+
+Parti Nethryn'den **~40 köylüyü** kurtardı ve onları Thornhold üzerinden
+[Calithra](../../regions/calithra/README.md)'ya götürüyor. Aşağıdaki beş kişi
+kafilede. Yolda bir ork pususu bekliyor →
+[Kırık Köprü Pususu](../../../../../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/04-road-ambush.md).
+
 ## 👥 Halk — adı olan beş kişi
 
 Nethryn halkı **konuşmaz.** Aşağıdakiler istisna değil, sadece adı olanlar.
