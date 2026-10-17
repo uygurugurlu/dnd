@@ -310,7 +310,7 @@ Dosyalar: [mordavia-keep/](../03-ager/continents/karsovia/sites/mordavia-keep/RE
       - **Gri Tuz'un rotasını kim sattı?** Mavra / Zhentarim (Torc'un işvereni) / Harper'lar
       - **Torc'un işvereni Zhentarim mi?** (Calithra sırları d4) — CotBC'de han'ın borcuyla bağ kurar
       - **Sister Nolwen 1493'te hâlâ Ilmater rahibesi mi?** Arc öyle varsayıyor
-      - **Nethryn'den kurtarılan köylüler:** Nethryn'in laneti kaldırıldı mı, yoksa köy terk mi edildi? *(CotBC timeline'ında Nethryn session'ı yazılı değil)*
+      - [x] ~~**Nethryn'in laneti kaldırıldı mı?**~~ → ✅ **Evet — lanet kaldırıldı, köy temizlendi** *(DM, 2026-10-17)*
       - **Lejyon neden Nim'i istiyor?** Nim lanetten en az etkilenen kişiydi ([Vorga sırları](../05-characters/npcs/minor/vorga-split-tongue.md#sırlar))
       - **Vorga'nın klanının adı** ve Kırık Boynuz'da kaç reisin Bel'le sözleşme imzaladığı
 - [ ] **Geyren kaç kişi?** Timeline'da *"geyren — handa çalışan"*, Wheatrest'te

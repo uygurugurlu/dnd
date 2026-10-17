@@ -209,6 +209,6 @@ Parti Wheatrest'ten sonra **Thornhold üzerinden** doğuya, [Calithra](../../03-
 
 ⏳ Sıradaki session: [Calithra, 1493](arcs/calithra-1493/README.md)
 
-Yanlarında [Nethryn](../../03-ager/continents/ravonia/villages/nethryn/README.md)'den kurtardıkları **~40 köylü** var (Muhtar Halla Vellum, Grimna, Peder Ossic, Bettony, Nim); onları Calithra'ya götürüyorlar.
+[Nethryn](../../03-ager/continents/ravonia/villages/nethryn/README.md)'in **laneti kaldırıldı, köy temizlendi.** Yanlarında Nethryn'den kurtardıkları **~40 köylü** var (Muhtar Halla Vellum, Grimna, Peder Ossic, Bettony, Nim); onları Calithra'ya götürüyorlar.
 
 ⏳ Yolda: [Kırık Köprü Pususu](arcs/calithra-1493/04-road-ambush.md) — Kırık Boynuz orkları, possessed reis Vorga Yarıkdil.

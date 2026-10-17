@@ -11,6 +11,9 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-10-17** — ✅ **CotBC: Nethryn'in laneti kaldırıldı, köy temizlendi** (oynandı). Nethryn dosyası
+  (Lanet Seviyesi 0), timeline, pusu dosyası (Peder Ossic'in duaları) ve açık sorular güncellendi.
+
 - **2026-10-17** — ⚔️ **CotBC: Kırık Köprü Pususu (Thornhold → Calithra yolu, lvl 8).**
   - Parti Nethryn'den kurtardığı **~40 köylüyle** Calithra'ya gidiyor (timeline + Nethryn dosyası).
   - **[Pusu](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/04-road-ambush.md)**: kafile grubu

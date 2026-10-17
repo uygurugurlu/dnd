@@ -131,6 +131,8 @@ Glyph olan evlere:
 
 ## 🔥 Chains of the Burning Compact — göç *(1493)*
 
+✅ **Lanet kaldırıldı, köy temizlendi** *(oynandı — DM, 2026-10-17)*. Lanet Seviyesi **0.**
+
 Parti Nethryn'den **~40 köylüyü** kurtardı ve onları Thornhold üzerinden
 [Calithra](../../regions/calithra/README.md)'ya götürüyor. Aşağıdaki beş kişi
 kafilede. Yolda bir ork pususu bekliyor →

@@ -31,7 +31,7 @@ Parti [Nethryn](../../../../03-ager/continents/ravonia/villages/nethryn/README.m
 |---|---|---|---|
 | **Muhtar Halla Vellum** | 54, insan | Noble | Bir grubu **yönlendirir** — o gruba yönlendirme kontrolü Advantage |
 | **Ocakbaşı Grimna** | 87, cüce, demirci (Ocak 191) | Guard | **Dövüşür.** Çekiciyle bir grubun önüne dikilir; geri adım atmaz |
-| **Peder Ossic** | 60, insan, rahip | Priest | Düşen köylüleri **iyileştirir** (Priest büyüleri) — köyden çıktıktan sonra duaları yeniden cevap alıyor |
+| **Peder Ossic** | 60, insan, rahip | Priest | Düşen köylüleri **iyileştirir** (Priest büyüleri) — lanet kalkınca duaları yeniden cevap almaya başladı |
 | **Bettony** | 41, halfling, hancı | Commoner | Çocukları **arabanın altına** saklar. Tava ile bir yağmacıya vurur (isabet etmez, ama dikkat dağıtır) |
 | **Nim** | 11, insan | Commoner | ⚠️ **Hedef.** Bkz. [Vorga'nın sırları](../../../../05-characters/npcs/minor/vorga-split-tongue.md#sırlar) |
 | ~35 köylü | çiftçi, çoban, yaşlı, çocuk | Commoner | **Kafile grupları** — aşağıda |
