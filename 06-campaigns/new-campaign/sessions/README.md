@@ -18,3 +18,4 @@ Oynanan oturumlar. Dosya adı: `session-NN-<slug>.md`. Her oturumdan sonra [03-t
 | [session-01-calithra-kavsagi.md](session-01-calithra-kavsagi.md) | **Calithra Kavşağı** — 20 Uktar 1495. Karşılaşma, Roger'ın crew'i, Concord bariyeri, shapeshifter'lar, Fig |
 | [session-02-grafting-ici.md](session-02-grafting-ici.md) | **Grafting'in İçi** — 21 Uktar. Tek Kulak, ghoul'lar, centaur'lar, **Duraklama** (kuyruklu yıldızlar durdu). Blink Dog'un ölümünde bitti |
 | [session-03-silik-koy.md](session-03-silik-koy.md) | **Silik Köy** — Speaker öldü, centaur kurtarıldı, Halime/Halit öldürüldü, Vasili'nin iğnesi. **Çıkış yolunda bitti**; dönüş sahneleri (§4d–§9) Session 04'e |
+| [session-04-yedinci-kapi.md](session-04-yedinci-kapi.md) | **Yedinci Kapı** — *(prep)* Stane, Vesna'ya rapor, boğaz, yağmalanmış Harper hücresi, Nöbet Rünleri, Charaxis'e ilk adım, donduran kuyu elementalleri |

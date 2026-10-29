@@ -6,7 +6,7 @@ canon: homebrew
 status: draft
 sessions: [3, 4, 5]
 tags: [arc, charaxis, stillreach, black-still, unwoven, duraklama, k-1, lovers-cut, harpers, trell, new-campaign]
-updated: 2026-10-15
+updated: 2026-10-29
 ---
 
 # Charaxis Yolu — *Aynı Kapıya Dört Dilek*
@@ -160,6 +160,12 @@ Session 03'te ekilenler:
 ---
 
 ## 5. Rotalar
+
+> ✏️ **Değişti (2026-10-29):** Masada kullanılan rota **D — [Yedinci Kapı](../../../03-ager/planar-sites/portal-network.md#7-yedinci-kapı--mühürlü-olan)**:
+> Calithra → boğaz → Softsoil'in deniz mağarası → Black Still'in yolsuz buzu → Stillreach'e yürüyüş.
+> Kayıtsız, Harper'ların sakladığı kapı; hayatta kalma [Nöbet Rünleri](../../../08-rules/homebrew/items/watch-runes.md) ile.
+> **Trell kâğıdı geçiş için artık gerekmiyor** — Stillreach'te kimlik/iş kâğıdı olarak işe yarayabilir.
+> Aşağıdaki A–C tablosu yedek. Oynanış: [Session 04](../sessions/session-04-yedinci-kapi.md).
 
 | | **A ⭐ Boğaz → K-1** | **B — R-2 Yanlış İniş** | **C — R-3 Beşik** |
 |---|---|---|---|

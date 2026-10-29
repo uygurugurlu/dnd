@@ -13,6 +13,7 @@ updated: 2026-10-29
 |---|---|---|---|---|
 | **Sword of Zariel** | legendary | good alignment | Avernus'ta kayıp | ⬜ |
 | [**Gallows Needle**](gallows-needle.md) *(Sözcü'nün İğnesi)* | ⬜ (öneri: rare) | yes | Vasili von Holtz — New Campaign, Session 03 | draft — günde 3 curse aktarımı; ayrıntılar ⬜ |
+| [**Watch Runes**](watch-runes.md) *(Nöbet Rünleri)* | uncommon | no | Yedinci Kapı'nın arkasındaki niş — New Campaign, Session 04 | draft — 6 taş; 10 gün Charaxis havası/soğuğu |
 | <!-- doldur --> | | | | |
 
 ## Sword of Zariel

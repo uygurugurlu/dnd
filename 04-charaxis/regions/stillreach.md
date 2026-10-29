@@ -7,7 +7,7 @@ ruler: Soğuk İmtiyaz komiseri
 canon: homebrew
 status: usable
 tags: [charaxis, stillreach, chronoshard, karsovia, cold-concession, hourwrights, grimdark]
-updated: 2026-09-07
+updated: 2026-10-29
 ---
 
 # Stillreach
@@ -29,6 +29,9 @@ updated: 2026-09-07
 | **Tehlike** | Yüksek. Soğuk, Saatçiler ve İmtiyaz sırayla öldürür |
 
 ## İlk izlenim
+
+![Stillreach — Black Still'in kıyısından](attachments/stillreach-ufuk.png)
+*Buzdan yaklaşırken: büyütülmüş kuleler, kızıl kuyruklu yıldızlar, ufukta Ager.*
 
 > Stillreach donmuş kulelerden oluşur ve kuleler yapılmamış, **büyütülmüş** gibi
 > durur: buz taşından, çatlaksız, içeriden soluk mavi bir ışıkla. Bacaları

@@ -3,7 +3,7 @@ type: meta
 title: Kim Kimdir
 canon: mixed
 status: usable
-updated: 2026-10-15
+updated: 2026-10-29
 ---
 
 # Kim Kimdir
@@ -120,6 +120,8 @@ Unwoven'ın seçtiği dört lider →
 | [Fig](../05-characters/npcs/minor/fig.md) | Fey kedi | Calithra'nın kedisi; Calith Auveran'ın familiar'ı | 1/2 |
 | [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) | ⬜ | **Konuk PC (Ozan)** — rogue, eski barbar; Dördüncü Saat'in ihanete uğrayan hırsızı; Roger'ı tanıyor. DM yedeği statblock | 1 |
 | [Esme "Kül"](../05-characters/npcs/minor/tek-kulak.md#esme-kül) | Human | Dördüncü Saat — Son Mektup Fırını'nın külcüsü; Tek Kulak'ı harcadı *(MM 2025 Spy)* | 1 |
+| **Rask Dorin** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Human | Eski Surfwale onbaşısı; Yedinci Kapı'yı ele geçiren kaçakçı elebaşı *(MM 2025 Bandit Captain)* | 2 |
+| **Maelis Toran** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Half-elf | Softsoil Harper hücresinin hayatta kalanı; Watcher *(MM 2025 Scout)* | 1/2 |
 
 ### Faksiyon kadroları — statsheet'li NPC'ler
 

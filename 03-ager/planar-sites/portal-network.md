@@ -5,7 +5,7 @@ canon: homebrew
 status: usable
 tags: [portal, charaxis, spellplague, silvaerun, trade, gates]
 source: Dünya haritası (turkuaz halkalar) + DM notu (2026-08-11)
-updated: 2026-08-11
+updated: 2026-10-29
 ---
 
 # Charaxis Kapıları — *Sabit Altı*
@@ -167,6 +167,26 @@ Kararsızlık tablosu (d6, geçiş başına):
 
 ---
 
+## 7. Yedinci Kapı — *mühürlü olan*
+
+> ✅ **New Campaign, Session 04 (2026-10-29).** Aşağıdaki *"kapatılanlardan biri hâlâ
+> mühürlü duruyor olabilir"* sorusunun cevabı.
+
+| | |
+|---|---|
+| **Nerede** | [Karsovia](../continents/karsovia/README.md) kıyısı, [Lover's Cut](../oceans-and-seas/lovers-cut.md) — [Surfwale](../continents/karsovia/sites/surfwale.md)'in güneyi, [Softsoil](../continents/karsovia/villages/softsoil.md) koyunun altındaki **deniz mağarası** |
+| **Ne** | 1385'te açılan, Charaxis'e bakan ama **sabitlenemeyen** bir yarık. [Silvaerûn](../continents/ravonia/regions/silvaerun/README.md) büyücüleri onu **mühürledi** — tam kapatamadı |
+| **Kim tutuyor** | **Harpers.** [Calith Auveran](../continents/ravonia/regions/calithra/history.md#kurucu-calith-auveran)'ın hücresi **1389'dan beri** nöbetini tutuyor; [Calithra hücresi](../continents/ravonia/regions/calithra/05-secrets-dm-only.md#1-harper-hücresi--merdiven-altı) aslında bu kapıyı **saklamak** için kuruldu |
+| **Charaxis ucu** | **Yolsuz buz** — [Black Still](../../04-charaxis/regions/black-still.md), [Stillreach](../../04-charaxis/regions/stillreach.md)'in ~1 gün kuzeyi ⬜ |
+| **Şifre** | Aynı: *Vael'Toruun u thalas—shaen, khar.* |
+| **Yetki** | Yok — kayıtsız. Bu yüzden **herkesin istediği şey** |
+| **Durum 1495** | **Uyandı** — Duraklama gecesi. Sabitlenmemiş: her geçişte [d6](../../06-campaigns/new-campaign/05-world-seeds.md#9-kararsız-portallar--charaxis-kapıları) |
+| **Arkasında** | Harper işaretiyle açılan niş: [Nöbet Rünleri](../../08-rules/homebrew/items/watch-runes.md) |
+
+> 🔒 **[DM ONLY]** Duraklama'da bariyer bir an kalktığında elflerin mühür büyüsü de
+> çözüldü; kapı **nefes aldı** ve kapanamadı. Karşı yakadaki hücreyi kaçakçılar bastı.
+> → [Session 04 §4](../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)
+
 ## Açık Sorular
 
 - [ ] Kapıların **elfçe adı** ne? ("Sabit Altı" halk dilindeki karşılık olarak kondu.)
@@ -176,4 +196,4 @@ Kararsızlık tablosu (d6, geçiş başına):
       → [Altı İniş](../../04-charaxis/planar-sites/README.md)
 - [ ] Yetkiyi kim veriyor?
 - [ ] Sabitleme büyüsünü **bakımı** yapan biri var mı? Varsa kuyruklu yıldızlardan beri ne diyor?
-- [ ] 1385'te kapatılan **kararsız portallar** nereye açılıyordu? Kapatılanlardan biri hâlâ bir yerde mühürlü duruyor olabilir.
+- [ ] 1385'te kapatılan **kararsız portallar** nereye açılıyordu? ✅ *Biri hâlâ mühürlüydü:* [Yedinci Kapı](#7-yedinci-kapı--mühürlü-olan). Başkaları da var mı ⬜

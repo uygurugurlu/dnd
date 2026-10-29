@@ -3,7 +3,7 @@ type: meta
 title: Gazetteer — Yerler Dizini
 canon: mixed
 status: usable
-updated: 2026-08-11
+updated: 2026-10-29
 ---
 
 # Gazetteer
@@ -32,6 +32,7 @@ Ager ve Charaxis'teki tüm yerler.
 | [**Güney Takımadası**](../03-ager/continents/south-archipelago/README.md) | Takımada | Güney | **→** |
 | [**Lover's Cut**](../03-ager/oceans-and-seas/lovers-cut.md) | Boğaz | İkisini ayırır; iki yakası tahkimli | **→** |
 | [**Charaxis Kapıları**](../03-ager/planar-sites/portal-network.md) | Portal ağı | **6 kapı**, hepsi Charaxis'e; şifre + yetki ister | **→** |
+| ├ [**Yedinci Kapı**](../03-ager/planar-sites/portal-network.md#7-yedinci-kapı--mühürlü-olan) | Mühürlü portal | Softsoil altı deniz mağarası; 1385'te mühürlendi, Harper'lar bekliyor; **Duraklama'da uyandı** → Black Still | **→** |
 
 ---
 

@@ -513,7 +513,9 @@ bir centaur'u bozuyor. Parti **dikkatliyse** onu iş üstünde yakalar.
 > İçindeki son kendine ait şey hem bir uyarıydı (*"kaç"*) hem bir **kanıt.** Vesna bunu
 > duyduğunda (§6) iki satır birden düşer: Si notası ve not.
 
-### Session 04'e kalanlar *(bu dosyadan aynen)*
+### Session 04'e kalanlar
+
+> ✏️ **Güncellendi:** Stane ve Vesna sahneleri **[Session 04](session-04-yedinci-kapi.md)**'te yeniden yazıldı (Yedinci Kapı). Aşağıdakiler opsiyonel referans.
 
 | § | Sahne |
 |---|---|

@@ -530,3 +530,11 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] **Halime/Halit Orphaned Voice ile yaşayabilirdi** (Speaker önce öldü) — bunu partiye kim, ne zaman söyler (öneri: kimse / Mirel Ashvane)?
 - [ ] Session 03'ün oyun içi süresi ve seviye (`real_date`, `level_*`)
 
+## Session 04 — Yedinci Kapı *(prep, 2026-10-29)*
+
+- [ ] Grafting'den çıkınca dışarıda **kaç gün** geçmiş? *(öneri: 2 — 23 Uktar)*
+- [ ] **Yedinci Kapı**'nın Charaxis ucu Stillreach'e ne kadar uzak? *(öneri: ~8 mil, buzda 1 gün)* · Başka mühürlü kapı var mı?
+- [ ] **Nöbet Rünleri:** artan altıncı taş kime gider · Charaxis'te uzun dinlenme rünle nasıl işler
+- [ ] **Rask Dorin** kapıdan kaçarsa Charaxis'te ne olur
+- [ ] Vesna'nın dönüş ödülü *(öneri: 100 gp/kişi)*
+

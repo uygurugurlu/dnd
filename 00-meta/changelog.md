@@ -11,6 +11,13 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-10-29** — 🗺️ **New Campaign: Session 04 hazırlığı — Yedinci Kapı.**
+  - **[session-04](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md)** (kısa DM notları): kordonda **Stane** konuşması · Calithra'da **Vesna'ya rapor** ve Charaxis kararı · boğaz · ⚔️ Softsoil'de kaçakçıların **yağmaladığı Harper hücresi** (Bandit Captain + Tough + Bandit + Scout, gelgit, kapı nabzı) · **Nöbet Rünleri** · Charaxis'e ilk adım (tasvir + Frozen Air kuralı) · ⚔️ **donduran kuyu** (Air Elemental reskin + Ice Mephit; ateş yanmaz) · ufukta Stillreach.
+  - **Plan değişti:** Charaxis'e K-1/Trell kâğıdıyla değil, **[Yedinci Kapı](../03-ager/planar-sites/portal-network.md#7-yedinci-kapı--mühürlü-olan)**'dan geçiliyor — 1385'te mühürlenmiş, Harper'ların sakladığı, Duraklama'da uyanan kapı. `portal-network.md` §7 + açık soru kapandı · gazetteer · [arc](../06-campaigns/new-campaign/arcs/charaxis-yolu.md) §5 notu · S03'e işaret.
+  - **Yeni homebrew eşya (DM isteği):** [Watch Runes / Nöbet Rünleri](../08-rules/homebrew/items/watch-runes.md) — 6 taş, 10 gün Charaxis havası ve soğuğu.
+  - **Görsel:** [Stillreach](../04-charaxis/regions/stillreach.md) — `04-charaxis/regions/attachments/stillreach-ufuk.png` (Midjourney).
+  - **Güncellenen:** `03-timeline.md`, `sessions/README.md`, `items/README.md`, `who-is-who.md` (Rask Dorin, Maelis Toran), `open-questions.md`.
+
 - **2026-10-29** — 🎲 **New Campaign: Session 03 — Silik Köy oynandı (kısmen).**
   - **[session-03](../06-campaigns/new-campaign/sessions/session-03-silik-koy.md)** §14–§15: **Gallows Speaker öldü**; bozulmuş centaur kurtarıldı (partiyle dönmedi); **Halime ve Halit** çıkarmak tehlikeli bulunup **öldürüldü**; Communion'ın notu **Halime'nin elinde** bulundu. Session **çıkış yolunda** bitti — §4d–§9 Session 04'e kaldı.
   - **Yeni homebrew eşya (DM masada tanıttı):** [Gallows Needle](../08-rules/homebrew/items/gallows-needle.md) — Vasili Speaker'ın elinde buldu; attune olan günde 3 kez saplayarak curse aktarır. Ayrıntılar ⬜. `items/README.md` ve [gallows-speaker](../02-lore/bestiary/gallows-speaker.md) Ödül tablosu güncellendi (*"eşya yok"* satırı oyunda değişti; Speaker *killed*).
