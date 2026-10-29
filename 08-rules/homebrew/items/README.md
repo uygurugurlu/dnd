@@ -2,7 +2,7 @@
 type: meta
 title: Homebrew — Sihirli Eşyalar
 status: stub
-updated: 2026-08-10
+updated: 2026-10-29
 ---
 
 # Homebrew — Sihirli Eşyalar
@@ -12,6 +12,7 @@ updated: 2026-08-10
 | Eşya | Rarity | Attunement | Nerede | Durum |
 |---|---|---|---|---|
 | **Sword of Zariel** | legendary | good alignment | Avernus'ta kayıp | ⬜ |
+| [**Gallows Needle**](gallows-needle.md) *(Sözcü'nün İğnesi)* | ⬜ (öneri: rare) | yes | Vasili von Holtz — New Campaign, Session 03 | draft — günde 3 curse aktarımı; ayrıntılar ⬜ |
 | <!-- doldur --> | | | | |
 
 ## Sword of Zariel

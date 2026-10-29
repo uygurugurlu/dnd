@@ -5,7 +5,7 @@ campaign: New Campaign
 canon: homebrew
 status: stub
 tags: [timeline]
-updated: 2026-10-15
+updated: 2026-10-29
 ---
 
 # Zaman Çizelgesi
@@ -69,7 +69,7 @@ updated: 2026-10-15
 |---|---|---|---|
 | 1 | [Calithra Kavşağı](sessions/session-01-calithra-kavsagi.md) | 20 Uktar 1495 DR | Parti Calithra'da karşılaştı; Roger kendi gemisi ve crew'iyle geldi. Kırıkbağ'da Iron Concord bariyeri; Stane Gwyndor'ı tanıyor, ertesi gün görüşme. Shapeshifter'ların dini + ortak aklı (Nat 20). Lover's Cut masalı, Fig (Calith'in familiar'ı). Vasili Grafting'e kadar ittifak |
 | 2 | [Grafting'in İçi](sessions/session-02-grafting-ici.md) | 21 Uktar 1495 DR | Nehirden Grafting'e giriş; köy evinde **Tek Kulak** (konuk rogue, Roger'ı tanıyor). Ghoul'lar ve bozulmuş centaur'lar öldü. Blink Dog Unwoven'dan güç aldı → ⭐ **Duraklama:** kuyruklu yıldızlar anlık durdu, parti (Tek Kulak hariç) bir an eski güçlerine kavuştu. Shadowfell kuşağı Session 03'e kaldı |
-| 3 | [Silik Köy](sessions/session-03-silik-koy.md) *(prep)* | 21–23 Uktar 1495 DR | Silik köy + Gallows Speaker · dönüş · Stane · Vesna · Dördüncü Saat · rüya → [Charaxis Yolu](arcs/charaxis-yolu.md) |
+| 3 | [Silik Köy](sessions/session-03-silik-koy.md) | 21 Uktar 1495 DR ⬜ | Silik köyde **Gallows Speaker öldürüldü**; bozduğu **centaur kurtarıldı** (partiyle dönmedi). **Halime ve Halit** bulundu — çıkarmak tehlikeli bulundu, **öldürüldü**. Communion'ın notu Halime'nin elinde. **Vasili Speaker'ın iğnesini aldı** (curse aktarımı). Çıkış yolunda bitti |
 
 > Her session sonrası: `sessions/session-NN-<slug>.md` aç, bu tabloya satır ekle,
 > değişen dünya dosyalarını güncelle, `00-meta/changelog.md`'ye satır at.

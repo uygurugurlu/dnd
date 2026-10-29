@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Açık Sorular
-updated: 2026-10-15
+updated: 2026-10-29
 ---
 
 # Açık Sorular
@@ -522,4 +522,11 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] **Ölü shapeshifter'ın dönen yüzlerinden biri Gwyndor'ın canlı yüzü mü?** *(öneri; Kırk Gün bağı)* · Concord'un inkâr ettiği "üçüncü kişi" o mu?
 - [ ] **Harpers'ın öbür yaka hücresinin ajanı kim, nereye gitti?** *(öneri: K-1'den aşağı)*
 - [ ] Calithra ↔ Surfwale boğaz geçişi süresi *(Ione: iyi rüzgârla yarım gün)*
+
+## Session 03 — Silik Köy *(2026-10-29)*
+
+- [ ] 🪡 **Gallows Needle kuralları:** hangi lanet aktarılır (kendi üstündeki mi, dokunduğun birinin mi?), hedef save atar mı (öneri DC 14 Cha), saldırı mı Magic action mı, rarity (öneri rare), attunement laneti var mı · Vasili attune oldu mu? → [gallows-needle.md](../08-rules/homebrew/items/gallows-needle.md)
+- [ ] **Kurtarılan centaur:** adı, nereye gitti, partiye bir borç bıraktı mı?
+- [ ] **Halime/Halit Orphaned Voice ile yaşayabilirdi** (Speaker önce öldü) — bunu partiye kim, ne zaman söyler (öneri: kimse / Mirel Ashvane)?
+- [ ] Session 03'ün oyun içi süresi ve seviye (`real_date`, `level_*`)
 

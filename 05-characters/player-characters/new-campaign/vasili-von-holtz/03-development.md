@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: adapted
 status: draft
 tags: [pc, vasili-von-holtz, development, log]
-updated: 2026-10-15
+updated: 2026-10-29
 ---
 
 # Vasili von Holtz — Gelişim Günlüğü
@@ -59,6 +59,7 @@ updated: 2026-10-15
 |---|---|---|---|---|
 | 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Ekibe **önyargılıydı.** Ama **Shadowfell'e açılan** Grafting'in ve **Dark Powers'a ulaşma açlığının** çekimiyle **Grafting'e girene kadar** ekiple hareket etmeyi kabul etti | İlk kez **başkalarıyla** çalışıyor — süre sınırı kendi koyduğu: **kapıya kadar** |
 | 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | İttifakın sınırı olan **Grafting'e girdi** — ve ekiple kaldı. Ghoul'lar, bozulmuş centaur'lar, [Tek Kulak](../../../npcs/minor/tek-kulak.md). ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu ve Vasili bir an **eski gücüne** kavuştu ⬜ *(deste ne gösterdi?)* | **Güç geri alınabiliyor.** Süreli ittifak bitti; kalmak için artık **kendi sebebi** var |
+| 3 | **21 Uktar 1495** ⬜ | [Session 03](../../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) | Silik köyde **Gallows Speaker**'ı öldürdü; bozulmuş **centaur**'u kurtardılar (onlarla dönmedi). **Halime ve Halit**'i çıkarmanın tehlikeli olduğuna karar verip **öldürdüler**; Communion'ın notu Halime'nin elindeydi. 🪡 Speaker'ın elindeki **iğneyi keşfetti ve aldı** → [Gallows Needle](../../../../08-rules/homebrew/items/gallows-needle.md) | Lanet vermeyi bilen adamın elinde artık lanet **aktaran** bir alet var |
 
 ## 3. Dönüm Noktaları
 
@@ -110,6 +111,7 @@ updated: 2026-10-15
 | **Kayıp** | Pixie — Ager'deki ilk ve tek dostu | Kendi eliyle, Mournwood | — |
 | **Borç / söz** | ⬜ Adağın karşılığı — Dark Powers ona **bir şey borçlu mu**, o mu onlara? | Mournwood | — |
 | Eşya | **Tarokka destesi** | Barovia | — |
+| Eşya | 🪡 **[Gallows Needle](../../../../08-rules/homebrew/items/gallows-needle.md)** — günde 3 curse aktarımı *(attune ⬜)* | Gallows Speaker, Silik köy | [Session 03](../../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) |
 | Yara / iz | <!-- doldur --> | | |
 | Borç / söz | <!-- doldur --> | | |
 

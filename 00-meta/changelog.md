@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Değişiklik Kaydı
-updated: 2026-10-15
+updated: 2026-10-29
 ---
 
 # Değişiklik Kaydı
@@ -10,6 +10,11 @@ Evrende ne zaman ne değişti. Her önemli ekleme/karar buraya bir satır.
 Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
+
+- **2026-10-29** — 🎲 **New Campaign: Session 03 — Silik Köy oynandı (kısmen).**
+  - **[session-03](../06-campaigns/new-campaign/sessions/session-03-silik-koy.md)** §14–§15: **Gallows Speaker öldü**; bozulmuş centaur kurtarıldı (partiyle dönmedi); **Halime ve Halit** çıkarmak tehlikeli bulunup **öldürüldü**; Communion'ın notu **Halime'nin elinde** bulundu. Session **çıkış yolunda** bitti — §4d–§9 Session 04'e kaldı.
+  - **Yeni homebrew eşya (DM masada tanıttı):** [Gallows Needle](../08-rules/homebrew/items/gallows-needle.md) — Vasili Speaker'ın elinde buldu; attune olan günde 3 kez saplayarak curse aktarır. Ayrıntılar ⬜. `items/README.md` ve [gallows-speaker](../02-lore/bestiary/gallows-speaker.md) Ödül tablosu güncellendi (*"eşya yok"* satırı oyunda değişti; Speaker *killed*).
+  - **Güncellenen:** `03-timeline.md`, `sessions/README.md`, 4× PC `03-development.md` (Vasili kazanımlar: iğne), `open-questions.md`.
 
 - **2026-10-17** — ✅ **CotBC: Nethryn'in laneti kaldırıldı, köy temizlendi** (oynandı). Nethryn dosyası
   (Lanet Seviyesi 0), timeline, pusu dosyası (Peder Ossic'in duaları) ve açık sorular güncellendi.

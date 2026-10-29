@@ -9,8 +9,8 @@ in_world_elapsed: ⬜
 level_at_start: ⬜ (3 — Session 02 sonrası 4 olduysa §12'ye bak)
 level_at_end: ⬜
 players_present: [Ardan, Koray, Erdem, Burak, Ozan (konuk)]
-status: prep
-updated: 2026-10-15
+status: played (kısmen — çıkış yolunda bitti; dönüş Session 04'e kaldı)
+updated: 2026-10-29
 ---
 
 # Session 03 — Silik Köy
@@ -18,6 +18,10 @@ updated: 2026-10-15
 **Yukarı:** [Oturumlar](README.md) · **Önceki:** [Session 02](session-02-grafting-ici.md) ·
 **Yay:** [Charaxis Yolu](../arcs/charaxis-yolu.md) ·
 **Boss:** [Gallows Speaker](../../../02-lore/bestiary/gallows-speaker.md) ([statblock](../../../08-rules/homebrew/monsters/gallows-speaker.md))
+
+> ✅ **Oynandı (kısmen).** Speaker öldü, centaur kurtarıldı, Halime ve Halit öldürüldü;
+> session **çıkış yolunda** bitti → [§15 Ne oldu](#15-oynandı--ne-oldu).
+> **§4d–§9 oynanmadı** — Session 04'te bu dosyadan aynen kullanılır.
 
 > 🎲 **Bu dosya masada açık durur.** Hap notlar. `⬜` = senin dolduracağın slot.
 > **Shadowfell kuşağının kuralları** [Session 02 §5e](session-02-grafting-ici.md#5e--shadowfell-bölgesi--z5z7)'de
@@ -261,7 +265,7 @@ bir centaur'u bozuyor. Parti **dikkatliyse** onu iş üstünde yakalar.
 | Ne | Not |
 |---|---|
 | **Adlar geri gelir** | Köyün adı, 31 ölünün adı ⬜. Çavuş **kendi adını** hatırlar |
-| **Sunağın üstünde** | **Thava'nın yarı yanmış kâğıdı** → [S02 §5f](session-02-grafting-ici.md#-merkezde-ne-öğrenilir--ritüelin-sırrı). Speaker ölünce arka yüz **okunur** olur: *"Nine, üçüncü halkada bekle. — Y.M."* |
+| ✏️ **Halime'nin elinde** *(oynandı — sunakta değil)* | **Thava'nın yarı yanmış kâğıdı** → [S02 §5f](session-02-grafting-ici.md#-merkezde-ne-öğrenilir--ritüelin-sırrı). Speaker ölünce arka yüz **okunur** olur: *"Nine, üçüncü halkada bekle. — Y.M."* |
 | **Harper'lar** | Speaker öldüyse çıkarılsalar bile **Orphaned Voice** *(ölmezler; 2 Exhaustion, 1d4 gün sessiz)* — Vesna'nın uyarısı yine de geçerli |
 | **Dikiş** | **Açık kalır.** Speaker yan etkiydi, sebep değil. Kapatmak ayrı bir iş |
 
@@ -478,16 +482,53 @@ bir centaur'u bozuyor. Parti **dikkatliyse** onu iş üstünde yakalar.
 
 | Sahne | Encounter | Sonuç |
 |---|---|---|
-| §4a | Papaz evi — Speaker + bağlı centaur | ⬜ yakalandı mı? |
-| §4b | Kilise — Gallows Speaker *(+ Halime/Halit host, ± centaur)* | ⬜ |
-| §7 | Esme "Kül" *(+2 Bandit)* | ⬜ |
+| §4a | Papaz evi — Speaker + bağlı centaur | ✅ **Centaur kurtarıldı.** Speaker papaz evinde mi yakalandı ⬜ |
+| §4b | Gallows Speaker | ✅ **Öldü.** *(dövüş nerede geçti — ev mi, kilise mi ⬜)* |
+| §3d | Halime ve Halit | ✅ **Parti öldürdü** — çıkarmanın tehlikeli olduğuna karar verdiler |
+| §7 | Esme "Kül" *(+2 Bandit)* | ⏭️ Oynanmadı → Session 04 |
+
+## 15. Oynandı — ne oldu
+
+| # | Ne oldu | Sonuç |
+|---|---|---|
+| 1 | Parti köydeki varlığı — **[Gallows Speaker](../../../02-lore/bestiary/gallows-speaker.md)**'ı — **başarıyla öldürdü** | Adlar geri döndü (§4c). **Dikiş açık** — Speaker yan etkiydi |
+| 2 | Speaker'ın bozduğu **centaur**'u **kurtardılar.** Centaur onlarla **dönmeyi seçmedi** | Feywild kuşağına döndü ⬜ — partiye (Grimnor'a?) bir **hediye borcu** bırakmış olabilir (§11) |
+| 3 | **Halit** ve **Halime**'yi buldular. Dışarı çıkarmanın **tehlikeli** olduğuna karar verip ikisini de **orada öldürdüler** | Vesna'nın kuralına uyuldu → §6'da **"öldürüldü"** satırı geçerli. Gallows Echo **yok** |
+| 4 | 📜 **First Communion'ın buraya geldiğini gösteren not Halime'nin elinde** bulundu *(Thava'nın kâğıdı — §4c, [S02 §5f](session-02-grafting-ici.md#-merkezde-ne-öğrenilir--ritüelin-sırrı))* | Arka yüzdeki *"Nine, üçüncü halkada bekle. — Y.M."* Speaker öldüğü için **okunur** ⬜ |
+| 5 | 🪡 **Vasili Speaker'ın elindeki iğneyi keşfetti ve aldı** — attune olan **günde 3 kez** birine saplayarak **curse aktarabiliyor** | Yeni homebrew eşya → [Gallows Needle](../../../08-rules/homebrew/items/gallows-needle.md) |
+| 6 | **Session burada bitti:** parti **çıkış yolunda** | §4d çıkış seçimi Session 04'ün ilk sahnesi |
+
+> 🔒 **[DM ONLY] — Harper'lar yaşayabilirdi.** Speaker **önce** öldüğü için Halime ve Halit
+> dışarı çıkarılsaydı **Orphaned Voice** ile hayatta kalacaklardı *(2 Exhaustion, 1d4 gün
+> sessiz — [bestiary](../../../02-lore/bestiary/gallows-speaker.md#kept-voice--host-çıkarılırsa-ne-olur))*.
+> Parti bunu **bilmiyor**; Vesna da bilmiyor — onun uyarısı Speaker yaşarken doğruydu.
+> Bu bir ceza değil, sonradan çıkacak bir **ağırlık.** Kimin söyleyeceği ⬜ *(öneri: kimse;
+> ya da bir gün [Mirel Ashvane](../../../05-characters/npcs/minor/the-first-communion/mirel-ashvane.md) —
+> Grafting'den insan çıkaran tek kişi)*.
+
+> 🔒 **[DM ONLY] — İğne.** Speaker Voice'ları host'lara muhtemelen **bununla** dikiyordu ⬜ —
+> yani Vasili'nin elindeki şey Halime ile Halit'i bozan **alet.** Ayrıntı ve açık kurallar → [Gallows Needle](../../../08-rules/homebrew/items/gallows-needle.md).
+
+> 🔒 **[DM ONLY] — Halime'nin eli.** Notu tutan Halime'ydi — Si notasını mırıldanan Harper.
+> İçindeki son kendine ait şey hem bir uyarıydı (*"kaç"*) hem bir **kanıt.** Vesna bunu
+> duyduğunda (§6) iki satır birden düşer: Si notası ve not.
+
+### Session 04'e kalanlar *(bu dosyadan aynen)*
+
+| § | Sahne |
+|---|---|
+| [§4d](#4d-çıkış) | **Çıkış** — nehir / batı yamacı / ön kapı. Trell sandığı Z1'deyse burada |
+| [§5](#5-kordon--stanein-randevusu) · [§5b](#5b-calithra--şehir-ne-yaptı-22-uktar) | Stane'in randevusu · Calithra |
+| [§6](#6-merdiven-altı--vesnanın-masası) | Vesna — **"öldürüldü"** + **Si notası** + **Thava'nın kâğıdı** + sessiz hücre kancası |
+| [§7](#7-tek-kulak--sabah-4) | Tek Kulak — sabah 4 *(Ozan masadaysa)* |
+| [§8](#8-hungry-gull--crew) · [§9](#9-gece--rüya) | Hungry Gull · rüya |
 
 ## Güncellenecek Dosyalar *(oynandıktan sonra)*
 
-- [ ] `03-timeline.md` (session 03 satırı)
-- [ ] 4× PC `03-development.md` + kişisel saatler
+- [x] `03-timeline.md` (session 03 satırı)
+- [x] 4× PC `03-development.md` *(kişisel saatler ⬜ — §10 önerileri onay bekliyor)*
 - [ ] [Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md) — oyuncunun söyledikleri
-- [ ] [Gallows Speaker](../../../02-lore/bestiary/gallows-speaker.md) — öldü mü?
+- [x] [Gallows Speaker](../../../02-lore/bestiary/gallows-speaker.md) — **öldü**
 - [ ] [Calithra sırları](../../../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md) — sessiz hücre, Dördüncü Saat
 - [ ] [06-clocks.md](../06-clocks.md) — §10'daki öneriler onaylanırsa
-- [ ] `00-meta/changelog.md`
+- [x] `00-meta/changelog.md`

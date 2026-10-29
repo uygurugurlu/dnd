@@ -11,13 +11,14 @@ treasure: None
 origin: Uyarlama — Ravenloft'un Gallows Speaker'ı; Ager'de Kırıkbağ Dikişi'nden sızmış bir Shadowfell varlığı
 canon: adapted
 status: usable
+campaign_state: killed (New Campaign, Session 03)
 tags: [creature, boss, undead, shadowfell, feywild, grafting, kirikbag, calithra, first-communion, new-campaign, session-02]
 sources:
   - "Ravenloft: The Horrors Within — Gallows Speaker (adapted, homebrew variant)"
   - "SRD 5.2 (CC-BY-4.0) — stat block formatı s. 251–254: https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.pdf"
   - "https://forgottenrealms.fandom.com/wiki/Shadowfell"
   - "https://forgottenrealms.fandom.com/wiki/Feywild"
-updated: 2026-09-30
+updated: 2026-10-29
 ---
 
 # Gallows Speaker — *Darağacının Sözcüsü*
@@ -216,11 +217,14 @@ Dikiş'e **basmaz** (tuzak olduğunu bilir); partiyi **oraya yaklaştırmak** is
 
 | Parça | Ne işe yarar | Değer |
 |---|---|---|
-| **Hiçbir şey** | Speaker fiziksel bir şey bırakmaz. **Sihirli eşya yok** (bilerek) | — |
+| ~~**Hiçbir şey**~~ | ✏️ **Oyunda değişti (Session 03):** Speaker'ın elinde bir **iğne** bulundu | — |
+| 🪡 **[Gallows Needle](../../08-rules/homebrew/items/gallows-needle.md)** | Attune olan günde 3 kez saplayarak **curse aktarır** *(homebrew, DM tanıttı)* | ⬜ (öneri: rare) |
 | **Geri dönen isimler** | Ölünce **iç halkadaki kapı/mezar taşı isimleri** yumuşaklıktan çıkıp **yeniden okunur** olur; 31 ölünün **adları** öğrenilir | Bilgi, *Calithra'nın kimliği* |
 | **Host'lar** | **Orphaned Voice** ile hayatta kalırlar *(Speaker ölmüşse)* | Sosyal bedel |
 
 ## Nerede Karşılaşılır
+
+> ✅ **Öldü — [Session 03](../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md#15-oynandı--ne-oldu)**, Silik köyde. Bozduğu centaur kurtarıldı; host'lar (Halime, Halit) parti tarafından öldürüldü. Vasili iğnesini aldı.
 
 **Kırıkbağ Grafting'i, Boşluk'un kenarı** *(Z5–Z7)*, **New Campaign**,
 [Session 02](../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md).
