@@ -8,7 +8,7 @@ sources:
   - https://a5e.tools/rules/criticals-and-fumbles
   - https://www.hipstersanddragons.com/critical-misses-5e-dnd/
   - https://www.enworld.org/threads/what-are-your-favourite-fumble-tables.552370/
-updated: 2026-08-30
+updated: 2026-11-05
 ---
 
 # Nat 1 / Nat 20 — Komplikasyon ve Ödül
@@ -98,11 +98,12 @@ Yani sonuçların %40'ı sana özeldir.
 | Sınıf | Karakter | Oyuncu |
 |---|---|---|
 | [Undead Paladin](#undead-paladin) | **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor/README.md)** | Ardan |
-| [Moon Druid](#moon-druid) | **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)** | Koray |
-| [Bladesinger Wizard](#bladesinger-wizard) | **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** | Erdem |
+| [Moon Druid](#moon-druid) | **[Grimgor](../../05-characters/player-characters/new-campaign/grimgor/README.md)** | Koray |
+| [Necromancer Wizard](#necromancer-wizard) | **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** | Erdem |
 | [Monk](#monk) | **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger/README.md)** | Burak |
 
 > ✏️ **2026-08-30:** Fighter tablosu kaldırıldı, yerine **Monk** yazıldı.
+> ✏️ **2026-11-05:** Vasili L4'te respec yaptı: **Bladesinger** tablosu kaldırıldı, yerine **Necromancer** yazıldı.
 
 ## Undead Paladin
 
@@ -150,7 +151,7 @@ Yani sonuçların %40'ı sana özeldir.
 | 16 | **Doğa küstü.** Bir sonraki concentration save'inde **Disadvantage**; çevredeki bitkiler senden uzağa kıvrılır. |
 | 17 | **Koku dosyası.** Yakındaki yırtıcılar seni "av" olarak işaretledi. Bir sonraki wandering monster kontrolü **otomatik başarılı** sayılır ve gelen şey **seni** hedefler. |
 | 18 | **Baş parmağını unuttun.** Sahne sonuna kadar hayvan formundayken eşya kullanamaz, material component tutamazsın. |
-| 19 | **Ay çekişi.** [Charaxis](../../04-charaxis/README.md) tam tepende. Bir tur boyunca **Wild Shape kullanamazsın** — beden hangi şekli alacağına karar veremiyor. |
+| 19 | **Ay çekişi.** [Charaxis](../../04-charaxis/README.md) tam tepende *(Charaxis'teyken: **ayağının altında**)*. Bir tur boyunca **Wild Shape kullanamazsın** — beden hangi şekli alacağına karar veremiyor. |
 | 20 | **Sürü.** Kuşlar, sıçanlar, böcekler etrafına üşüşür. 10 fit çapında **lightly obscured** alan: düşmanlar seni zor görür, sen de onları. |
 
 ### Ödül (13–20)
@@ -168,35 +169,37 @@ Yani sonuçların %40'ı sana özeldir.
 
 ---
 
-## Bladesinger Wizard
+## Necromancer Wizard
 
-*Kılıç bir nota, büyü bir başka nota. Biri kaçarsa şarkı bozulur.*
+*Ölü dinler, büyü de. İkisi aynı anda yanlış anlarsa uşak faturayı keser.*
+
+> **[Rahadin](../../05-characters/npcs/minor/rahadin.md)** = Vasili'nin undead familiar'ı. Sahnede değilse "**Mantık kazanır**" kuralı: en yakın eşdeğere çevir. *Battle Familiar* açık değilse bile çoğu satır çalışır.
 
 ### Komplikasyon (13–20)
 
 | d20 | Sonuç |
 |---|---|
-| 13 | **Şarkı kırıldı.** **Bladesong** aktifse hemen sona erer (charge harcanmış sayılır). Aktif değilse bir sonraki turuna kadar başlatamazsın. |
-| 14 | **Adımın şaştı.** Bu turda Bladesong'un hareket bonusunu kaybedersin ve istemsiz 5 fit kayarsın. |
-| 15 | **Weave geri teptin.** Bu turda kullandığın büyünün seviyesi kadar (**min 1**) **1d4 force** hasar alırsın. |
-| 16 | **Kaydı.** Bir sonraki cantrip'in yanlış yöne gider: menzildeki **rastgele** bir hedefi bulur — müttefik olabilir. |
-| 17 | **Kılıç ile kitap çatıştı.** Bir tur boyunca ya somatic component yaparsın ya silah saldırısı. İkisi bir arada olmaz. |
-| 18 | **Konsantrasyon dağıldı.** Concentration'ın varsa otomatik bozulur. Yoksa bir sonraki Constitution save'inde **Disadvantage**. |
-| 19 | **Sayfa düştü.** Spellbook'undan bir yaprak yırtıldı. DM rastgele bir hazır büyü seçer; **long rest'e kadar** o büyüyü hazırlayamazsın. |
-| 20 | **Rezonans.** Bladesong'un titreşimi yayıldı: 500 fit içindeki her caster, construct ve aberration senin **tam yerini** bilir. |
+| 13 | **Bağ gevşedi.** *Battle Familiar* sıradaki turunun sonuna kadar **askıda:** Rahadin taban zombi statlarına iner ve saldıramaz. Büyü açık değilse: bir sonraki turuna kadar bu büyüyü cast edemezsin. |
+| 14 | **Yanlış emir.** Rahadin bir sonraki turunda **en yakın yaratığa** yürür ve onu hedef alır — müttefik olabilir. *"Rahadin. Hayır."* için Bonus Action harcarsan durur. |
+| 15 | **Mezar geri tepti.** Bu turda kullandığın büyünün seviyesi kadar (**min 1**) **1d4 Necrotic** hasar alırsın; Resistance bu hasara işlemez. Kendi büyün. |
+| 16 | **Soğuk el.** Bir sonraki cantrip'in **menzildeki rastgele** bir hedefi bulur — müttefik olabilir. |
+| 17 | **Hizmet.** Rahadin sıradaki turunda yanına gelip **sana hizmet etmeye** çalışır (paltonu düzeltir, kitabını uzatır). Saldırmaz; sana yönelen bir sonraki saldırı **Advantage** alır. |
+| 18 | **Ölü sesi.** Concentration'ın varsa otomatik bozulur. Yoksa bir sonraki Constitution save'inde **Disadvantage** — biri kulağına bir şey söyledi. |
+| 19 | **Sayfa düştü.** Spellbook'undan bir yaprak yırtıldı. DM rastgele bir hazır büyü seçer; **long rest'e kadar** o büyüyü hazırlayamazsın. *Battle Familiar* çıkarsa **elmas da düşmüştür** ⬜. |
+| 20 | **Ölüler duydu.** 500 fit içindeki her undead ve necromancy kullanan her caster senin **tam yerini** bilir. Charaxis'te: buzdaki bir yüz sana döner. |
 
 ### Ödül (13–20)
 
 | d20 | Sonuç |
 |---|---|
-| 13 | **Şarkı sürüyor.** **Bladesong**'un bu sahnede erken bitmez — encounter sonuna kadar açık kalır. |
-| 14 | **Tempo.** Bu turda bir cantrip'i **Bonus Action** olarak da kullanabilirsin. |
-| 15 | **Weave sıcak.** Harcadığın en düşük seviyeli **spell slot** geri gelir. |
-| 16 | **Perde.** Sana yönelen bir sonraki saldırıya karşı **AC +3**. Reaction gerekmez, kendiliğinden olur. |
-| 17 | **Kesişme.** Bu turda aynı hedefe hem vurduysan hem büyü attıysan, o hedefe karşı büyünün **save DC'si +2**. |
-| 18 | **Arcane göz.** Bir tur boyunca sahnedeki her magical eşyayı, etkiyi ve glyph'i görürsün. Detect Magic gibi, ama concentration istemez. |
-| 19 | **Sekme.** Tek hedefli bir cantrip'in 15 fit içindeki ikinci bir hedefe **yarım hasarla** sekirir. |
-| 20 | **Figür.** Bu sahnede bir kez: Bonus Action ile 30 fite kadar **Misty Step** benzeri bir adım atarsın. Slot harcamaz — bu Bladesong'un bir figürü, büyü değil. |
+| 13 | **Uşak dayanır.** Bu sahnede Rahadin 0 HP'ye düşerse bir kez **1 HP** ile kalır. *Battle Familiar* bu sahnede bitmez. |
+| 14 | **Tempo.** Bu turda Rahadin'e komut için aksiyon harcamazsın ve bir cantrip'i **Bonus Action** olarak kullanabilirsin. |
+| 15 | **Mezar cömert.** Harcadığın en düşük seviyeli **spell slot** geri gelir. |
+| 16 | **Et perdesi.** Rahadin 5 fit içindeyse sana yönelen bir sonraki saldırı **ona** isabet eder. Reaction gerekmez; ceketini ilikler. |
+| 17 | **Hasat.** Bu turda verdiğin Necrotic hasarın yarısı kadar (**max 1d8 + Int**) sen ya da Rahadin iyileşir. |
+| 18 | **Ölü göz.** Bir tur boyunca Rahadin'in gözünden de görürsün; 60 fit içindeki undead, ceset ve necrotic etkileri belli olur. Concentration istemez. |
+| 19 | **Soğuk kol.** Tek hedefli bir cantrip'in 15 fit içindeki ikinci bir hedefe **yarım hasarla** sekirir. |
+| 20 | **Ayağa.** Bu sahnede bir kez: 30 fit içinde **taze bir ceset** bir tur kalkar, tek bir **Slam** (+3, 1d6 + 1) yapar ve düşer. Slot harcamaz, *Animate Dead* değil — *ölü seni duydu.* |
 
 ---
 

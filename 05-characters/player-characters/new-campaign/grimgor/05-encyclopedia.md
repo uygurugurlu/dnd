@@ -2,20 +2,20 @@
 type: character
 pc: true
 subtype: encyclopedia
-name: Grimnor — Bildikleri
+name: Grimgor — Bildikleri
 player: Koray
 campaign: New Campaign
 canon: homebrew
 status: draft
-tags: [pc, grimnor, encyclopedia, knowledge, chronology, gorestead, charaxis, orcs]
+tags: [pc, grimgor, encyclopedia, knowledge, chronology, gorestead, charaxis, orcs]
 updated: 2026-09-30
 ---
 
-# 📖 Grimnor — Bildikleri
+# 📖 Grimgor — Bildikleri
 
-**Yukarı:** [Grimnor](README.md)
+**Yukarı:** [Grimgor](README.md)
 
-> **Bu dosya oyuncuya açıktır.** Grimnor'ın **bugüne kadar** bildiği her şey:
+> **Bu dosya oyuncuya açıktır.** Grimgor'ın **bugüne kadar** bildiği her şey:
 > nerelere gitti, kimleri tanıyor, dünya hakkında neyi biliyor, neyi bilmiyor.
 > Bilmediği şeyler sadece *"bilmiyor"* diye geçer — cevabı burada **yazmaz**
 > ([04-dm-notes.md](04-dm-notes.md)).
@@ -33,7 +33,7 @@ updated: 2026-09-30
 |---|---|---|
 | ⬜ | [Gorestead](../../../../03-ager/continents/ravonia/villages/gorestead.md)'de doğdu; ork; çiftçi | ✅ *(köy: öneri, oyuncu "gorestaeadli" dedi)* |
 | ⬜ | **Başkente** ticaret için gitti — odun, mantar | ✅ ham not; tarih ⬜ *(öneri: oyundan önce)* |
-| **1492** | Mürai savaşı çıktı. Grimnor **savaşa girmedi** | ✅ dünya + ham not |
+| **1492** | Mürai savaşı çıktı. Grimgor **savaşa girmedi** | ✅ dünya + ham not |
 | ⬜ *(öneri: 1493)* | **Oyun.** Köy seçildi, hayvanlar dağıtıldı, kurtlar; ailesi kurt tarafında kaldı; **kasaba kazandı** | ✅ — kim kurdu **bilmiyor** |
 | ⬜ | Oyunun ardından **druid güçleri** geldi | ✅ |
 | ⬜ | [Emerald Enclave](../../../../02-lore/factions/emerald-enclave.md) ile temas | ✅ ham not |
@@ -94,7 +94,7 @@ updated: 2026-09-30
 | ⚓ **[Grak Hollow](../../../../03-ager/continents/ravonia/villages/grak-hollow.md)** | ⬜ | Mournwood'a en yakın liman; üç faksiyon aynı anda | ⬜ | ✅ 6 NPC |
 | ⚒️ **[Hammerfall](../../../../03-ager/continents/ravonia/regions/hammerfall/README.md)** | — | Demirdiş orkları orada | ⬜ |  |
 
-> 🚧 **Dosyası olmayan ama Grimnor'ın geçmiş olabileceği yerler:** Gorestead–
+> 🚧 **Dosyası olmayan ama Grimgor'ın geçmiş olabileceği yerler:** Gorestead–
 > başkent arasındaki yol *(Thornhold geçidi kapalıysa hangi rota?)* · Thornhold'un
 > zindanı *(kale dosyasında "eski ama aktif")* · Charaxis'te uğradığı yerleşim
 > *(Ashkar Reach öneri)* · Enclave'in Ager'deki merkezi *(faksiyon dosyası stub)*.
@@ -149,8 +149,8 @@ updated: 2026-09-30
 
 > Oyuncuya açık. DM-only cevaplar burada **yok.**
 
-- Bir **sincap** kediden şikâyetçiydi; Grimnor kediye **yemek verip** sincapları rahat bırakmasını söyledi
-- Roger **moondust'lı** bir ekmek yedi *(Grimnor'ın uyuşturucu karşıtlığı burada devreye girebilir ⬜)*
+- Bir **sincap** kediden şikâyetçiydi; Grimgor kediye **yemek verip** sincapları rahat bırakmasını söyledi
+- Roger **moondust'lı** bir ekmek yedi *(Grimgor'ın uyuşturucu karşıtlığı burada devreye girebilir ⬜)*
 - **Lover's Cut masalı** ([İki Kıta Masalı](../../../../03-ager/continents/ravonia/regions/calithra/lovers-cut-tale.md)): Ravonia ve Karsovia iki sevgiliydi; tanrıların cezasıyla etleri kıta, kanları deniz oldu. Halk masalı — **ama parti ciddiye aldı.** Anlattığı kıtaları kimin/neyin oluşturduğu ⬜
 - **Fig** ([→](../../../npcs/minor/fig.md)): Calithra'nın kedisi **yüzlerce yaşında**; sahibi **kentin kurucusu**. Kim olduğu ve neden bu kadar yaşadığı ⬜
 

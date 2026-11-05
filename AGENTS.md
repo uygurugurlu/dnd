@@ -96,7 +96,7 @@ geçiyor; CotBC ise o savaşın **fitilidir.** İki kampanya tek zaman çizgisin
 | **Sahası** | Ravonia kıtası (şehir + Wheatrest/Nethryn/Thornhold) | Batı & kuzey + Karsovia kıtası + Charaxis |
 | **Konusu** | İnfernal sözleşme, Zariel'in imzası, Kara Mühür Akoru | **Tanrılar bir yıldır cevap vermiyor** |
 | **Kadro** | Voss, Ilyon Verne, Molly Thorne, Marcus Hale, Mizora, Zariel | Ataman Ghorag, Dagra Vennik, vahadaki silüet |
-| **Parti** | max, han, ea basr, aysif | undead paladin, moon druid, bladesinger, fighter |
+| **Parti** | max, han, ea basr, aysif | undead paladin, moon druid, necromancer, fighter |
 
 **Odak: New Campaign.** Yeni içerik varsayılan olarak oraya yazılır.
 

@@ -30,7 +30,7 @@ updated: 2026-09-07
 | **Tam adı / unvanı** | Kapitan Vidrek Solyan, [Soğuk İmtiyaz](../../../04-charaxis/factions.md#soğuk-i̇mtiyaz--the-cold-concession) komiseri |
 | **Tür / rol** | Medium Humanoid (Human, Fighter), CR 7 |
 | **Yaş, görünüş** | 38. Uzun, temiz, hattaki tek tıraşlı adam |
-| **Nerede bulunur** | [Stillreach](../../../04-charaxis/regions/stillreach.md), Don-64 — Soğuk Basamak'ın üstündeki komiserlik |
+| **Nerede bulunur** | [Stillreach](../../../04-charaxis/regions/stillreach/README.md), Don-64 — Soğuk Basamak'ın üstündeki komiserlik |
 | **Kim için çalışır** | Karsovia tacı. Ve giderek daha az emin olduğu bir şey |
 
 ## Görünüş

@@ -31,15 +31,15 @@ Kampanyanın Gwyndor'a ait en büyük boşluğu bu. Üç cevap, üç farklı kar
 | Okuma | Ne demek | Kime bağlanır | Değeri |
 |---|---|---|---|
 | **A — 1494'ten önce** *(Thornhold ya da Northcurrent)* | Tanrılar konuşurken öldü ve [Kelemvor](../../../../02-lore/pantheon/faerunian/kelemvor.md)'un düzeni onu **almadı.** Bir sebep gerekir: tamamlanmamış yemin, bir söz, bir lanet | Klasik revenant tonu | Temiz, kişisel. Sessizlikle bağı **zayıf** |
-| ⭐ **B — 1494'te, Kırk Gün'de** | Öldüğünde **tanrılar susmuştu.** [Saat 1](../../../../06-campaigns/new-campaign/06-clocks.md)'in 4–5. dilimleri (*resurrection çalışmıyor, ruhlar yerinde kalıyor*) kıta ölçeğinde henüz olmadı — ama **Gwyndor için oldu.** Fugue Plane'e giden yol kapalıydı; ruh bedenine döndü | Concord'un kurucu efsanesi · [Grimnor'ın ailesi](../grimnor/04-dm-notes.md#ailesi-nerede) *(aynı olgu)* | **En verimlisi.** Undead oluşu bir eğrilik değil, **sessizliğin ilk somut sonucu.** Ve Concord'un ölüleri arasında |
+| ⭐ **B — 1494'te, Kırk Gün'de** | Öldüğünde **tanrılar susmuştu.** [Saat 1](../../../../06-campaigns/new-campaign/06-clocks.md)'in 4–5. dilimleri (*resurrection çalışmıyor, ruhlar yerinde kalıyor*) kıta ölçeğinde henüz olmadı — ama **Gwyndor için oldu.** Fugue Plane'e giden yol kapalıydı; ruh bedenine döndü | Concord'un kurucu efsanesi · [Grimgor'ın ailesi](../grimgor/04-dm-notes.md#ailesi-nerede) *(aynı olgu)* | **En verimlisi.** Undead oluşu bir eğrilik değil, **sessizliğin ilk somut sonucu.** Ve Concord'un ölüleri arasında |
 | **C — 1495'te, savaştan sonra** | Terhis edildi, sonra öldü — yollar güvensiz, banditler, ya da Concord'un ilk kolonlarından biri | Barış sonrası kaos | Gwyndor'ı Concord'un **kuruluşuna** tanık yapar; ama en az yankısı olan |
 
 > ⭐ **Öneri: B.** Çünkü o zaman şu üç şey aynı cümle olur:
 > *Tanrılar sustu → ölüler alınmadı → Gwyndor kalktı.*
 > Ve kampanya *"bariyer kalksın mı"* sorusuna geldiğinde Gwyndor'ın kişisel
 > bedeli netleşir: **bariyer kalkarsa Kelemvor onu alır.**
-> [Grimnor](../grimnor/04-dm-notes.md#-kampanyanın-tersine-çevirmesi)'ın tersine
-> çevirmesi bir PC'de daha işler — ama **ters yönde:** Grimnor "kalmasın" der,
+> [Grimgor](../grimgor/04-dm-notes.md#-kampanyanın-tersine-çevirmesi)'ın tersine
+> çevirmesi bir PC'de daha işler — ama **ters yönde:** Grimgor "kalmasın" der,
 > Gwyndor "kalksın" der ve kalkarsa **ölür.** Bunu öğrendiği gün karakterin
 > en zor sahnesi kurulur.
 
@@ -187,7 +187,7 @@ kıran istihkâmcı; Kırk Gün'e yetişemedi, Concord'a katıldı, **firar etti
 | **Yemini** | Muhatabı yok. Yeminin **koşullarını** kim belirliyor? Oyuncu — ve bir gün o koşullardan biri Concord'la çatışır |
 | **Kelemvor** | Bariyer kalkarsa ilk gelen ölüm tanrısı olabilir. Gwyndor bunu **istemeli** — istememesi karakterin çürümesidir |
 | **Ashka** | İki tarafta da tanıdık. Tek kullanımlık |
-| **Grimnor** | Bariyer sahnesi. Acele ettirme; kendiliğinden kurulacak |
+| **Grimgor** | Bariyer sahnesi. Acele ettirme; kendiliğinden kurulacak |
 | **Söylenti** | *"Undead paladin şehre girince söylenti kartı"* kuralı hâlâ **yazılmadı** → [open-questions.md](../../../../00-meta/open-questions.md). Concord toprağında bu söylenti bir **rapor** olur |
 
 ## Gwyndor'ın bilmediği ama masanın bilmesi gereken
@@ -197,5 +197,5 @@ kıran istihkâmcı; Kırk Gün'e yetişemedi, Concord'a katıldı, **firar etti
 - **Gruvv Concord'a değil Marek'e bağlı**
 - **Ledger** bir afet listesi değil, [Unweave](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/README.md#4-unwovenın-gerçek-planı--the-unweave)'in iplik listesi
 - **Stane bir Unwoven sorcerer'ı** — Kırk Gün'ün otuz birinci gününde koridorda bir yara açıldı ve Stane ona *"stand down"* dedi. **Gwyndor oradaysa bunu gördü** — ve ne gördüğünü bilmiyor
-- [Grimnor](../grimnor/README.md) sessizliğin sürmesini istiyor
+- [Grimgor](../grimgor/README.md) sessizliğin sürmesini istiyor
 - [Roful Roger](../roful-roger/README.md)'ın bedeni bir yıl bir hag'e aitti; "kimin bedeni" sorusunu partide bir kişi daha soruyor

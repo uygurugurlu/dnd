@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, gwyndor, development, log, undead, iron-concord]
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 # Gwyndor — Gelişim Günlüğü
@@ -30,6 +30,7 @@ updated: 2026-10-29
 | Seviye | Session | Tarih (DR) | Ne açıldı / ne değişti |
 |---|---|---|---|
 | ⬜ *başlangıç* | — | 20 Uktar 1495 | Kampanya başı. Seviye doğrulanmadı |
+| **4** | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) | ~25 Uktar 1495 ⬜ | Yedinci Kapı önünde, rün attune gününde |
 
 ## 2. Olay Günlüğü
 
@@ -55,6 +56,7 @@ updated: 2026-10-29
 | 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Calithra'da partiyle karşılaştı. Kırıkbağ'da Iron Concord bariyerine dayandı, **forsunu kullanıp** yetkili biriyle görüşmek istedi; **[Marshal Stane](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md#marshal-vharra-stane)** geldi — daha önce tanışıyorlardı. İçeri alınmadı; **ertesi gün** görüşme sözü. Avı **shapeshifter'lar** — Stane, birkaçının Grafting'e girmeye çalıştığını söyledi. ⭐ **Religion Nat 20:** shapeshifter'ların **dini** ve **tek bir ortak aklı** var; Grafting'in gücüne erişmek istiyorlar | Avı *"kaçaklar"* olmaktan çıktı, **bir kolektif** oldu. Concord ile ilk temas kuruldu — ve Stane onu **bekliyordu** |
 | 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | Nehirden Grafting'e girdi; ghoul'lar, bozulmuş centaur'lar. [Tek Kulak](../../../npcs/minor/tek-kulak.md) ile tanıştı. ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu ve Gwyndor bir an **eski gücüne** kavuştu ⬜ *(ne geri geldi — öneri: kalbi attı)* | Undead olarak ilk kez **ne kaybettiğini hissetti.** Stane randevusu (21 Uktar) **kaçtı** |
 | 3 | **21 Uktar 1495** ⬜ | [Session 03](../../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) | Silik köyde **Gallows Speaker**'ı öldürdü; bozulmuş **centaur**'u kurtardılar (onlarla dönmedi). **Halime ve Halit**'i çıkarmanın tehlikeli olduğuna karar verip **öldürdüler**; Communion'ın notu Halime'nin elindeydi | ⬜ |
+| 4 | **~23–25 Uktar 1495** ⬜ | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) | Stane'e Harper'ları anlattılar; Vesna'ya da anlattılar. Vesna hücreyi durdurdu, boğazda 2 ok yedi. Kapı önündeki haydutlar öldü; 1 gün [rünlere](../../../../08-rules/homebrew/items/watch-runes.md) attune. **Level 4.** 📕 **[Concord Defteri](../../../../08-rules/homebrew/items/concord-ledger.md)** artık onda | Eski ordusunun kayıt defterini **elinde taşıyor** — ve defter [kişisel saatinin](#4-kişisel-saat--defterdeki-i̇sim) adı. ⬜ Kendi adına baktı mı? |
 
 ## 3. Dönüm Noktaları
 
@@ -105,6 +107,7 @@ updated: 2026-10-29
 | **Kayıp** | Savaş · ordusu · terhis hakkı | 1495 | — |
 | **Kazanım** | Yemin — işleyen, cevapsız | ⬜ | — |
 | Eşya | ⬜ Ordu malı bir şey duruyor mu? *(Marek'in sökülmüş apoletleri gibi)* | | |
+| Eşya | 📕 **[Concord Defteri](../../../../08-rules/homebrew/items/concord-ledger.md)** | Stane | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) |
 | Yara / iz | ⬜ **Ölüm izi** — nasıl öldüğü bedeninde yazılı mı? | | |
 | Borç / söz | <!-- doldur --> | | |
 | Ün / itibar | ⬜ Ordu içinde adı ne? | | |
@@ -115,6 +118,6 @@ updated: 2026-10-29
 - [ ] **Concord onun öldüğünü biliyor mu?** Biliyorsa: karşılaşma sahnesi kampanyanın en iyi sahnelerinden biri
 - [ ] **Yemini kim kabul etti?** — ölümden sonra ettiyse
 - [ ] **Vashka ile aynı tanrı mı?**
-- [ ] Parti bariyeri onarmaya çalışırsa **Grimnor'la** ne olur?
+- [ ] Parti bariyeri onarmaya çalışırsa **Grimgor'la** ne olur?
 - [ ] **Ledger'a girmeyi kabul eder mi?** Kategori yok — ama ismi var
 - [ ] Ashka'ya ne diyor: firari mi, haklı mı?

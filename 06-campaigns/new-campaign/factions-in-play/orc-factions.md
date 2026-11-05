@@ -6,7 +6,7 @@ faction_type: üç rakip ork gücü
 canon: homebrew
 status: draft
 tags: [orc, faction, west, ataman-ghorag, new-campaign]
-updated: 2026-08-11
+updated: 2026-11-05
 ---
 
 # Ork Faksiyonları
@@ -132,6 +132,19 @@ otorite boşluğunun kendi lehine olduğunu açıkça söylüyor. Rahipler bunu
 > aynı kıtada, aynı yıl, aynı boşluğu dolduruyor. İki devlet kurucusu, aynı cümle:
 > *"Otorite susunca birileri kanunu yazmalı."*
 > Marshal Stane, Ghorag'ın ulusunu **tanımayı teklif ediyor** — kayıt şartıyla.
+
+## Charaxis'te — Stillreach
+
+Üç faksiyon da [Stillreach](../../../04-charaxis/regions/stillreach/README.md#orklar--neden-bu-kadar-çok)'te aynı sokakta: ~600 ork, **Soğuk İmtiyaz** için çalışıyor.
+
+| Grup | Stillreach'te | Yüzü |
+|---|---|---|
+| Gharuk | ~300 sözleşmeli; [Kumpanya Hanı](../../../04-charaxis/regions/stillreach/places.md#kumpanya-hanı) · Gri Oda | [Urzha Keth](../../../05-characters/npcs/minor/urzha-keth.md) |
+| Demirdiş | ~150 makinist; gp alan tek ork | [Bralga Ormak](../../../05-characters/npcs/minor/bralga-ormak.md) |
+| Kırık Boynuz | ~150 sürgün: **Ghorag'ın baskın yasası yüzünden ip ya da Charaxis** | [Sorka Üçdiş](../../../05-characters/npcs/minor/sorka-ucdis.md) |
+| Ataman | Mektep — kömürle alfabe | [Ulgar Harfçi](../../../04-charaxis/regions/stillreach/people.md#ulgar-harfçi) |
+
+> **[HOOK]** Hepsinin ilk sorusu: *"Kimin orkusun?"* → [Grimgor](../../../05-characters/player-characters/new-campaign/grimgor/README.md), [Session 05 §6](../sessions/session-05-kapagin-alti.md#6-kazan-sofrası--grimgor-ve-orklar).
 
 ## İlişki Şeması
 

@@ -69,8 +69,8 @@ Sistem ve klasör yapısı: [player-characters/README.md](player-characters/READ
 | Oyuncu | Karakter | Kampanya | Dosya |
 |---|---|---|---|
 | **Ardan** | **Gwyndor** — undead paladin, Mürai gazisi | New Campaign | [→](player-characters/new-campaign/gwyndor/README.md) |
-| **Koray** | **Grimnor** — moon druid, ork | New Campaign | [→](player-characters/new-campaign/grimnor/README.md) |
-| **Erdem** | **Vasili von Holtz** — bladesinger wizard | New Campaign | [→](player-characters/new-campaign/vasili-von-holtz/README.md) |
+| **Koray** | **Grimgor** — moon druid, ork | New Campaign | [→](player-characters/new-campaign/grimgor/README.md) |
+| **Erdem** | **Vasili von Holtz** — necromancer wizard | New Campaign | [→](player-characters/new-campaign/vasili-von-holtz/README.md) |
 | **Burak** | **Roful Roger** — monk, denizci | New Campaign | [→](player-characters/new-campaign/roful-roger/README.md) |
 | — | **Nada Coldo** — psion / truth-sayer | CotBC | [→](player-characters/nada-coldo.md) |
 

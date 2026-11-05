@@ -59,7 +59,7 @@ duruyor: atamalar yapılmıyor, ritüeller ertelendi, yeni ant kabul edilmiyor.
 ### 2. Bladesong buradan geliyor
 
 Bladesinger geleneği bir elf sanatıdır. Partideki
-[Bladesinger Wizard](../../../../../06-campaigns/new-campaign/04-party.md) için
+[Vasili](../../../../../06-campaigns/new-campaign/04-party.md) *(necromancer; eski bladesinger)* için
 Silvaerun bir sınav, bir arşiv ya da bir hesaplaşma olabilir.
 
 ### 3. İnsanların bu kıtada olma hakkı onların imzası

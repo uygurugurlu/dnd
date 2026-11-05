@@ -7,7 +7,7 @@ campaign: New Campaign
 species: ⬜ — undead ✅ (tip belirlenmedi: reborn? revenant?)
 class: Paladin
 subclass: ⬜
-level: ⬜
+level: 4
 alignment: ⬜
 background: ⬜ (Soldier — geçmişiyle uyumlu)
 deity: ⬜ — ve bir yıldır cevap vermiyor
@@ -47,7 +47,7 @@ updated: 2026-09-13
 | **Oyuncu** | Ardan |
 | **Sınıf** | **Paladin** ⬜ oath |
 | **Tür** | ✅ **Undead** *(DM onayı, 2026-08-31)* — ⬜ hangi tip: reborn? revenant? Yaşarkenki türü ⬜ |
-| **Seviye** | ⬜ |
+| **Seviye** | 4 *(Session 04)* |
 | **Yaş, görünüş** | ⬜ — öldüğünde kaç yaşındaydı, şimdi nasıl görünüyor? |
 | **Memleket** | ⬜ — [Ravonia kıtası](../../../../03-ager/continents/ravonia/README.md); **Ravonia Kraliyet Ordusu**'nda hizmet etti |
 | **Tanrı** | ⬜ — **ve bir yıldır cevap vermiyor** |
@@ -123,14 +123,14 @@ Bu okumayı doğrulayan da, çürüten de o olabilir.
 
 ### ⚠️ Partide buna karşı duran biri var
 
-🔒 **[Grimnor](../grimnor/README.md) sessizliğin sürmesini istiyor.** Ailesini
+🔒 **[Grimgor](../grimgor/README.md) sessizliğin sürmesini istiyor.** Ailesini
 öldüren av, tanrılarla iletişim kesildiği için bitti — bariyer kalkarsa av da
 geri geliyor.
 
-> Yani Gwyndor'ın **tek umudu**, Grimnor'ın **en büyük korkusu.**
+> Yani Gwyndor'ın **tek umudu**, Grimgor'ın **en büyük korkusu.**
 > Kampanyanın parti içi ana çatışması bu ikisi arasında kurulu ve
 > **ikisi de henüz farkında değil.**
-> → [Grimnor DM notları](../grimnor/04-dm-notes.md#-kampanyanın-tersine-çevirmesi)
+> → [Grimgor DM notları](../grimgor/04-dm-notes.md#-kampanyanın-tersine-çevirmesi)
 
 ## Amaçları
 

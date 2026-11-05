@@ -4,13 +4,13 @@ name: Watch Runes
 also_known_as: [Nöbet Rünleri]
 item_type: wondrous
 rarity: uncommon
-attunement: no
+attunement: "1 gün (Session 04, masada)"
 canon: homebrew
 status: draft
 tags: [item, homebrew, charaxis, black-still, survival, rune, silvaerun, nobet, harpers, yedinci-kapi, new-campaign, session-04]
 sources:
   - "DM isteği (2026-10-29): portalın arkasında bulunan, Charaxis'te hayatta kalmak için üstlerine koruyucu bir rün yerleştiren büyülü eşya"
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 # Watch Runes — *Nöbet Rünleri*
@@ -20,7 +20,7 @@ updated: 2026-10-29
 
 **Yukarı:** [Homebrew eşyalar](README.md) ·
 **Bulunduğu yer:** [Yedinci Kapı](../../../03-ager/planar-sites/portal-network.md#7-yedinci-kapı--mühürlü-olan) ·
-**Oyunda:** [Session 04 §5](../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#5-yedinci-kapı--rünler-ve-geçiş)
+**Oyunda:** [Session 04](../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#12-oynandı--ne-oldu) · [Session 05](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md)
 
 ## Görünüş
 
@@ -31,6 +31,8 @@ dokununca **ılık.**
 > **Akılda kalıcı detay:** Taş tene basıldığında **ses çıkarmadan** ufalanır ve tende
 > soluk mavi, ince bir rün kalır — sanki deri altından bir **buz damarı** geçiyor. Rünün
 > sahibi nefes verdiğinde nefesi **buhar yapmaz.**
+
+> ✅ **Oynandı (Session 04):** Parti kapının başında **1 gün** harcayarak rünlere **attune** oldu. Aşağıdaki *Magic action* metninin üstüne masa kuralı: taş ancak bir günlük hazırlıktan sonra bağlanır.
 
 ## Mechanics
 
@@ -70,10 +72,9 @@ Harper'ları kapının nöbetini devraldı; kutu o günden beri kapının arkas�
 
 ## Şu An Nerede
 
-[Yedinci Kapı](../../../03-ager/planar-sites/portal-network.md#7-yedinci-kapı--mühürlü-olan)'nın
-çerçevesinin arkasındaki taş nişte. Haydutlar bulamadı; niş **hilal + arp** işaretiyle
-açılıyor — [Vesna](../../../03-ager/continents/ravonia/regions/calithra/people.md#vesna-marroc)'nın
-partiye verdiği gümüş işaret bu.
+**Partide.** Beş rün tenlere geçti *(Gwyndor · Grimgor · Vasili · Roger · Tek Kulak)* ⬜; **altıncı taş ⬜ kimde?**
+Niş **hilal + arp** işaretiyle açıldı — [Vesna](../../../03-ager/continents/ravonia/regions/calithra/people.md#vesna-marroc)'nın
+verdiği gümüş işaret. 10 günlük sayaç kapıdan geçince başlar.
 
 ## Sırlar
 

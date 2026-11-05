@@ -244,7 +244,7 @@ kampanyayla bütünleşir.
 > ölçümlerini getirin, ben size Level Hand'in Unmaking listesini vereyim."*
 > Teklif dürüsttür. Sonuçları değil.
 
-> **[HOOK]** **Bladesinger Wizard için:** Level Hand'in sayım defterinde
+> **[HOOK]** **Vasili için** *(necromancer; eski bladesinger)*: Level Hand'in sayım defterinde
 > partinin wizard'ının adı var — ve o satırı **Perra yazmadı.** Kim yazdı?
 > Bu, faksiyon dosyasındaki açık kancanın cevabı ve doğrudan
 > [Selvarr'a](selvarr-dhune.md) çıkar.

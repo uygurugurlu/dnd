@@ -76,7 +76,7 @@ updated: 2026-09-30
 - **Neden kaldığı** → [04-dm-notes.md](04-dm-notes.md)
 - Concord'un **Ledger**'ının gerçekte ne olduğu
 - Stane'in Kırk Gün'ün otuz birinci gününde ne gördüğü
-- [Grimnor](../grimnor/README.md)'ın bariyer hakkında ne düşündüğü
+- [Grimgor](../grimgor/README.md)'ın bariyer hakkında ne düşündüğü
 - Vahadaki silüet, [The Unwoven](../../../../02-lore/magic/the-unwoven.md), Dört Cevap'ın tek bir iş olduğu
 
 ## 3. Gördüğü Yerler

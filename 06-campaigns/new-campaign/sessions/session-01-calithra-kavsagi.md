@@ -57,7 +57,7 @@ fırından çıkan bir ekmek yedi. **İçinde moondust vardı** *(Charaxis'in te
 maddesi — kehanet + bağımlılık → [Charaxis](../../../04-charaxis/README.md#️-moondust--gri-nefes))*.
 Roger'ın **kafası güzel oldu.**
 
-> ⚠️ **Grimnor moondust karşıtı** ([02-ties](../../../05-characters/player-characters/new-campaign/grimnor/02-ties.md#moondust-ve-uyuşturucu-karşıtlığı))
+> ⚠️ **Grimgor moondust karşıtı** ([02-ties](../../../05-characters/player-characters/new-campaign/grimgor/02-ties.md#moondust-ve-uyuşturucu-karşıtlığı))
 > ve **bu satır masada henüz çalışmadı** *(öneri: sonraki session'da çalışsın)*.
 
 ### 4. Kırıkbağ ve Iron Concord bariyeri
@@ -99,10 +99,10 @@ dinlediler. **Çok ilgi gördü** — parti masalı ciddiye aldı. Artık **oyun
 sayılıyor ve hikâyenin **kıtaları oluşturduğu söylenen entity'ye bağlanması lazım**
 → [open-questions](../../../00-meta/open-questions.md).
 
-### 7. Grimnor, sincap ve kedi
+### 7. Grimgor, sincap ve kedi
 
-[Grimnor](../../../05-characters/player-characters/new-campaign/grimnor/README.md)
-bir **sincapla** konuştu. Sincap **kediden rahatsızdı.** Grimnor kediye zarar vermedi —
+[Grimgor](../../../05-characters/player-characters/new-campaign/grimgor/README.md)
+bir **sincapla** konuştu. Sincap **kediden rahatsızdı.** Grimgor kediye zarar vermedi —
 **yemek verdi** ve **sincapları rahat bırakmasını** söyledi. Kedi [**Fig**](../../../05-characters/npcs/minor/fig.md)'ti.
 
 DM **revealladı:** Fig **yüzlerce yaşında** ve sahibi **Calithra'nın kurucusu** —
@@ -128,7 +128,7 @@ Ama **Ilva "Harper" olduklarını ağzından kaçırmıştı** → **Harpers, Il
 guild'le ilişkisine son verdi.**
 
 > ⚠️ **Sonuçlar:** Ilva kolsuz ve **guild'siz**; [Ospren](../../../03-ager/continents/ravonia/regions/calithra/people.md#ospren-callow)
-> onu kızı gibi görüyor. **Vasili ↔ Roger/Grimnor** arası *"kol kesen adam"* gerilimi ⬜
+> onu kızı gibi görüyor. **Vasili ↔ Roger/Grimgor** arası *"kol kesen adam"* gerilimi ⬜
 > Ilva'nın kolu kalıcı mı, iyileşebilir mi ⬜ *(Harper hücresinin tıbbı? Sister Nolwen?)*
 
 ### 10. Vesna ve Merdiven Altı
@@ -165,7 +165,7 @@ dışarı çıkmaları tehlikeli olabilir."*
 | Karar | Sonuç | Dünyaya yansıması |
 |---|---|---|
 | Gwyndor **forsunu** Concord'a karşı kullandı | Stane bizzat geldi; **ertesi gün** görüşme sözü | Concord, Gwyndor'ı **tanıyor** ve konuşmak istiyor → [Iron Concord](../factions-in-play/the-four-answers/the-iron-concord.md) |
-| Grimnor Fig'e **yemek verdi**, sincaplara dokunmamasını söyledi | Fig uydu *(oynanan ⬜)* | [Calithra: kedinin kucağa oturması onay okunur](../../../03-ager/continents/ravonia/regions/calithra/quests.md) ⚜️ — **Harper hücresi** fark etmiş olabilir |
+| Grimgor Fig'e **yemek verdi**, sincaplara dokunmamasını söyledi | Fig uydu *(oynanan ⬜)* | [Calithra: kedinin kucağa oturması onay okunur](../../../03-ager/continents/ravonia/regions/calithra/quests.md) ⚜️ — **Harper hücresi** fark etmiş olabilir |
 | Vasili **Grafting'e kadar** ittifakı kabul etti | Süreli ittifak | **Kapı, Grafting'in ağzıdır.** İçeri girildiği an ittifak biter → [Vasili DM notları](../../../05-characters/player-characters/new-campaign/vasili-von-holtz/04-dm-notes.md) |
 | Vasili Ilva'nın kolunu kesti | **Ilva guild'den atıldı** (açığa vurdu) | [Calithra Harper hücresi](../../../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md) partiyi **tanıyor**; Ospren/Ilva hattı ⬜ |
 | Parti Vesna'nın teklifini kabul etti | **Görev:** Grafting'e nehirden gir, 2 Harper'ı bul, rapor yaz, **onları çıkarma** | → [Session 02](session-02-grafting-ici.md) |
@@ -176,7 +176,7 @@ dışarı çıkmaları tehlikeli olabilir."*
 | Kim | Nerede | Ne oldu | İlişki değişimi |
 |---|---|---|---|
 | **[Marshal Vharra Stane](../factions-in-play/the-four-answers/the-iron-concord.md#marshal-vharra-stane)** | Kırıkbağ kordonu | Gwyndor'la tanışıyor; içeri almadı, ertesi gün görüşmek istedi; shapeshifter bilgisi verdi | Gwyndor ↔ Concord: **temas kuruldu** |
-| **[Fig](../../../05-characters/npcs/minor/fig.md)** | Calithra | Grimnor'la tanıştı; yemek aldı | Grimnor'a **sıcak** |
+| **[Fig](../../../05-characters/npcs/minor/fig.md)** | Calithra | Grimgor'la tanıştı; yemek aldı | Grimgor'a **sıcak** |
 | **[Hungry Gull mürettebatı](../../../05-characters/npcs/minor/the-hungry-gull/README.md)** | Calithra limanı | Roger'la geldi; şehirde takılıyor | Roger'a **sadık** |
 | **[Bex Anadare](../../../03-ager/continents/ravonia/regions/calithra/people.md#bex-anadare)** | İki Sevgili Heykeli | Lover's Cut'ı anlattı *(varsayım ⬜)* | Parti masalı **ciddiye aldı** |
 | **[Vesna Marroc](../../../03-ager/continents/ravonia/regions/calithra/people.md#vesna-marroc)** ⚜️ | Merdiven Altı (Standing Stone arkası) | Partiyi sığınağa aldı, görev verdi | Harper **müttefiki** — ama **bedeli var** |
@@ -207,7 +207,7 @@ dışarı çıkmaları tehlikeli olabilir."*
   tutmak için Gwyndor'un **paladin aurasına** ihtiyaç duyuyor — Concord'un 1 yıldır
   susan bir paladini var: [Vashka Durn](../../../05-characters/npcs/minor/the-iron-concord/vashka-durn.md))*
 - **Shapeshifter'ların ortak aklı ne?** → [open-questions](../../../00-meta/open-questions.md)
-- **Moondust'ı ekmeğe kim koydu?** Marto mu, biri mi, kaza mı? Grimnor'ın tepkisi ⬜
+- **Moondust'ı ekmeğe kim koydu?** Marto mu, biri mi, kaza mı? Grimgor'ın tepkisi ⬜
 - **Lover's Cut masalı hangi entity'ye bağlanıyor?** → [open-questions](../../../00-meta/open-questions.md)
 - **Vasili'nin süreli ittifakı** Grafting'in ağzında biter — parti içeri girdiğinde ne olacak?
 - **Calith nerede?** → [Fig DM notları](../../../05-characters/npcs/minor/fig.md)

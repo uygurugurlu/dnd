@@ -261,7 +261,7 @@ biri girer.
 > **[HOOK]** Emrys partiye **sahte bir kimlik** teklif eder ve kimlik işe yarar.
 > Üç oturum sonra o kimliğin gerçek sahibi ortaya çıkar ve ölmüştür.
 
-> **[HOOK]** **Bladesinger Wizard için:** Emrys, partinin wizard'ının adının
+> **[HOOK]** **Vasili için** *(necromancer; eski bladesinger)*: Emrys, partinin wizard'ının adının
 > hem [Level Hand'in sayım defterinde](../the-level-hand/selvarr-dhune.md) hem Concord'un
 > Ledger'ında olduğunu **kanıtlayabilir** — çünkü iki defterin de kopyasını
 > görmüş tek kişi o. Bedeli: partinin ona bir arşiv kapısı açması.

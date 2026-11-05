@@ -7,7 +7,7 @@ campaign: New Campaign
 species: ⬜
 class: Monk
 subclass: ⬜
-level: ⬜
+level: 4
 alignment: ⬜ (iyi eğilimli — "çok arkadaş canlısı")
 background: ⬜ (Sailor — geçmişiyle uyumlu)
 deity: ⬜ — gücü kimseden gelmiyor
@@ -43,7 +43,7 @@ updated: 2026-09-30
 | **Oyuncu** | Burak |
 | **Sınıf** | **Monk** ⬜ alt sınıf |
 | **Tür** | ⬜ |
-| **Seviye** | ⬜ |
+| **Seviye** | 4 *(Session 04)* |
 | **Yaş, görünüş** | ⬜ — ⚠️ *kel mi?* → [Vasili gerilimi](#-vasili-ile-kurulmuş-hazır-gerilim) |
 | **Mesleği** | **Denizci.** Hangi gemi, hangi hat ⬜ |
 | **Memleket** | ⬜ — bir liman |
@@ -89,7 +89,7 @@ ve **tam bir monk** oldu. Kıyıdaki her limanda yardım ettiği biri var.
 | **Büyüsü** | ⬜ Ham, kontrolsüz, ona **felaket** getirdi. Kullanıyor mu, bastırıyor mu, korkuyor mu? |
 | **Rüya, uyku** | ⬜ Bir yıl uyudu. Uykuya nasıl bakıyor? |
 | **Tanrılar** | Gücü onlardan gelmiyor. Sessizlik onun için haber, kriz değil |
-| **Kuyruklu yıldızlar** | ⭐ Kıtada onları **iyi haber** sayan ikinci kişi — [Grimnor](../grimnor/README.md)'la aynı cümle, farklı sebep |
+| **Kuyruklu yıldızlar** | ⭐ Kıtada onları **iyi haber** sayan ikinci kişi — [Grimgor](../grimgor/README.md)'la aynı cümle, farklı sebep |
 | **Cadılar** | ⬜ |
 
 ## Nasıl Konuşur
@@ -110,16 +110,16 @@ Roger'ın monk gücü **kendisinin.** Ama karakterin asıl cümlesi başka:
 | Kim | Gücü nereden | Sessizlik ona ne yapıyor |
 |---|---|---|
 | **[Gwyndor](../gwyndor/README.md)** — paladin | Susan bir tanrıya edilmiş yemin | **Her şey** |
-| **[Grimnor](../grimnor/README.md)** — moon druid | 🔒 Bir av tanrısının deneyinden kalan | Sessizlik onun **koruyucusu** |
-| **[Vasili](../vasili-von-holtz/README.md)** — bladesinger | Yüzyıllarca **ödünçtü**; geri alındı | Borcunu kimin çağırdığını arıyor |
+| **[Grimgor](../grimgor/README.md)** — moon druid | 🔒 Bir av tanrısının deneyinden kalan | Sessizlik onun **koruyucusu** |
+| **[Vasili](../vasili-von-holtz/README.md)** — necromancer | Yüzyıllarca **ödünçtü**; geri alındı | Borcunu kimin çağırdığını arıyor |
 | ⭐ **Roger** — monk | **Kendi bedeni, kendi disiplini** — bir cadının bıraktığı bedenin üstüne kurulmuş | **Onu kurtardı.** Kuyruklu yıldızlar gelince cadı gitti |
 
 > ⭐ **Kampanyanın Roger'a ait ironisi:** kıtanın felaket dediği şey
-> (kuyruklu yıldızlar, sessizlik) onu **özgür bıraktı.** Grimnor da aynı şeyi
+> (kuyruklu yıldızlar, sessizlik) onu **özgür bıraktı.** Grimgor da aynı şeyi
 > söylüyor — *"keşke daha erken gelseydi."* İkisi bunu birbirine söylediğinde
 > partide sessizliği **savunan** iki kişi olur. Ve Gwyndor'ın karşısında.
 
-> ⚠️ Ama bir fark var: Grimnor sessizliğin **sürmesini** istiyor; Roger'ın ne
+> ⚠️ Ama bir fark var: Grimgor sessizliğin **sürmesini** istiyor; Roger'ın ne
 > istediği ⬜. Bariyer kalkarsa cadı geri gelir mi? → 🔒 [04-dm-notes.md](04-dm-notes.md#kontrol-neden-bitti)
 
 ## ⭐⭐ Vasili ile kurulmuş hazır gerilim

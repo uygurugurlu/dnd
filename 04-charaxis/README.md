@@ -85,7 +85,7 @@ Detay: [regions/README.md](regions/README.md)
 | 2 | **[Brakk-Dur Omurga](regions/brakk-dur.md)** | Kül-28 | Cüce / ork | Madencilik lojistiği; yolun bakım noktası |
 | 3 | **[Vael'Serith](regions/vael-serith.md)** | 0 | Elf | Sıfır Taşı; Nöbet; yolun en eski rünlü bölümü |
 | 4 | **[Nen-Kharal](regions/nen-kharal.md)** | Don-14 | **Deep gnome** | Dinleyiciler loncası; yolun altında |
-| 5 | **[Stillreach](regions/stillreach.md)** | Don-64 | Karsovyalı + mahkûm | Zaman anomalisi madenciliği, yasak deneyler |
+| 5 | **[Stillreach](regions/stillreach/README.md)** | Don-64 | Ravonyalı borçlu + **ork** + Karsovyalı | Buz ve yanar buz madenciliği, zaman ürünleri, yasak deneyler |
 
 ### Sırlar
 
@@ -159,7 +159,7 @@ Sonsuz buz · **zaman garip davranır** · **ölüler burada çürümez**
 | ★ [regions/README.md](regions/README.md) | **Hat** — dikey harita, mil taşları, beş yerleşim |
 | ★ [regions/meridian-road.md](regions/meridian-road.md) | **Yol** — vuruş (gezegenin saati), electrum, yol sökücüler, seyahat tablosu |
 | [regions/scorchvault.md](regions/scorchvault.md) · [regions/black-still.md](regions/black-still.md) | İki yaşanamaz yarımküre |
-| [regions/ashkar-reach.md](regions/ashkar-reach.md) · [brakk-dur.md](regions/brakk-dur.md) · [vael-serith.md](regions/vael-serith.md) · [stillreach.md](regions/stillreach.md) · [nen-kharal.md](regions/nen-kharal.md) | Beş yerleşim |
+| [regions/ashkar-reach.md](regions/ashkar-reach.md) · [brakk-dur.md](regions/brakk-dur.md) · [vael-serith.md](regions/vael-serith.md) · [stillreach.md](regions/stillreach/README.md) · [nen-kharal.md](regions/nen-kharal.md) | Beş yerleşim |
 | ★ [mines/README.md](mines/README.md) | **Dokuz maden** — adlar, cevherler, fiyatlar |
 | ★ [mining/README.md](mining/README.md) | **Nasıl kazılıyor** — denge yükü, vardiya, rün çivisi, pul ve borç |
 | ★ [phenomena/README.md](phenomena/README.md) | **Tuhaflıklar** — Kurallar, entitiyler, Mavi Saat, d20 rüya/yol tabloları |
@@ -182,6 +182,9 @@ Sonsuz buz · **zaman garip davranır** · **ölüler burada çürümez**
 | [Murag Ghesk](../05-characters/npcs/minor/murag-ghesk.md) | Gharuk kâtibi, Ashkar Reach | 5 |
 | [Miren Talvo](../05-characters/npcs/minor/miren-talvo.md) | Rüya okuyucu, eski Selûne cleric'i | 5 |
 | [Dwig Hollowear](../05-characters/npcs/minor/dwig-hollowear.md) | Deep gnome Dinleyici, Nen-Kharal | 4 |
+| [Bralga Ormak](../05-characters/npcs/minor/bralga-ormak.md) | Demirdiş baş makinisti, Stillreach | 4 |
+| [Sorka Üçdiş](../05-characters/npcs/minor/sorka-ucdis.md) | Kırık Boynuz sürgünü, kurtçu, Stillreach | 4 |
+| [Urzha Keth](../05-characters/npcs/minor/urzha-keth.md) | Gharuk simsarı, Stillreach | 3 |
 | [the Tallyman](../02-lore/bestiary/the-tallyman.md) *(yaratık)* | Vardiyayı sayar | 6 |
 
 ---

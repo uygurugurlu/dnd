@@ -4,7 +4,7 @@ title: Charaxis — Sakinler
 canon: homebrew
 status: usable
 tags: [charaxis, peoples, demographics, labor, orc, dwarf, deep-gnome, human]
-updated: 2026-09-07
+updated: 2026-11-05
 ---
 
 # Charaxis — Sakinler
@@ -22,8 +22,8 @@ updated: 2026-09-07
 | Kim | Sayı | Nerede yoğun | Ne yapar |
 |---|---|---|---|
 | **Cüce** | ~9.000 | [Brakk-Dur](../regions/brakk-dur.md), [Spinecut](../mines/spinecut.md) | Ölçer, imzalar, tartar. **Kazmaz** |
-| **Ork** | ~6.500 | Brakk-Dur 7. kat, [Emberdrift](../mines/emberdrift.md), [Blackglass Deep](../mines/blackglass-deep.md) | Kazar, taşır, aşağı iner |
-| **İnsan** | ~6.000 | [Ashkar Reach](../regions/ashkar-reach.md), [Widowsilver](../mines/widowsilver.md), [Stillreach](../regions/stillreach.md) | Her şey. En bölünmüş halk |
+| **Ork** | ~6.500 | Brakk-Dur 7. kat, [Emberdrift](../mines/emberdrift.md), [Blackglass Deep](../mines/blackglass-deep.md), [Stillreach](../regions/stillreach/README.md#orklar--neden-bu-kadar-çok) *(~600)* | Kazar, taşır, aşağı iner |
+| **İnsan** | ~6.000 | [Ashkar Reach](../regions/ashkar-reach.md), [Widowsilver](../mines/widowsilver.md), [Stillreach](../regions/stillreach/README.md) | Her şey. En bölünmüş halk |
 | **Deep gnome** | ~700 | [Nen-Kharal](../regions/nen-kharal.md) | [Dinleyici](../regions/nen-kharal.md#dinleyiciler). Tek özgür işgücü |
 | **Tiefling** | ~900 | Ashkar Reach, [Kiln Stair](../mines/kiln-stair.md) | Sıcak işi. Ateş direnci prim getirir |
 | **Elf** | ~900 | [Vael'Serith](../regions/vael-serith.md) | [Nöbet](../factions.md#nöbet--the-watch). Çalışmazlar; **sayarlar** |

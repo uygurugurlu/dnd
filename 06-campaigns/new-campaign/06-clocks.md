@@ -41,10 +41,10 @@ Dolduğunda dünya değişir — geri alınmaz.
 >
 > Yani bu saati **geri sarmak** — iletişimi onarmak — avı da geri açar.
 > Ve masada bunu bilen bir PC var:
-> **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)**'ın
+> **[Grimgor](../../05-characters/player-characters/new-campaign/grimgor/README.md)**'ın
 > ailesi o avda öldü. Kampanya *"bariyer kalksın mı"* sorusuna vardığında
 > **partinin içinden "hayır" gelecek.**
-> → [Grimnor — Kapıdaki Avcı saati](../../05-characters/player-characters/new-campaign/grimnor/03-development.md#4-kişisel-saat--kapıdaki-avcı)
+> → [Grimgor — Kapıdaki Avcı saati](../../05-characters/player-characters/new-campaign/grimgor/03-development.md#4-kişisel-saat--kapıdaki-avcı)
 
 ## ⏳ 2. Vahadaki Şey Yaklaşıyor
 

@@ -2,7 +2,7 @@
 type: meta
 title: Homebrew — Sihirli Eşyalar
 status: stub
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 # Homebrew — Sihirli Eşyalar
@@ -13,7 +13,8 @@ updated: 2026-10-29
 |---|---|---|---|---|
 | **Sword of Zariel** | legendary | good alignment | Avernus'ta kayıp | ⬜ |
 | [**Gallows Needle**](gallows-needle.md) *(Sözcü'nün İğnesi)* | ⬜ (öneri: rare) | yes | Vasili von Holtz — New Campaign, Session 03 | draft — günde 3 curse aktarımı; ayrıntılar ⬜ |
-| [**Watch Runes**](watch-runes.md) *(Nöbet Rünleri)* | uncommon | no | Yedinci Kapı'nın arkasındaki niş — New Campaign, Session 04 | draft — 6 taş; 10 gün Charaxis havası/soğuğu |
+| [**Watch Runes**](watch-runes.md) *(Nöbet Rünleri)* | uncommon | 1 gün *(masada)* | Parti — New Campaign, Session 04 | draft — 6 taş; 10 gün Charaxis havası/soğuğu |
+| [**Concord Ledger**](concord-ledger.md) *(Concord Defteri)* | ⬜ (öneri: very rare) | ⬜ (öneri: no) | Gwyndor — New Campaign, Session 04 | draft — tüm defterler bağlı; Unwoven işi; Identify boş |
 | <!-- doldur --> | | | | |
 
 ## Sword of Zariel

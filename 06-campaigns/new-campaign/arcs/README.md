@@ -16,5 +16,5 @@ updated: 2026-10-15
 | Dosya | Ne |
 |---|---|
 | ⭐ [Calithra Kavşağı](../factions-in-play/the-four-answers/field-ops/calithra-standoff.md) | **Açılış yayı.** Dört faction, bir vadi, sekiz gün. İkinci Dikiş · kayıt masası · el afişleri · üç günlük sayaç |
-| ⭐ [Charaxis Yolu](charaxis-yolu.md) | **Aynı kapıya dört dilek.** Duraklama → Trell sandığı → boğaz → K-1 → Stillreach. Her PC'nin Charaxis ipi, rotalar, oturum takvimi *(S03–S05)* |
+| ⭐ [Charaxis Yolu](charaxis-yolu.md) | **Aynı kapıya dört dilek.** Duraklama → Stane ve Defter → boğaz → Yedinci Kapı → Stillreach. Her PC'nin Charaxis ipi, rotalar, oturum takvimi *(S03–S05)* |
 | <!-- doldur --> | |

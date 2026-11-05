@@ -372,7 +372,7 @@ yani Sparkhold'un yüksüz mahallelerinin nüfusu. Beşi de statblock'lu:
 > lonca ustasıdır. **Parti müdahale etmezse hiçbir şey kaybetmez.** Ve o an
 > kampanyanın ahlaki sözleşmesi kurulmuş olur.
 
-> **[HOOK]** **Bladesinger Wizard için:** Level Hand'in sayım defterinde
+> **[HOOK]** **Vasili için** *(necromancer; eski bladesinger)*: Level Hand'in sayım defterinde
 > partinin wizard'ının adı var. Nereden geldi? Sparkhold verilerinden.
 > Kim verdi? ⬜
 

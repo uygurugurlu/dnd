@@ -115,7 +115,7 @@ tanıyabileceği kişiler *(hepsi öneri)*:
 
 | Kim | Eksen |
 |---|---|
-| **[Grimnor](../grimnor/README.md)** | ⚠️ Kampanyanın ana çatlağı: Gwyndor bariyerin **kalkmasını**, Grimnor **kalmasını** istiyor. Ayrıca Grimnor *"kendi ormanını askerlere karşı savunur"* — ve Concord o ormana girecek. **Gwyndor'ın arkadaşları, Grimnor'ın işgalcileri** |
+| **[Grimgor](../grimgor/README.md)** | ⚠️ Kampanyanın ana çatlağı: Gwyndor bariyerin **kalkmasını**, Grimgor **kalmasını** istiyor. Ayrıca Grimgor *"kendi ormanını askerlere karşı savunur"* — ve Concord o ormana girecek. **Gwyndor'ın arkadaşları, Grimgor'ın işgalcileri** |
 | **[Vasili von Holtz](../vasili-von-holtz/README.md)** | Vasili Concord'u *"tek anlaşılabilir düzen"* buluyor ve başındaki cüceyi küçümsüyor. Gwyndor o düzenin **içinden** geliyor |
 | **[Roful Roger](../roful-roger/README.md)** | Roger'ın bedeni bir yıl bir hag'e **ödünç** verildi; Gwyndor'ın bedeni **kime ait?** İkisi de "kendi bedeninde yabancı" olmayı biliyor |
 

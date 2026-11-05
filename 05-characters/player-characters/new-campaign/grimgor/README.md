@@ -1,13 +1,13 @@
 ---
 type: character
 pc: true
-name: Grimnor
+name: Grimgor
 player: Koray
 campaign: New Campaign
 species: Orc
 class: Druid
 subclass: Circle of the Moon
-level: ⬜
+level: 4
 alignment: ⬜ (chaotic good eğilimli)
 background: ⬜ (Farmer — geçmişiyle uyumlu)
 deity: Selûne — tapınma değil, hesap sorma ilişkisi
@@ -16,17 +16,17 @@ affiliation: The Emerald Enclave
 status: active
 canon: homebrew
 doc_status: usable
-tags: [pc, grimnor, moon-druid, orc, selune, malar, emerald-enclave, gorestead, new-campaign]
+tags: [pc, grimgor, moon-druid, orc, selune, malar, emerald-enclave, gorestead, new-campaign]
 source: Oyuncu notları → 00-raw-notes.md
 updated: 2026-09-13
 ---
 
-# Grimnor
+# Grimgor
 
 > *Bir oyunda ailesini kaybetmiş bir çiftçi. Oyunu kazanan taraftaydı.*
 
 **Oyuncu:** Koray · **Kampanya:** [New Campaign](../../../../06-campaigns/new-campaign/README.md) ·
-**Yukarı:** [Parti](../README.md) · **Ham not:** [00-raw-notes.md](../00-raw-notes.md#koray--grimnor--moon-druid-ork)
+**Yukarı:** [Parti](../README.md) · **Ham not:** [00-raw-notes.md](../00-raw-notes.md#koray--grimgor--moon-druid-ork)
 
 > **Bu klasörde statblock yoktur** — sheet oyuncunundur. Burada lore, dünya
 > bağları ve **gelişim günlüğü** durur.
@@ -35,10 +35,10 @@ updated: 2026-09-13
 
 | | |
 |---|---|
-| **Ad** | Grimnor |
+| **Ad** | Grimgor |
 | **Oyuncu** | Koray |
 | **Tür / sınıf** | **Orc** · **Druid — Circle of the Moon** |
-| **Seviye** | ⬜ |
+| **Seviye** | 4 *(Session 04)* |
 | **Yaş, görünüş** | ⬜ |
 | **Memleket** | **[Gorestead](../../../../03-ager/continents/ravonia/villages/gorestead.md)** — [Mournwood](../../../../03-ager/continents/ravonia/regions/mournwood.md)'un güney eteği |
 | **Tanrı** | **[Selûne](../../../../02-lore/pantheon/faerunian/selune.md)** — ama **dua etmiyor, hesap soruyor** |
@@ -78,13 +78,13 @@ güç vardı ve hâlâ o oyunu **kimin kurduğunu** arıyor.
 
 ### Ölçtüğü tek şey
 
-Grimnor insanları **ne yaptıklarıyla değil, neye karşı durduklarıyla** ölçüyor.
+Grimgor insanları **ne yaptıklarıyla değil, neye karşı durduklarıyla** ölçüyor.
 Kendi köyünde olan kötülüğe karşı durmayan biri, onun gözünde o kötülüğün parçası.
 
 > **Ham not:** *"orklara yakın. şehrinde olan kötülüğe destek olmayan kimse sevmiyor."*
 > Satır iki türlü okunabiliyor — (a) kötülüğü destekleyeni sevmiyor,
 > (b) kötülüğe karşı durmayanı sevmiyor. **İkisi de aynı yere çıkıyor** ve dosya
-> (b) üzerinden yazıldı: Grimnor için **seyirci suçludur.** → [Doğrulanacaklar](#doğrulanacaklar)
+> (b) üzerinden yazıldı: Grimgor için **seyirci suçludur.** → [Doğrulanacaklar](#doğrulanacaklar)
 
 ## Nasıl Konuşur
 
@@ -100,7 +100,7 @@ Kendi köyünde olan kötülüğe karşı durmayan biri, onun gözünde o kötü
 > Druid olduğu için gücü bundan etkilenmiyor. **Ama kıtada bu duruma sevinen
 > tek kişi o.**
 
-Grimnor'ın bu konudaki tek cümlesi ham notta duruyor ve karakterin **kalbi**:
+Grimgor'ın bu konudaki tek cümlesi ham notta duruyor ve karakterin **kalbi**:
 
 > ### *"Keşke kuyruklu yıldızlar biraz daha erken gelseymiş."*
 
@@ -114,13 +114,13 @@ iletişim kesildiği için **bitti** — sadece bir yıl geç bitti.
 
 ### ⭐ Ve buradan kampanyanın en sert tersine çevirmesi çıkıyor
 
-| Kıtadaki herkes | Grimnor |
+| Kıtadaki herkes | Grimgor |
 |---|---|
 | Sessizlik bir **felaket** | Sessizlik **tek merhamet** |
 | Tanrılar geri gelmeli | **Geri gelirlerse av da geri gelir** |
 | Bariyer yıkılmalı | **Bariyere dokunulmamalı** |
 
-Rahipler kıyamet görürken Grimnor *"neden daha erken değil"* diye soruyor.
+Rahipler kıyamet görürken Grimgor *"neden daha erken değil"* diye soruyor.
 Ve kampanya *"bariyer kalksın mı"* sorusuna vardığında, masada **"hayır"**
 diyecek kişi o olacak.
 
@@ -128,10 +128,10 @@ diyecek kişi o olacak.
 
 | Kim | Neden |
 |---|---|
-| 🔒 **Avı kuran tanrı** | Bunu **yaptı**. Grimnor kim olduğunu **henüz bilmiyor** |
-| ⭐ **Yardım edebilecekken etmeyen iyi tanrılar** | Bunu **durdurmadılar**. Ve Grimnor onların adlarını **biliyor** |
+| 🔒 **Avı kuran tanrı** | Bunu **yaptı**. Grimgor kim olduğunu **henüz bilmiyor** |
+| ⭐ **Yardım edebilecekken etmeyen iyi tanrılar** | Bunu **durdurmadılar**. Ve Grimgor onların adlarını **biliyor** |
 
-İkincisi karakterin asıl meselesi. Grimnor tanrıların **olmadığına** inanmıyor —
+İkincisi karakterin asıl meselesi. Grimgor tanrıların **olmadığına** inanmıyor —
 **suçlu** olduklarına inanıyor. Onun için bu bir inanç krizi değil, bir **dava**.
 
 > **[Selûne](../../../../02-lore/pantheon/faerunian/selune.md) o listede.**
@@ -140,7 +140,7 @@ diyecek kişi o olacak.
 > → [02-ties.md](02-ties.md#selûne--tapınma-değil-dava)
 
 > 🔒 Tam liste, gerekçeler ve DM kararları:
-> [04-dm-notes.md](04-dm-notes.md#grimnorın-iki-düşmanı)
+> [04-dm-notes.md](04-dm-notes.md#grimgorın-iki-düşmanı)
 
 ## Amaçları
 
@@ -170,6 +170,6 @@ diyecek kişi o olacak.
 - [ ] **Ailesi kaç kişiydi ve adları ne?** Kurt tarafında kalanlar.
 - [ ] **Oyun Gorestead'de mi oynandı**, başka bir köyde mi? (Dosya "Gorestead'de" varsayıyor.)
 - [ ] **Gorestead'in baskın halkı** köy dosyasında *insan* yazıyor, kıta dosyasında *ork köyü*.
-      Grimnor ork ve oralı — çelişki köy dosyasına dokunmadan
+      Grimgor ork ve oralı — çelişki köy dosyasına dokunmadan
       [açık soru](../../../../00-meta/open-questions.md) olarak bırakıldı.
 - [ ] Partiye geçmişinin ne kadarını anlatıyor?

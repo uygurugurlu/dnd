@@ -4,7 +4,7 @@ name: Charaxis — Şirketler, Loncalar ve Nöbet
 canon: homebrew
 status: usable
 tags: [charaxis, factions, gharuk, anvil-charter, cold-concession, hourwrights, listeners, watch]
-updated: 2026-09-07
+updated: 2026-11-05
 ---
 
 # Charaxis'in altı gücü
@@ -34,7 +34,7 @@ updated: 2026-09-07
 | **Nasıl çalışır** | Borç. Yol parasını öder, borcu kol ile tahsil eder. %6 faiz |
 | **Sahip olduğu** | [Kiln Stair](mines/kiln-stair.md), [Emberdrift](mines/emberdrift.md), fiilen [Grey Seam](mines/the-grey-seam.md) |
 | **Zayıflığı** | **Tek kapı.** R-1 kapanırsa Gharuk biter |
-| **Kim** | [Murag Ghesk](../05-characters/npcs/minor/murag-ghesk.md) — kâtip, Kapı masası |
+| **Kim** | [Murag Ghesk](../05-characters/npcs/minor/murag-ghesk.md) — kâtip, Kapı masası · [Urzha Keth](../05-characters/npcs/minor/urzha-keth.md) — Stillreach simsarı *(düşmana 300 adam kiralıyor)* |
 
 > Kendilerini tüccar sayarlar ve gerçekten öyleler: Charaxis'te **kimseyi
 > zorla çalıştırmayan** tek büyük güç. Zorlamaya ihtiyaçları yok; defter
@@ -60,8 +60,8 @@ updated: 2026-09-07
 |---|---|
 | **Ne** | Karsovia tacının Charaxis şirketi. 1489'da kuruldu, **1495'te büyüdü** |
 | **Ne satar** | Frostvein Silver, soğuk depo, "istihdam" |
-| **Sahip olduğu** | [Widowsilver](mines/widowsilver.md), [Stillreach](regions/stillreach.md), fiilen [Kara Bahçe](mines/black-orchard.md) |
-| **İşgücü** | %70 **Ravonyalı** — Mürai savaşında dağıtılan ordudan |
+| **Sahip olduğu** | [Widowsilver](mines/widowsilver.md), [Stillreach](regions/stillreach/README.md), fiilen [Kara Bahçe](mines/black-orchard.md) |
+| **İşgücü** | %70 **Ravonyalı** — Mürai savaşında dağıtılan ordudan. Makine, kızak ve kazan için **[kiralık orklar](regions/stillreach/README.md#orklar--neden-bu-kadar-çok)** |
 | **Silahı** | 140 asker, borç defteri, K-1 ve K-2 |
 | **Kim** | [Kapitan Vidrek Solyan](../05-characters/npcs/minor/vidrek-solyan.md) · ustabaşı [Ansel Corr](../05-characters/npcs/minor/ansel-corr.md) |
 

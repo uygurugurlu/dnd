@@ -381,7 +381,7 @@ tutulur:
 > **[HOOK]** Kademe 1 için bedava bir kanıt: Sparkhold'un şebeke defterleri
 > ([05-world-seeds.md](../../05-world-seeds.md#5-sparkhold--hextech-şehri))
 > kıtadaki tek **ölçülmüş** büyü kaydı. Dört anomali, dört tarih, dört yer.
-> Bladesinger Wizard için yazılmış bir bulmaca.
+> Vasili *(wizard)* için yazılmış bir bulmaca.
 
 ---
 

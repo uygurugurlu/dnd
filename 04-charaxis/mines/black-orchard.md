@@ -76,7 +76,7 @@ Chardalyn'e uzun temas: delilik ve karanlık fısıltılar. Bu FR canon'udur
 ## Sırlar
 
 > **[DM ONLY]** Kara Bahçe kapatılmadı, **el değiştirdi.** Soğuk İmtiyaz
-> chardalyn'i [Stillreach'e](../regions/stillreach.md), oradan
+> chardalyn'i [Stillreach'e](../regions/stillreach/README.md), oradan
 > [Saatçilere](../factions.md#saatçiler--the-hourwrights) veriyor.
 > Sebep: chardalyn, Chronoshard işlemenin **ikinci yarısı** — kristal büyüyü
 > depoluyor, chronoshard onu zamana çeviriyor.

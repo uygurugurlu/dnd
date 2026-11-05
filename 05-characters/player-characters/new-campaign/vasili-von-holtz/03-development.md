@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: adapted
 status: draft
 tags: [pc, vasili-von-holtz, development, log]
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 # Vasili von Holtz — Gelişim Günlüğü
@@ -32,6 +32,7 @@ updated: 2026-10-29
 | Seviye | Session | Tarih (DR) | Ne açıldı / ne değişti |
 |---|---|---|---|
 | ⬜ *başlangıç* | — | 20 Uktar 1495 | Kampanya başı. Seviye doğrulanmadı |
+| **4** | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) | ~25 Uktar 1495 ⬜ | ⭐ **Respec: Bladesinger → Necromancer.** Bladesong'u bıraktı. Zombi familiar [Rahadin](../../../npcs/minor/rahadin.md); *Battle Familiar* odağı. *Bu sefer emekle öğrendiği şarkıyı da bıraktı: ölüyü konuşturmak daha tanıdık* |
 
 ## 2. Olay Günlüğü
 
@@ -60,6 +61,7 @@ updated: 2026-10-29
 | 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Ekibe **önyargılıydı.** Ama **Shadowfell'e açılan** Grafting'in ve **Dark Powers'a ulaşma açlığının** çekimiyle **Grafting'e girene kadar** ekiple hareket etmeyi kabul etti | İlk kez **başkalarıyla** çalışıyor — süre sınırı kendi koyduğu: **kapıya kadar** |
 | 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | İttifakın sınırı olan **Grafting'e girdi** — ve ekiple kaldı. Ghoul'lar, bozulmuş centaur'lar, [Tek Kulak](../../../npcs/minor/tek-kulak.md). ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu ve Vasili bir an **eski gücüne** kavuştu ⬜ *(deste ne gösterdi?)* | **Güç geri alınabiliyor.** Süreli ittifak bitti; kalmak için artık **kendi sebebi** var |
 | 3 | **21 Uktar 1495** ⬜ | [Session 03](../../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) | Silik köyde **Gallows Speaker**'ı öldürdü; bozulmuş **centaur**'u kurtardılar (onlarla dönmedi). **Halime ve Halit**'i çıkarmanın tehlikeli olduğuna karar verip **öldürdüler**; Communion'ın notu Halime'nin elindeydi. 🪡 Speaker'ın elindeki **iğneyi keşfetti ve aldı** → [Gallows Needle](../../../../08-rules/homebrew/items/gallows-needle.md) | Lanet vermeyi bilen adamın elinde artık lanet **aktaran** bir alet var |
+| 4 | **~23–25 Uktar 1495** ⬜ | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) | Stane'e Harper'ları anlattılar; Vesna'ya da anlattılar. Vesna hücreyi durdurdu, boğazda 2 ok yedi. Kapı önündeki haydutlar öldü; 1 gün [rünlere](../../../../08-rules/homebrew/items/watch-runes.md) attune. **Level 4.** 🧟 Seviye atlarken **Necromancer**'a döndü; zombi familiar'ına **[Rahadin](../../../npcs/minor/rahadin.md)** adını verdi; ona uşak gibi davranıyor | Monarşi **bir kişilik** kuruldu: bir hükümdar, bir uşak. *Şaka gibi. Değil* |
 
 ## 3. Dönüm Noktaları
 
@@ -68,6 +70,7 @@ updated: 2026-10-29
 | **Adını gömdü** | Uyandığı gün | *"Bu sefil hâlim o ismi taşımayı hak etmiyor"* — **geri alınabilir** bir karar |
 | **Güneşte yürüdü** | Uyandığı gün | Ölümsüzlük gitti. Zaman **onun için de** işliyor artık |
 | **Pixie'yi öldürdü** | Mournwood, ⬜ | Ager'deki ilk dostu, ilk adağı. **Geri alınamaz** — ve henüz hissedilmedi |
+| **Bladesong'u bıraktı, ölüyü kaldırdı** | Yedinci Kapı, Session 04 | Ölümlü kaldı. Ama **ilk kez bir ceset ona "efendim"lik yapıyor** |
 | <!-- doldur --> | | |
 
 ## 4. Kişisel Saat — *Kartlar Yeniden Konuşuyor*
@@ -99,7 +102,8 @@ updated: 2026-10-29
 | **Kartlardaki sesler** | Barovia | Madam Eva · Vistaniler · Van Richten · Sergei · **Tatyana** |
 | **Pixie** ⬜ ad | Mournwood — onu kurtardı | **Ölü.** Vasili öldürdü. *"Sonradan çıkacak bir acı"* |
 | **Parti** | ⬜ *(buluşma sahnesi kararlaşmadı)* | → [04-party.md](../../../../06-campaigns/new-campaign/04-party.md#partiyi-bir-araya-getiren-şey) |
-| ⬜ Bladesong'u öğreten kişi | ⬜ | **Kim olduğu belirlenmedi** → [01-background.md](01-background.md#7-adın-gömülmesi) |
+| ⬜ Bladesong'u öğreten kişi | ⬜ | **Kim olduğu belirlenmedi** → [01-background.md](01-background.md#7-adın-gömülmesi). *Artık kullanmadığı bir şarkı* |
+| 🧟 **[Rahadin](../../../npcs/minor/rahadin.md)** | Yedinci Kapı önü; Session 04 | Zombie familiar. **Uşağı.** Konuşmuyor; konuşmasına gerek yok |
 
 ## 6. Kazanımlar ve Kayıplar
 
@@ -111,6 +115,7 @@ updated: 2026-10-29
 | **Kayıp** | Pixie — Ager'deki ilk ve tek dostu | Kendi eliyle, Mournwood | — |
 | **Borç / söz** | ⬜ Adağın karşılığı — Dark Powers ona **bir şey borçlu mu**, o mu onlara? | Mournwood | — |
 | Eşya | **Tarokka destesi** | Barovia | — |
+| **Kazanım** | 🧟 **[Rahadin](../../../npcs/minor/rahadin.md)** — zombie familiar · *Battle Familiar* | Respec | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) |
 | Eşya | 🪡 **[Gallows Needle](../../../../08-rules/homebrew/items/gallows-needle.md)** — günde 3 curse aktarımı *(attune ⬜)* | Gallows Speaker, Silik köy | [Session 03](../../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) |
 | Yara / iz | <!-- doldur --> | | |
 | Borç / söz | <!-- doldur --> | | |
@@ -123,6 +128,7 @@ updated: 2026-10-29
 - [ ] Adını geri almaya **değecek** hâle gelmek: ölçüsü ne?
 - [ ] Deste **kime** çalışıyor?
 - [ ] Parti gerçek kimliğini öğrenirse ne olur?
-- [ ] Bladesong'u kimden öğrendi? *(Elf geleneği — ve o elfleri küçümsüyor)*
+- [ ] Bladesong'u kimden öğrendi? *(Elf geleneği — ve o elfleri küçümsüyor)* — ve **neden bıraktı?**
+- [ ] 🔒 **Rahadin adı:** kim duyacak, kim tanıyacak → [dosya](../../../npcs/minor/rahadin.md#sırlar)
 - [ ] **Adak duyuldu mu?** → 🔒 [04-dm-notes.md](04-dm-notes.md#adak--dark-powers-duydu-mu)
-- [ ] **"Sonradan çıkacak acı" ne zaman çıkar?** Ve kim tetikler — deste mi, Grimnor mı, bir fey mi?
+- [ ] **"Sonradan çıkacak acı" ne zaman çıkar?** Ve kim tetikler — deste mi, Grimgor mı, bir fey mi?

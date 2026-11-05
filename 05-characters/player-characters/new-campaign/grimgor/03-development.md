@@ -2,20 +2,20 @@
 type: character
 pc: true
 subtype: development-log
-name: Grimnor — Gelişim
+name: Grimgor — Gelişim
 player: Koray
 campaign: New Campaign
 canon: homebrew
 status: draft
-tags: [pc, grimnor, development, log, malar]
-updated: 2026-10-29
+tags: [pc, grimgor, development, log, malar]
+updated: 2026-11-05
 ---
 
-# Grimnor — Gelişim Günlüğü
+# Grimgor — Gelişim Günlüğü
 
-**Yukarı:** [Grimnor](README.md)
+**Yukarı:** [Grimgor](README.md)
 
-> ⭐ **Bu dosyanın tek işi:** Grimnor'ın başına ne geldiğini ve neye dönüştüğünü
+> ⭐ **Bu dosyanın tek işi:** Grimgor'ın başına ne geldiğini ve neye dönüştüğünü
 > tutmak. Her session sonrası buraya **bir satır** girilir.
 >
 > Session akışı: `sessions/session-NN-<slug>.md` aç ·
@@ -30,6 +30,7 @@ updated: 2026-10-29
 | Seviye | Session | Tarih (DR) | Ne açıldı / ne değişti |
 |---|---|---|---|
 | ⬜ *başlangıç* | — | 20 Uktar 1495 | Kampanya başı. Seviye doğrulanmadı. |
+| **4** | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) | ~25 Uktar 1495 ⬜ | Yedinci Kapı önünde, rün attune gününde |
 
 ## 2. Olay Günlüğü
 
@@ -53,8 +54,9 @@ updated: 2026-10-29
 | # | Tarih (DR) | Session | Ne oldu | Karakterde ne değişti |
 |---|---|---|---|---|
 | 1 | **20 Uktar 1495** | [Session 01](../../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md) | Calithra'da bir **sincapla** konuştu; sincap **kediden** rahatsızdı. Kediye zarar vermedi, **yemek verdi**, sincapları rahat bırakmasını söyledi. Kedi [Fig](../../../npcs/minor/fig.md) çıktı: **yüzlerce yaşında**, sahibi **Calithra'nın kurucusu** | Şehirle ilk bağı bir hayvan üzerinden kurdu. **Calithra kedinin onayını okur** — Fig'in ilgisi artık partiye dönük |
-| 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | Nehirden Grafting'e girdi; ghoul'lar, Feywild'da bozulmuş centaur'lar. [Tek Kulak](../../../npcs/minor/tek-kulak.md) ile tanıştı. ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu, Grimnor bir an **eski gücüne** kavuştu ⬜ *(ne geri geldi)*. Blink Dog'u öldürdüler | Sessizliği savunan adam, sessizliğin **altı saniye kalktığını** gördü |
+| 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | Nehirden Grafting'e girdi; ghoul'lar, Feywild'da bozulmuş centaur'lar. [Tek Kulak](../../../npcs/minor/tek-kulak.md) ile tanıştı. ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu, Grimgor bir an **eski gücüne** kavuştu ⬜ *(ne geri geldi)*. Blink Dog'u öldürdüler | Sessizliği savunan adam, sessizliğin **altı saniye kalktığını** gördü |
 | 3 | **21 Uktar 1495** ⬜ | [Session 03](../../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) | Silik köyde **Gallows Speaker**'ı öldürdü; bozulmuş **centaur**'u kurtardılar (onlarla dönmedi). **Halime ve Halit**'i çıkarmanın tehlikeli olduğuna karar verip **öldürdüler**; Communion'ın notu Halime'nin elindeydi | ⬜ |
+| 4 | **~23–25 Uktar 1495** ⬜ | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) | Stane'e Harper'ları anlattılar; Vesna'ya da anlattılar. Vesna hücreyi durdurdu, boğazda 2 ok yedi. Kapı önündeki haydutlar öldü; 1 gün [rünlere](../../../../08-rules/homebrew/items/watch-runes.md) attune. **Level 4.** | ⬜ Otoriteye bilgi veren bir partide durdu. *Seyirci suçludur* diyen biri bu sahneyi nasıl okudu? |
 
 ## 3. Dönüm Noktaları
 
@@ -83,15 +85,15 @@ updated: 2026-10-29
 | 2 | Hayatta kalan **ikinci bir kazanan** çıkar. O da yalnız — ve o da bir hayvana dönüşebiliyor |
 | 3 | Perdenin inceldiği bir bölgede hayvanlar **rol dağıtır gibi** davranmaya başlar → [First Communion'ın dikişleri](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md) |
 | 4 | Rüyada bir ses. Kelime değil — **sayı sayan** bir ses. *Av başlamadan önce sayılır* |
-| 5 | Grimnor'ın **çevresindekilere** roller dağıtılmaya başlar. Kimse fark etmiyor |
-| 6 | ⬜ **Malar bir kapı bulur** — ve Grimnor'a teklif gelir: **sürüye katıl** |
+| 5 | Grimgor'ın **çevresindekilere** roller dağıtılmaya başlar. Kimse fark etmiyor |
+| 6 | ⬜ **Malar bir kapı bulur** — ve Grimgor'a teklif gelir: **sürüye katıl** |
 
 > 🔒 Altıncı dilimin karşılığı: [04-dm-notes.md](04-dm-notes.md#altıncı-dilim)
 
 ## 5. İlişki Defteri
 
 > ⚠️ **Bu liste kısa kalmalı.** Ham not: *"çok fazla kişiyi tanımıyor."*
-> Grimnor'a yeni bir isim eklemek bir **olaydır**, doldurma malzemesi değil.
+> Grimgor'a yeni bir isim eklemek bir **olaydır**, doldurma malzemesi değil.
 
 | Kim | Nasıl tanıştı | Şu anki durum |
 |---|---|---|
@@ -114,11 +116,11 @@ updated: 2026-10-29
 ## 7. Açık Uçlar
 
 - [x] ~~**Oyunu kim kurdu?**~~ → 🔒 **[Malar](../../../../02-lore/pantheon/faerunian/malar.md)** *(karar: 2026-08-30)*.
-      **Grimnor hâlâ bilmiyor** — kampanya boyunca arayacak
+      **Grimgor hâlâ bilmiyor** — kampanya boyunca arayacak
 - [ ] **Adı ne zaman ve kimden öğrenecek?** Aday: [Mother Ulkryssa](../../../npcs/minor/mother-ulkryssa.md) — avın **tanığı**, satıcı
 - [ ] **Güçleri ailesinden mi kaldı, Malar'ın damgası mı?** Öneri: **ikisi de**
 - [ ] 🔒 **Ailesi alınamadı.** Hat koptuğu için hiçbir yere gitmediler. Nerede duruyorlar?
-- [ ] ⚠️ **Parti bariyeri onarmaya çalışırsa Grimnor ne yapar?** Kampanyanın en sert sahnesi
+- [ ] ⚠️ **Parti bariyeri onarmaya çalışırsa Grimgor ne yapar?** Kampanyanın en sert sahnesi
 - [ ] Ailesinden **geriye bir şey kaldı mı** — mezar, ev, eşya?
 - [ ] Emerald Enclave onu arıyor mu, o mu Enclave'i arıyor?
 - [ ] Ormanına ilk hangi üniforma girecek: [Concord](02-ties.md#kendi-ormanı--mournwood) mı, Thornhold mu?

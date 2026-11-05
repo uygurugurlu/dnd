@@ -78,7 +78,7 @@ aşağı doğru **Don-##** diye sayılır. Bir taş = bir mil.
 | 1 | **Ashkar Reach** | Kül-71 | insan, tiefling, kaçak | Moondust, sır, adam | [→](ashkar-reach.md) |
 | 2 | **Brakk-Dur Omurga** | Kül-28 | cüce, ork | Cevher, yol, lojistik | [→](brakk-dur.md) |
 | 3 | **Vael'Serith** | 0 | elf | Hiçbir şey. İzin verir. | [→](vael-serith.md) |
-| 4 | **Stillreach** | Don-64 | Karsovyalı, mahkûm, Saatçi | Zaman. Gerçekten zaman. | [→](stillreach.md) |
+| 4 | **Stillreach** | Don-64 | Ravonyalı borçlu, ork, Karsovyalı, Saatçi | Buz. Ve zaman. Gerçekten zaman. | [→](stillreach/README.md) |
 
 ### Ve bir beşincisi, sayılmayan
 
@@ -114,7 +114,7 @@ kendi isteğiyle gelmedi.
 | [meridian-road.md](meridian-road.md) | **Yol** — mil taşları, vuruş (saat), yol sökücüler, seyahat tablosu |
 | [scorchvault.md](scorchvault.md) | ☀ Yukarı — cam çöl, güneş ocakları, gölge borcu |
 | [black-still.md](black-still.md) | ❄ Aşağı — buz, çürümeyen ölüler, vahanın yolu |
-| [ashkar-reach.md](ashkar-reach.md) · [brakk-dur.md](brakk-dur.md) · [vael-serith.md](vael-serith.md) · [stillreach.md](stillreach.md) · [nen-kharal.md](nen-kharal.md) | Beş yerleşim |
+| [ashkar-reach.md](ashkar-reach.md) · [brakk-dur.md](brakk-dur.md) · [vael-serith.md](vael-serith.md) · [stillreach.md](stillreach/README.md) · [nen-kharal.md](nen-kharal.md) | Beş yerleşim |
 | [../mines/README.md](../mines/README.md) | Dokuz maden |
 | [../mining/README.md](../mining/README.md) | **Nasıl kazılıyor** — vardiya, denge yükü, rün çivisi, borç |
 | [../phenomena/README.md](../phenomena/README.md) | **Tuhaflıklar** — rüyalar, Kurallar, entitiyler, d20 tabloları |

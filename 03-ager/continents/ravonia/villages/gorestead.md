@@ -36,13 +36,13 @@ kural değil, bir alışkanlık — ve kimse ne zaman başladığını bilmiyor.
 
 Köyün geliri odun ve mantar. İkisi de ormandan geliyor. İroniyi herkes biliyor.
 
-> 👤 **PC bağı:** **[Grimnor](../../../../05-characters/player-characters/new-campaign/grimnor/README.md)**
+> 👤 **PC bağı:** **[Grimgor](../../../../05-characters/player-characters/new-campaign/grimgor/README.md)**
 > *(New Campaign — Koray)* buralı. Bir ork; eskiden çiftçiydi, şimdi moon druid.
 > Köyün *"ormanda gece kalınmaz"* alışkanlığı ve **içeri kayan sınır kazıkları**
-> onun hikâyesine bağlı → [02-ties.md](../../../../05-characters/player-characters/new-campaign/grimnor/02-ties.md#gorestead--memleket)
+> onun hikâyesine bağlı → [02-ties.md](../../../../05-characters/player-characters/new-campaign/grimgor/02-ties.md#gorestead--memleket)
 >
 > ⬜ **Açık:** köy dosyası baskın halkı *insan* diyor, [kıta dosyası](../README.md#halklar)
-> Gorestead'i *ork köyü* sayıyor. Grimnor ork ve oralı — çelişki
+> Gorestead'i *ork köyü* sayıyor. Grimgor ork ve oralı — çelişki
 > [açık soru](../../../../00-meta/open-questions.md) olarak duruyor, dosya değiştirilmedi.
 
 ## Önemli Yerler

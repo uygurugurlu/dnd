@@ -128,10 +128,11 @@ Ve mekanik olarak **en önemlisi:**
 > ⭐ **O bir yıl, büyüyü sıfırdan öğrendiği yıldır.**
 >
 > Eskiden gücü **ödünçtü** — bir Darklord'a verilmişti. Şimdi elinde olan her
-> cantrip **kendi emeği.** Bladesinger ilerlemesi bu yüzden karakterin en
+> cantrip **kendi emeği.** Wizard ilerlemesi bu yüzden karakterin en
 > kişisel mekaniği: yüzyıllarca hüküm süren adam, artık **çalışıyor.**
+> ✏️ *L4'te (Session 04) Bladesong'u bırakıp **Necromancer**'a döndü — bkz. [gelişim](03-development.md#1-seviye-takibi).*
 
-> **[AÇIK SORU]** **Bladesong'u kimden öğrendi?** Bladesinging bir **elf**
+> **[AÇIK SORU]** **Eski Bladesong'unu kimden öğrendi?** Bladesinging bir **elf**
 > geleneği ve Ravonia'nın elfleri [Silvaerûn](../../../../03-ager/continents/ravonia/regions/silvaerun/README.md)'de.
 > *"Düşük ırklar yüksek ırklara hizmet etmeli"* diyen bir adamın, sahip olduğu
 > tek gücü bir başka halktan öğrenmiş olması karakterin en verimli çelişkisi.

@@ -2,18 +2,18 @@
 type: character
 pc: true
 subtype: dm-notes
-name: Grimnor — DM Notları
+name: Grimgor — DM Notları
 player: Koray
 campaign: New Campaign
 canon: homebrew
 status: usable
-tags: [pc, grimnor, dm-only, the-hunt, malar, silent-gods]
-updated: 2026-08-30
+tags: [pc, grimgor, dm-only, the-hunt, malar, silent-gods]
+updated: 2026-11-05
 ---
 
-# 🔒 Grimnor — DM Notları
+# 🔒 Grimgor — DM Notları
 
-**Yukarı:** [Grimnor](README.md)
+**Yukarı:** [Grimgor](README.md)
 
 > **[DM ONLY]** Koray'ın bildiği: *"bir oyun oynandı, ailem kurt tarafındaydı,
 > köy kazandı, güçlerim geldi ve bunu kimin kurduğunu bulacağım."*
@@ -62,7 +62,7 @@ Malar **bu düzlemden değil.** Avını dışarıdan yönetiyordu. **Hattı kopt
 
 > **Av, tanrılar sustuğu için bitti.**
 
-Ve Grimnor'ın tek cümlesi artık **birebir doğru** — ironi değil, **hüküm**:
+Ve Grimgor'ın tek cümlesi artık **birebir doğru** — ironi değil, **hüküm**:
 
 > ### *"Keşke kuyruklu yıldızlar biraz daha erken gelseymiş."*
 
@@ -73,22 +73,22 @@ Ve Grimnor'ın tek cümlesi artık **birebir doğru** — ironi değil, **hükü
 | Yıl (DR) | Ne oldu |
 |---|---|
 | ⬜ *1494 öncesi* | Malar'ın avları başlıyor. Kaç köy ⬜ |
-| ⭐ **1493** *(öneri)* | **Grimnor'ın köyü.** Malar'ın **tamamladığı son av** |
+| ⭐ **1493** *(öneri)* | **Grimgor'ın köyü.** Malar'ın **tamamladığı son av** |
 | ⬜ | Bir sonraki köy seçilir — **av hiç başlamaz** |
 | **1494** | ☄️ Kuyruklu yıldızlar. 🔇 Tanrılar susar. **Hat kopar** |
 | **1495** | ★ Kampanya. Malar bir yıldır **kapıda bekliyor** |
 
 > **[HOOK]** Seçilmiş ama avlanmamış o köy **hâlâ ayakta** ve neyden kurtulduğunu
-> bilmiyor. Grimnor orayı bulursa: kimse ona teşekkür etmeyecek.
+> bilmiyor. Grimgor orayı bulursa: kimse ona teşekkür etmeyecek.
 
 ---
 
 ## ⭐⭐ Kampanyanın tersine çevirmesi
 
-Bu, Grimnor'ı partinin geri kalanından **ayıran** şey ve kampanyanın en sert
+Bu, Grimgor'ı partinin geri kalanından **ayıran** şey ve kampanyanın en sert
 kozu:
 
-| Kıtadaki herkes | Grimnor |
+| Kıtadaki herkes | Grimgor |
 |---|---|
 | Sessizlik bir **felaket** | Sessizlik **tek merhamet** |
 | Tanrılar geri gelmeli | **Tanrılar geri gelirse Malar da gelir** |
@@ -105,7 +105,7 @@ susan bir tanrıya bağlı. Sahne kendiliğinden kurulacak — **acele ettirme.*
 
 ---
 
-## Grimnor'ın **iki** düşmanı
+## Grimgor'ın **iki** düşmanı
 
 Karakterin öfkesi tek bir tanrıya gitmiyor. **İkiye bölünmüş** ve ikincisi
 daha tehlikeli:
@@ -116,20 +116,20 @@ Basit, temiz, hak edilmiş. Bir hedef.
 
 ### 2. ⭐ Yapmayanlar — *yardım edebilecekken etmeyen iyi tanrılar*
 
-Grimnor'ın gerçek meselesi bu. Ve liste **canon'dan** çıkıyor: aşağıdaki
+Grimgor'ın gerçek meselesi bu. Ve liste **canon'dan** çıkıyor: aşağıdaki
 tanrıların hepsi Malar'ın **kanonik düşmanı** ya da o gece **görev tanımı**
 olan tanrılar. Hiçbiri gelmedi.
 
-| Tanrı | Neden gelmesi gerekirdi | Grimnor'ın cümlesi |
+| Tanrı | Neden gelmesi gerekirdi | Grimgor'ın cümlesi |
 |---|---|---|
-| **Chauntea** | Tarım ve hasat tanrıçası. **Grimnor çiftçiydi.** Malar'ın düşmanı | *"Ben onun tarlasındaydım."* |
+| **Chauntea** | Tarım ve hasat tanrıçası. **Grimgor çiftçiydi.** Malar'ın düşmanı | *"Ben onun tarlasındaydım."* |
 | **[Helm](../../../../02-lore/pantheon/faerunian/helm.md)** | Koruma ve **nöbet**. Malar'ın düşmanı | *"Adı 'nöbet tutan' olan biri, izledi."* |
 | **Mielikki** | Orman tanrıçası. Malar'ın düşmanı | *"Orman oradaydı. O yoktu."* |
 | **Silvanus** | Vahşi doğa; Spellplague'den beri **Malar onun hâkimiyetinde** | *"Tasması ondaydı."* |
 | **Nobanion** | Time of Troubles'ta **Malar'ı yendi** — yenilebileceğinin kanıtı | *"Bir kere yapmış. Bir kere daha yapamaz mıydı?"* |
 | ⭐ **[Selûne](../../../../02-lore/pantheon/faerunian/selune.md)** | Ay tanrıçası ve **iyi lycanthrope'ların koruyucusu.** Malar'ın tam karşıtı | → aşağı |
 
-> **Bu liste bir suçlama değil, bir *dava dosyası*.** Grimnor tanrıların
+> **Bu liste bir suçlama değil, bir *dava dosyası*.** Grimgor tanrıların
 > **olmadığına** inanmıyor — **suçlu** olduklarına inanıyor. Bu ikisi arasındaki
 > fark, karakterin bütün tonunu belirliyor.
 
@@ -138,23 +138,23 @@ olan tanrılar. Hiçbiri gelmedi.
 Ham not sadece *"selune."* diyor ve karakter sayfasında tanrısı o.
 **Ama artık bir tapınma ilişkisi değil.**
 
-> **Grimnor Selûne'e dua etmiyor. Hesap soruyor.**
+> **Grimgor Selûne'e dua etmiyor. Hesap soruyor.**
 >
 > Sembolünü taşıyor çünkü **o gece ay gökyüzündeydi.** Selûne bir hâmi değil,
 > bir **tanık** — ve bir tanık ifade vermek zorundadır.
 
 Bu üç şeyi aynı anda çözüyor:
 
-1. **Mekanik olarak sorun yok:** Grimnor **druid**. Gücü primal, ilahi değil.
+1. **Mekanik olarak sorun yok:** Grimgor **druid**. Gücü primal, ilahi değil.
    Bir tanrıyla kavgalı olmak ona hiçbir şey kaybettirmiyor.
    → [CLAUDE.md §5.5/5](../../../../CLAUDE.md) maddesi böylece **karşılanıyor**
 2. **Sessizlik onun işine geliyor:** cevap alamıyor, çünkü kimse cevap
    veremiyor. Bu ona bir bahane veriyor — **henüz yüzleşmek zorunda değil**
 3. **Ve bir gün cevap gelirse** karakterin en zor sahnesi kurulmuş olur:
-   *Selûne konuşursa Grimnor ne diyecek?*
+   *Selûne konuşursa Grimgor ne diyecek?*
 
 > ⚠️ **Alternatif (DM seçer):** Selûne **geldi ama geç kaldı** — köy meydanına
-> düşen ay ışığı, Grimnor'ın Wild Shape'inin kaynağı. O zaman Selûne listeden
+> düşen ay ışığı, Grimgor'ın Wild Shape'inin kaynağı. O zaman Selûne listeden
 > çıkar ve karakterin tek dostu olur. **Daha yumuşak, daha az ilginç.**
 
 ---
@@ -163,17 +163,17 @@ Bu üç şeyi aynı anda çözüyor:
 
 | Okuma | Ne demek | Değeri |
 |---|---|---|
-| ⭐ **Kalıntı** | Kurtların gücü sahipsiz kaldı, en yakın kana geçti. **Grimnor kurda dönüştüğünde ailesine dönüşüyor** | En acımasızı. Circle of the Moon'un tamamı kişiselleşiyor |
-| **Malar'ın damgası** | Avı kazananı Malar **işaretler.** Grimnor düşmanının imzasını taşıyor | En tehlikelisi. Bir NPC bunu fark ederse koz kazanır |
+| ⭐ **Kalıntı** | Kurtların gücü sahipsiz kaldı, en yakın kana geçti. **Grimgor kurda dönüştüğünde ailesine dönüşüyor** | En acımasızı. Circle of the Moon'un tamamı kişiselleşiyor |
+| **Malar'ın damgası** | Avı kazananı Malar **işaretler.** Grimgor düşmanının imzasını taşıyor | En tehlikelisi. Bir NPC bunu fark ederse koz kazanır |
 | **Selûne, geç** | Yukarıdaki alternatif | En yumuşağı |
 
 > **Öneri: ilk ikisi birlikte.** Güç ailesinden geldi **ve** Malar'ın damgasını
-> taşıyor. Grimnor bunu öğrendiğinde gücünü bırakamaz — çünkü bırakırsa
+> taşıyor. Grimgor bunu öğrendiğinde gücünü bırakamaz — çünkü bırakırsa
 > ailesinden kalan son şeyi de bırakmış olur.
 
-### Grimnor'a hangi hayvan verilmişti?
+### Grimgor'a hangi hayvan verilmişti?
 
-Ham not: *"her karaktere bir hayvan atanıyor."* Grimnor **basit bir çiftçiydi** —
+Ham not: *"her karaktere bir hayvan atanıyor."* Grimgor **basit bir çiftçiydi** —
 kartı boştu, ya da kimsenin adını söylemediği hayvandı.
 
 > ⭐ **Ve şimdi hepsine dönüşebiliyor.**
@@ -192,7 +192,7 @@ Malar avında ölenler **Malar'ın** olur. Ama **hat koptu.**
 > 4. ve 5. dilimleri (resurrection çalışmıyor, kutsanmış zemin kutsallığını
 > yitiriyor) bunun kıta ölçeğindeki hâli.
 
-**Bu Grimnor'a intikamdan başka bir amaç veriyor:** ailesi bir yerde **bekliyor**.
+**Bu Grimgor'a intikamdan başka bir amaç veriyor:** ailesi bir yerde **bekliyor**.
 Ve bariyer kalkarsa, onları alacak ilk şey **Malar** olur.
 
 > ⭐ **Karakterin gerçek ikilemi burada, intikamda değil:**
@@ -212,15 +212,15 @@ Ama hâlâ değerli — sadece **rolü değişti:**
 | Değil | Öyle |
 |---|---|
 | Avın tasarımcısı | **Avın leşçisi** |
-| Grimnor'ın düşmanı | Grimnor'ın **tek tanığı** |
+| Grimgor'ın düşmanı | Grimgor'ın **tek tanığı** |
 
 Night hag kâbusla beslenir. Bir gece boyunca birbirini yargılayıp öldüren bir
 köy, **ziyafettir.** Ulkryssa oraya **sonradan** geldi ve **ne olduğunu gördü.**
 
-> 🎯 **Masa değeri:** Grimnor'a *"kim yaptı"* sorusunun cevabını verebilecek
+> 🎯 **Masa değeri:** Grimgor'a *"kim yaptı"* sorusunun cevabını verebilecek
 > tek yerel kaynak o. Ve bir hag cevabı **vermez — satar.**
 > Ormanı [Gorestead'in tam kuzeyi](../../../../03-ager/continents/ravonia/regions/mournwood.md);
-> Grimnor'ın oraya gitmesi için sebep zaten hazır.
+> Grimgor'ın oraya gitmesi için sebep zaten hazır.
 
 > ⭐⭐ **Ve Ulkryssa iki PC'nin sırrını birden tutuyor** —
 > [Vasili'nin gerçek adını](../vasili-von-holtz/04-dm-notes.md#kimlik--masadaki-kural)
@@ -232,12 +232,27 @@ köy, **ziyafettir.** Ulkryssa oraya **sonradan** geldi ve **ne olduğunu görd�
 
 [Kişisel saatin](03-development.md#4-kişisel-saat--kapıdaki-avcı) altıncı dilimi:
 
-> **Malar bir yol buluyor** — ve Grimnor'a bir teklif geliyor: **sürüye katıl.**
+> **Malar bir yol buluyor** — ve Grimgor'a bir teklif geliyor: **sürüye katıl.**
 >
 > Yani ailesinin tarafı. Yani kaybeden taraf. Ve teklifi yapan şey ona şunu
 > hatırlatır: *ailen bir rol seçmedi. Sen seçebiliyorsun.*
 
-Bu, kampanyanın Grimnor'a ait finalidir.
+Bu, kampanyanın Grimgor'a ait finalidir.
+
+---
+
+## Stillreach — *"Kimin orkusun?"*
+
+Charaxis'te Grimgor'ın kategorisi yok: [üç ork defteri](../../../../04-charaxis/regions/stillreach/README.md#orklar--neden-bu-kadar-çok) ve onu sorgulayan bir şehir. Masada oynama: [Session 05 §6](../../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md#6-kazan-sofrası--grimgor-ve-orklar).
+
+| Kaldıraç | Nerede |
+|---|---|
+| *"Savaşa girmem."* → *"Yani seyrettin."* | Kendi ahlakı **kendine** döner |
+| **Çiftçi** | Toprağı görmüş tek ork; [soğan](../../../../04-charaxis/regions/stillreach/places.md#kazan-sofrası) |
+| **Moondust** | Urzha: *"Ekmeği kim alıyor? Sen ne koyuyorsun?"* |
+| **Kurtlar yatıyor** | [Damga](../../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#maların-damgası--kurt-ahırı) — ailesi kurttu |
+| **Ay altında** | [Shae'Khar](../../../../04-charaxis/regions/stillreach/places.md#ay-çukuru): tanığın üstünde duruyor |
+| ⚠️ **Fırtına** | [Kör Patlak'ın sebebi](../../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#kör-patlak-neden-oldu) parti olabilir. Bunu öğrendiği gün seyirci değildir |
 
 ---
 
@@ -248,18 +263,18 @@ Bu, kampanyanın Grimnor'a ait finalidir.
 | **Masumlar** | Pazarlıksız maddesi. Düşmanları bunu öğrenebilir |
 | **Kısa tanıdık listesi** | Tanıdığı herkes **rehin değeri** taşır. Liste kısa tutulmalı ki bu işlesin |
 | **Ormanı** | Askerler geldiğinde *savaşa girmeme* ile *masumu koruma* çarpışır |
-| **Seyirci suçludur** | Partide biri bir kez sussun; Grimnor unutmaz. **Tanrılara açtığı davanın aynısını insanlara da açıyor** |
-| **Bariyer** | Parti sessizliği çözmeye yaklaştıkça Grimnor **direnmeye** başlar |
+| **Seyirci suçludur** | Partide biri bir kez sussun; Grimgor unutmaz. **Tanrılara açtığı davanın aynısını insanlara da açıyor** |
+| **Bariyer** | Parti sessizliği çözmeye yaklaştıkça Grimgor **direnmeye** başlar |
 | **Wild Shape** | Gücünün kaynağını öğrendiği sahne. Kullanmayı bırakır mı? |
 | **Moondust** | Karşıtlığı bir gün partinin parasıyla çelişecek |
 | **Selûne / Shar** | [Vasili](../vasili-von-holtz/README.md) ile gizli eksen. İkisi de farkında değil |
 
-## Grimnor'ın bilmediği ama masanın bilmesi gereken
+## Grimgor'ın bilmediği ama masanın bilmesi gereken
 
 - **Malar ölmedi, erişemiyor.** Susan bir tanrı bekleyen bir tanrıdır
 - [First Communion](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)
   **perdeyi inceltiyor.** Yani farkında olmadan **Malar'ın kapısını açıyorlar.**
-  ⭐ Grimnor'ın dört faksiyondan **en çok nefret edeceği** olan bu — ve
+  ⭐ Grimgor'ın dört faksiyondan **en çok nefret edeceği** olan bu — ve
   ideolojik olarak en yakın hissettiği druid faksiyonu da bu
 - Aynı faksiyonda bir **moon druid** var:
   [Mirel Ashvane](../../../npcs/minor/the-first-communion/mirel-ashvane.md) —

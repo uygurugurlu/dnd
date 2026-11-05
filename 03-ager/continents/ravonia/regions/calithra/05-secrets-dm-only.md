@@ -6,7 +6,7 @@ canon: homebrew
 status: draft
 dm_only: true
 tags: [calithra, dm-only, secrets, harpers, finder-wyvernspur]
-updated: 2026-10-15
+updated: 2026-11-05
 ---
 
 # Calithra — Sırlar
@@ -57,6 +57,9 @@ Hücre 1389'dan beri kesintisiz çalışıyor. **106 yıl.**
 > [Standing Stone](standing-stone.md)'un arkasında** — ve partiye
 > [Kırıkbağ Grafting](../../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md)
 > için görev verdi. Hücre artık **açık.**
+
+> ✅ **Oynandı (Session 04, 2026-11-05):** Parti hücrenin faaliyetlerini **[Iron Concord](../../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md)'a anlattı** ve Vesna'ya da anlattıklarını söyledi. **[Vesna](people.md#vesna-marroc) Calithra'daki Harper faaliyetlerini durdurdu.** On bir yıl sonra balkondan indi, [Roger'ın teknesiyle](../../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#12-oynandı--ne-oldu) boğazı geçti; Concord'un saldırısında **2 ok** yedi; karşıda bir limanda ⬜ indi ve kendi Harper birliğini toplayıp istişare etmek üzere yola çıktı.
+> **Yani:** [Merdiven Altı](places.md#merdiven-altı--the-understair) susuyor. Keman susuyor. Nedra'nın fıçıları ⬜. [Brann](../../../../../05-characters/npcs/minor/the-iron-concord/aleth-brann.md)'ın masası hücreyi arıyor. Calith'in *"kayıt yok"* kuralı 106 yıl sonra ilk kez **kayda geçti.**
 
 ### Nota şifresi
 

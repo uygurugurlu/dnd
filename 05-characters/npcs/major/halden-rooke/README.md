@@ -152,7 +152,7 @@ Rooke **dövüşmez.** Dövüşmek zorunda kalması onun için zaten bir yenilgi
 1. **Açılış:** Konuşur. Partiye bir teklif sunar ve teklif gerçekten iyidir.
    Reddedilirse ***Silent Room*** açar — ve odadaki caster'lar bunu ilk turda
    fark etmez, ikinci turda anlar.
-2. **Hedef önceliği:** En yüksek seviyeli spell'i atan kişi. Bladesinger wizard
+2. **Hedef önceliği:** En yüksek seviyeli spell'i atan kişi. Necromancer wizard
    onun için hem hedef hem **koleksiyon parçası**.
 3. ***Absorb*** reaction'ını **saklar** — ilk spell'i geçirir, ikincisini yer.
    Emdiği enerjiyi ***Discharge*** ile geri verir; bu, kalabalığa gösterdiği

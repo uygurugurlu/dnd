@@ -91,6 +91,8 @@ tanır, kimse onu **bilmez.**
 > balkondan inmemesinin sebebi yaşlılık değil: **oradan bütün vadi görünüyor.**
 > Her gecenin son notası bir rapordur. → [05-secrets-dm-only.md](05-secrets-dm-only.md)
 
+> ✅ **Oynandı (Session 04):** Balkondan **indi.** Şu an Calithra'da **yok** — yaralı (2 ok), karşı kıyıda, Harper birliğini toplamak üzere yolda ⬜. Akşam kemanı susuyor; şehir bunu **fark etti.** → [Session 04](../../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#12-oynandı--ne-oldu)
+
 **Statblock:** `Spy` (VGM/MM) + Bard cantrip'leri. Gerekirse *Vicious Mockery*,
 *Message*, *Charm Person*.
 

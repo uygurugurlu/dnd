@@ -50,7 +50,7 @@ bir buz tabakası.
 ## Çürümeyen ölüler ve **soğuk depo**
 
 Aşağıda ceset bozulmaz. Bu, hattaki en garip kurumu yarattı:
-**[Stillreach](stillreach.md)'in soğuk depoları.**
+**[Stillreach](stillreach/README.md)'in soğuk depoları.**
 
 - Hat boyunca ölen her madencinin bedeni aşağı gönderilir ve **buzda saklanır**.
 - Aileler Ager'de. Bedeni portaldan geçirmek pahalıdır, o yüzden bekletilir.

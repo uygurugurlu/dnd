@@ -77,7 +77,7 @@ teşkilattan ayrılmış bir **Brightcandle**'dı; kurduğu üç kural aynı zam
 
 | Üye | Rütbe | Kapak |
 |---|---|---|
-| Vesna Marroc | **Wise Owl** (hücre lideri) | Her akşam çalan, balkonundan inmeyen yaşlı kemancı |
+| Vesna Marroc | **Wise Owl** (hücre lideri) | Her akşam çalan, balkonundan inmeyen yaşlı kemancı — ✅ *Session 04: Concord ifşası sonrası hücre faaliyetini durdurdu; yaralı, yolda* |
 | Ilva Sunderly | Harpshadow | Liman vinççisi / şehrin en iyi dansçısı |
 | Nedra Corm | Watcher | Bağcı; **şarap fıçıları kurye** |
 

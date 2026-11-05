@@ -5,7 +5,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [party, player-characters]
-updated: 2026-09-13
+updated: 2026-11-05
 ---
 
 # Parti
@@ -19,17 +19,20 @@ updated: 2026-09-13
 | Oyuncu | Karakter | Sınıf | Tür | Dosya |
 |---|---|---|---|---|
 | **Ardan** | **Gwyndor** | **Paladin** — **undead**; Mürai gazisi, eski Ravonia ordusu | ⬜ reborn? revenant? | [→](../../05-characters/player-characters/new-campaign/gwyndor/README.md) |
-| **Koray** | **Grimnor** | **Druid** — Circle of the Moon | **Orc** | [→](../../05-characters/player-characters/new-campaign/grimnor/README.md) |
-| **Erdem** | **Vasili von Holtz** | **Wizard** — Bladesinger | ⬜ | [→](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md) |
+| **Koray** | **Grimgor** | **Druid** — Circle of the Moon | **Orc** | [→](../../05-characters/player-characters/new-campaign/grimgor/README.md) |
+| **Erdem** | **Vasili von Holtz** | **Wizard** — Necromancer *(L4 respec; eski Bladesinger)* | ⬜ | [→](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md) |
 | **Burak** | **Roful Roger** | **Monk** — denizci; night hag'in eski kurbanı | ⬜ | [→](../../05-characters/player-characters/new-campaign/roful-roger/README.md) |
 
 > ✏️ **Değişti (2026-08-30):** **Fighter slotu kaldırıldı, yerine Monk geldi.**
 > Aşağıdaki bölüm ve [Nat 1 / Nat 20 tabloları](../../08-rules/house-rules/crit-and-fumble.md#monk)
 > buna göre yeniden yazıldı.
 
-> ⚠️ **Vasili von Holtz bir Bladesinger** — ve bladesinging bir **elf** geleneği.
-> Karakter *"düşük ırklar yüksek ırklara hizmet etmeli"* diyen biri. Bunu kimden
-> öğrendiği hâlâ açık.
+> ✏️ **Değişti (2026-11-05):** Parti **Level 4** *(Tek Kulak 5)*. **Vasili L4'te Necromancer'a döndü**;
+> zombi familiar'ı **[Rahadin](../../05-characters/npcs/minor/rahadin.md)**, uşak gibi davranıyor; *Battle Familiar* odağı.
+> [Nat 1 / Nat 20 tablosu](../../08-rules/house-rules/crit-and-fumble.md#necromancer-wizard) güncellendi.
+>
+> ⚠️ **Vasili'nin eski Bladesong'u bir elf** geleneğiydi. Karakter *"düşük ırklar yüksek ırklara hizmet
+> etmeli"* diyen biri. Bunu kimden öğrendiği hâlâ açık — ve artık neden bıraktığı da.
 >
 > `<!-- doldur -->` alanları dolunca bu tablo ve
 > [Nat 1 / Nat 20 tabloları](../../08-rules/house-rules/crit-and-fumble.md)
@@ -69,7 +72,7 @@ olarak çoktan yargılanmış olman gerekirdi.
 
 ### Moon Druid — *doğa hiç konuşmadı ki sussun*
 
-> 👤 **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)** *(Koray)* — ork,
+> 👤 **[Grimgor](../../05-characters/player-characters/new-campaign/grimgor/README.md)** *(Koray)* — ork,
 > [Gorestead](../../03-ager/continents/ravonia/villages/gorestead.md)'li, [Selûne](../../02-lore/pantheon/faerunian/selune.md)'e bağlı,
 > [Emerald Enclave](../../02-lore/factions/emerald-enclave.md) ile temaslı. Güçleri **doğuştan değil** —
 > ailesini kaybettiği bir *oyundan* sonra geldi.
@@ -84,20 +87,22 @@ ve söylemiyor.
 | Kızıl gökyüzü hayvanlara ne yapıyor? | Göç yolları, uyku düzeni, doğum mevsimi |
 | **Kızılbaş** bitkisi | [Yutak Bataklığı](05-world-seeds.md#6-yutak-bataklığı)'nda kuyruklu yıldızlardan sonra türedi |
 
-### Bladesinger Wizard — *ölçebilen tek kişi*
+### Necromancer Wizard — *ölçebilen tek kişi*
 
 > 👤 **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** *(Erdem)* —
 > bütün gücü **geri alınmış** eski bir hükümdar. Elinde **bir yıldır gelecek
 > söylemeyen** bir omen destesi var: kıtadaki en somut sessizlik kanıtı.
 
 Wizard, büyüyü *öğrenilmiş bir sistem* olarak görüyor. Sistemde bir sapma varsa
-onu fark edecek kişi bu. Bladesong ayrıca elf geleneği —
-**[Silvaerun](05-world-seeds.md#4-silvaerun--kuzeyin-elf-şehri)** kapısı.
+onu fark edecek kişi bu. Bıraktığı Bladesong bir elf geleneğiydi —
+**[Silvaerun](05-world-seeds.md#4-silvaerun--kuzeyin-elf-şehri)** kapısı. Şimdi **necromancy**: sessizliğin
+en rahat ettiği okul. Hâlâ çalışıyor, ve kimse soru sormuyor.
 
 | Soru | Neden önemli |
 |---|---|
 | Hangi akademiden? | [Sparkhold](05-world-seeds.md#5-sparkhold--hextech-şehri) verilerine erişimi olabilir |
-| Bladesong bir *sanat* mı, bir *silah* mı? | Silvaerun bu soruyu ciddiye alır |
+| Bladesong'u neden bıraktı? | Silvaerun bu soruyu ciddiye alır |
+| Ölüyü **kim** kaldırıyor — Weave mi, başka bir şey mi? | Charaxis'te ölüler kendi kendine de kalkıyor → [Stillreach](../../04-charaxis/regions/stillreach/quests.md#1-dördüncü-vaka) |
 | Zayıflama hissini not tutuyor mu? | Tuttuysa elinde kıtadaki en değerli defter var |
 
 ### Monk — *hiçbir şey ödünç almamış olan*
@@ -119,7 +124,7 @@ Roger'ınki gelmiyor — **onun.** Beden, disiplin, tekrar.
 | Kim | Gücü nereden | Sessizlik ona ne yapıyor |
 |---|---|---|
 | **Gwyndor** | Susan bir tanrıya edilmiş yemin | **Her şey** |
-| **Grimnor** | 🔒 Bir av tanrısının deneyinden kalan | Sessizlik onun **koruyucusu** |
+| **Grimgor** | 🔒 Bir av tanrısının deneyinden kalan | Sessizlik onun **koruyucusu** |
 | **Vasili** | Yüzyıllarca **ödünçtü**, geri alındı | Borcunu kimin çağırdığını arıyor |
 | ⭐ **Roger** | **Kendisi** — bir hag'in bıraktığı bedenin üstünde | **Onu kurtardı.** Kalkarsa? |
 
@@ -158,6 +163,6 @@ Roger'ınki gelmiyor — **onun.** Beden, disiplin, tekrar.
 
 | Sistem | Bağ |
 |---|---|
-| [Nat 1 / Nat 20 tabloları](../../08-rules/house-rules/crit-and-fumble.md) | 13–20 satırları **bu dört sınıf için** yazıldı *(Fighter → **Monk** olarak güncellendi)* |
+| [Nat 1 / Nat 20 tabloları](../../08-rules/house-rules/crit-and-fumble.md) | 13–20 satırları **bu dört sınıf için** yazıldı *(Fighter → **Monk**; Bladesinger → **Necromancer**)* |
 | [Söylenti Sistemi](../../08-rules/house-rules/rumor-system.md) | Undead bir paladin şehre girdiğinde bir söylenti kartı otomatik açılır |
 | [Bölgesel Ekonomi](../../08-rules/house-rules/economy.md) | Savaş sonrası bölgeler; Thornhold geçidi |

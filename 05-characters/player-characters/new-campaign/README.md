@@ -21,8 +21,8 @@ updated: 2026-09-13
 | Oyuncu | Karakter | Tür | Sınıf | Dosya |
 |---|---|---|---|---|
 | **Ardan** | **Gwyndor** | **Undead** ⬜ tip | **Paladin** — Mürai gazisi | [→](gwyndor/README.md) 🟠 |
-| **Koray** | **Grimnor** | Orc | **Druid** — Circle of the Moon | [→](grimnor/README.md) ✅ |
-| **Erdem** | **Vasili von Holtz** | ⬜ | **Wizard** — Bladesinger | [→](vasili-von-holtz/README.md) ✅ |
+| **Koray** | **Grimgor** | Orc | **Druid** — Circle of the Moon | [→](grimgor/README.md) ✅ |
+| **Erdem** | **Vasili von Holtz** | ⬜ | **Wizard** — Necromancer *(L4 respec)* | [→](vasili-von-holtz/README.md) ✅ |
 | **Burak** | **Roful Roger** | ⬜ | **Monk** — denizci | [→](roful-roger/README.md) 🟠 |
 
 > ✏️ **2026-09-13:** Gwyndor ve Roger **klasöre terfi etti** — DM'in özet notları
@@ -68,7 +68,7 @@ Dört karakter arasında **kendiliğinden** kurulan bağlar:
 
 ### ⚔️ Selûne ↔ Shar
 
-| Grimnor | Vasili |
+| Grimgor | Vasili |
 |---|---|
 | **[Selûne](../../../02-lore/pantheon/faerunian/selune.md)**'ün sembolünü taşıyor — ama **dua etmiyor, hesap soruyor** | *"**[Shar](../../../02-lore/pantheon/faerunian/shar.md)** da fena değil"* |
 
@@ -87,28 +87,28 @@ sürüyor. Parti bunu bilmeden kuruldu. **İkisi de farkında değil.**
 
 ### 🚫 Ve asıl çatlak: bariyer kalksın mı?
 
-| [Grimnor](grimnor/README.md) | [Vasili](vasili-von-holtz/README.md) | [Gwyndor](gwyndor/README.md) | [Roger](roful-roger/README.md) |
+| [Grimgor](grimgor/README.md) | [Vasili](vasili-von-holtz/README.md) | [Gwyndor](gwyndor/README.md) | [Roger](roful-roger/README.md) |
 |---|---|---|---|
 | **Kalkmasın.** Sessizlik ailesini öldüren avı durdurdu | ⬜ *Gücünü geri almak için çözülmesi gerekebilir* — ve Dark Powers'a sunduğu adak **cevapsız** | **Kalksın.** Bütün varlığı susan bir tanrıya bağlı | ⬜ *Gücü kimseden gelmiyor* — ama **kuyruklu yıldızlar onu bir hag'den kurtardı.** Kalkarsa? |
 
-> 🔒 Grimnor'ın ailesini öldüren av, tanrılarla iletişim kesildiği için **bitti.**
+> 🔒 Grimgor'ın ailesini öldüren av, tanrılarla iletişim kesildiği için **bitti.**
 > Yani kampanyanın herkes tarafından *sorun* sayılan şeyi, o **çözüm** sayıyor —
 > ve bariyeri onarmaya çalışan partiye bir gün karşı çıkacak.
-> → [Grimnor DM notları](grimnor/04-dm-notes.md#-kampanyanın-tersine-çevirmesi)
+> → [Grimgor DM notları](grimgor/04-dm-notes.md#-kampanyanın-tersine-çevirmesi)
 
 ### 🌲 Mournwood — üç PC, bir orman
 
-| [Grimnor](grimnor/README.md) | [Vasili](vasili-von-holtz/README.md) | [Roger](roful-roger/README.md) |
+| [Grimgor](grimgor/README.md) | [Vasili](vasili-von-holtz/README.md) | [Roger](roful-roger/README.md) |
 |---|---|---|
 | *"Kendi ormanı."* Gorestead'li; geceyi orada geçiriyor | Ölümün eşiğinde bir **pixie** onu kurtardı — ve Vasili onu Dark Powers'a **adak** olarak öldürdü | [Ulkryssa](../../npcs/minor/mother-ulkryssa.md)'nın kurbanı; bir yıl trans hâlinde o ormana **kurye** olarak gidip geldi |
 
-> Aynı orman, aynı yıllar. Üçü de orada birbirini **görmüş** olabilir. Grimnor
+> Aynı orman, aynı yıllar. Üçü de orada birbirini **görmüş** olabilir. Grimgor
 > ormanında bir fey'in öldürüldüğünü **bilmiyor.** Roger ne taşıdığını **hatırlamıyor.**
 > → [Vasili DM notları](vasili-von-holtz/04-dm-notes.md#adak--dark-powers-duydu-mu) · [Roger DM notları](roful-roger/04-dm-notes.md#ne-taşıdı)
 
-### ⚙️ Iron Concord — Gwyndor'ın ailesi, Grimnor'ın işgalcisi
+### ⚙️ Iron Concord — Gwyndor'ın ailesi, Grimgor'ın işgalcisi
 
-| [Gwyndor](gwyndor/README.md) | [Grimnor](grimnor/README.md) | [Vasili](vasili-von-holtz/README.md) |
+| [Gwyndor](gwyndor/README.md) | [Grimgor](grimgor/README.md) | [Vasili](vasili-von-holtz/README.md) |
 |---|---|---|
 | Concord'un kadrosu **eski silah arkadaşları** | *"Kendi ormanını askerlere karşı savunur"* — ve Concord o ormana girecek | Concord'u *"tek anlaşılabilir düzen"* buluyor, başındaki cüceyi küçümsüyor |
 
@@ -117,7 +117,7 @@ sürüyor. Parti bunu bilmeden kuruldu. **İkisi de farkında değil.**
 
 ### ☄️ Kuyruklu yıldızları iyi haber sayan iki kişi
 
-| [Grimnor](grimnor/README.md) | [Roger](roful-roger/README.md) |
+| [Grimgor](grimgor/README.md) | [Roger](roful-roger/README.md) |
 |---|---|
 | *"Keşke biraz daha erken gelseymiş"* — av bitti | Hag'in kontrolü bitti — **uyandı** |
 
@@ -126,16 +126,16 @@ sürüyor. Parti bunu bilmeden kuruldu. **İkisi de farkında değil.**
 
 ### 🌑 Charaxis bilgi asimetrisi
 
-| Grimnor | Vasili |
+| Grimgor | Vasili |
 |---|---|
 | **Charaxis'e uğradı** | **Gitmedi** |
 
-Uyduya dair her konuda Grimnor cevap veren, Vasili soru soran taraf.
+Uyduya dair her konuda Grimgor cevap veren, Vasili soru soran taraf.
 Vasili için bu **yeni bir durum** — yüzyıllarca bilmediği bir şey yoktu.
 
 ### 🎭 Aynı sorunun iki cevabı
 
-| | Grimnor | Vasili |
+| | Grimgor | Vasili |
 |---|---|---|
 | **Kaybettiği** | Ailesi | Krallığı, gücü, ölümsüzlüğü, adı |
 | **Kaybettiren** | 🔒 Bir **av tanrısı** — ve engellemeyen diğerleri | Ödünç verdiğini geri alan bir şey |
@@ -148,12 +148,12 @@ Vasili için bu **yeni bir durum** — yüzyıllarca bilmediği bir şey yoktu.
 ### 🔒 Ve ikisini birden tutan bir NPC
 
 > **[DM ONLY]** [Mother Ulkryssa](../../npcs/minor/mother-ulkryssa.md) —
-> Grimnor'ın ailesini öldüren avın **tek tanığı**, Vasili'nin gerçek adını
+> Grimgor'ın ailesini öldüren avın **tek tanığı**, Vasili'nin gerçek adını
 > **biliyor olabilir.** Avı o kurmadı — kuran [Malar](../../../02-lore/pantheon/faerunian/malar.md);
-> ama Grimnor'a o ismi **satabilecek** tek yerel kaynak o.
+> ama Grimgor'a o ismi **satabilecek** tek yerel kaynak o.
 > **Ve artık üçüncüsü:** [Roger](roful-roger/README.md)'ın bedenini bir yıl **o sürdü.**
 > **Tek night hag, üç PC.** →
-> [Grimnor DM notları](grimnor/04-dm-notes.md) · [Vasili DM notları](vasili-von-holtz/04-dm-notes.md) · [Roger DM notları](roful-roger/04-dm-notes.md#ulkryssanın-üç-pcsi)
+> [Grimgor DM notları](grimgor/04-dm-notes.md) · [Vasili DM notları](vasili-von-holtz/04-dm-notes.md) · [Roger DM notları](roful-roger/04-dm-notes.md#ulkryssanın-üç-pcsi)
 
 ## Bekleyenler
 
@@ -166,7 +166,7 @@ Vasili için bu **yeni bir durum** — yüzyıllarca bilmediği bir şey yoktu.
 - [ ] **Gwyndor ne zaman öldü?** → [gwyndor/04-dm-notes.md](gwyndor/04-dm-notes.md#ne-zaman-öldü--üç-okuma)
 - [ ] **Roger ne taşıdı?** → [roful-roger/04-dm-notes.md](roful-roger/04-dm-notes.md#ne-taşıdı)
 - [ ] **Vasili'nin pixie'sinin adı** ve adağın sonucu → [vasili-von-holtz/04-dm-notes.md](vasili-von-holtz/04-dm-notes.md#adak--dark-powers-duydu-mu)
-- [ ] **Ansiklopedilerdeki *(öneri)* satırları** oyuncularla onaylanacak — özellikle Roger'ın limanları, Gwyndor'ın cepheleri, Grimnor'ın Charaxis rotası
+- [ ] **Ansiklopedilerdeki *(öneri)* satırları** oyuncularla onaylanacak — özellikle Roger'ın limanları, Gwyndor'ın cepheleri, Grimgor'ın Charaxis rotası
 - [ ] **Partiyi bir araya getiren şey** — hâlâ kararlaşmadı
       ([öneri: portal + rüya](../../../06-campaigns/new-campaign/04-party.md#partiyi-bir-araya-getiren-şey))
 - [ ] **Başlangıç seviyesi** ve buluşma sahnesi

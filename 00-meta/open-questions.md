@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Açık Sorular
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 # Açık Sorular
@@ -76,7 +76,7 @@ yazılır ve buradaki satır **Kapananlar**'a taşınır.
 - [ ] **Vasili'nin adağı duyuldu mu?** *Öneri: hayır — aynı bariyer.* Sisler gelirse
       Vasili bunu adağın kabulü sanır → [vasili/04-dm-notes.md](../05-characters/player-characters/new-campaign/vasili-von-holtz/04-dm-notes.md#adak--dark-powers-duydu-mu)
 - [ ] **Vasili Silvaerûn'a girdi mi?** Davet gerekiyor; Caélora'nın kapı bekçisi davetsiz birini **bekliyor**
-- [ ] ⚠️ **Grimnor, Vasili'nin ormanında bir fey öldürdüğünü ne zaman öğrenir?** Parti içi ikinci büyük çatlak
+- [ ] ⚠️ **Grimgor, Vasili'nin ormanında bir fey öldürdüğünü ne zaman öğrenir?** Parti içi ikinci büyük çatlak
 - [ ] **Mournwood'da bir Feywild geçidi var mı?** Pixie oradaydı → [feywild.md](../01-cosmology/echo-planes/feywild.md#ager-bağlantısı)
 - [ ] **"Roful" ne demek** — lakap mı, soyadı mı?
 - [ ] **Vasili'yi yenen "kel keşiş" ile Roger arasında bağ var mı?**
@@ -88,25 +88,25 @@ yazılır ve buradaki satır **Kapananlar**'a taşınır.
 - [ ] **Ham nottaki `kom 20 15 değiş` ne demek?** Koray'ın notunda duruyor;
       ability score düzeltmesi olabilir. Yorumlanmadı, aynen saklandı
       → [00-raw-notes.md](../05-characters/player-characters/new-campaign/00-raw-notes.md#çözülmemiş-ham-satırlar)
-- [x] ~~**Grimnor'ın oyununu kim kurdu?**~~ → ✅ **[Malar](../02-lore/pantheon/faerunian/malar.md)**,
+- [x] ~~**Grimgor'ın oyununu kim kurdu?**~~ → ✅ **[Malar](../02-lore/pantheon/faerunian/malar.md)**,
       *the Beastlord* (CE) *(karar: 2026-08-30)*. Av 1494'te, kuyruklu yıldızlar tanrıların
       hattını kestiği için **bitti.** [Mother Ulkryssa](../05-characters/npcs/minor/mother-ulkryssa.md)
       tasarımcı değil — **avın leşçisi ve tek tanığı.**
-- [ ] **Grimnor adı ne zaman ve kimden öğrenecek?** Tek yerel kaynak Ulkryssa ve
+- [ ] **Grimgor adı ne zaman ve kimden öğrenecek?** Tek yerel kaynak Ulkryssa ve
       bir hag cevabı **satar.** Fiyatı belirlenmedi
 - [ ] **Av hangi yıl oynandı?** *(öneri: 1493 — Malar'ın tamamladığı son av)*
 - [ ] **Kaç köy avlandı, ve seçilip avlanamayan köy hangisi?** Malar dosyasında
       hook olarak duruyor: *kurtulmuş ama bunu bilmeyen bir köy*
 - [ ] **Ager'de Malar'ın açık bir kilisesi / Black Blood benzeri bir sürüsü var mı?**
       Yoksa av doğrudan mı yürütüldü?
-- [ ] ⚠️ **Parti bariyeri onarmaya çalışırsa Grimnor ne yapar?** Kampanyanın merkezî
+- [ ] ⚠️ **Parti bariyeri onarmaya çalışırsa Grimgor ne yapar?** Kampanyanın merkezî
       sorusu bir PC için **ters** işliyor → [06-clocks.md](../06-campaigns/new-campaign/06-clocks.md)
-- [ ] **Grimnor'ın ailesi nerede?** Malar avında ölenler Malar'ın olur — ama hat koptu,
+- [ ] **Grimgor'ın ailesi nerede?** Malar avında ölenler Malar'ın olur — ama hat koptu,
       yani **alınamadılar.** Saat 1'in 4–5. dilimleriyle aynı olgu
 - [ ] **Gorestead'in baskın halkı insan mı, ork mu?** Köy dosyası *insan* diyor,
       [kıta dosyası](../03-ager/continents/ravonia/README.md#halklar) *ork köyü* diyor.
-      Grimnor ork ve oralı. **Köy dosyasına dokunulmadı.**
-- [ ] **Moondust uyuşturucu olarak kullanılıyor mu?** Grimnor'ın *"uyuşturucuya karşı"*
+      Grimgor ork ve oralı. **Köy dosyasına dokunulmadı.**
+- [ ] **Moondust uyuşturucu olarak kullanılıyor mu?** Grimgor'ın *"uyuşturucuya karşı"*
       notunu [Gharuk Kumpanyası](../06-campaigns/new-campaign/factions-in-play/orc-factions.md)
       hattına bağlamak üç şeyi birden açıklıyor — ama repoda **henüz yazılı değil**, öneri
 - [ ] **Vasili Ager'e ne zaman düştü?** *Öneri: 1494* — destenin *"1 yıldır"*ı,
@@ -117,7 +117,7 @@ yazılır ve buradaki satır **Kapananlar**'a taşınır.
 - [ ] **Tarokka destesi mekanik bir eşya mı?** Şu an **plot item**. Mekanik istenirse
       `08-rules/homebrew/items/` altına yazılmalı ([CLAUDE.md §5.5](../CLAUDE.md))
 - [ ] **[Emerald Enclave](../02-lore/factions/emerald-enclave.md) hâlâ stub** —
-      merkezi, lideri, sembolü boş. Grimnor üye olduğuna göre doldurulması gerekiyor
+      merkezi, lideri, sembolü boş. Grimgor üye olduğuna göre doldurulması gerekiyor
 - [x] ~~**"Stormhold kalesi" neresi?**~~ → **[Thornhold](../03-ager/continents/ravonia/sites/thornhold-kalesi.md)** *(DM onayı, 2026-08-30)*
 
 ## Saha Tahtası *(2026-08-30'da açıldı)*
@@ -506,7 +506,7 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] ⭐ **Shapeshifter'ların ortak aklı ne?** *(Gwyndor Religion Nat 20)* → [Gwyndor DM notları](../05-characters/player-characters/new-campaign/gwyndor/04-dm-notes.md#shapeshifterlar). Dini ne, neye tapıyorlar?
 - [ ] **Gwyndor shapeshifter'ları neden avlıyor?** Ölümüyle/Kırk Gün'le bağı?
 - [ ] **Calith nerede?** *(Fig'in bağı onun yaşadığını gösteriyor)* → [Fig](../05-characters/npcs/minor/fig.md)
-- [ ] **Moondust'ı Son Mektup Fırını'ndaki ekmeğe kim koydu?** Marto mu, Gharuk Kumpanyası mı, kaza mı? Grimnor'ın tepkisi
+- [ ] **Moondust'ı Son Mektup Fırını'ndaki ekmeğe kim koydu?** Marto mu, Gharuk Kumpanyası mı, kaza mı? Grimgor'ın tepkisi
 - [ ] **Stane, Gwyndor'dan ne istiyor?** *(öneri: paladin aurası — Vashka'nın susan tanrısı)*
 - [ ] **Oynanış tarihi ve seviye** — session-01 `real_date` / `level_*` ⬜
 - [ ] **Gallows Speaker:** Voice yeni bir Speaker'a dönüşebilir mi? Sharran tonu (Shar 1494'ten beri sessiz) nereden? Marr'ın dikişteki *"Ne görüyorsun?"* sesi Speaker mıydı? → [gallows-speaker](../02-lore/bestiary/gallows-speaker.md)
@@ -515,7 +515,7 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 ## Session 02 — Grafting'in İçi / Session 03 hazırlığı *(2026-10-15)*
 
 - [ ] ⭐ **Duraklama'nın kapsamı:** kuyruklu yıldızlar **her yerde** mi durdu, yalnız Kırıkbağ'da mı? *(öneri: gökyüzü her yerde; eski güçler yalnız Grafting içinde)* → [Charaxis Yolu §1](../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02)
-- [ ] ⭐ **Duraklama'da kim ne geri aldı?** Dört öneri (Gwyndor: kalp atışı · Grimnor: ailenin uluması · Vasili: Darklord gücü + destenin kartı · Roger: ham büyü + cadının sesi) onay bekliyor
+- [ ] ⭐ **Duraklama'da kim ne geri aldı?** Dört öneri (Gwyndor: kalp atışı · Grimgor: ailenin uluması · Vasili: Darklord gücü + destenin kartı · Roger: ham büyü + cadının sesi) onay bekliyor
 - [ ] **Tek Kulak:** tür, gerçek ad, barbar geçmişi, kulağını nasıl kaybetti, **Roger'ı nereden tanıyor** — oyuncu (Ozan) söyleyecek → [tek-kulak.md](../05-characters/npcs/minor/tek-kulak.md)
 - [ ] **Trell sandığını kim sipariş etti?** *(öneri: Torc Halbrand)* · Sandık şu an kimde?
 - [ ] **Silik köyün ve kuyunun adı** · kilise hangi tanrıya adanmıştı (sembol kazınmış)
@@ -530,11 +530,23 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] **Halime/Halit Orphaned Voice ile yaşayabilirdi** (Speaker önce öldü) — bunu partiye kim, ne zaman söyler (öneri: kimse / Mirel Ashvane)?
 - [ ] Session 03'ün oyun içi süresi ve seviye (`real_date`, `level_*`)
 
-## Session 04 — Yedinci Kapı *(prep, 2026-10-29)*
+## Session 05 — Kapağın Altı *(prep, 2026-11-05)*
+
+- [ ] **[Concord Defteri](../08-rules/homebrew/items/concord-ledger.md):** rarity · attunement · elle yazılabilir mi · Stane sayfaları görüyor mu · kaç kopya var?
+- [ ] **Gwyndor'ın adı defterde mi?** *(öneri: var; tür boş; durum "görüldü")*
+- [ ] **Vesna:** hangi limanda indi, şimdi nerede · oklar öldürmek için miydi, uyarı için mi · Calithra'da Nedra ne yapıyor?
+- [ ] **[Rahadin](../05-characters/npcs/minor/rahadin.md)'in bedeni kimin?** *(öneri: Rask Dorin)* · *Battle Familiar* kitap metni (elmas harcanıyor mu, Undead Fortitude kalıyor mu) — ikincil kaynaktan yazıldı
+- [ ] **Stillreach:** [yanar buz](../04-charaxis/regions/stillreach/README.md#şehir-neyle-yaşıyor) kanon mu · [Emmer = Yazan El](../04-charaxis/regions/stillreach/05-secrets-dm-only.md#yazan-el) · ölülerin uyanması Defter yüzünden mi?
+- [ ] **Kör Patlak'ın sebebi** parti mi *(fırtınayı öldürünce)* — söylenecek mi?
+- [ ] **Sorka'nın istediği** ne · Kırık Boynuz Gorestead'e baskın yaptı mı?
+- [ ] **Sayman'ın bir fazlası:** kim ölür *(öneri: Tuk)*
+- [ ] [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) DM yedeği statblock L5'e göre güncellenecek
+
+## Session 04 — Yedinci Kapı *(oynandı, 2026-11-05)*
 
 - [ ] Grafting'den çıkınca dışarıda **kaç gün** geçmiş? *(öneri: 2 — 23 Uktar)*
 - [ ] **Yedinci Kapı**'nın Charaxis ucu Stillreach'e ne kadar uzak? *(öneri: ~8 mil, buzda 1 gün)* · Başka mühürlü kapı var mı?
 - [ ] **Nöbet Rünleri:** artan altıncı taş kime gider · Charaxis'te uzun dinlenme rünle nasıl işler
-- [ ] **Rask Dorin** kapıdan kaçarsa Charaxis'te ne olur
+- [ ] **Rask Dorin**'in akıbeti *(haydutlar öldü; o da mı?)*
 - [ ] Vesna'nın dönüş ödülü *(öneri: 100 gp/kişi)*
 

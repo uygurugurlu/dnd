@@ -131,7 +131,7 @@ avukatların tek geliri.
 | | |
 |---|---|
 | **Ager ucu** | [Surfwale](../../03-ager/continents/karsovia/sites/surfwale.md) doğusu — Lover's Cut |
-| **Charaxis ucu** | [Stillreach](../regions/stillreach.md), Don-64 |
+| **Charaxis ucu** | [Stillreach](../regions/stillreach/README.md), Don-64 |
 | **Kim tutuyor** | Soğuk İmtiyaz + 140 Karsovyalı asker |
 | **Ne geçiyor** | Chronoshard, ceset, mahkûm, memur |
 | **Yol** | Şehrin içinde |

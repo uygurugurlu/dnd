@@ -68,8 +68,8 @@ player-characters/
 | Oyuncu | Karakter | Sınıf | Durum |
 |---|---|---|---|
 | **Ardan** | **[Gwyndor](new-campaign/gwyndor/README.md)** | Paladin — **undead**, Mürai gazisi | 🟠 Klasör — oyuncu metni bekleniyor |
-| **Koray** | **[Grimnor](new-campaign/grimnor/README.md)** | Druid — Circle of the Moon *(orc)* | ✅ Yazıldı |
-| **Erdem** | **[Vasili von Holtz](new-campaign/vasili-von-holtz/README.md)** | Wizard — Bladesinger | ✅ Yazıldı |
+| **Koray** | **[Grimgor](new-campaign/grimgor/README.md)** | Druid — Circle of the Moon *(orc)* | ✅ Yazıldı |
+| **Erdem** | **[Vasili von Holtz](new-campaign/vasili-von-holtz/README.md)** | Wizard — Necromancer | ✅ Yazıldı |
 | **Burak** | **[Roful Roger](new-campaign/roful-roger/README.md)** | **Monk** — denizci, hag kurbanı | 🟠 Klasör — oyuncu metni bekleniyor |
 
 > 📈 **Dördü de klasör** *(2026-09-13)*. 🟠 = DM özetiyle yazıldı, oyuncunun kendi

@@ -16,7 +16,7 @@ sources:
   - https://forgottenrealms.fandom.com/wiki/Red_Knight
   - https://forgottenrealms.fandom.com/wiki/Gond
   - https://forgottenrealms.fandom.com/wiki/Helm
-updated: 2026-08-12
+updated: 2026-11-05
 ---
 
 # The Iron Concord
@@ -111,6 +111,8 @@ adı, gücü, okulu, adresi ve akrabaları.
 | Afet müdahalesinde caster seferberliği | Kimin susturulacağının listesi |
 | Sahte büyücülük dolandırıcılığının önlenmesi | Kimin işe yarayacağının listesi |
 | Sigorta ve tazminat | ⬜ |
+
+> 📕 **Fiziksel kopyası oyunda:** Stane Session 04'te partiye bir tane verdi → [Concord Defteri](../../../../08-rules/homebrew/items/concord-ledger.md) *(tüm defterler bağlı; Unwoven işi)*.
 
 > **[DM ONLY]** Ledger, [The Unweave](README.md#4-unwovenın-gerçek-planı--the-unweave)'in
 > **iplik listesi.** Yeni bir tezgâh kurmak için önce hangi ipliklerin var

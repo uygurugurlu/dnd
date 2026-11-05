@@ -249,7 +249,7 @@ updated: 2026-10-15
 
 **Bir tane hâlâ kendisi:** ⬜ *(öneri: **Wren**, tek **berrak** pixie — konuşabiliyor; **"aşağıdan bir şey çekiyor"** diyor; partiyi **yönlendirir**, ama **çıkmaya** korkar)*.
 
-> 🪝 **[HOOK]** *Grimnor Feywild'a meraklı.* Pixie'lerden biri Vasili'ye **bakıp** *"seni Mournwood'da gördüm"* diyebilir. ⚠️ **Parti-içi çatlak** — [Vasili DM notları](../../../05-characters/player-characters/new-campaign/vasili-von-holtz/04-dm-notes.md#adak--dark-powers-duydu-mu). **Şimdi mi, sonra mı?** ⬜ DM seçer.
+> 🪝 **[HOOK]** *Grimgor Feywild'a meraklı.* Pixie'lerden biri Vasili'ye **bakıp** *"seni Mournwood'da gördüm"* diyebilir. ⚠️ **Parti-içi çatlak** — [Vasili DM notları](../../../05-characters/player-characters/new-campaign/vasili-von-holtz/04-dm-notes.md#adak--dark-powers-duydu-mu). **Şimdi mi, sonra mı?** ⬜ DM seçer.
 
 ---
 
@@ -364,7 +364,7 @@ updated: 2026-10-15
 - 🔒 **Ad kuralı sürer:** Speaker **Vasili'nin gerçek adını söylemez**, hiçbir yüzün adını söylemez — yalnız **tek cümle**. Ad **masada** da geçmez.
 - ⚠️ **Parti fark ederse:** *"kimdi bu?"* — Vasili **cevap vermek zorunda** ⬜.
 
-> 💡 **Diğer PC'ler için tek satır:** **Gwyndor** — **adı silinmiş bir mezar taşı** *"seni tanıyorum"* gibi ısınır *(ölü → tanır; ⬜)*. **Grimnor** — **ay ışığı** Shadowfell'de **kırık** *(Selûne cevap vermiyor, ama burada bir şey **yanıt** veriyor)*. **Roger** — **uyku** kokusu *(kabus, kulübe — ⬜)*.
+> 💡 **Diğer PC'ler için tek satır:** **Gwyndor** — **adı silinmiş bir mezar taşı** *"seni tanıyorum"* gibi ısınır *(ölü → tanır; ⬜)*. **Grimgor** — **ay ışığı** Shadowfell'de **kırık** *(Selûne cevap vermiyor, ama burada bir şey **yanıt** veriyor)*. **Roger** — **uyku** kokusu *(kabus, kulübe — ⬜)*.
 
 ## 5h. ⚖️ Denge — *XP bütçesi (DMG 2024)*
 

@@ -240,7 +240,7 @@ Karşılığında AC ve kaçış yüksek: onu susturmak için ona **yetişmek** 
 > Tek bir şey ister — *"Halden'i öldürmeyin. Onu **yanlış çıkarın.**"*
 > Bunun ne demek olduğunu açıklamaz.
 
-> **[HOOK]** **Bladesinger Wizard için:** Nyrra ona doğrudan sorar:
+> **[HOOK]** **Vasili için** *(necromancer; eski bladesinger)*: Nyrra ona doğrudan sorar:
 > *"Sen kaç yaşında büyü yapmaya başladın? Kim öğretti? Kaç para verdiler?"*
 > Üç sorunun da cevabı, partinin wizard'ının bir **ayrıcalık** taşıdığını
 > masaya kanıtlar. Bu bir dövüş değil, bir sorgudur — ve kazanılması zordur.

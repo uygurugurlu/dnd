@@ -16,7 +16,7 @@ updated: 2026-09-13
 > Haritadan okundu. İçerik henüz yazılmadı.
 
 > 👤 **PC bağları (New Campaign) — üç karakterin geçmişi bu ormanda:**
-> [Grimnor](../../../../05-characters/player-characters/new-campaign/grimnor/README.md) *(Gorestead'li; "kendi ormanı")* ·
+> [Grimgor](../../../../05-characters/player-characters/new-campaign/grimgor/README.md) *(Gorestead'li; "kendi ormanı")* ·
 > [Vasili von Holtz](../../../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md) *(Silvaerûn'a giderken ölümün eşiğinde bir pixie onu kurtardı)* ·
 > [Roful Roger](../../../../05-characters/player-characters/new-campaign/roful-roger/README.md) *([Mother Ulkryssa](../../../../05-characters/npcs/minor/mother-ulkryssa.md)'nın kurbanı; bir yıl trans hâlinde kurye)*.
 > Orman yazılırken **bu üçünün etrafında** yazılabilir; bir Feywild geçidi olması muhtemel.

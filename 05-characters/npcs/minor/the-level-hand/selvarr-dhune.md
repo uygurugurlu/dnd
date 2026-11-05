@@ -244,7 +244,7 @@ ve Selvarr bu kuralı ihlal etmiyor. *Darkness* konusunda ise ediyor.
 > teknik bir hile sanıyor ve bunun nasıl yapıldığını hiç sormamış olması,
 > hareketin en büyük kör noktası.
 
-> **[DM ONLY]** **Bladesinger Wizard'ın adını sayım defterine Selvarr yazdı.**
+> **[DM ONLY]** **Vasili'nin adını sayım defterine Selvarr yazdı.**
 > Kaynağı Sparkhold verileri değil, [Iron Concord](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md#the-ledger)'un
 > **Ledger**'ı — yani Concord ile Level Hand arasındaki gizli hat sadece
 > suppressor taşımıyor, **isim de taşıyor.** Bu, faksiyon dosyasındaki açık

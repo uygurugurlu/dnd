@@ -56,7 +56,7 @@ ihtimalle oraya çıkıyordu *(öneri)*. Trans hâlindeyse **hatırlamıyor** ol
 | Bağ | Ne |
 |---|---|
 | **[Gorestead](../../../../03-ager/continents/ravonia/villages/gorestead.md)** | Ormanın güney eteğindeki köy; kural: *"ormanda geceyi geçiren olmaz."* Yaşlı Ophie bunun nereden geldiğini hatırlayan tek kişi. **Roger'ı ormandan çıkarken gören biri var mı?** ⬜ |
-| **[Grimnor](../grimnor/README.md)** | Gorestead'li; Mournwood *"kendi ormanı"*. Roger o ormanda **uyurgezer bir kuryeydi** — Grimnor onu görmüş olabilir ve tanımamış olabilir |
+| **[Grimgor](../grimgor/README.md)** | Gorestead'li; Mournwood *"kendi ormanı"*. Roger o ormanda **uyurgezer bir kuryeydi** — Grimgor onu görmüş olabilir ve tanımamış olabilir |
 | **[Grak Hollow](../../../../03-ager/continents/ravonia/villages/grak-hollow.md)** | Mournwood'a en yakın **liman** (batı kıyısı, kuzeybatı ucu). Bir denizciyi ormana bağlayan en kısa yol *(öneri: kurye rotasının deniz ucu)* |
 
 ## Getir götür — kayıp yıl
@@ -153,5 +153,5 @@ değil** — savaş yıllarında ⬜ denizdeydi ya da komadaydı. Cevabı:
 | Kim | Eksen |
 |---|---|
 | **[Vasili von Holtz](../vasili-von-holtz/README.md)** | *"Kel keşiş"* gerilimi — bedava, kendiliğinden. Ayrıca Vasili [Mournwood](../../../../03-ager/continents/ravonia/regions/mournwood.md)'dan geçti; Roger orada kuryeydi. Aynı orman, aynı yıl *(öneri)* |
-| **[Grimnor](../grimnor/README.md)** | Kuyruklu yıldızları **iyi haber** sayan iki kişi. Grimnor'ın ormanı, Roger'ın hapishanesi. Ve Grimnor *"uyuşturucuya karşı"* — Roger ne taşıdı? 🔒 |
+| **[Grimgor](../grimgor/README.md)** | Kuyruklu yıldızları **iyi haber** sayan iki kişi. Grimgor'ın ormanı, Roger'ın hapishanesi. Ve Grimgor *"uyuşturucuya karşı"* — Roger ne taşıdı? 🔒 |
 | **[Gwyndor](../gwyndor/README.md)** | *"Kimin bedeni?"* — ikisi de bir yıl boyunca kendi bedeninde yabancıydı |

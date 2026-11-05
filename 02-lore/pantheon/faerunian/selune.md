@@ -82,12 +82,12 @@ arasında doğrudan bir bağ vardır.
 | [Mystra](mystra.md) | Müttefik |
 | **[Malar](malar.md)** | 🔴 Düşman (lycanthrope'lar üzerinden) |
 
-> 👤 **PC bağı — New Campaign:** **[Grimnor](../../../05-characters/player-characters/new-campaign/grimnor/README.md)**
+> 👤 **PC bağı — New Campaign:** **[Grimgor](../../../05-characters/player-characters/new-campaign/grimgor/README.md)**
 > Selûne'ün sembolünü taşıyor ama **dua etmiyor.** Ailesi bir
-> [Malar](malar.md) avında öldü ve Grimnor Selûne'ü — Malar'ın karşıtı ve
+> [Malar](malar.md) avında öldü ve Grimgor Selûne'ü — Malar'ın karşıtı ve
 > *iyi lycanthrope'ların koruyucusu* olarak — **gelmemekle** suçluyor.
 > Onun için Selûne bir hâmi değil, bir **tanık.**
-> → [02-ties.md](../../../05-characters/player-characters/new-campaign/grimnor/02-ties.md#selûne--tapınma-değil-dava)
+> → [02-ties.md](../../../05-characters/player-characters/new-campaign/grimgor/02-ties.md#selûne--tapınma-değil-dava)
 
 ## Ager'de
 

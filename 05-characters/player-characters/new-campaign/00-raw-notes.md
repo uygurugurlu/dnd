@@ -23,7 +23,7 @@ updated: 2026-09-13
 
 ---
 
-## Koray → [Grimnor](grimnor/README.md) · Moon Druid, ork
+## Koray → [Grimgor](grimgor/README.md) · Moon Druid, ork
 
 ```
 koray anarşist - solcu gibi
@@ -38,7 +38,7 @@ keşke biraz daha erken gelseymiş kuyruklu yıldızlar.
 goblinlerle stormhold kalesinde tanışmış. çok fazla kişiyi tanımıyor.
 başkente ticaret için gittin.
 uyuşturucu sevmiyor karşı.
-grimnor
+grimgor
 kom 20 15 değiş
 ```
 

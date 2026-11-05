@@ -5,7 +5,7 @@ campaign: New Campaign
 status: planning
 canon: homebrew
 in_world_start: 1495 DR
-players: [Gwyndor — undead paladin (Ardan), Grimnor — moon druid (Koray), Vasili von Holtz — bladesinger wizard (Erdem), Roful Roger — monk (Burak)]
+players: [Gwyndor — undead paladin (Ardan), Grimgor — moon druid (Koray), Vasili von Holtz — necromancer wizard (Erdem), Roful Roger — monk (Burak)]
 tags: [campaign, planning, comets, silent-gods, unwoven]
 updated: 2026-08-30
 ---
@@ -34,7 +34,7 @@ updated: 2026-08-30
 | | |
 |---|---|
 | **Durum** | Planlama |
-| **Parti** | **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor/README.md)** *(undead paladin)* · **[Grimnor](../../05-characters/player-characters/new-campaign/grimnor/README.md)** *(moon druid)* · **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** *(bladesinger)* · **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger/README.md)** *(monk)* |
+| **Parti** | **[Gwyndor](../../05-characters/player-characters/new-campaign/gwyndor/README.md)** *(undead paladin)* · **[Grimgor](../../05-characters/player-characters/new-campaign/grimgor/README.md)** *(moon druid)* · **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** *(necromancer)* · **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger/README.md)** *(monk)* |
 | **Başlangıç** | ⬜ seviye ve konum belirlenmedi |
 | **Ton** | Kozmik sessizlik + sınır coğrafyası + teknolojik büyü. Şehir entrikası değil, **kıta ölçeği**. |
 

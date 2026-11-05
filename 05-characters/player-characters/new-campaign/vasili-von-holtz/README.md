@@ -6,8 +6,8 @@ player: Erdem
 campaign: New Campaign
 species: ⬜ (insan görünümlü — bkz. Doğrulanacaklar)
 class: Wizard
-subclass: Bladesinger
-level: ⬜
+subclass: Necromancer
+level: 4
 alignment: ⬜ (lawful evil eğilimli)
 background: ⬜ (Noble — geçmişiyle uyumlu)
 deity: Yok — ama Shar'a *"fena değil"* diyor
@@ -16,11 +16,12 @@ affiliation: Yok. Faksiyonlara "çoluk çocuk" diyor
 status: active
 canon: adapted
 doc_status: usable
-tags: [pc, vasili-von-holtz, bladesinger, wizard, barovia, shar, tarokka, new-campaign]
+tags: [pc, vasili-von-holtz, necromancer, wizard, rahadin, battle-familiar, barovia, shar, tarokka, new-campaign]
 source: Oyuncunun kendi metni → handout-journal.md + DM notları (2026-09-13)
 sources:
   - https://forgottenrealms.fandom.com/wiki/Shadowfell
-updated: 2026-09-13
+  - "Arcana Unleashed — Necromancer Wizard; Battle Familiar (kitap metni oyuncuda; özet: https://dungeonmister.com/guides/classes-in-dungeons-dragons/necromancer-wizard-dnd-2024/)"
+updated: 2026-11-05
 ---
 
 # Vasili von Holtz
@@ -43,8 +44,8 @@ değiştirilmemiş metin. Bu dosyadaki her şey oradan türer.
 | **Gerçek adı** | 🔒 **Strahd von Zarovich** — Barovia'nın Darklord'u. **Masada asla söylenmez** → [04-dm-notes.md](04-dm-notes.md) |
 | **Bıraktığı unvanlar** | *"Kadim Olan"* · *"Toprağın Kendisi"* · Darklord |
 | **Oyuncu** | Erdem |
-| **Sınıf** | **Wizard — Bladesinger** |
-| **Seviye** | ⬜ |
+| **Sınıf** | **Wizard — Necromancer** *(L4'te respec; önce Bladesinger)* |
+| **Seviye** | 4 *(Session 04)* |
 | **Yaş** | Yüzyıllar. Görünen yaş ⬜ |
 | **Memleket** | **Barovia** — [Domains of Dread](../../../../01-cosmology/echo-planes/shadowfell.md), artık ulaşılamıyor |
 | **Tanrı** | Yok. *"[Shar](../../../../02-lore/pantheon/faerunian/shar.md) da fena değil"* |
@@ -55,11 +56,14 @@ değiştirilmemiş metin. Bu dosyadaki her şey oradan türer.
 
 ## Mekanik Künye
 
+> ✏️ **2026-11-05 — Respec:** L4 olurken Erdem karakterini **Necromancer** wizard'a çevirdi.
+> Önceki oturumlar (S01–S04) Bladesinger olarak oynandı; bu tarih geçmişte kalıyor.
+
 | | |
 |---|---|
 | **Ability scores** | ⬜ |
 | **AC / HP / Speed** | ⬜ |
-| **Bladesong** | ⬜ |
+| **Familiar** | 🧟 **[Rahadin](../../../npcs/minor/rahadin.md)** — zombie; uşak gibi davranıyor. *Battle Familiar* ana büyüsü |
 | **Diller** | ⬜ (Common + ⬜; eski dili kimse tanımıyor) |
 | **Tarokka destesi** | ⚠️ **Plot item — sihirli eşya değil.** Mekanik istenirse `08-rules/homebrew/items/`'e yazılır ([CLAUDE.md §5.5](../../../../CLAUDE.md)) |
 
@@ -94,7 +98,7 @@ Günlükten, sırayla:
 | Ne | Nasıl |
 |---|---|
 | **Hafıza** | Yüzyılların tamamı. Hiçbir şeyi unutmadı |
-| **Zekâ ve irade** | *"Zihnim eski sözcükleri biliyordu"* — Bladesinger'ın temeli bu |
+| **Zekâ ve irade** | *"Zihnim eski sözcükleri biliyordu"* — wizard'ın temeli bu |
 | **Tarokka destesi** | Madam Eva'nın. **Neden aldığını hatırlamıyor** |
 | **Merak** | Kendi tanımadığı yeni his. *"İlk kez önümde gerçek yollar uzanıyor"* |
 | **Özgürlük** | *"Bunca yıl özgürlüğü küçümsedim... şimdi elimde kalan tek servet o"* |
@@ -147,7 +151,7 @@ Vasili bunu kıtadaki herkesten **erken** ve **elinde tutarak** biliyor.
 
 | Amaç | Kim biliyor | Nereye götürür |
 |---|---|---|
-| **Gücünü geri almak** | Kendisi | Bladesinger ilerlemesi — bu sefer **öğrenerek** |
+| **Gücünü geri almak** | Kendisi | Necromancer ilerlemesi — bu sefer **öğrenerek.** Ölüyü kaldırmak Barovia'dan beri bildiği iş; şimdi **her cümlesini ezberleyerek** |
 | Kimin ödünç verdiğini ve **kimin geri aldığını** öğrenmek | Kimse | Kampanyanın merkezî sorusu |
 | Barovia'ya dönüp dönemeyeceğini anlamak | Kimse | **Portallar** → [02-ties.md](02-ties.md#portallar) · **Silvaerûn** → [02-ties.md](02-ties.md#mournwood--silvaerûn--kuzey-yolu) |
 | **Dark Powers'a ulaşmak** — adağı kabul edildi mi? | Kimse | 🔒 [04-dm-notes.md](04-dm-notes.md#adak--dark-powers-duydu-mu) |
@@ -169,7 +173,8 @@ Vasili bunu kıtadaki herkesten **erken** ve **elinde tutarak** biliyor.
 
 - [ ] **Species ne?** Vampir değil artık. İnsan mı, revenant mı, "eski hâlinin
       kabuğu" diye tanımlanan bir şey mi? Sheet'te ne yazıyor?
-- [ ] **Seviye** ve Bladesinger ilerlemesi
+- [ ] Necromancer ilerlemesi · *Battle Familiar* elmas ekonomisi
+- [ ] [Rahadin](../../../npcs/minor/rahadin.md)'in **bedeni kimin?** *(öneri: Rask Dorin)*
 - [ ] **Ager'e ne zaman düştü?** *(bkz. [01-background.md](01-background.md#5-ne-zaman-düştü))*
 - [ ] **Tarokka destesi mekanik mi, sadece anlatı mı?** Mekanikse homebrew item dosyası gerekir
 - [ ] Barovia'yı ve isimleri (Tatyana, Sergei, Madam Eva) **partiye anlatıyor mu?**

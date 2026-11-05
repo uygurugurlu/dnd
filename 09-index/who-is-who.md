@@ -81,8 +81,8 @@ Simone Dumble · Milon Blackmane
 | Oyuncu | Karakter | Sınıf | Dosya |
 |---|---|---|---|
 | **Ardan** | **Gwyndor** | Paladin — **undead** | [→](../05-characters/player-characters/new-campaign/gwyndor/README.md) |
-| **Koray** | **Grimnor** | Druid — Circle of the Moon *(orc)* | [→](../05-characters/player-characters/new-campaign/grimnor/README.md) |
-| **Erdem** | **Vasili von Holtz** | Wizard — Bladesinger | [→](../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md) |
+| **Koray** | **Grimgor** | Druid — Circle of the Moon *(orc)* | [→](../05-characters/player-characters/new-campaign/grimgor/README.md) |
+| **Erdem** | **Vasili von Holtz** | Wizard — Necromancer | [→](../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md) |
 | **Burak** | **Roful Roger** | Monk | [→](../05-characters/player-characters/new-campaign/roful-roger/README.md) |
 
 📁 [Parti dosyaları](../05-characters/player-characters/new-campaign/README.md) ·
@@ -122,6 +122,7 @@ Unwoven'ın seçtiği dört lider →
 | [Esme "Kül"](../05-characters/npcs/minor/tek-kulak.md#esme-kül) | Human | Dördüncü Saat — Son Mektup Fırını'nın külcüsü; Tek Kulak'ı harcadı *(MM 2025 Spy)* | 1 |
 | **Rask Dorin** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Human | Eski Surfwale onbaşısı; Yedinci Kapı'yı ele geçiren kaçakçı elebaşı *(MM 2025 Bandit Captain)* | 2 |
 | **Maelis Toran** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Half-elf | Softsoil Harper hücresinin hayatta kalanı; Watcher *(MM 2025 Scout)* | 1/2 |
+| [Rahadin](../05-characters/npcs/minor/rahadin.md) | Undead | Vasili'nin zombi familiar'ı; **uşak.** ⚠️ Adın anlamı | 1/4 |
 
 ### Faksiyon kadroları — statsheet'li NPC'ler
 
@@ -231,6 +232,10 @@ Dünya: [04-charaxis/](../04-charaxis/README.md) · Hat: [regions/](../04-charax
 | **Ansel Corr** | İnsan (Ravonyalı), 41 | Widowsilver ustabaşı; Mürai savaşı gazisi, dağıtılmış ordudan | **6** | [→](../05-characters/npcs/minor/ansel-corr.md) |
 | **Murag Ghesk** | Ork, 44 | [Gharuk](../04-charaxis/factions.md#gharuk-kumpanyası) kâtibi, Ashkar Reach Kapı masası. ⚠️ **İki defter** | **5** | [→](../05-characters/npcs/minor/murag-ghesk.md) |
 | **Miren Talvo** | İnsan, 34 | Eski Selûne cleric'i; Grey Seam'de rüya okuyor. ⚠️ **Silüetle iki kez konuştu** | **5** | [→](../05-characters/npcs/minor/miren-talvo.md) |
+| **[Urzha Keth](../05-characters/npcs/minor/urzha-keth.md)** | Ork, 52 | [Stillreach](../04-charaxis/regions/stillreach/README.md) Gharuk simsarı. ⚠️ Halla ile Solyan arasında | **3** | [→](../05-characters/npcs/minor/urzha-keth.md) |
+| **[Bralga Ormak](../05-characters/npcs/minor/bralga-ormak.md)** | Ork, 47 | Stillreach Demirdiş baş makinisti; presler | **4** | [→](../05-characters/npcs/minor/bralga-ormak.md) |
+| **[Sorka Üçdiş](../05-characters/npcs/minor/sorka-ucdis.md)** | Ork, 33 | Kırık Boynuz sürgünü; Kurt Ahırı. ⚠️ Son vaha seferinden dönen tek kişi | **4** | [→](../05-characters/npcs/minor/sorka-ucdis.md) |
+| **Halla Venn** · **Emmer Tolland** · **Ulgar Harfçi** · **Tolga Erden** · **Perrel Soan** · **Tuk** | — | Stillreach kadrosu *(MM 2025 statblock'ları)* | 0–6 | [→](../04-charaxis/regions/stillreach/people.md) |
 | **Dwig Hollowear** | Deep gnome, 96 | Usta [Dinleyici](../04-charaxis/regions/nen-kharal.md#dinleyiciler), Nen-Kharal | **4** | [→](../05-characters/npcs/minor/dwig-hollowear.md) |
 
 **Yaratık:** [the Tallyman / Sayman](../02-lore/bestiary/the-tallyman.md) — CR 6,
@@ -280,7 +285,7 @@ Tam liste: [`02-lore/pantheon/`](../02-lore/pantheon/README.md)
 | [Ilmater](../02-lore/pantheon/faerunian/ilmater.md) | Marcus Hale'in tanrısı |
 | [Lathander](../02-lore/pantheon/faerunian/lathander.md) | Ravonia'nın en güçlü dini; Zariel'in eski efendisi |
 | **Deneir** | Quill 4'ün tanrısı (oneshot) |
-| 🔒 **[Malar](../02-lore/pantheon/faerunian/malar.md)** | **New Campaign** — [Grimnor](../05-characters/player-characters/new-campaign/grimnor/README.md)'ın ailesini öldüren avı kurdu. 1494'te hattı koptu; **kapıda bekliyor** |
+| 🔒 **[Malar](../02-lore/pantheon/faerunian/malar.md)** | **New Campaign** — [Grimgor](../05-characters/player-characters/new-campaign/grimgor/README.md)'ın ailesini öldüren avı kurdu. 1494'te hattı koptu; **kapıda bekliyor** |
 
 **Faerûnian:** Mystra · Shar · Selûne · Lathander · Kelemvor · Bane · Tempus · Tyr ·
 Torm · Ilmater · Helm · Chauntea · Silvanus · Talos · Oghma · Sune · Cyric · Tymora ·

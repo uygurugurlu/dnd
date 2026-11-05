@@ -6,13 +6,13 @@ canon: homebrew
 status: draft
 sessions: [3, 4, 5]
 tags: [arc, charaxis, stillreach, black-still, unwoven, duraklama, k-1, lovers-cut, harpers, trell, new-campaign]
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 # Charaxis Yolu — *Aynı Kapıya Dört Dilek*
 
 **Yukarı:** [Yaylar](README.md) · **Tohumlar ekilir:** [Session 03](../sessions/session-03-silik-koy.md) ·
-**Hedef:** [Charaxis](../../../04-charaxis/README.md) → [Stillreach](../../../04-charaxis/regions/stillreach.md) → [Black Still](../../../04-charaxis/regions/black-still.md)
+**Hedef:** [Charaxis](../../../04-charaxis/README.md) → [Stillreach](../../../04-charaxis/regions/stillreach/README.md) → [Black Still](../../../04-charaxis/regions/black-still.md)
 
 > 🎯 **Yayın tek cümlesi:** Kuyruklu yıldızlar **altı saniye** durdu ve partideki
 > herkes kaybettiği şeyi bir an geri aldı. Bunu yapan şey Charaxis'in karanlık
@@ -48,7 +48,7 @@ updated: 2026-10-29
 | PC | Geri gelen | Altı saniyenin bıraktığı soru |
 |---|---|---|
 | **[Gwyndor](../../../05-characters/player-characters/new-campaign/gwyndor/README.md)** | ⭐ **Kalbi attı.** Bir kez. Nefesi ılıktı — ve aynı anda **bir el** onu bir yere **çekmeye** başladı. Sonra yıldızlar yürüdü ve el gitti | *"Bariyer kalkarsa beni biri alacak."* → [DM notları, okuma B](../../../05-characters/player-characters/new-campaign/gwyndor/04-dm-notes.md#ne-zaman-öldü--üç-okuma) |
-| **[Grimnor](../../../05-characters/player-characters/new-campaign/grimnor/README.md)** | ⭐ **Ailesinin ulumasını** duydu — yakından, sanki kapının hemen öbür yanında. Ve uzaktan, kelime olmayan bir ses **"bir"** dedi | *"Bekliyorlar. Ve bir şey saymaya başladı."* → [Kapıdaki Avcı](../../../05-characters/player-characters/new-campaign/grimnor/03-development.md#4-kişisel-saat--kapıdaki-avcı) |
+| **[Grimgor](../../../05-characters/player-characters/new-campaign/grimgor/README.md)** | ⭐ **Ailesinin ulumasını** duydu — yakından, sanki kapının hemen öbür yanında. Ve uzaktan, kelime olmayan bir ses **"bir"** dedi | *"Bekliyorlar. Ve bir şey saymaya başladı."* → [Kapıdaki Avcı](../../../05-characters/player-characters/new-campaign/grimgor/03-development.md#4-kişisel-saat--kapıdaki-avcı) |
 | **[Vasili](../../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** | ⭐ **Her şey.** Gece, açlık, sis, güç. Güneş derisini yaktı. Deste **bir kart çevirdi** ve **geleceği söyledi** — sonra boşaldı | *"Geri alınabiliyor."* → [Kartlar Yeniden Konuşuyor](../../../05-characters/player-characters/new-campaign/vasili-von-holtz/03-development.md#4-kişisel-saat--kartlar-yeniden-konuşuyor) |
 | **[Roger](../../../05-characters/player-characters/new-campaign/roful-roger/README.md)** | ⭐ **Ham büyüsü** parmak uçlarına geldi — ve rüya-bağı bir an **yeniden tuttu:** kafasının içinde bir yaşlı kadın sesi, *"Buldum seni, kuryem."* | *"Kapı açılırsa o da geri gelir."* → [Kontrol neden bitti](../../../05-characters/player-characters/new-campaign/roful-roger/04-dm-notes.md#kontrol-neden-bitti) |
 | **[Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md)** | **Hiçbir şey.** | 🔒 Öfkesi hiç ödünç değildi → [Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md#duraklamada-session-02) |
@@ -69,7 +69,7 @@ dönüş yolunda (nehir → Z1) alınabilir.
 |---|---|
 | 📜 **Soğuk İmtiyaz iş sözleşmesi** — *"Trell, Oswin + 3 kişi. İki yıl, Stillreach. Avans: 40 gp ödendi."* Mühürlü, **[K-1](../../../04-charaxis/planar-sites/README.md#soğuk-basamak--k-1) geçiş kâğıdı** iliştirilmiş | **Yetki.** Kapının üç engelinden en zoru. [Soğuk İmtiyaz](../../../04-charaxis/factions.md#soğuk-i̇mtiyaz--the-cold-concession) dört işçi bekliyor — **parti dört kişi** |
 | ✉️ **Mektup** — *"Oswin. İmzalama. Ben imzaladım. Depoda üç ölüyü kaldırdılar; biri bizim bölüktendi ve **uyandı.** Geç kalmış gibi. Gelme. — A.C., Widowsilver"* | [Ansel Corr](../../../05-characters/npcs/minor/ansel-corr.md) — eski Ravonia çavuşu. **Gwyndor'ın ordusu.** Ve *uyanan ölü* → Gwyndor |
-| 🌫️ Küçük bir kesede **moondust** | [Gri Nefes](../../../04-charaxis/README.md#️-moondust--gri-nefes) — Grimnor'ın nefret ettiği şey, Roger'ın ekmeğindeki şey |
+| 🌫️ Küçük bir kesede **moondust** | [Gri Nefes](../../../04-charaxis/README.md#️-moondust--gri-nefes) — Grimgor'ın nefret ettiği şey, Roger'ın ekmeğindeki şey |
 
 > 🔒 **[DM ONLY] — Trell'ler neden kaçtı:** Oswin dağıtılmış Ravonia ordusundan.
 > Karsovya şirketinin sözleşmesini imzaladı, avansı aldı, Ansel'in mektubu geldi —
@@ -92,7 +92,7 @@ Session 03'te ekilenler:
 
 | # | İpucu | Nerede ekilir | Ne söyler |
 |---|---|---|---|
-| 1 | 🐕 **Blink Dog'un leşi** — kürkünde **erimeyen siyah kar**; gölgesi yarım saniye geriden geliyor; *Detect Magic*'te **hiçbir şey** yok | [S03 §1](../sessions/session-03-silik-koy.md#1-açılış--blink-dogun-leşi) | Grimnor tanır: **[Black Still](../../../04-charaxis/regions/black-still.md)'in buzu.** Arcana DC 15: büyü var ama **Weave'den değil** |
+| 1 | 🐕 **Blink Dog'un leşi** — kürkünde **erimeyen siyah kar**; gölgesi yarım saniye geriden geliyor; *Detect Magic*'te **hiçbir şey** yok | [S03 §1](../sessions/session-03-silik-koy.md#1-açılış--blink-dogun-leşi) | Grimgor tanır: **[Black Still](../../../04-charaxis/regions/black-still.md)'in buzu.** Arcana DC 15: büyü var ama **Weave'den değil** |
 | 2 | 💤 **Rüya** — ilk uzun dinlenmede herkes buzun ortasında **kardan bir silüet** görür; silüet her birine **bir soru** sorar | [S03 §9](../sessions/session-03-silik-koy.md#9-gece--rüya) | [Vahadaki silüet](../01-premise.md#rüya). **Roger en net görür** — moondust'lı ekmeği yedi |
 | 3 | ⚜️ **Harpers'ın sessiz hücresi** — boğazın öbür yakasındaki hücre Duraklama'dan beri **susmuş** | [S03 §6](../sessions/session-03-silik-koy.md#6-merdiven-altı--vesnanın-masası) | Yol [Surfwale](../../../03-ager/continents/karsovia/sites/surfwale.md)'e, oradan **K-1**'e çıkıyor |
 | 4 | 📜 **Trell sandığı** | [S03 §7](../sessions/session-03-silik-koy.md#7-tek-kulak--sabah-4) | **Yetki** ve **adres:** Stillreach |
@@ -114,17 +114,17 @@ Session 03'te ekilenler:
 |---|---|
 | **Neden gider** | Duraklama'da kalbi attı ve bir el onu çekti. Charaxis'in [Black Still](../../../04-charaxis/regions/black-still.md)'inde **ölüler çürümez** ve bazen **uyanır** — *"ölü değil, geç kalmış."* Onun gibi biri **başka yerde de** olmuş. Ve eski ordusundan **3.500 kişi** orada, borçlu, silahsız |
 | **S03'te ekilen** | Ansel'in mektubu (*"uyandı"*) · Stane'in teklifi · shapeshifter'ın vardiya pulu · kordonda bir eski silah arkadaşının **tanıması** ([kişisel saat dilim 2](../../../05-characters/player-characters/new-campaign/gwyndor/03-development.md#4-kişisel-saat--defterdeki-i̇sim)) |
-| **Charaxis'te bekleyen** | [Stillreach depoları](../../../04-charaxis/regions/stillreach.md) (4.100 beden) · [Saatçiler](../../../04-charaxis/factions.md#saatçiler--the-hourwrights)'in **üç vakalık** gizli kaydı · [Ansel Corr](../../../05-characters/npcs/minor/ansel-corr.md) · Ravonyalı borçlular — *"Bizi kim sayacak?"* |
+| **Charaxis'te bekleyen** | [Stillreach depoları](../../../04-charaxis/regions/stillreach/README.md) (4.100 beden) · [Saatçiler](../../../04-charaxis/factions.md#saatçiler--the-hourwrights)'in **üç vakalık** gizli kaydı · [Ansel Corr](../../../05-characters/npcs/minor/ansel-corr.md) · Ravonyalı borçlular — *"Bizi kim sayacak?"* |
 | 🔒 **Gerilim** | Saatçiler Gwyndor'ı **ölçmek** ister. Bir undead'in neden çürümediği onlar için bir **ticaret sırrı** |
 
-### 🌕 Grimnor — *"Bir daha olmasın."*
+### 🌕 Grimgor — *"Bir daha olmasın."*
 
 | | |
 |---|---|
 | **Neden gider** | Altı saniyede ailesinin ulumasını duydu ve bir şey **saymaya** başladı. Bariyeri bir an **açan** şey Charaxis'te. Partide sessizliği **savunan** tek kişi o — ve şimdi kapıyı açabilen şeyin **adresini** biliyor. Bonus: oraya bir kez gitti; [moondust](../../../04-charaxis/README.md#️-moondust--gri-nefes)'ın kaynağı orada |
 | **S03'te ekilen** | Blink Dog'un siyah karı (tanıyan o) · Roger'ın moondust'lı ekmeğinin izi → Dördüncü Saat → Charaxis · rüyadaki soru |
 | **Charaxis'te bekleyen** | [Miren Talvo](../../../05-characters/npcs/minor/miren-talvo.md) — eski **Selûne** rahibesi, rüya okuyucu; silüet ona *"Hayır ne demek?"* diye soruyor · Charaxis'in elfçe adı **Shae'Khar** — tanığının adı |
-| 🔒 **Gerilim** | **Unwoven "hayır"ı öğrenmeye çalışıyor** ([lore](../../../02-lore/magic/the-unwoven.md#nature)) — ve Grimnor'ın bütün duruşu **"hayır."** Silüet için Grimnor bir **öğretmen.** Grimnor bunu öğrendiği gün ya silüeti ikna eder ya da ona **nasıl hayır denileceğini** öğretir — ki bu, bariyeri kalıcı yapabilir **ya da** Unwoven'a ilk kez **reddetmeyi** öğretir |
+| 🔒 **Gerilim** | **Unwoven "hayır"ı öğrenmeye çalışıyor** ([lore](../../../02-lore/magic/the-unwoven.md#nature)) — ve Grimgor'ın bütün duruşu **"hayır."** Silüet için Grimgor bir **öğretmen.** Grimgor bunu öğrendiği gün ya silüeti ikna eder ya da ona **nasıl hayır denileceğini** öğretir — ki bu, bariyeri kalıcı yapabilir **ya da** Unwoven'a ilk kez **reddetmeyi** öğretir |
 
 ### 🃏 Vasili — *"Tekrar olsun."*
 
@@ -133,7 +133,7 @@ Session 03'te ekilenler:
 | **Neden gider** | Altı saniye boyunca **yine kendisiydi.** Güç **geri alınabiliyor** — ve onu geri veren şeyin bir adresi var. Ayrıca [Vael'Serith](../../../04-charaxis/regions/vael-serith.md)'te kapıları sabitleyen elfler: dönüş yolunun **tek adresi** |
 | **S03'te ekilen** | Destenin çevirdiği kart *(öneri ⬜: **Darklord**)* · Silik köydeki Shadowfell teması ve *"Adağını duyduk"* sesi ([S02 §5g](../sessions/session-02-grafting-ici.md#5g--vasili--özel-etkileşim)) · rüyadaki soru |
 | **Charaxis'te bekleyen** | Black Still: **zaman garip akar, ölüler çürümez** — Barovia'ya en çok benzeyen yer · Sıfır Taşı: [kapılar bir **saat** problemi](../../../04-charaxis/planar-sites/README.md#3-geçmenin-üç-engeli--charaxis-tarafı) ve saat orada tamir edilebilir · [Isthaen](../../../05-characters/npcs/minor/isthaen-of-the-zero-stone.md) |
-| 🔒 **Gerilim** | **Grimnor'ın tam karşısında.** İkisi aynı vahaya, biri kapatmak biri açmak için gidiyor. Parti-içi en sert çatlak burada pişer — **acele ettirme** |
+| 🔒 **Gerilim** | **Grimgor'ın tam karşısında.** İkisi aynı vahaya, biri kapatmak biri açmak için gidiyor. Parti-içi en sert çatlak burada pişer — **acele ettirme** |
 
 > ⚠️ **Vasili'nin ittifakı Grafting'in kapısında bitti** ([S01 §8](../sessions/session-01-calithra-kavsagi.md#8-vasili--ekiple-geçici-ittifak)).
 > Devam motivasyonu artık **parti**: Duraklama **onların** duygularıyla oldu. Vasili
@@ -154,7 +154,7 @@ Session 03'te ekilenler:
 | | |
 |---|---|
 | **Neden gelir** | Sandığı sipariş edeni bulmak; Esme'ye ödetmek; Roger'a borcu |
-| **Kâğıt meselesi** | Trell kâğıdı **dört kişilik.** Tek Kulak beşinci — Charaxis'e giderse **kaçak** gider ([Saatçiler'in *sayılmayan saat*i](../../../04-charaxis/regions/stillreach.md#saatçiler) ya da R-2 kayıtsız giriş) |
+| **Kâğıt meselesi** | Trell kâğıdı **dört kişilik.** Tek Kulak beşinci — Charaxis'e giderse **kaçak** gider ([Saatçiler'in *sayılmayan saat*i](../../../04-charaxis/regions/stillreach/README.md#saatçiler) ya da R-2 kayıtsız giriş) |
 | **Ozan gelmezse** | Calithra'da kalır; Dördüncü Saat hesaplaşmasının sonucunu **sonraki oturumda haber** olarak getirir |
 
 ---
@@ -170,12 +170,12 @@ Session 03'te ekilenler:
 | | **A ⭐ Boğaz → K-1** | **B — R-2 Yanlış İniş** | **C — R-3 Beşik** |
 |---|---|---|---|
 | **Ager ucu** | Calithra → [Lover's Cut](../../../03-ager/oceans-and-seas/lovers-cut.md) → [Surfwale](../../../03-ager/continents/karsovia/sites/surfwale.md) | [Wheatrest](../../../03-ager/continents/ravonia/villages/wheatrest.md) doğusu | [Stone Raven](../../../03-ager/continents/ravonia/sites/stone-raven.md) (Ravonia limanı) |
-| **Charaxis ucu** | **[Stillreach](../../../04-charaxis/regions/stillreach.md), Don-64** — Black Still'in kıyısı | Cam düzlük, Kül-77 → [Ashkar Reach](../../../04-charaxis/regions/ashkar-reach.md) | [Brakk-Dur](../../../04-charaxis/regions/brakk-dur.md), Kül-28 |
+| **Charaxis ucu** | **[Stillreach](../../../04-charaxis/regions/stillreach/README.md), Don-64** — Black Still'in kıyısı | Cam düzlük, Kül-77 → [Ashkar Reach](../../../04-charaxis/regions/ashkar-reach.md) | [Brakk-Dur](../../../04-charaxis/regions/brakk-dur.md), Kül-28 |
 | **Yetki** | **Trell kâğıdı** | Yok — kimse sormuyor | Stane'in **Concord beratı** |
 | **Kim yardım eder** | Hungry Gull + Harpers'ın öbür yaka hücresi | Kaçakçılar | Concord |
 | **Risk** | Karsovya kalesi + şirket — **iki denetim**; Trell borcu | Kapı %62'nin altında; [d6 sapma](../05-world-seeds.md#9-kararsız-portallar--charaxis-kapıları) en kötü burada | Concord'a borçlanmak; vahadan **en uzak** nokta |
 | **Vahaya mesafe** | ⭐ **En yakın** — vaha seferleri Stillreach'ten kalkar | Gezegenin öbür yarısı | Gezegenin öbür yarısı |
-| **Kimin ipine iyi** | Gwyndor · Roger · Vasili · Grimnor | Grimnor (moondust pazarı) | Gwyndor (Concord) |
+| **Kimin ipine iyi** | Gwyndor · Roger · Vasili · Grimgor | Grimgor (moondust pazarı) | Gwyndor (Concord) |
 
 > ⭐ **Öneri: A.** Dört ipin dördü de Stillreach'te düğümleniyor; Roger'ın gemisi,
 > Harpers'ın sessiz hücresi ve Trell kâğıdı aynı rotayı çiziyor. B ve C, parti
@@ -189,8 +189,8 @@ Session 03'te ekilenler:
 | Session | Ne olur | Bitiş noktası |
 |---|---|---|
 | **03** | Silik köy + boss · dönüş · Stane · Vesna · Tek Kulak ve Dördüncü Saat · **rüya**. **Tohumlar** | Parti uyanır; Vesna sessiz hücreyi söyler. **Karar verilmez** — sadece sorular masada |
-| **04** *(öneri)* | Hazırlık: kâğıt, gemi, Grimnor ↔ Vasili tartışması · **boğaz geçişi** · Surfwale'de sessiz hücrenin izi · Karsovya kalesi ve şirket masası | **Soğuk Basamak'ın önü.** Şifre söylenir |
-| **05** *(öneri)* | K-1 geçişi (d6) · **Stillreach** — depo, Saatçiler, Aşağı Sıra, Trell borcu ilk kez okunur | Black Still'e bakan son taş |
+| **04** ✅ | [Oynandı](../sessions/session-04-yedinci-kapi.md#12-oynandı--ne-oldu): Stane + Harper ifşası → **Concord Defteri** · Vesna öğrendi, hücreyi durdurdu, vuruldu · kapı önü · rünler · L4 | **Yedinci Kapı'nın önü.** Şifre söylenir |
+| **05** *(prep)* | [Kapağın Altı](../sessions/session-05-kapagin-alti.md): Yedinci Kapı (d6) · buz, kuyu · Kuzey Bent · **[Stillreach](../../../04-charaxis/regions/stillreach/README.md)** · Grimgor ve orklar · Kör Patlak · Sayman | Sayman **bir fazla** saydı; Defter'de Vesna |
 
 ---
 
@@ -201,7 +201,7 @@ Session 03'te ekilenler:
 | [Saat 2 — Vahadaki Şey](../06-clocks.md#-2-vahadaki-şey-yaklaşıyor) | Duraklama → **+1** (dilim 1: rüyayı görenler artıyor; artık sadece caster'lar değil) |
 | [Saat 5 — Kapılar](../06-clocks.md#-5-kapılar-bozuluyor) | Session 04'teki geçişte dilim 1 *(sapma tablosu her geçişte)* zaten aktif say |
 | [Saat 6 — Dört Cevap](../06-clocks.md#-6-dört-cevap) | 🔒 Dört lider de o gece rüyada **aynı şeyi** gördü: *"biri bana dokundu."* Dördü de partiyi **merak** eder — Stane ilk soran |
-| Kişisel saatler | Gwyndor dilim 1–2 · Grimnor dilim 1 · Vasili dilim 1 · Roger dilim 1 — ayrıntı [S03 §10](../sessions/session-03-silik-koy.md#10-saatler-ve-sonrası) |
+| Kişisel saatler | Gwyndor dilim 1–2 · Grimgor dilim 1 · Vasili dilim 1 · Roger dilim 1 — ayrıntı [S03 §10](../sessions/session-03-silik-koy.md#10-saatler-ve-sonrası) |
 
 ---
 

@@ -28,7 +28,7 @@ updated: 2026-10-15
 
 **Oyuncu:** Ozan *(konuk)* · **Kampanya:** [New Campaign](../../../06-campaigns/new-campaign/README.md) ·
 **İlk görünüş:** [Session 02](../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) ·
-**Sonraki:** [Session 03](../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md)
+**Sonraki:** [Session 03](../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) · [Session 04](../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) · [Session 05](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md)
 
 > ⚠️ **Bu bir konuk oyuncu karakteri.** Ozan masadayken **sheet onundur** ve
 > aşağıdaki geçmişin her satırı **DM önerisidir** — oyuncunun söylediği her şey
@@ -178,6 +178,7 @@ olmalarından alıyor. Buluşma yeri [Son Mektup Fırını](../../../03-ager/con
 > Tamamen İngilizce. Format: [format-2024.md](../../../08-rules/statblocks/format-2024.md) ·
 > Kit: [npc-kits.md](../../../08-rules/statblocks/npc-kits.md) (Rogue + Barbarian Rage)
 > **Seviye 3 rogue ≈ CR 1** ([cr-math.md §7](../../../08-rules/statblocks/cr-math.md#7-sınıf-seviyesi--cr-kaba-çeviri)).
+> ⚠️ **Session 04'ten beri PC Level 5** (seviye 5 ≈ CR 3). Bu yedek statblock L3 için yazıldı; Ozan masada yokken **⬜ güncellenecek** — o zamana kadar +1 saldırı, +10 HP ile oynat.
 
 ### Tek Kulak
 

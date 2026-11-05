@@ -261,6 +261,6 @@ koyarsanız çıkacaktır; iş, çıkmadan önce ondan ne öğrendiğinizde.
 > taşınması**dır — mühürlü, okunmaması şartıyla. Mühür kolayca kırılır ve
 > Ilrien bunu bilerek öyle mühürlemiştir. **Test.**
 
-> **[HOOK]** **Bladesinger Wizard için:** Ilrien onun bir Silvaerun ekolünden
+> **[HOOK]** **Vasili için** *(necromancer; eski bladesinger)*: Ilrien onun bir Silvaerun ekolünden
 > geldiğini bir bakışta anlar *(bladesinger geleneği elf işidir)* ve ona
 > şehirden bir haber getirir. Haber kötüdür ve parti onu doğrulayamaz.

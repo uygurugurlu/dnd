@@ -75,7 +75,7 @@ updated: 2026-09-30
 - Hag'in **diğer kurbanlarını** — Rhaegor, akademi kızı, Elira Fenwill
 - Kaeryth Vhalassa'nın onu aradığını *(henüz aramıyor)*
 - [Vasili](../vasili-von-holtz/README.md)'nin keşişlerden neden nefret ettiğini
-- [Grimnor](../grimnor/README.md)'ın o ormanı *"kendi ormanı"* saydığını
+- [Grimgor](../grimgor/README.md)'ın o ormanı *"kendi ormanı"* saydığını
 
 ## 3. Gördüğü Yerler
 

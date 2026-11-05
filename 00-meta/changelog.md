@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Değişiklik Kaydı
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 # Değişiklik Kaydı
@@ -11,11 +11,20 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-11-05** — 🎲 **New Campaign: Session 04 oynandı · Stillreach yeniden tasarlandı · Session 05 hazırlığı.**
+  - **[session-04](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md)** §12: parti **Harper'ları Stane'e anlattı**, karşılığında **Defter** aldı; Vesna'ya da anlattı → **Calithra Harper faaliyeti durdu**; Vesna balkondan indi, boğazda **2 ok** yedi, birliğini toplamaya gitti. Kapı önündeki haydutlar öldü, 1 gün rün attunement. **Parti L4, Tek Kulak L5.** §6–§8 Session 05'e taşındı.
+  - **Yeni homebrew eşya (DM masada tanıttı):** [Concord Ledger](../08-rules/homebrew/items/concord-ledger.md) — Unwoven işi; Identify boş; bütün defterler bağlı; kaydolan isimler Unwoven'a görünür. [Watch Runes](../08-rules/homebrew/items/watch-runes.md) masada 1 gün attune.
+  - **[Stillreach](../04-charaxis/regions/stillreach/README.md) klasöre terfi etti** (`stillreach.md` → `stillreach/`): [mekânlar](../04-charaxis/regions/stillreach/places.md) · [kadro](../04-charaxis/regions/stillreach/people.md) · [görevler](../04-charaxis/regions/stillreach/quests.md) · [sırlar](../04-charaxis/regions/stillreach/05-secrets-dm-only.md). Yaşayan maden şehri: Kapak (is tavanı + görüş kuralları), Büyük Ocak, yanar buz, Pres Hanesi, Kazan Sırası, ~600 ork (nüfus toplamı 2.900 korundu).
+  - **Yeni NPC'ler:** [Urzha Keth](../05-characters/npcs/minor/urzha-keth.md) (CR 3), [Bralga Ormak](../05-characters/npcs/minor/bralga-ormak.md) (CR 4), [Sorka Üçdiş](../05-characters/npcs/minor/sorka-ucdis.md) (CR 4), [Rahadin](../05-characters/npcs/minor/rahadin.md) (CR 1/4); Halla Venn, Emmer Tolland, Ulgar Harfçi, Tolga Erden, Perrel Soan, Tuk (MM 2025 statblock'ları).
+  - **[session-05](../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md)** (kısa DM notları): geçiş · ilk adım · ⚔️ donduran kuyu (L4'e göre) · Kuzey Bent · ⭐ **Kazan Sofrası — Grimgor ve orklar** + moon druid anları · PC anları · canlı Defter tablosu · ⚔️ **Kör Patlak** · Sayman *bir fazla*.
+  - ✏️ **Grimnor → Grimgor** her yerde (klasör dahil: `player-characters/new-campaign/grimgor/`).
+  - ✏️ **Vasili respec: Bladesinger → Necromancer** (L4). PC dosyaları, parti, indeksler; [Nat 1 / Nat 20](../08-rules/house-rules/crit-and-fumble.md#necromancer-wizard) tablosu yeniden yazıldı (Rahadin + *Battle Familiar*). Geçmiş oturumlar ve bu kayıt tarih olarak korundu.
+
 - **2026-10-29** — 🗺️ **New Campaign: Session 04 hazırlığı — Yedinci Kapı.**
   - **[session-04](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md)** (kısa DM notları): kordonda **Stane** konuşması · Calithra'da **Vesna'ya rapor** ve Charaxis kararı · boğaz · ⚔️ Softsoil'de kaçakçıların **yağmaladığı Harper hücresi** (Bandit Captain + Tough + Bandit + Scout, gelgit, kapı nabzı) · **Nöbet Rünleri** · Charaxis'e ilk adım (tasvir + Frozen Air kuralı) · ⚔️ **donduran kuyu** (Air Elemental reskin + Ice Mephit; ateş yanmaz) · ufukta Stillreach.
   - **Plan değişti:** Charaxis'e K-1/Trell kâğıdıyla değil, **[Yedinci Kapı](../03-ager/planar-sites/portal-network.md#7-yedinci-kapı--mühürlü-olan)**'dan geçiliyor — 1385'te mühürlenmiş, Harper'ların sakladığı, Duraklama'da uyanan kapı. `portal-network.md` §7 + açık soru kapandı · gazetteer · [arc](../06-campaigns/new-campaign/arcs/charaxis-yolu.md) §5 notu · S03'e işaret.
   - **Yeni homebrew eşya (DM isteği):** [Watch Runes / Nöbet Rünleri](../08-rules/homebrew/items/watch-runes.md) — 6 taş, 10 gün Charaxis havası ve soğuğu.
-  - **Görsel:** [Stillreach](../04-charaxis/regions/stillreach.md) — `04-charaxis/regions/attachments/stillreach-ufuk.png` (Midjourney).
+  - **Görsel:** [Stillreach](../04-charaxis/regions/stillreach/README.md) — `04-charaxis/regions/attachments/stillreach-ufuk.png` (Midjourney).
   - **Güncellenen:** `03-timeline.md`, `sessions/README.md`, `items/README.md`, `who-is-who.md` (Rask Dorin, Maelis Toran), `open-questions.md`.
 
 - **2026-10-29** — 🎲 **New Campaign: Session 03 — Silik Köy oynandı (kısmen).**
@@ -140,10 +149,10 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
     yerler** (dosyası olmayanlar 🚧), **tanıdığı kişiler** (yaratılmamışlar 🚧),
     faksiyonlar, oyuncuya sorulacaklar. Şablon:
     [pc-encyclopedia.md](templates/pc-encyclopedia.md).
-  - Parti eksenleri güncellendi: **Mournwood üç PC'nin ortak ormanı** (Grimnor'ın ormanı ·
+  - Parti eksenleri güncellendi: **Mournwood üç PC'nin ortak ormanı** (Grimgor'ın ormanı ·
     Vasili'nin cinayeti · Roger'ın hapishanesi); **Ulkryssa artık üç PC'nin** sırrını tutuyor;
-    **Concord Gwyndor'ın ailesi, Grimnor'ın işgalcisi**; kuyruklu yıldızları iyi haber
-    sayan **iki** kişi (Grimnor, Roger).
+    **Concord Gwyndor'ın ailesi, Grimgor'ın işgalcisi**; kuyruklu yıldızları iyi haber
+    sayan **iki** kişi (Grimgor, Roger).
   - Geri linkler: `mother-ulkryssa.md` · `mournwood.md` · `the-iron-concord/README.md` ·
     `silvaerun/README.md` · `feywild.md`. Eski yola link veren 13 dosya güncellendi.
   - Güncellenen: `new-campaign/README.md` · `player-characters/README.md` ·
@@ -236,7 +245,7 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
     Martial Arts die, Deflect Attacks, Stunning Strike) · `01-premise.md` ve
     `the-unfettered-wind.md`'deki *"Fighter için"* hook'ları Roger'a bağlandı.
   - ⭐ **Monk premise'e yeni bir bağ getirdi:** partide **gücünü kimseden ödünç
-    almamış tek kişi.** Gwyndor'ınki susan bir tanrıdan, Grimnor'ınki bir av
+    almamış tek kişi.** Gwyndor'ınki susan bir tanrıdan, Grimgor'ınki bir av
     tanrısının deneyinden, Vasili'ninki geri alınmış — Roger'ınki **kendisinin.**
   - ⭐⭐ **Ve bedava bir gerilim çıktı:** [Vasili'yi](../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)
     yenip Tatyana'yı elinden alan kişi günlüğünde **"kel keşiş"** diye geçiyor.
@@ -249,7 +258,7 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
     `player-characters/README.md` · `player-characters/new-campaign/README.md` ·
     `new-campaign/README.md` *(frontmatter `players:` dâhil)*
 
-- **2026-08-30** — 🐺 **KARAR: Grimnor'ın geçmişindeki "oyun"u [Malar](../02-lore/pantheon/faerunian/malar.md) kurdu.**
+- **2026-08-30** — 🐺 **KARAR: Grimgor'ın geçmişindeki "oyun"u [Malar](../02-lore/pantheon/faerunian/malar.md) kurdu.**
   - **Yeni dosya:** [02-lore/pantheon/faerunian/malar.md](../02-lore/pantheon/faerunian/malar.md) —
     *the Beastlord*, **Chaotic Evil**, av/pusu/kan hırsı tanrısı, *Deities of Fury*.
     FR canon ve Ager homebrew'u dosyada **ayrı bölümlerde** tutuldu; `sources:` dolduruldu.
@@ -258,21 +267,21 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
       Malar'ın Ager denemesi bunu bir adım öteye taşıdı: **av ile sürüyü aynı köye koydu**
       ve herkese bir **hayvan** verdi.
   - **Deney 1494'te bitti:** kuyruklu yıldızlar tanrıların ölümlü düzlemle hattını kesti;
-    Malar **bu düzlemden değil**, avını yönetemez oldu. Grimnor'ın
+    Malar **bu düzlemden değil**, avını yönetemez oldu. Grimgor'ın
     *"keşke biraz daha erken gelseymiş"* cümlesi artık **birebir doğru.**
   - ⭐ **Kampanya ölçeğinde tersine çevirme:** sessizlik Malar'ı **dışarıda tutuyor.**
     Parti tanrılarla iletişimi onarırsa **avı da geri açar** — ve masada buna
     *"hayır"* diyecek bir PC var. → [06-clocks.md, Saat 1](../06-campaigns/new-campaign/06-clocks.md)
-  - **Grimnor'ın iki düşmanı oldu:** avı kuran tanrı **ve** durdurmayan iyi tanrılar —
+  - **Grimgor'ın iki düşmanı oldu:** avı kuran tanrı **ve** durdurmayan iyi tanrılar —
     Chauntea, [Helm](../02-lore/pantheon/faerunian/helm.md), Mielikki, Silvanus, Nobanion ve
     **[Selûne](../02-lore/pantheon/faerunian/selune.md)**. Hepsi ya Malar'ın kanonik düşmanı
     ya da o gecenin görev tanımı.
-    - **Selûne artık bir hâmi değil, bir tanık:** Grimnor sembolünü taşıyor ama **dua etmiyor.**
+    - **Selûne artık bir hâmi değil, bir tanık:** Grimgor sembolünü taşıyor ama **dua etmiyor.**
       Druid olduğu için gücü bundan etkilenmiyor — [CLAUDE.md §5.5/5](../CLAUDE.md) maddesi
       böylece en sert biçimde karşılandı.
   - **[Mother Ulkryssa](../05-characters/npcs/minor/mother-ulkryssa.md) tasarımcılıktan
-    çıkarıldı** — artık avın **leşçisi ve tek tanığı**; Grimnor'a ismi **satabilecek** kişi.
-  - Güncellenen: `grimnor/*` (5 dosya) · `selune.md` · `pantheon/README.md` ·
+    çıkarıldı** — artık avın **leşçisi ve tek tanığı**; Grimgor'a ismi **satabilecek** kişi.
+  - Güncellenen: `grimgor/*` (5 dosya) · `selune.md` · `pantheon/README.md` ·
     `faerunian/README.md` · `02-cast.md` · `06-clocks.md` · `who-is-who.md` ·
     `player-characters/new-campaign/README.md` · `open-questions.md`
 
@@ -284,14 +293,14 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
   - **İki yeni şablon:** [player-character.md](templates/player-character.md) ve
     [pc-development.md](templates/pc-development.md). **PC'lere statblock yazılmaz** —
     sheet oyuncunundur; statblock kuralı NPC/yaratık içindir.
-  - **[Grimnor](../05-characters/player-characters/new-campaign/grimnor/README.md)** *(Koray)* —
+  - **[Grimgor](../05-characters/player-characters/new-campaign/grimgor/README.md)** *(Koray)* —
     ork, **Circle of the Moon**, [Gorestead](../03-ager/continents/ravonia/villages/gorestead.md)'li,
     [Selûne](../02-lore/pantheon/faerunian/selune.md), [Emerald Enclave](../02-lore/factions/emerald-enclave.md).
     Güçleri, ailesini kaybettiği bir **oyundan** sonra geldi; amacı o oyunu kuranı bulmak.
     - 🔒 **Repodaki iki bağ çıktı:** [Mother Ulkryssa](../05-characters/npcs/minor/mother-ulkryssa.md)'nın
       hizmetkârları **rolleri olan hayvanlar** (Paper Wolves, sadece izleyen geyik) ve ormanı
       **Gorestead'in tam kuzeyi** — dosyasındaki *"laneti oraya da uğradı mı"* hook'unun cevabı olabilir.
-      [The Unwoven](../02-lore/magic/the-unwoven.md)'ın *tanıma* şekli de Grimnor'ın anına birebir uyuyor.
+      [The Unwoven](../02-lore/magic/the-unwoven.md)'ın *tanıma* şekli de Grimgor'ın anına birebir uyuyor.
   - **[Vasili von Holtz](../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** *(Erdem)* —
     **Bladesinger wizard**; bütün gücü geri alınmış, **ölümlü** bir eski Darklord.
     Oyuncunun yazdığı [Ölümlünün Günlüğü](../05-characters/player-characters/new-campaign/vasili-von-holtz/handout-journal.md)

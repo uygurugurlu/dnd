@@ -47,7 +47,7 @@ Orta boy, kırmızımsı-gri tekir; sol kulağında eski, küçük bir çentik. 
 
 ## Ses ve tavır
 
-**Hiçbir Humanoid'e konuşmaz.** İnsan dilini anlıyor — Grimnor ondan sincapları rahat bırakmasını istediğinde uydu. Yalnız **hayvanlarla** konuşabiliyor: sincaplar, martılar, liman kedileri. *Speak with Animals* ona **çalışmaz** (Fey, Beast değil); Beast şekline girmiş bir druid'e bile konuşmaz — şekle değil, akla bakar. İletişim kurulacaksa: bakış, kuyruk, bir nesneyi bırakmak, yürüyüp dönüp bakmak.
+**Hiçbir Humanoid'e konuşmaz.** İnsan dilini anlıyor — Grimgor ondan sincapları rahat bırakmasını istediğinde uydu. Yalnız **hayvanlarla** konuşabiliyor: sincaplar, martılar, liman kedileri. *Speak with Animals* ona **çalışmaz** (Fey, Beast değil); Beast şekline girmiş bir druid'e bile konuşmaz — şekle değil, akla bakar. İletişim kurulacaksa: bakış, kuyruk, bir nesneyi bırakmak, yürüyüp dönüp bakmak.
 
 Kırk hane onu besliyor ve o herkese aynı derece nazik. Aç görünür, aç değildir.
 
@@ -57,7 +57,7 @@ Kırk hane onu besliyor ve o herkese aynı derece nazik. Aç görünür, aç de�
 |---|---|
 | **Kırk hane** | Her biri kendi kedisi sanıyor; kırk ayrı ad var. Marto ekmek verir, Vesna ateşi paylaşır, Ospren mutfağı açık tutar |
 | **Yol tarifi** | *"İki sevgilinin heykelinden sonra kediyi gör; kedi neredeyse orası."* ([Şehir Tarifi Üreteci](../../../03-ager/continents/ravonia/regions/calithra/places.md#şehir-tarifi-üreteci-d8), d8 = 4). Şehir Fig'i **haritanın bir noktası** olarak kullanıyor |
-| **Kucak onayı** | Fig birinin kucağına oturup **kalkmazsa** Calithra bunu **onay** okur ([rastgele kanca d10 = 7](../../../03-ager/continents/ravonia/regions/calithra/quests.md)). Session 01'de Fig **Grimnor'a** yaklaştı, yemek aldı, sincapları rahat bıraktı. *Öneri ⬜:* Fig bir PC'nin kucağına oturursa, o PC'nin o gün Calithralı NPC'lerle **ilk Persuasion kontrolü Advantage** alır |
+| **Kucak onayı** | Fig birinin kucağına oturup **kalkmazsa** Calithra bunu **onay** okur ([rastgele kanca d10 = 7](../../../03-ager/continents/ravonia/regions/calithra/quests.md)). Session 01'de Fig **Grimgor'a** yaklaştı, yemek aldı, sincapları rahat bıraktı. *Öneri ⬜:* Fig bir PC'nin kucağına oturursa, o PC'nin o gün Calithralı NPC'lerle **ilk Persuasion kontrolü Advantage** alır |
 | **Arp halkası** | Üç gün kayboldu, geri geldi, boynunda küçük gümüş **arp halkası** var ([görev 9](../../../03-ager/continents/ravonia/regions/calithra/quests.md#9-figin-tasması)). Şehir "sevimli" buldu. Vesna, kedi balkonuna çıkınca çalmayı **yarıda kesti** |
 | **Yaşı** | Calithra kayıt tutmadığı için **kimse saymıyor.** Nedra ve Ospren'in "hep buradaydı" demesi yeter |
 
@@ -82,7 +82,7 @@ Kırk hane onu besliyor ve o herkese aynı derece nazik. Aç görünür, aç de�
 | **1421** | Calith kaybolur. Fig **vadiden ayrılmaz** |
 | 1421–1494 | 74 yıl. Fig kırk hanenin kedisi olur; **kimse yıl saymaz** |
 | **1494** | Kuyruklu yıldızlar. Tanrılar susar. Fig'in büyüsü **etkilenmez** — bağ **arcane ve fey**, ilahi değil |
-| **1495 (Uktar)** | Üç gün kaybolur; boynunda arp halkasıyla döner. *(Kırıkbağ Grafting'inin açıldığı haftaya denk gelip gelmediği ⬜ — bkz. DM ONLY.)* Session 01'de Grimnor'la tanışır |
+| **1495 (Uktar)** | Üç gün kaybolur; boynunda arp halkasıyla döner. *(Kırıkbağ Grafting'inin açıldığı haftaya denk gelip gelmediği ⬜ — bkz. DM ONLY.)* Session 01'de Grimgor'la tanışır |
 
 ## Kişilik
 
@@ -103,7 +103,7 @@ Kırk hane onu besliyor ve o herkese aynı derece nazik. Aç görünür, aç de�
 | [Calith Auveran](../../../03-ager/continents/ravonia/regions/calithra/history.md#kurucu-calith-auveran) | Sahibi. Yaşıyor ⬜ (bkz. DM ONLY) |
 | [Vesna Marroc](../../../03-ager/continents/ravonia/regions/calithra/people.md#vesna-marroc) | Ateşini ısıtır; her akşam balkonda. Halkayı gördüğünde çalmayı bıraktı |
 | [Marto Belh](../../../03-ager/continents/ravonia/regions/calithra/people.md#marto-belh) | Kırk hane arasında **en cömert.** Fig ona ekmek getirmeyi öğretti gibi davranıyor |
-| [Grimnor](../../player-characters/new-campaign/grimnor/README.md) | Fig'e yemek verdi, sincapları rahat bırakmasını istedi; Fig uydu. Fig artık onun yanında **oturuyor** |
+| [Grimgor](../../player-characters/new-campaign/grimgor/README.md) | Fig'e yemek verdi, sincapları rahat bırakmasını istedi; Fig uydu. Fig artık onun yanında **oturuyor** |
 | [Nedra Corm](../../../03-ager/continents/ravonia/regions/calithra/people.md#nedra-corm) | 140'larında; şehirden **eski** ve Fig'in hep burada olduğunu biliyor. Sormadı |
 
 ---
@@ -258,7 +258,7 @@ Fig savaşmaz. Tehdit altında:
 
 > **[HOOK]** **Kucak onayı.** Fig bir PC'nin kucağına oturdu ve kalkmıyor. Şehir *"kedi seçti"* diyor. Bu PC artık **Calith'e giden yolun** ilk adımı: Fig onu **bir yere götürmek** istiyor ve **her akşam aynı saatte** bakıyor.
 
-> **[HOOK]** **Sincap davası.** Grimnor'un sincabı kedinin **neden** kendisini kovaladığını bilmiyor. Cevap: sincaplar [Adsızlar Bahçesi](../../../03-ager/continents/ravonia/regions/calithra/places.md#adsızlar-bahçesi--the-nameless-garden)'nin kiremitlerini eşeliyor — ve **kimse bir kiremidi çevirmez.** Fig bahçeyi koruyor. Bir sincap **bir kiremidi çevirmiş** olabilir (c2 — altındaki ad kimin?). ⬜
+> **[HOOK]** **Sincap davası.** Grimgor'un sincabı kedinin **neden** kendisini kovaladığını bilmiyor. Cevap: sincaplar [Adsızlar Bahçesi](../../../03-ager/continents/ravonia/regions/calithra/places.md#adsızlar-bahçesi--the-nameless-garden)'nin kiremitlerini eşeliyor — ve **kimse bir kiremidi çevirmez.** Fig bahçeyi koruyor. Bir sincap **bir kiremidi çevirmiş** olabilir (c2 — altındaki ad kimin?). ⬜
 
 > **[HOOK]** **Kedi Kırıkbağ'a yürüyor.** Fig, Grafting başladığından beri **kuzeye** gidip dönüyor ⬜. Fey türü olduğu için *Fey Bloom* ona işlemez; parti onu takip ederse Dış halkadaki *Fey Bloom*'un cazibesiyle yüzleşir. Fig'in yolu, (b) seçilirse Calith'e giden yol olabilir.
 

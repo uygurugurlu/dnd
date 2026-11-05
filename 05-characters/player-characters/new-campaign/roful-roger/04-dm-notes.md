@@ -34,15 +34,15 @@ aynı yıl koptu? Üç okuma, **üçü aynı anda doğru olabilir:**
 
 | Okuma | Ne demek | Sonucu |
 |---|---|---|
-| ⭐ **(a) Aynı bariyer** | Tanrıları kesen şey **düzlemler arası** bir perde. Night hag'ler Ethereal üzerinden çalışır; rüya düzlemi de bir "öbür taraf." [First Communion](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)'ın Marr'ı kararsız bir kapıda dokuz gün kaldı ve *"duvar bizim tarafımızda"* dedi. Ulkryssa'nın idolü Roger'ı **bulamaz oldu** | **Bariyer kalkarsa bağ geri gelir.** Roger, Grimnor gibi, sessizliği **savunmak** için kişisel bir sebebe sahip olur — ve bunu henüz bilmiyor |
+| ⭐ **(a) Aynı bariyer** | Tanrıları kesen şey **düzlemler arası** bir perde. Night hag'ler Ethereal üzerinden çalışır; rüya düzlemi de bir "öbür taraf." [First Communion](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)'ın Marr'ı kararsız bir kapıda dokuz gün kaldı ve *"duvar bizim tarafımızda"* dedi. Ulkryssa'nın idolü Roger'ı **bulamaz oldu** | **Bariyer kalkarsa bağ geri gelir.** Roger, Grimgor gibi, sessizliği **savunmak** için kişisel bir sebebe sahip olur — ve bunu henüz bilmiyor |
 | **(b) Büyü ağırlaştı** | Casterlar 1494'ten beri zayıflama hissediyor ([01-premise.md §2](../../../../06-campaigns/new-campaign/01-premise.md#2-büyü)). Lanet **ham sorcerer büyüsüyle** beslenir; yakıt azalınca idol Roger'ı **bırakmak zorunda** kaldı | Roger'ın büyüsü **soğudu.** Geri gelirse lanet de geri gelir |
 | **(c) Hag bıraktı** | *"Hag ölmez, geri çekilir."* Ulkryssa 1494'te **kendi isteğiyle** çekildi — kuyruklu yıldızlarla gelen bir şeyi gördü ve kapısını kapattı. Roger'ı bırakması bir **tercih** | Ulkryssa Roger'ı **kaybetmedi**, *"koydu."* Bir hag işini yarım bırakmaz; Roger'ın bedeni **rezerve** |
 
 > ⭐ **Öneri: (a) + (c).** Bariyer bağı kesti; hag bunu fark etti ve geri
 > çekildi. İkisi birlikte Roger'a hem bir **umut** (bağ koptu) hem bir **korku**
 > (kapı açılırsa dönebilir) veriyor — ve kampanyanın merkezî sorusuna ("bariyer
-> kalksın mı") partide **ikinci bir "hayır"** ekliyor. Ama Grimnor'ınkinden
-> farklı: Grimnor **bilerek** hayır der; Roger'ınki **beden** hayır der.
+> kalksın mı") partide **ikinci bir "hayır"** ekliyor. Ama Grimgor'ınkinden
+> farklı: Grimgor **bilerek** hayır der; Roger'ınki **beden** hayır der.
 
 > ⚠️ **Roger'ı sessizliğin ikinci savunucusu yapmak istemiyorsan (a)'yı
 > seçme.** O zaman (b): büyüsü söndü, lanet söndü, bağ bitti — Roger gerçekten
@@ -58,11 +58,11 @@ aynı yıl koptu? Üç okuma, **üçü aynı anda doğru olabilir:**
 |---|---|---|
 | ⭐ **Diğer kurbanlara ait şeyler** | Ravonia (akademi kızı), Wheatrest (Elira Fenwill?), Rhaegor'a | Lanetin **nasıl bulaştığı**: bir idol parçası, bir tılsım, bir hediye. **Roger diğer kurbanların kapısını çaldı** — ve onlar onu hatırlıyor. Kaeryth Vhalassa bunu öğrenirse Roger'ı **suçlu** sanır |
 | **Rüya idolünün parçaları** | Kulübeden dışarı — ya da dışarıdan kulübeye | Ulkryssa idolü **çoğaltıyor** ya da taşıyor olabilir. *"Hag geri çekilir"* — nereye? İkinci bir kulübe |
-| **Moondust** | [Grak Hollow](../../../../03-ager/continents/ravonia/villages/grak-hollow.md) limanından Mournwood'a | Charaxis'ten inen madde **rüyalarla** ilişkili ([premise §4](../../../../06-campaigns/new-campaign/01-premise.md#rüya-görenler-kimler): rüyayı görenler moondust'a temas etmiş). Bir night hag rüya yakıtı için moondust ister. Ve [Grimnor](../grimnor/README.md) moondust'a **karşı** — Roger'ın bilmeden taşıdığı şey, Grimnor'ın nefret ettiği şey |
+| **Moondust** | [Grak Hollow](../../../../03-ager/continents/ravonia/villages/grak-hollow.md) limanından Mournwood'a | Charaxis'ten inen madde **rüyalarla** ilişkili ([premise §4](../../../../06-campaigns/new-campaign/01-premise.md#rüya-görenler-kimler): rüyayı görenler moondust'a temas etmiş). Bir night hag rüya yakıtı için moondust ister. Ve [Grimgor](../grimgor/README.md) moondust'a **karşı** — Roger'ın bilmeden taşıdığı şey, Grimgor'ın nefret ettiği şey |
 
 > ⭐ **Öneri: ilk ve üçüncü birlikte.** Roger bir yıl boyunca limandan ormana
 > moondust, ormandan kurbanlara lanet taşıdı. Bu tek rota üç PC'yi birbirine
-> bağlıyor: Grimnor (moondust, orman), Vasili (o yıl Mournwood'dan geçti),
+> bağlıyor: Grimgor (moondust, orman), Vasili (o yıl Mournwood'dan geçti),
 > Roger (rota). Ve kampanyanın rüya hattına (silüet, moondust) Roger'ı **doğrudan**
 > bağlıyor — bir yıl rüyada yaşamış bir adam, vahadaki silüeti görmüş olabilir.
 
@@ -94,13 +94,13 @@ sırrını ya da geçmişini tutuyor:
 
 | PC | Ulkryssa ile |
 |---|---|
-| **[Grimnor](../grimnor/04-dm-notes.md#mother-ulkryssanın-yeni-rolü)** | Ailesini öldüren avın **tanığı** — adı satabilir |
+| **[Grimgor](../grimgor/04-dm-notes.md#mother-ulkryssanın-yeni-rolü)** | Ailesini öldüren avın **tanığı** — adı satabilir |
 | **[Vasili](../vasili-von-holtz/04-dm-notes.md)** | Gerçek adını **biliyor olabilir**; ve Vasili onun ormanında bir **fey öldürdü** |
 | ⭐ **Roger** | **Kurbanı.** Bir yıl bedenini sürdü. Onu **içeriden** tanıyor |
 
 > **Tek night hag, üç PC.** Kampanyanın en verimli düğümü büyüdü. Ulkryssa bir
 > sahneye girdiğinde masadaki üç kişi için üç ayrı şey — ve **Roger için en
-> kişiseli.** Vasili'nin adını satacak, Grimnor'a avı satacak, Roger'a **hiçbir
+> kişiseli.** Vasili'nin adını satacak, Grimgor'a avı satacak, Roger'a **hiçbir
 > şey satmayacak**: onu zaten aldı.
 
 > ⚠️ Ulkryssa'yı üç PC'nin ortak final boss'u yapma. O bir **leşçi**, tasarımcı
@@ -138,7 +138,7 @@ DM notu *"arch hag"* diyor. Repodaki Ulkryssa bir **Night Hag** (CR 5 sınıfı)
 >
 > Yani hag'in Roger'a ulaşabilmesi için **bariyerin incelmesi** gerekiyor.
 > [First Communion](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)
-> perdeyi inceltiyor. Roger, Grimnor gibi, Communion'dan **en çok nefret edecek**
+> perdeyi inceltiyor. Roger, Grimgor gibi, Communion'dan **en çok nefret edecek**
 > kişi olur — ve sebebini partiye anlattığı gün sessizlik tartışması partide **3'e 1** olur:
 > Gwyndor yalnız.
 
@@ -158,14 +158,14 @@ DM notu *"arch hag"* diyor. Repodaki Ulkryssa bir **Night Hag** (CR 5 sınıfı)
 | **Diğer kurbanlar** | Kaeryth Vhalassa onu **bulmalı.** Rüyaya girecek tek adam o |
 | **Büyüsü** | Kullanmak zorunda kaldığı tek sahne. Kabus bir kez geri gelsin |
 | **Vasili** | *"Bunu daha önce gördün"* — Vasili'nin oyuncusuna tek cümle ([Vasili DM notları](../vasili-von-holtz/04-dm-notes.md#-partide-bir-keşiş-var)). Roger'a hiçbir şey söyleme |
-| **Grimnor** | Roger'ın taşıdığı şey moondust'sa, Grimnor bunu öğrendiği gün ilişki değişir. Roger'ın suçu yok — ama Grimnor için **seyirci suçludur**, uyuyan da |
+| **Grimgor** | Roger'ın taşıdığı şey moondust'sa, Grimgor bunu öğrendiği gün ilişki değişir. Roger'ın suçu yok — ama Grimgor için **seyirci suçludur**, uyuyan da |
 | **Ledger** | Kayıt masası ona *"büyü kapasitesi?"* diye sorar. Cevabı ne olursa olsun yalan |
 
 ## Roger'ın bilmediği ama masanın bilmesi gereken
 
 - **Kaeryth Vhalassa** bir rüya ritüeli hazırlıyor ve rüyaya girecek birini arıyor
 - **Elira Fenwill** (Wheatrest) ve **akademi kızı** (Ravonia) aynı hag'in kurbanı olabilir — Roger onlara **bir şey taşımış** olabilir
-- **Grimnor** moondust'a karşı; **Vasili** Mournwood'dan geçti ve orada bir fey öldürdü
+- **Grimgor** moondust'a karşı; **Vasili** Mournwood'dan geçti ve orada bir fey öldürdü
 - **Ulkryssa** üç PC'nin geçmişinde
 - Vahadaki silüet **rüyada** konuşuyor — bir yıl rüyada yaşamış adam onu görmüş olabilir
 - Kuyruklu yıldızlar onu kurtardı; **bariyer kalkarsa** ne olacağı bu dosyanın ilk bölümünde

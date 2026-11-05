@@ -92,7 +92,7 @@ orkları savaşa **girmedi**; ova yolu tehlikeli değil, **boş.**
 
 > ⚠️ **Dikkat — New Campaign ile kesişim:** 1493'te Gorestead civarında
 > [Malar'ın Büyük Avı](../../../../02-lore/pantheon/faerunian/malar.md) sürüyor
-> olabilir ve bu, New Campaign PC'si **Grimnor**'un geçmişidir. CotBC partisini
+> olabilir ve bu, New Campaign PC'si **Grimgor**'un geçmişidir. CotBC partisini
 > bu olaya **sokma**; en fazla uzaktan bir av borusu duyulsun.
 
 ### Mournwood

@@ -70,9 +70,12 @@ Ager'in ikiz dünyası; madencilik hattı. Dünya:
 
 | CR | Kim | Tür | Nerede |
 |---:|---|---|---|
-| **7** | [Kapitan Vidrek Solyan](vidrek-solyan.md) | İnsan (Karsovyalı) | [Stillreach](../../../04-charaxis/regions/stillreach.md) — Soğuk İmtiyaz komiseri |
+| **7** | [Kapitan Vidrek Solyan](vidrek-solyan.md) | İnsan (Karsovyalı) | [Stillreach](../../../04-charaxis/regions/stillreach/README.md) — Soğuk İmtiyaz komiseri |
 | **6** | [Isthaen](isthaen-of-the-zero-stone.md) | Elf | [Vael'Serith](../../../04-charaxis/regions/vael-serith.md) — Sıfır Taşı'nın bekçisi |
 | **6** | [Ansel Corr](ansel-corr.md) | İnsan (Ravonyalı) | [Widowsilver](../../../04-charaxis/mines/widowsilver.md) — ustabaşı, Mürai gazisi |
+| **4** | [Bralga Ormak](bralga-ormak.md) | Ork | [Stillreach](../../../04-charaxis/regions/stillreach/README.md) — Demirdiş baş makinisti |
+| **4** | [Sorka Üçdiş](sorka-ucdis.md) | Ork | [Stillreach](../../../04-charaxis/regions/stillreach/README.md) — Kırık Boynuz sürgünü, kızak kurtları |
+| **3** | [Urzha Keth](urzha-keth.md) | Ork | [Stillreach](../../../04-charaxis/regions/stillreach/README.md) — Gharuk simsarı |
 | **5** | [Murag Ghesk](murag-ghesk.md) | Ork | [Ashkar Reach](../../../04-charaxis/regions/ashkar-reach.md) — Gharuk kâtibi |
 | **5** | [Miren Talvo](miren-talvo.md) | İnsan | [the Grey Seam](../../../04-charaxis/mines/the-grey-seam.md) — rüya okuyucu, eski cleric |
 | **4** | [Dwig Hollowear](dwig-hollowear.md) | Deep gnome | [Nen-Kharal](../../../04-charaxis/regions/nen-kharal.md) — usta Dinleyici |

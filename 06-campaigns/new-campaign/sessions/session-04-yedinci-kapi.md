@@ -4,13 +4,13 @@ campaign: New Campaign
 session_number: 4
 title: Yedinci Kapı
 real_date: ⬜
-in_world_date: ⬜ (~22–25 Uktar 1495 DR)
+in_world_date: ⬜ (~23–25 Uktar 1495 DR)
 in_world_elapsed: ⬜
-level_at_start: ⬜
-level_at_end: ⬜
+level_at_start: 3
+level_at_end: 4 (Tek Kulak 5)
 players_present: [Ardan, Koray, Erdem, Burak, ⬜ Ozan (konuk)]
-status: prep
-updated: 2026-10-29
+status: played
+updated: 2026-11-05
 ---
 
 # Session 04 — Yedinci Kapı
@@ -19,6 +19,9 @@ updated: 2026-10-29
 **Yay:** [Charaxis Yolu](../arcs/charaxis-yolu.md)
 
 > 🎲 **Kısa DM notları.** Masada açık durur. `⬜` = senin slotun.
+
+> ✅ **Oynandı (2026-11-05).** Session §1–§5'te, **kapının önünde** bitti. Ne olduğu →
+> [§12](#12-oynandı--ne-oldu). §6–§8 **[Session 05](session-05-kapagin-alti.md)**'e taşındı.
 
 > ✏️ **Plan değişti (2026-10-29):** Charaxis'e **K-1 / Trell kâğıdı** ile değil,
 > karşı kıyıdaki **Yedinci Kapı**'dan geçiliyor — Harper'ların yüz yıldır gizlice
@@ -139,7 +142,7 @@ updated: 2026-10-29
 | PC | Cümle |
 |---|---|
 | **Gwyndor** | Stane'in *"üç bin beş yüz"*ü + Charaxis'in karanlık yüzünde **ölüler çürümez, bazen kalkar.** Onun gibi biri **orada** olabilir |
-| **Grimnor** | Duraklama'da ailesini duydu. *"Kapıyı bir an açan şey **orada.** Bir daha yapmasın."* — Vesna: *"Charaxis'te rüyaları okuyan bir kadın varmış; eski bir Selûne rahibesi."* → [Miren Talvo](../../../05-characters/npcs/minor/miren-talvo.md) |
+| **Grimgor** | Duraklama'da ailesini duydu. *"Kapıyı bir an açan şey **orada.** Bir daha yapmasın."* — Vesna: *"Charaxis'te rüyaları okuyan bir kadın varmış; eski bir Selûne rahibesi."* → [Miren Talvo](../../../05-characters/npcs/minor/miren-talvo.md) |
 | **Vasili** | Altı saniye **yine kendisiydi.** O gücü geri verenin adresi bu kapının öbür tarafı |
 | **Roger** | Cadının sesi geri geldi. Bariyeri delebilen şeyin cadıyı da getirip getirmeyeceğini bilmek ister. **Gemi onun** — karşıya o götürür |
 | **Tek Kulak** *(varsa)* | Vesna'nın işareti açacağı **nişte ne var**? Bir hırsız için yeter |
@@ -232,6 +235,8 @@ oturur, taş **açılır.** İçinde kararmış gümüş bir kutu: **[Nöbet Rü
 
 ## 6. Charaxis — ilk adım
 
+> ➡️ **Oynanmadı — [Session 05 §2](session-05-kapagin-alti.md#2-charaxis--ilk-adım)'ye taşındı** *(§7, §8 ile birlikte; L4'e göre yeniden dengelendi)*.
+
 > 🎬 **Masada oku:**
 >
 > *Işık kapanıyor ve gece **bitmiyor.** Hiç bitmeyecek. Burada güneş hiç doğmadı.*
@@ -261,7 +266,7 @@ oturur, taş **açılır.** İçinde kararmış gümüş bir kutu: **[Nöbet Rü
 | 🧭 **Yön** | Stillreach'in mavi ışığı · Survival DC 12 |
 | 🧊 **Kenarda** | İki haydudun cesedi — **rünsüz** geçmişlerdi. Donmuş, gözleri açık. Biri **nefesini tutarken** ölmüş |
 | 🃏 **Vasili** *(özel not)* | Deste **ısınıyor.** Bir kart kıpırdıyor, dönmüyor. ⬜ |
-| 🌕 **Grimnor** *(özel not)* | Charaxis'in elfçe adı **Shae'Khar** — Selûne. Ayı yok burada; **ay onlar.** |
+| 🌕 **Grimgor** *(özel not)* | Charaxis'in elfçe adı **Shae'Khar** — Selûne. Ayı yok burada; **ay onlar.** |
 
 ---
 
@@ -313,7 +318,7 @@ oturur, taş **açılır.** İçinde kararmış gümüş bir kutu: **[Nöbet Rü
 >
 > *Stillreach.*
 
-**Session 05:** [Stillreach](../../../04-charaxis/regions/stillreach.md) — depo, Saatçiler, Soğuk İmtiyaz, Ravonyalı borçlular.
+**Session 05:** [Kapağın Altı](session-05-kapagin-alti.md) · [Stillreach](../../../04-charaxis/regions/stillreach/README.md).
 
 ---
 
@@ -344,12 +349,37 @@ oturur, taş **açılır.** İçinde kararmış gümüş bir kutu: **[Nöbet Rü
 
 | Sahne | Encounter | Sonuç |
 |---|---|---|
-| §4 | Rask Dorin + haydutlar | ⬜ |
-| §7 | Siyah Kar Fırtınası + Ice Mephit'ler | ⬜ |
+| §4 | Rask Dorin + haydutlar | ✅ **Haydutlar öldürüldü.** Rask Dorin ⬜ *(öneri: öldü → [Rahadin](../../../05-characters/npcs/minor/rahadin.md)'in bedeni)* |
+| §7 | Siyah Kar Fırtınası + Ice Mephit'ler | ➡️ [Session 05](session-05-kapagin-alti.md#3-encounter--donduran-kuyu) |
+
+## 12. Oynandı — ne oldu
+
+| # | Ne oldu | Sonuç |
+|---|---|---|
+| 1 | Plandaki gibi ilerlendi: kordon, [Stane](../factions-in-play/the-four-answers/the-iron-concord.md#marshal-vharra-stane), Calithra, Vesna, Charaxis kararı | — |
+| 2 | 🗣️ **Parti, Calithra'daki Harper faaliyetlerini [Iron Concord](../factions-in-play/the-four-answers/the-iron-concord.md)'a anlattı** | [§1](#dikkat--partinin-ağzından-kaçabilecekler)'deki risk gerçekleşti: Concord hücreyi **biliyor** |
+| 3 | 📕 **Karşılığında Stane partiye bir Defter verdi:** Concord'un kaydettiği herkes; yeni kayıt eskilerin **arasına** düşüyor; bütün defterler bağlı. Büyü **Unwoven'ın:** *Identify* bir şey söylemiyor. Kaydolan her isim Unwoven'a görünüyor | Yeni homebrew eşya → [Concord Defteri](../../../08-rules/homebrew/items/concord-ledger.md). **Gwyndor'da** |
+| 4 | 🤫 Stane *"Vesna'ya bir şey söylemeyin"* dedi. **Parti Vesna'ya söyledi:** varlıklarını ve faaliyetlerini Concord'a anlattıklarını | Vesna **öfkelendi.** **Calithra'daki Harper faaliyetlerini durdurdu** |
+| 5 | ⚓ Vesna **partiyle birlikte Roger'ın teknesine bindi** — on bir yıldır balkondan inmemiş kadın | Şehrin saati sustu. [Calithra](../../../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md) kemansız |
+| 6 | 🏹 **Geçerken Iron Concord Vesna'ya saldırdı; 2 ok isabet etti** | Yaralı. Stane'in *"Bunları izleyin"*i somutlaştı |
+| 7 | Vesna bir limanda ⬜ indi, partiyi kapıya yönlendirdi, **kendi Harper birliğini toplayıp istişare etmek** üzere ayrıldı | Hayatta; nerede olduğu ⬜ |
+| 8 | ⚔️ Parti portalın önündeki **haydutları öldürdü** | [§4](#4-encounter--yağmalanmış-hücre) |
+| 9 | 🔵 **1 gün boyunca** kapının başında kaldılar: Charaxis'te hayatta tutacak **tılsımlara attune** oldular | [Nöbet Rünleri](../../../08-rules/homebrew/items/watch-runes.md) |
+| 10 | ⬆️ **Parti Level 4; Tek Kulak Level 5** | |
+| 11 | 🧟 **Vasili seviye atlarken respec:** artık **Necromancer** wizard. Zombi companion'ı **[Rahadin](../../../05-characters/npcs/minor/rahadin.md):** ona uşak gibi davranıyor. Bu seviyede *Battle Familiar*'a odaklı | [PC dosyası](../../../05-characters/player-characters/new-campaign/vasili-von-holtz/03-development.md) · [house rule](../../../08-rules/house-rules/crit-and-fumble.md#necromancer-wizard) |
+| 12 | **Session burada bitti.** Sıradaki: Charaxis | [Session 05](session-05-kapagin-alti.md) |
+
+> 🔒 **[DM ONLY] — Stane ne kazandı.** Harper'ları *ve* partinin elindeki Defter'i. Ona göre iki kötü sonuç yok: parti Vesna'ya söylemezse hücreyi sessizce kapatır; söylerse hücre **kendi kendini** kapatır. Söylediler. Oklar **uyarı** mıydı, emir mi? ⬜ Rhoswen Marek'in adamları ıskalamaz; Vesna'nın **yaşaması** bir seçim olabilir.
+
+> 🔒 **[DM ONLY] — Vesna partiyi affetti mi?** Hayır. Ama yine de kapıyı gösterdi. Çünkü *kapı açıksa* **görev** hâlâ geçerli. Ödeme ⬜ sorulmadı.
+
+### Açık kalanlar ⬜
+
+- Vesna'nın indiği liman · Rask Dorin · Maelis Toran kurtuldu mu · altıncı rün taşı kimde · Trell kâğıdı kimde · Gallows Needle'a attune
 
 ## Güncellenecek Dosyalar *(oynandıktan sonra)*
 
-- [ ] `03-timeline.md` · 4× PC `03-development.md`
-- [ ] Rünlerin kime verildiği → [watch-runes.md](../../../08-rules/homebrew/items/watch-runes.md)
-- [ ] Maelis / Softsoil hücresinin durumu → [Calithra sırları](../../../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md)
-- [ ] `00-meta/changelog.md`
+- [x] `03-timeline.md` · 4× PC `03-development.md` · Tek Kulak
+- [x] Rünler → [watch-runes.md](../../../08-rules/homebrew/items/watch-runes.md) *(altıncı taş ⬜)*
+- [x] Vesna / hücre → [Calithra sırları](../../../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md) *(Maelis ⬜)*
+- [x] `00-meta/changelog.md`

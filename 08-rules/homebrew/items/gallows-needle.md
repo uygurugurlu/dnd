@@ -94,6 +94,6 @@ Attunement: ⬜ *(attune oldu mu?)*
 > **[HOOK]** **Charaxis'te değeri:** Stillreach'te [Saatçiler](../../../04-charaxis/factions.md#saatçiler--the-hourwrights)
 > bir lanet aktarıcıya çok para öder — ya da onu **ölçmek** ister.
 
-> **[HOOK]** **Grimnor görürse:** Vasili'nin bir fey öldürdüğünü bilmiyor. Lanet aktaran bir
+> **[HOOK]** **Grimgor görürse:** Vasili'nin bir fey öldürdüğünü bilmiyor. Lanet aktaran bir
 > iğne ve bir Shadowfell yaratığının elinden alınmış — *"seyirci suçludur"* diyen biri için
 > soru işareti.

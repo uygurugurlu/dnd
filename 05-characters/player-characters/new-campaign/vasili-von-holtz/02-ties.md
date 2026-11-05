@@ -85,7 +85,7 @@ Vasili bunu bilmeden söylüyor olabilir ama repo biliyor:
 - **Shar, [Selûne](../../../../02-lore/pantheon/faerunian/selune.md)'ün ikiz kardeşi**
   ve ikisi evrenin ilk iki tanrısı; savaşları yaratılıştan beri sürüyor.
 
-> ⚔️ **Parti içi gizli eksen:** [Grimnor](../grimnor/README.md) **Selûne'e** bağlı.
+> ⚔️ **Parti içi gizli eksen:** [Grimgor](../grimgor/README.md) **Selûne'e** bağlı.
 > Vasili **Shar'a** ılımlı. İkisi de bunu birbirine söylemedi.
 > **Masada bir gün açılacak ve o gün bir sahne olacak.**
 
@@ -149,13 +149,13 @@ Yetkisi yok — ya da geçmeyi **istemedi.**
 | Yer | Ne | Vasili için |
 |---|---|---|
 | **Mournwood** | Kuzey-orta orman; [Mother Ulkryssa](../../../npcs/minor/mother-ulkryssa.md)'nın ormanı; dosyası **stub** | Ölümün eşiğine geldiği ve **bir pixie'nin onu kurtardığı** yer. Ve pixie'yi **öldürdüğü** yer |
-| **[Gorestead](../../../../03-ager/continents/ravonia/villages/gorestead.md)** | Ormanın güney eteği; *"geceyi ormanda geçiren olmaz"* | ⬜ Ormana buradan mı girdi? [Grimnor](../grimnor/README.md)'ın köyü |
+| **[Gorestead](../../../../03-ager/continents/ravonia/villages/gorestead.md)** | Ormanın güney eteği; *"geceyi ormanda geçiren olmaz"* | ⬜ Ormana buradan mı girdi? [Grimgor](../grimgor/README.md)'ın köyü |
 | **[Eira'thalas](../../../../03-ager/continents/ravonia/regions/eirathalas.md)** | Silvaerûn'un ormanı; stub | Silvaerûn'a giden son orman |
 | **[Tharn'Kel](../../../../03-ager/continents/ravonia/cities/tharn-kel.md)** | Silvaerûn'un doğu sınırı; **cüce–elf ortak yönetimi**; Sınır Taşı bekçisi Hedda Sunder | ⬜ Sınırı buradan mı denedi? Cücelerin yönettiği bir kapı — *"cüceleri sevmiyo"* |
 | **[Caélora](../../../../03-ager/continents/ravonia/cities/caelora.md)** | Ormanın içindeki elf şehri; **davetle**; Yaprak Kapısı bekçisi Nyssen Ithren *"birinin davetsiz girmesini istiyor — merak ediyor"* | ⬜ **Girdi mi?** Bir yıldır davet yok |
 
-> ⚠️ **Grimnor'ın ormanı.** Grimnor *"kendi ormanını askerlere karşı savunur"*
-> ve o orman Mournwood. Vasili orada bir **fey öldürdü.** Grimnor bunu bilmiyor.
+> ⚠️ **Grimgor'ın ormanı.** Grimgor *"kendi ormanını askerlere karşı savunur"*
+> ve o orman Mournwood. Vasili orada bir **fey öldürdü.** Grimgor bunu bilmiyor.
 > Feywild'a meraklı bir moon druid için bu, bir gün öğrenilirse **affedilmeyecek**
 > tek şey olabilir. 🔒 [04-dm-notes.md](04-dm-notes.md#adak--dark-powers-duydu-mu)
 
@@ -217,13 +217,13 @@ construct'ları oradan çıkıyor.
 Yani Vasili'nin sevmediği halk, kıtanın **çalışan** kısmını elinde tutuyor.
 Bu bir önyargı değil, bir **stratejik körlük** — ve masada böyle oynanmalı.
 
-## Grimnor'ın ormanı — ve Roger'ın hapishanesi
+## Grimgor'ın ormanı — ve Roger'ın hapishanesi
 
 Mournwood üç PC'nin geçmişinde:
 
 | PC | Mournwood'da ne |
 |---|---|
-| **[Grimnor](../grimnor/README.md)** | *"Kendi ormanı"*; Gorestead'li; [Ulkryssa](../../../npcs/minor/mother-ulkryssa.md) onun avının tanığı |
+| **[Grimgor](../grimgor/README.md)** | *"Kendi ormanı"*; Gorestead'li; [Ulkryssa](../../../npcs/minor/mother-ulkryssa.md) onun avının tanığı |
 | **[Roful Roger](../roful-roger/README.md)** | Ulkryssa'nın **kurbanı**; bir yıl trans hâlinde o ormana **kurye** olarak gitti geldi |
 | **Vasili** | Bir pixie'nin hayatını kurtardığı ve öldürdüğü yer |
 
@@ -244,8 +244,8 @@ kişi *"kel keşiş"* diye geçiyor. Vasili artık keşişlerden nefret ediyor v
 
 🌑 *"charaxise gitmedi."*
 
-Partide [Grimnor](../grimnor/README.md) **gitti**, Vasili **gitmedi.**
+Partide [Grimgor](../grimgor/README.md) **gitti**, Vasili **gitmedi.**
 Bu, ikisi arasındaki bilgi asimetrisidir ve masada işe yarar: uyduya dair her
-şeyde Vasili **soru soran** taraf, Grimnor **cevap veren** taraf olur.
+şeyde Vasili **soru soran** taraf, Grimgor **cevap veren** taraf olur.
 
 Ve Vasili için bu yeni bir durum: yüzyıllarca **bilmediği bir şey yoktu.**

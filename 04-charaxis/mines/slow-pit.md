@@ -15,7 +15,7 @@ updated: 2026-09-07
 > *"Aşağı in, bir kol çalış, yukarı çık. Kolay iş. Sadece yukarıda kimin
 > beklediğini garanti edemeyiz."*
 
-**Yukarı:** [Madenler](README.md) · [Stillreach](../regions/stillreach.md) ·
+**Yukarı:** [Madenler](README.md) · [Stillreach](../regions/stillreach/README.md) ·
 **Taş:** Don-71 · **Nüfus:** ~300 (değişken) · **Sahibi:** [Saatçiler](../factions.md#saatçiler--the-hourwrights)
 
 ## Ne bu

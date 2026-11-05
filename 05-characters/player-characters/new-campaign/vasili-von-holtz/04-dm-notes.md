@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: adapted
 status: draft
 tags: [pc, vasili-von-holtz, dm-only, strahd, tarokka, mists, shar]
-updated: 2026-09-13
+updated: 2026-11-05
 ---
 
 # 🔒 Vasili von Holtz — DM Notları
@@ -37,12 +37,12 @@ Kıtada Barovia'yı bilen **kimse yok.** Ama üç kapı açık:
 
 | Kim | Neden bilir | Ne yapar |
 |---|---|---|
-| ⭐ **[Mother Ulkryssa](../../../npcs/minor/mother-ulkryssa.md)** | **Night hag.** Rüyalarda çalışır, düzlemler onun için duvar değil. Bir Darklord'un adı hag mutfağında **para** eder | Söylemez — **satar.** Ve alıcısı [Grimnor](../grimnor/README.md) olabilir |
+| ⭐ **[Mother Ulkryssa](../../../npcs/minor/mother-ulkryssa.md)** | **Night hag.** Rüyalarda çalışır, düzlemler onun için duvar değil. Bir Darklord'un adı hag mutfağında **para** eder | Söylemez — **satar.** Ve alıcısı [Grimgor](../grimgor/README.md) olabilir |
 | **[First Communion](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)** | Perdeyi inceltiyorlar; Kırıkbağ'da **Shadowfell'e** bir dikiş açtılar | Onu bir **kaynak** olarak görürler. Shadowfell'den gelen canlı bir tanık |
 | **[Aurelium](../../../../03-ager/continents/ravonia/cities/ravonia/districts/aurelium-north.md) arşivleri** | *"Eski planar kayıtlar vardır, ama konuşulmaz"* — şehir dosyasında yazılı | Bir kayıt, bir isim, bir tarih. Sessiz ve yavaş yol |
 
 > ⭐⭐ **Ulkryssa iki PC'nin sırrını birden tutuyor:**
-> Grimnor'ın ailesini öldüren avın **tanığı** *(avı kuran
+> Grimgor'ın ailesini öldüren avın **tanığı** *(avı kuran
 > [Malar](../../../../02-lore/pantheon/faerunian/malar.md))*, ve Vasili'nin
 > gerçek adını biliyor olabilir.
 > **Tek bir NPC, iki karakterin de kâbusu.** Kampanyanın en verimli düğümü bu.
@@ -103,7 +103,7 @@ Vasili bir cevap bekledi. **Ne aldığı** üç okumaya bağlı — ve üçü de
 
 | Kim / ne | Neden ilgilenir |
 |---|---|
-| **[Grimnor](../grimnor/README.md)** | Mournwood *"kendi ormanı"*; Feywild'a **meraklı** tek PC. Bir fey'in o ormanda **bir insan tarafından** öldürüldüğünü öğrenirse — ve *"seyirci suçludur"* ahlakıyla — Vasili'yi affetmez. ⚠️ Bu bilgiyi **saklı tut**; Grimnor'ın öğrendiği sahne kampanyanın parti-içi ikinci büyük çatlağı |
+| **[Grimgor](../grimgor/README.md)** | Mournwood *"kendi ormanı"*; Feywild'a **meraklı** tek PC. Bir fey'in o ormanda **bir insan tarafından** öldürüldüğünü öğrenirse — ve *"seyirci suçludur"* ahlakıyla — Vasili'yi affetmez. ⚠️ Bu bilgiyi **saklı tut**; Grimgor'ın öğrendiği sahne kampanyanın parti-içi ikinci büyük çatlağı |
 | **[Mother Ulkryssa](../../../npcs/minor/mother-ulkryssa.md)** | Kendi ormanında bir fey kesildi ve bir Darklord'un kanıyla adak sunuldu. Hag **gördü.** Vasili'nin adını *satabilecek* olması bu yüzden — ve bir hag için fey kanı da **para** |
 | **Bir fey mahkemesi** | Pixie birine aitti. *Hediye borç yaratır*; borcu vereni öldürmek bir **ihlal**. Feywild'ın Ager bağlantısı boş — Vasili'nin cinayeti o bağlantıyı **yazmak** için bir sebep. *(İkinci Dikiş'te Feywild Shadowfell'e bağlandı; bir fey kanı Shadowfell'in efendilerine sunuldu — tema aynı)* |
 | **[Roful Roger](../roful-roger/README.md)** | Aynı ormanda, aynı yıllarda, trans hâlinde. **Gördü mü?** Roger hatırlamıyor olabilir |
@@ -115,7 +115,7 @@ Vasili kendini affetmez, **hesaplar.** Acı bir vicdan sahnesi olarak değil,
 bir **hesap hatası** olarak çıkmalı:
 
 1. Adak boşa gittiyse → *"Bir dostu boşuna kestim"* — Vasili'nin dilinde **israf**
-2. Grimnor öğrenirse → parti içi bedel
+2. Grimgor öğrenirse → parti içi bedel
 3. Deste pixie'nin sesiyle konuşursa → Tatyana'nın sessizliğinin **yanına** ikinci bir ses
 4. Bir fey mahkemesi hesap sorarsa → Vasili ilk kez **borçlu** taraf
 
@@ -199,12 +199,12 @@ Vasili *"Shar da fena değil"* diyor. Bunu **kayıtsızca** söylüyor.
 
 1. Shadowfell'den geliyor ve Shar o düzlemin tanrıçası
 2. **Her şeyini kaybetti** — Shar'ın portfolyosu tam olarak bu
-3. **Selûne'ün bağlısı bir ork** ([Grimnor](../grimnor/README.md)) ile aynı partide
+3. **Selûne'ün bağlısı bir ork** ([Grimgor](../grimgor/README.md)) ile aynı partide
 
 > Shar da bir yıldır susuyor. **Ama susmak istememek ile susmak zorunda kalmak
 > arasındaki farkı gösterecek en iyi araç, Shar'ın bu adamı ne kadar istediğidir.**
 
-⚠️ **Uyarı:** Vasili'yi bir Shar warlock'una çevirme. Oyuncu **wizard** seçti —
+⚠️ **Uyarı:** Vasili'yi bir Shar warlock'una çevirme. Oyuncu **wizard** seçti *(L4'ten beri **Necromancer** — ölüler artık konuşmuyor ama sayılıyor → [Rahadin](../../../npcs/minor/rahadin.md))* —
 kaybettiği gücü **kendi emeğiyle** geri kazanma hikâyesi bu. Shar'ın rolü
 **baştan çıkarma** olmalı, kısayol değil: *"bu kadar çalışmana gerek yok."*
 Vasili'nin reddetmesi ya da kabul etmesi **karakterin finalidir.**
@@ -224,6 +224,21 @@ Yani şu an taşıdığı ad, hayatı boyunca **yalan söylerken** kullandığı
 >
 > Sergei'nin sorusu (*"Buna değdi mi?"*) kampanyanın sonunda cevaplanabilir hâle
 > geldiğinde, karakterin yayı kapanmıştır.
+
+---
+
+## Rahadin — *son saray*
+
+L4'te Erdem Necromancer'a döndü ve zombi familiar'ına **Rahadin** dedi. Barovia'da Strahd'ın yüzyıllık kâhyasının adı bu. **Masada açıklama:** kimse sormayacak.
+
+| | |
+|---|---|
+| **Ne anlatıyor** | Bir hükümdar en küçük ölçekte yeniden kurdu sarayını: bir tahtı yok, bir **uşağı** var |
+| **Saatine bağı** | ⬜ Deste yeni bir ses: *"Efendim."* → [dilim 1–2](03-development.md#4-kişisel-saat--kartlar-yeniden-konuşuyor) |
+| **Kim tanır** | [Ulkryssa](../../../npcs/minor/mother-ulkryssa.md) · Shadowfell'den gelen biri. Kimliğe giden **en küçük** ipucu |
+| **Stillreach** | [Depo](../../../../04-charaxis/regions/stillreach/places.md#depo): *"Kaydı var mı?"* · [Sayman](../../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#sayman-ve-rahadin): **bir fazla sayılır** |
+
+⚠️ **Masa notu:** Bu bir komedi olarak başlar. Komediyi bozma. **Tek bir** sahnede — Rahadin emri verilmeden yerine getirdiğinde — herkes gülmeyi kesmeli.
 
 ---
 
@@ -265,12 +280,12 @@ kalır.
 
 ## Vasili'nin bilmediği ama masanın bilmesi gereken
 
-- **[Grimnor](../grimnor/README.md) Selûne'e bağlı.** Shar'ın ikizi. İkisi de farkında değil
-- Grimnor **Charaxis'e gitti**, Vasili gitmedi. Bilgi asimetrisi masada kullanılabilir
-- 🔒 **Grimnor sessizliğin sürmesini istiyor.** Vasili gücünü geri almak için
+- **[Grimgor](../grimgor/README.md) Selûne'e bağlı.** Shar'ın ikizi. İkisi de farkında değil
+- Grimgor **Charaxis'e gitti**, Vasili gitmedi. Bilgi asimetrisi masada kullanılabilir
+- 🔒 **Grimgor sessizliğin sürmesini istiyor.** Vasili gücünü geri almak için
   sessizliğin **çözülmesine** ihtiyaç duyabilir. İkisi henüz farkında değil
 - **Ulkryssa** her ikisinin de sırrını tutuyor olabilir — ve **Roger'ın** bedenini bir yıl sürdü. Aynı orman, üç PC
-- **Grimnor'ın ormanında bir fey öldürdü.** Grimnor bilmiyor
+- **Grimgor'ın ormanında bir fey öldürdü.** Grimgor bilmiyor
 - [First Communion](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md)
   **12 Uktar 1495'te Shadowfell'e bir dikiş açtı.** Vasili bunu duyduğunda
   kampanyanın en hızlı tepkisini o verir — çünkü oradan geldiğini bilen tek kişi o

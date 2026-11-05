@@ -61,7 +61,7 @@ updated: 2026-10-29
 | PC | Neden kalıyor *(Session 03)* | Bu oturumun ona sahnesi | Charaxis'e çeken |
 |---|---|---|---|
 | **Gwyndor** | Shapeshifter avı Silik'te **bir ceset** buluyor; Stane'e bir randevu borcu var | §3c ceset · §5 kordon | Uyanan ölüler · 3.500 asker |
-| **Grimnor** | Duraklama'da ailesini **duydu** — bunu yapan şeyi bulmak, **bir daha olmamasını** sağlamak | §1 siyah kar · §8 moondust izi | Kaynak · Miren Talvo · *"hayır"* |
+| **Grimgor** | Duraklama'da ailesini **duydu** — bunu yapan şeyi bulmak, **bir daha olmamasını** sağlamak | §1 siyah kar · §8 moondust izi | Kaynak · Miren Talvo · *"hayır"* |
 | **Vasili** | Altı saniye **yine kendisiydi.** Bunu tekrar etmenin tek ipucu bu parti | §4 Tatyana yüzü ([S02 §5g](session-02-grafting-ici.md#5g--vasili--özel-etkileşim)) · §1 deste | Vaha · Sıfır Taşı |
 | **Roger** | Cadının sesini **duydu.** Tek Kulak onun kayıp yılından bir şey biliyor | §7 *"konuşmazdın"* · §9 en net rüya | Rüya kayıtları · moondust hattı · **gemi** |
 | **Tek Kulak** | Ona tuzak kuranı bulmak | §3b · §7 **onun sahnesi** | Trell kâğıdı |
@@ -77,14 +77,14 @@ updated: 2026-10-29
 | İpucu | Kim / nasıl | Ne söyler |
 |---|---|---|
 | ❄️ **Erimeyen siyah kar** | Herkes görür | — |
-| 🌑 Kar **Black Still'in buzu** | **Grimnor otomatik** *(Charaxis'e gitti)*; diğerleri Nature DC 18 | Charaxis'in karanlık yüzü → [Black Still](../../../04-charaxis/regions/black-still.md) |
+| 🌑 Kar **Black Still'in buzu** | **Grimgor otomatik** *(Charaxis'e gitti)*; diğerleri Nature DC 18 | Charaxis'in karanlık yüzü → [Black Still](../../../04-charaxis/regions/black-still.md) |
 | 👤 **Gölgesi yarım saniye geriden geliyor** — leş kıpırdamıyor, gölge hâlâ | Perception DC 12 | Unwoven'ın *Fraying* izi ([lore](../../../02-lore/magic/the-unwoven.md#fraying--the-corruption-track)) |
 | 🔮 *Detect Magic*: **hiçbir şey** | Caster | Arcana DC 15: *büyü var ama Weave'den değil.* DC 20: *Spellplague'den beri kayıtlı "Weave dışı" bir kaynak* |
 | 🐾 **Son sıçrayışının izi** — kırağıda pati izleri, sonuncusu **yukarıyı**, gökteki ikiz dünyayı gösteriyor | Survival DC 13 | Charaxis |
 
 **Kişisel artçılar** *(her oyuncuya tek cümle, özel not — [arc §1](../arcs/charaxis-yolu.md#duraklamada-kim-ne-geri-aldı-dm-seçer---öneriler))*:
 - **Gwyndor:** göğsünde bir **sıcaklık** kalıyor, bir dakika sonra soğuyor. ⬜
-- **Grimnor:** kulağında, çok uzakta, **sayan** bir ses. *"Bir."* Sonra hiçbir şey. ⬜
+- **Grimgor:** kulağında, çok uzakta, **sayan** bir ses. *"Bir."* Sonra hiçbir şey. ⬜
 - **Vasili:** destede bir kart **ters dönmüş.** ⬜ *(öneri: **Darklord**)* Yüzü yavaşça **boşalıyor.**
 - **Roger:** parmak uçlarında **karıncalanma.** Bir an, kafasının içinde yaşlı bir kadın: *"Buldum seni, kuryem."* ⬜
 - **Tek Kulak:** hiçbir şey. **Herkesin bir şey yaşadığını görüyor.**
@@ -315,7 +315,7 @@ bir centaur'u bozuyor. Parti **dikkatliyse** onu iş üstünde yakalar.
 |---|---|---|
 | 📌 Bir duvarda **çivili bir isim**: *"Aleth Brann"* | [Serane Ardo](../../../05-characters/npcs/minor/the-unfettered-wind/serane-ardo.md) *(Unfettered Wind, D+10)* | [Saha tahtası](../factions-in-play/the-four-answers/field-ops/calithra-standoff.md) — şehre bugün girdiler |
 | 🏺 [Adsızlar Bahçesi](../../../03-ager/continents/ravonia/regions/calithra/places.md#adsızlar-bahçesi--the-nameless-garden)'nin kiremitleri o gece **yandı** | Kimse | 🔒 ⬜ [sırlar §4](../../../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md#4-adsızlar-bahçesi-hâlâ-çalışıyor) açılmak istenirse tek cümle yeter. [Corvane Sull](../../../05-characters/npcs/minor/the-first-communion/corvane-sull.md) orada oturuyordu ve **kalktı** |
-| 🐈 [Fig](../../../05-characters/npcs/minor/fig.md) Grimnor'ı **limanda** bekliyor | — | Fig Duraklama'da **ilk kez** miyavladı ⬜ |
+| 🐈 [Fig](../../../05-characters/npcs/minor/fig.md) Grimgor'ı **limanda** bekliyor | — | Fig Duraklama'da **ilk kez** miyavladı ⬜ |
 | 🍞 Son Mektup Fırını'na o gece **iki kat** mektup atıldı | [Marto](../../../03-ager/continents/ravonia/regions/calithra/people.md#marto-belh) | Herkes bir şeyi **hatırladı** → §7 |
 
 ---
@@ -381,7 +381,7 @@ bir centaur'u bozuyor. Parti **dikkatliyse** onu iş üstünde yakalar.
 
 **Bağlar:**
 - ⚓ **Roger:** *"Sen o zaman konuşmazdın. Buraya bir paket bırakmıştın."* → [Roger saati dilim 1](../../../05-characters/player-characters/new-campaign/roful-roger/03-development.md#4-kişisel-saat--kulübedeki-i̇dol) *(öneri — [Tek Kulak §Roger ile](../../../05-characters/npcs/minor/tek-kulak.md#roger-ile))*
-- 🌕 **Grimnor:** Roger'ın **moondust'lı ekmeği** buradan çıktı. Grimnor'ın karşıtlığı ilk kez bir **adres** buluyor ([S01 açık uç](session-01-calithra-kavsagi.md#3-moondustlı-ekmek))
+- 🌕 **Grimgor:** Roger'ın **moondust'lı ekmeği** buradan çıktı. Grimgor'ın karşıtlığı ilk kez bir **adres** buluyor ([S01 açık uç](session-01-calithra-kavsagi.md#3-moondustlı-ekmek))
 - 📜 **Trell sandığı** Tek Kulak'taysa: *teslim edilmez.* İçinde ne olduğu bu sahnede **açılır** → [arc §2](../arcs/charaxis-yolu.md#2-trell-sandığı--kapının-anahtarı)
 
 > **XP:** Spy 200 + 2×Bandit 25 = 250 → **Low.** Bu bir dövüş değil, bir **hesaplaşma.**
@@ -408,14 +408,14 @@ bir centaur'u bozuyor. Parti **dikkatliyse** onu iş üstünde yakalar.
 | PC | Soru |
 |---|---|
 | **Gwyndor** | *"Kalbin attı. Bunu **istedin** mi, yoksa sadece **hatırladın** mı?"* |
-| **Grimnor** | *"Kapıyı tuttun. **'Hayır'** bu mu?"* |
+| **Grimgor** | *"Kapıyı tuttun. **'Hayır'** bu mu?"* |
 | **Vasili** | *"Geri istedin. **Neyi** — ve **kimden**?"* |
 | **Roger** ⭐ | *"Bir yıl taşındın. Şimdi **kimi** taşıyorsun?"* — Roger **en net** görür *(moondust)*: silüetin arkasında **güneşin hiç doğmadığı** bir ufuk |
 | **Tek Kulak** | **Rüya yok.** Sabah herkes susuyorsa, o **neden** sustuklarını sorar |
 
 - Oyuncu rüyada **cevap verirse**, silüet onun **bir hareketini** taklit eder. Cevabı **birebir not al** → [§13](#13-canlı-notlar). Bu cevaplar vahada geri gelecek.
 - 🔒 **Roger:** rüyanın kenarında, karın ötesinde bir **kulübe** → [Roger saati dilim 2](../../../05-characters/player-characters/new-campaign/roful-roger/03-development.md#4-kişisel-saat--kulübedeki-i̇dol) ⬜
-- 🔒 **Grimnor:** Unwoven *"hayır"*ı öğrenmeye çalışıyor ([Miren Talvo](../../../05-characters/npcs/minor/miren-talvo.md#sırlar) — *"Hayır ne demek?"*). Grimnor'ın cevabı **ona ders** olur.
+- 🔒 **Grimgor:** Unwoven *"hayır"*ı öğrenmeye çalışıyor ([Miren Talvo](../../../05-characters/npcs/minor/miren-talvo.md#sırlar) — *"Hayır ne demek?"*). Grimgor'ın cevabı **ona ders** olur.
 
 > 🎬 **Kapanış cümlesi:** *Sabah uyandığınızda pencereden kızıl gökyüzü görünüyor —
 > ve gökteki ikiz dünyanın karanlık yüzünde, ilk kez, **küçük beyaz bir nokta.***
@@ -428,18 +428,18 @@ bir centaur'u bozuyor. Parti **dikkatliyse** onu iş üstünde yakalar.
 |---|---|---|
 | [Saat 2 — Vahadaki Şey](../06-clocks.md#-2-vahadaki-şey-yaklaşıyor) | **+1** *(dilim 1)* | Duraklama; artık caster olmayanlar da rüya görüyor |
 | [Gwyndor — Defterdeki İsim](../../../05-characters/player-characters/new-campaign/gwyndor/03-development.md#4-kişisel-saat--defterdeki-i̇sim) | dilim **1–2** | Çavuşun defteri / kayıt masası · Gruvv'un düğümü |
-| [Grimnor — Kapıdaki Avcı](../../../05-characters/player-characters/new-campaign/grimnor/03-development.md#4-kişisel-saat--kapıdaki-avcı) | **+1** | Duraklama'da *"bir"* |
+| [Grimgor — Kapıdaki Avcı](../../../05-characters/player-characters/new-campaign/grimgor/03-development.md#4-kişisel-saat--kapıdaki-avcı) | **+1** | Duraklama'da *"bir"* |
 | [Vasili — Kartlar](../../../05-characters/player-characters/new-campaign/vasili-von-holtz/03-development.md#4-kişisel-saat--kartlar-yeniden-konuşuyor) | **+1** | Deste altı saniye konuştu |
 | [Roger — Kulübedeki İdol](../../../05-characters/player-characters/new-campaign/roful-roger/03-development.md#4-kişisel-saat--kulübedeki-i̇dol) | dilim **1–2** | Tek Kulak · rüyadaki kulübe |
 
-**Session 04'e kalan:** Charaxis kararı · boğaz geçişi · Surfwale · Grimnor ↔ Vasili *"açılsın mı / açılmasın mı"* → [Charaxis Yolu §6](../arcs/charaxis-yolu.md#6-oturum-takvimi)
+**Session 04'e kalan:** Charaxis kararı · boğaz geçişi · Surfwale · Grimgor ↔ Vasili *"açılsın mı / açılmasın mı"* → [Charaxis Yolu §6](../arcs/charaxis-yolu.md#6-oturum-takvimi)
 
 ## 11. Dallanma
 
 | Eğer… | O zaman |
 |---|---|
 | Parti köyde **isim söyleyip** Speaker'ı uyarırsa | §4a atlanır; centaur bozulur, kilisede 2. turda girer |
-| **Centaur kurtarılırsa** | Kilisede müttefik; sonra **Feywild'a** döner — Grimnor'a bir **hediye borcu** bırakır ⬜ |
+| **Centaur kurtarılırsa** | Kilisede müttefik; sonra **Feywild'a** döner — Grimgor'a bir **hediye borcu** bırakır ⬜ |
 | **Çoban çocuk** dışarı çıkarılırsa | Pip ona bakar; renk 1d4 günde döner. Ağabeyi hâlâ dış halkada |
 | **Harper'lar çıkarılırsa** | §6 ⚠️ satırı · Mirel düğümü |
 | **Thava'nın kâğıdı** yanarsa / alınmazsa | Vesna Marr'ı yine söyler — ama **Charaxis'e düşen ekip** ipucu kaybolur |
@@ -474,7 +474,7 @@ bir centaur'u bozuyor. Parti **dikkatliyse** onu iş üstünde yakalar.
 | PC | Cevap |
 |---|---|
 | Gwyndor | ⬜ |
-| Grimnor | ⬜ |
+| Grimgor | ⬜ |
 | Vasili | ⬜ |
 | Roger | ⬜ |
 
@@ -492,7 +492,7 @@ bir centaur'u bozuyor. Parti **dikkatliyse** onu iş üstünde yakalar.
 | # | Ne oldu | Sonuç |
 |---|---|---|
 | 1 | Parti köydeki varlığı — **[Gallows Speaker](../../../02-lore/bestiary/gallows-speaker.md)**'ı — **başarıyla öldürdü** | Adlar geri döndü (§4c). **Dikiş açık** — Speaker yan etkiydi |
-| 2 | Speaker'ın bozduğu **centaur**'u **kurtardılar.** Centaur onlarla **dönmeyi seçmedi** | Feywild kuşağına döndü ⬜ — partiye (Grimnor'a?) bir **hediye borcu** bırakmış olabilir (§11) |
+| 2 | Speaker'ın bozduğu **centaur**'u **kurtardılar.** Centaur onlarla **dönmeyi seçmedi** | Feywild kuşağına döndü ⬜ — partiye (Grimgor'a?) bir **hediye borcu** bırakmış olabilir (§11) |
 | 3 | **Halit** ve **Halime**'yi buldular. Dışarı çıkarmanın **tehlikeli** olduğuna karar verip ikisini de **orada öldürdüler** | Vesna'nın kuralına uyuldu → §6'da **"öldürüldü"** satırı geçerli. Gallows Echo **yok** |
 | 4 | 📜 **First Communion'ın buraya geldiğini gösteren not Halime'nin elinde** bulundu *(Thava'nın kâğıdı — §4c, [S02 §5f](session-02-grafting-ici.md#-merkezde-ne-öğrenilir--ritüelin-sırrı))* | Arka yüzdeki *"Nine, üçüncü halkada bekle. — Y.M."* Speaker öldüğü için **okunur** ⬜ |
 | 5 | 🪡 **Vasili Speaker'ın elindeki iğneyi keşfetti ve aldı** — attune olan **günde 3 kez** birine saplayarak **curse aktarabiliyor** | Yeni homebrew eşya → [Gallows Needle](../../../08-rules/homebrew/items/gallows-needle.md) |

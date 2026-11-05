@@ -44,7 +44,7 @@ updated: 2026-09-30
 | ⬜ | İnişli çıkışlı bir dostluk | ✅ |
 | ⬜ | **Pixie'yi öldürdü** — Dark Powers'a adak. Pişmanlık yok | ✅ |
 | ⬜ | Silvaerûn'a ⬜ girdi / giremedi | ⬜ |
-| 1494–95 | **Büyüyü sıfırdan öğrendi.** Bladesong ⬜ kimden | ✅ |
+| 1494–95 | **Büyüyü sıfırdan öğrendi.** Bladesong ⬜ kimden *(L4'te bıraktı → Necromancer)* | ✅ |
 | **1495** | Ravonia yenildi; ordu dağıtıldı; Iron Concord doğdu | ✅ dünya — Vasili gördü *(bir yıldır burada)* |
 | **20 Uktar 1495** | ★ Kampanya | ✅ |
 
@@ -72,7 +72,7 @@ updated: 2026-09-30
 | **Başkent** | [Ravonia şehri](../../../../03-ager/continents/ravonia/cities/ravonia/README.md): dört kanat — asalet doğuda, tapınak ve arşiv kuzeyde ([Aurelium](../../../../03-ager/continents/ravonia/cities/ravonia/districts/aurelium-north.md)), lonca batıda, yoksulluk güneyde. **Savaşı kaybetmiş, otorite boşluğu kokan** bir şehir |
 | **Savaş** | Geldiğinde savaş sürüyordu; bittiğini gördü. Ordu dağıtıldı, [Iron Concord](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md) doğdu — *"tek anlaşılabilir düzen"*, başında bir cüce |
 | **Portallar** | Altı kapı; hepsi Charaxis'e; **elfler sabitledi**; şifre + yetki; kararsız. **Bir dönüş yolu değil** — ya da henüz değil |
-| **Charaxis** | Uydu. **Gitmedi.** [Grimnor](../grimnor/README.md) gitti — bilgi asimetrisi |
+| **Charaxis** | Uydu. **Gitmedi.** [Grimgor](../grimgor/README.md) gitti — bilgi asimetrisi |
 | **Silvaerûn** | Kuzeyin kapalı elf şehri; davetle; tanrısı Corellon **bir yıldır susuyor**; sözleşme ve bağ çözümlemesinde uzman. **Kapısına gitti** |
 | **Mournwood** | Kuzey-orta orman; *"geceyi geçiren olmaz."* Orada neredeyse öldü. Bir hag'in ormanı olduğunu ⬜ biliyor mu |
 | **Büyü** | Sıfırdan öğrendi — bu dünyanın Weave'i. Casterların *"zayıflama hissi"*ni ⬜ o da hissediyor mu? Yeni öğrenen biri **farkı bilmez** |
@@ -91,7 +91,7 @@ updated: 2026-09-30
 - **Deste neden sustu** — kendi açıklaması var ve **yanlış** olabilir
 - **Adağının duyulup duyulmadığı**
 - Mournwood'un [Ulkryssa](../../../npcs/minor/mother-ulkryssa.md)'nın ormanı olduğu ve **onu gördüğü** ⬜
-- [Grimnor](../grimnor/README.md)'ın o ormanı *"kendi ormanı"* saydığı — ve Selûne'e bağlı olduğu
+- [Grimgor](../grimgor/README.md)'ın o ormanı *"kendi ormanı"* saydığı — ve Selûne'e bağlı olduğu
 - [Roger](../roful-roger/README.md)'ın **keşiş** olması dışında Roger hakkında hiçbir şey
 - Charaxis'in tamamı
 
@@ -129,6 +129,7 @@ updated: 2026-09-30
 | **Başkentte konuştukları** ⬜ | Ravonia | ⬜ | ✅ aday: Aurelium arşivcileri, doğu kanadı |
 | **Silvaerûn kapısındaki elfler** ⬜ | ⬜ | ⬜ | ✅ aday: Nyssen Ithren / Hedda Sunder |
 | **Parti** | ⬜ | → [04-party.md](../../../../06-campaigns/new-campaign/04-party.md#partiyi-bir-araya-getiren-şey) | |
+| 🧟 **Rahadin** | Yedinci Kapı önü | Yanında | [→](../../../npcs/minor/rahadin.md) |
 
 ### Adını bildiği — tanımadığı
 
@@ -154,7 +155,7 @@ updated: 2026-09-30
 - [ ] Pixie'nin adı? Ne kadar birlikteydiniz? Ne paylaştınız?
 - [ ] Adağı nasıl sundun, ne bekledin, ne aldın *(ya da aldığını sandın)*?
 - [ ] Silvaerûn'un kapısına vardın mı? İçeri girdin mi?
-- [ ] Bladesong'u kimden öğrendin?
+- [ ] Bladesong'u kimden öğrendin? **Neden bıraktın?** Rahadin'in bedeni kimin?
 - [ ] Hangi portala baktın?
 - [ ] Partiye Barovia'yı, Tatyana'yı, pixie'yi anlatıyor musun?
 

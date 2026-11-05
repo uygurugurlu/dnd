@@ -10,7 +10,7 @@ symbol: Kahverengi tüylü, kıvrık ve kanlı pençeleri olan hayvan pençesi
 home_plane: Deep Wilds — Silvanus'un hâkimiyetinde (Spellplague sonrası)
 canon: fr-canon
 status: usable
-tags: [malar, beastlord, hunt, lycanthrope, chaotic-evil, deities-of-fury, new-campaign, grimnor]
+tags: [malar, beastlord, hunt, lycanthrope, chaotic-evil, deities-of-fury, new-campaign, grimgor]
 sources:
   - https://forgottenrealms.fandom.com/wiki/Malar
   - https://forgottenrealms.fandom.com/wiki/Black_Blood_tribe
@@ -122,11 +122,11 @@ peşine düş. Malar'ın Ager'de denediği şey **avı ve sürüyü aynı köyde
 > yargılar ve öldürür — ve bunu **kendi eliyle** yapar.
 
 Bu, kampanyadaki bir oyuncu karakterinin geçmişidir:
-👤 **[Grimnor](../../../05-characters/player-characters/new-campaign/grimnor/README.md)**
+👤 **[Grimgor](../../../05-characters/player-characters/new-campaign/grimgor/README.md)**
 o köyde bir çiftçiydi. Ailesi **kurt tarafında** kaldı. Köy kazandı.
 
 📖 Tam kurgu ve DM cevapları:
-🔒 [Grimnor — DM notları](../../../05-characters/player-characters/new-campaign/grimnor/04-dm-notes.md)
+🔒 [Grimgor — DM notları](../../../05-characters/player-characters/new-campaign/grimgor/04-dm-notes.md)
 
 ## Ve deney nasıl bitti
 
@@ -142,7 +142,7 @@ avını buradan yönetiyordu ve **hattı koptu.**
 
 ⭐ **Kampanyanın en tehlikeli tersine çevirmesi bu:**
 
-| Herkesin gördüğü | Grimnor'ın gördüğü |
+| Herkesin gördüğü | Grimgor'ın gördüğü |
 |---|---|
 | Sessizlik bir **felaket** | Sessizlik **tek merhamet** |
 | Bariyer kalkmalı | **Bariyer kalkarsa Malar geri döner** |
@@ -154,12 +154,12 @@ avını buradan yönetiyordu ve **hattı koptu.**
 
 ## Kesilmiş Av
 
-Grimnor'ın köyü, Malar'ın **tamamladığı son av**dı.
+Grimgor'ın köyü, Malar'ın **tamamladığı son av**dı.
 
 ⬜ **Bir sonraki köy seçilmişti ve o av hiç başlamadı.** O köy hâlâ ayakta,
 hâlâ hiçbir şeyden haberi yok.
 
-> **[HOOK]** Grimnor o köyü bulabilir. **Kurtulmuş** bir köy — ve orada
+> **[HOOK]** Grimgor o köyü bulabilir. **Kurtulmuş** bir köy — ve orada
 > kimse ona teşekkür etmeyecek, çünkü kimse neyden kurtulduğunu bilmiyor.
 
 ## Chosen ve Hizmetkârlar
@@ -176,7 +176,7 @@ var mı, yoksa av doğrudan mı yürütüldü — belirlenmedi.
 > **[HOOK]** Bir köyde herkes birbirini suçlamaya başlarsa, bu bir dedikodu
 > olabilir — ya da bir avın **artığı**.
 
-> **[HOOK]** Grimnor'ın Wild Shape'i Malar'ın avından kaldı. Yani karakterin
+> **[HOOK]** Grimgor'ın Wild Shape'i Malar'ın avından kaldı. Yani karakterin
 > gücü, düşmanının imzasını taşıyor. Bunu ilk fark eden NPC bir koz kazanır.
 
 > **[HOOK]** [Beastlands](../../../01-cosmology/outer-planes/beastlands.md)'de

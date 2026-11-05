@@ -86,7 +86,7 @@ kabuslarından besleniyor.
 > bir düşman demek — ve her dönüşünde daha fazla genç caster tanıyor olacak.
 
 > 👤 **PC bağları (New Campaign) — üç karakter:**
-> [Grimnor](../../player-characters/new-campaign/grimnor/README.md) *(avın tanığı; ormanı onun)* ·
+> [Grimgor](../../player-characters/new-campaign/grimgor/README.md) *(avın tanığı; ormanı onun)* ·
 > [Vasili von Holtz](../../player-characters/new-campaign/vasili-von-holtz/README.md) *(ormanında bir pixie öldürdü; adını biliyor olabilir)* ·
 > [Roful Roger](../../player-characters/new-campaign/roful-roger/README.md) *(kurbanı; bedenini bir yıl sürdü)*.
 > 🔒 → [Roger DM notları](../../player-characters/new-campaign/roful-roger/04-dm-notes.md#ulkryssanın-üç-pcsi)
