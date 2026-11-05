@@ -117,6 +117,9 @@ updated: 2026-11-05
 >
 > *"Oturun. Beş kişisiniz, dört sandalye var. Bu evde hep biri ayakta kaldı."*
 
+![Calith](../../../05-characters/npcs/major/calith-auveran/attachments/calith-portrait.png)
+*Oyunculara göster: kapıyı açtıklarında.*
+
 **Kim:** [Calith Auveran](../../../05-characters/npcs/major/calith-auveran/README.md), *Geç Kalan.* **[Yer kuralları](../../../04-charaxis/regions/latecomers-house.md#kurallar):** ses normal · rün sayacı durur · surge yok · bir kez uzun dinlenme.
 
 > **Oynama anahtarı:** Çok sıcak, çok neşeli, **elleri hiç durmuyor.** Kendisi **soru sormaz:** ne öğrenmek istiyorlarsa sormak zorundalar. Sordukları her şeye **doğru** cevap verir.

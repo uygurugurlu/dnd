@@ -11,6 +11,8 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-11-05** — 🖼️ **[Calith Auveran](../05-characters/npcs/major/calith-auveran/README.md) görseli** (Midjourney) eklendi; prompt dosyada, [Session 05 §3](../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md#3-geç-kalanın-evi)'te oyunculara gösterilir.
+
 - **2026-11-05** — 🐈 **[Fig](../05-characters/npcs/minor/fig.md):** DM kararı: üstünde Calith'in büyüsü var; yaşlanmıyor, Charaxis'ten etkilenmiyor. Statblock'a *Calith's Refrain* ve Cold immunity eklendi, CR 1/2 yeniden doğrulandı; yeni bölüm: *Neden üşümüyor*.
 
 - **2026-11-05** — 🎵 **New Campaign: Session 05 yeniden yazıldı; Calith Auveran sahnede.**

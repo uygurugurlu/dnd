@@ -15,6 +15,7 @@ doc_status: draft
 dm_only: true
 tags: [npc, major, calith-auveran, bard, harpers, calithra, charaxis, black-still, selune, malar, fig, seventh-gate, new-campaign, statblock]
 sources:
+  - "Görsel: Midjourney (DM'in hesabı), 2026-11-05"
   - "DM, 2026-11-05: Calith Yedinci Kapı'dan geçti ve dönmedi; yüce, yarı tanrı seviyesine yakın bir bard; Selûne'ü tanıyor ama iletişim kuramıyor; Grimgor'un ailesini katleden gücü biliyor; Fig onun evine götürür"
 updated: 2026-11-05
 ---
@@ -22,6 +23,8 @@ updated: 2026-11-05
 # Calith Auveran — *Geç Kalan*
 
 > *Bir şehir kurdu, adını bıraktı, merdivenlerden indi ve kimsenin gelmediği bir kapıdan yürüdü; yetmiş dört yıldır Kara Dinginlik'te aynı şarkıyı çalıyor.*
+
+![Calith Auveran — Geç Kalan'ın Evi'nde](attachments/calith-portrait.png)
 
 **Statblock:** [statblock.md](statblock.md) · 🔒 **Sırlar:** [05-secrets-dm-only.md](05-secrets-dm-only.md) ·
 **Evi:** [Geç Kalan'ın Evi](../../../../04-charaxis/regions/latecomers-house.md) ·
@@ -47,6 +50,14 @@ updated: 2026-11-05
 Küçük, kuru, kırçıl sakallı; sıradan bir meyhane müzisyeni. Yamalı yün hırka, çıplak ayak. *Bir yerlerde gördüğünüz biri:* Yüzü kimseyi hatırlatmaz, gözü herkesi. Kucağında eski bir arp, parmak uçları nasırdan gümüşe dönmüş.
 
 > **Akılda kalıcı detay:** **Elleri hiç durmuyor.** Konuşur, güler, yemek koyar: arp çalmaya devam eder. *Yemeği nasıl koydu?* Kimse fark etmedi. Çok alçak; duyunca değil, **sustuğunda** anlarsın. Ve yalnızca bir kez duracak.
+
+### Görsel prompt'u
+
+Midjourney, [Stil A](../../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/art-prompts.md#stil-a--sinematik-grimdark-varsayılan):
+
+```
+cinematic film still from a grimdark fantasy epic, shot on 35mm anamorphic, shallow depth of field, real fabric weight and naturalistic weathered skin, three-quarter portrait of a small wiry half-elf bard who looks about sixty, grizzled short beard, subtly pointed ears, warm amused eyes that know too much, patched grey wool cardigan, bare feet on stone, standing and playing an old worn wooden harp cradled against his shoulder, fingertips calloused silver with dried blood at the nails, a red-grey tabby cat with a notched left ear sitting at his feet, inside a tiny round stone hut, low hearth fire, a single grapevine growing from a clay pot, mismatched wooden chairs at a plain table, through a small window endless black ice under a starless night, warm firelight on his face against cold blue light from the window --ar 2:3 --raw --s 60 --exp 15 --no cartoon, anime, illustration, caricature, cel shading, cute, big eyes, stylized proportions, 3d render, plastic skin, toy
+```
 
 ## Ses ve tavır
 
