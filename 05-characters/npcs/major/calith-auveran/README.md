@@ -102,7 +102,7 @@ Sıcak, acelesiz, tuhaf derecede neşeli. Soru sormaz: Calithra'nın kuralını 
 
 | Kim | İlişki |
 |---|---|
-| [Fig](../../minor/fig.md) | Familiar. Dünyaya açılan tek eli |
+| [Fig](../../minor/fig.md) | Familiar. Dünyaya açılan tek eli. [Üstünde büyüsü var](../../minor/fig.md#neden-üşümüyor--calithin-büyüsü): yaşlanmıyor, Charaxis'ten etkilenmiyor |
 | [Vesna Marroc](../../../../03-ager/continents/ravonia/regions/calithra/people.md#vesna-marroc) | Hücresinin son başı. Tanışmadılar; **halkayı anlayan tek kişi** |
 | [Selûne](../../../../02-lore/pantheon/faerunian/selune.md) | Tanıyor. 1494'ten beri ulaşamıyor |
 | [Grimgor](../../../player-characters/new-campaign/grimgor/README.md) | Fig'in seçtiği. Sorusunun cevabı onda |

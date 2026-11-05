@@ -90,7 +90,7 @@ updated: 2026-11-05
 
 | Ne | Masada |
 |---|---|
-| 🐈 **[Fig](../../../05-characters/npcs/minor/fig.md)** | Calithra'nın kedisi. Sol kulağında çentik, boynunda arp halkası. *Rün yok.* Karda iz bırakmıyor |
+| 🐈 **[Fig](../../../05-characters/npcs/minor/fig.md)** | Calithra'nın kedisi. Sol kulağında çentik, boynunda arp halkası. *Rün yok.* Karda iz bırakmıyor. Nature DC 10: **üşümüyor.** Arcana DC 15: üstünde eski bir büyü var, **rün değil** → [neden](../../../05-characters/npcs/minor/fig.md#neden-üşümüyor--calithin-büyüsü) |
 | 🧭 **Yön** | Kuzey = daha soğuk, şehrin **tersi.** Güney = mavi ışık, Survival DC 12 |
 | 🔇 **Ses** | Bir adım öteden. **Fısıltı imkânsız** |
 | ✨ **Ham büyü** | Slotlu her büyüde d20: **1–2 → Wild Magic Surge** ([kural](../../../04-charaxis/phenomena/README.md#3-ham-büyü--masa-kuralı)). ⚠️ *Battle Familiar* dâhil: **Erdem'e söyle** |
@@ -136,6 +136,7 @@ Bırakmazlarsa: *"Peki. O zaman bu evde adımı söylemeyin."* → 🔒 [Defter 
 | *"Neden burada çalıyorsun?"* | *"Dinliyor. Çaldıkça yavaş geliyor."* Parmak uçlarına bakın: **kan** |
 | *"Bizimle gel."* | *"Bir mil. O kadar. Durursam bütün gezegen duyar."* |
 | *"Selûne?"* | *"Onu tanırım. Dua ettim demiyorum; **tanırım.** Sesini bilirim. Bir kez güldü. Bu dünyanın üstünde oturuyorum ve 1494'ten beri **ona ulaşamıyorum.** Adıyla çağırırsam duvara çarpar. Adsız çağırırsam kime gittiğini bilemem."* |
+| *"Kedi neden üşümüyor?"* | *"Üstünde benim bir ölçüm var. Yaşlanmıyor da. Calithra'da kırk ev onu besledi, hiçbiri yaşını sormadı."* |
 | *"Vaha'ya nasıl gidilir?"* | *"Gidilmez. Biri döndü: [Sorka](../../../05-characters/npcs/minor/sorka-ucdis.md). Ona kimse sormadı. Kurtlarına sorun."* |
 
 ### ⭐ Grimgor — *kim yaptı*
@@ -170,7 +171,7 @@ Ama **okları bilmiyor.** Biri söylediği an:
 >
 > *"...Kaçı öldürür iki ok, yaşlı bir kadını?"*
 
-İlk sorusu bu. Fig kulaklarını indirir. → [Saat 2](../06-clocks.md#-2-vahadaki-şey-yaklaşıyor) ⬜ +1.
+İlk sorusu bu. Fig **ilk kez titrer,** kulaklarını indirir. → [Saat 2](../06-clocks.md#-2-vahadaki-şey-yaklaşıyor) ⬜ +1.
 
 ### Çıkış — *verdikleri*
 

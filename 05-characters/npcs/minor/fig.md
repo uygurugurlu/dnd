@@ -14,6 +14,7 @@ canon: homebrew
 doc_status: usable
 tags: [calithra, fig, cat, familiar, fey, calith-auveran, harpers, new-campaign, npc, statblock]
 sources:
+  - "DM, 2026-11-05: Fig'in üstünde Calith'in büyüsü var; bu yüzden yaşlanmıyor ve Charaxis'ten etkilenmiyor"
   - "SRD 5.2 (CC-BY-4.0) — stat block formatı s. 251-254; Find Familiar (familiar türü Celestial, Fey ya da Fiend seçilir), Cat"
   - "https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.pdf"
 updated: 2026-11-05
@@ -26,6 +27,8 @@ updated: 2026-11-05
 **Yukarı:** [Calithra — Kadro](../../../03-ager/continents/ravonia/regions/calithra/people.md#fig) ·
 **Sırlar:** [Calithra — Sırlar](../../../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md) ·
 **Oyunda:** [Session 01 — Calithra Kavşağı](../../../06-campaigns/new-campaign/sessions/session-01-calithra-kavsagi.md)
+
+> ✅ **Kanon (DM, 2026-11-05):** Fig'in üstünde **Calith'in büyüsü** var. Bu yüzden **yaşlanmıyor** ve **Charaxis'ten etkilenmiyor** → [Neden üşümüyor](#neden-üşümüyor--calithin-büyüsü).
 
 > **Kampanya canon'u (2026-09, Session 01):** Fig **yüzlerce yaşında**; sahibi **Calithra'nın kurucusu**; **shapeshifter değil**, büyülü bir **familiar**. Oyuncular yalnız *"yüzlerce yaşında ve sahibi kurucuydu"* kısmını biliyor. Familiar bağı ve **Calith'in yaşadığı** DM-only.
 
@@ -79,10 +82,43 @@ Kırk hane onu besliyor ve o herkese aynı derece nazik. Aç görünür, aç de�
 | 1372–1384 | Calith'in Harpers yıllarında omzunda gezer; *Brightcandle* rütbesi |
 | **1385** | [Spellplague](../../../02-lore/history/spellplague.md). Calith geç kalır; Fig oradadır |
 | **1389** | [Calithra](../../../03-ager/continents/ravonia/regions/calithra/history.md) kurulur. İlk bağ, ilk çalış |
-| **1421** | Calith kaybolur. Fig **vadiden ayrılmaz** |
+| **1421** | Calith gitmeden önce **büyüsünü Fig'in üstüne bırakır** ⬜ *(an öneri)*, sonra kaybolur. Fig **vadiden ayrılmaz** |
 | 1421–1494 | 74 yıl. Fig kırk hanenin kedisi olur; **kimse yıl saymaz** |
 | **1494** | Kuyruklu yıldızlar. Tanrılar susar. Fig'in büyüsü **etkilenmez** — bağ **arcane ve fey**, ilahi değil |
 | **1495 (Uktar)** | Üç gün kaybolur; boynunda arp halkasıyla döner. *(Kırıkbağ Grafting'inin açıldığı haftaya denk gelip gelmediği ⬜ — bkz. DM ONLY.)* Session 01'de Grimgor'la tanışır |
+
+## Neden üşümüyor — Calith'in büyüsü
+
+> **[DM ONLY]** Oyuncular bunu [Calith](../major/calith-auveran/README.md)'ten ya da aşağıdaki check'lerden öğrenir.
+
+**Fig'i koruyan şey kedi olması, Fey olması ya da bir rün değil: [Calith'in büyüsü](../major/calith-auveran/statblock.md#calith-auveran).** Familiar bağı Fig'i Calith'e bağlar; yaşlanmayı ve soğuğu durduran şey **bu büyüdür.**
+
+| Charaxis'in yaptığı | Fig'e ne olur | Neden |
+|---|---|---|
+| ❄️ **Aşırı soğuk** | Etkilemez | Büyü Cold damage'ı ve soğuk etkilerini keser |
+| 😮‍💨 **Frozen Air** | Nefes alır, yürür | Havadan etkilenmez; [Nöbet Rünü](../../../08-rules/homebrew/items/watch-runes.md) gerekmez |
+| ✨ **Ham büyü** | Surge olmaz | Büyü Weave'den çekmez ⬜ *(Calith'in [Song Without Address](../major/calith-auveran/statblock.md#traits)'i)* |
+| ⏳ **Zaman** | Yaşlanmaz | Calithra'da da yaşlanmıyordu. Charaxis'in bir farkı yok |
+| 🦶 **Kar** | ⬜ İz bırakmaz | Görsel; mekanik değil |
+
+**Sınırları:**
+
+| | |
+|---|---|
+| ⚔️ **Hasar** | Silah ve başka büyüler Fig'e normal işler. Ölümsüz değil, [Bound Life](#statblock) ile geri gelir |
+| 🚫 ***Dispel Magic*** | Düşmez: Weave'den değil ⬜ |
+| 👥 **Başkasına geçer mi** | Geçmez. Kucağındaki Grimgor üşümeye devam eder |
+| 🎵 **Calith ölürse** | Büyü biter. [Öneri](#dm-only--familiar-ve-calith): üç sabah uyanmaz, sonra dağılır; **soğuğun ortasındaysa daha çabuk** ⬜ |
+| 💔 **Şarkı tökezlerse** | ⬜ Fig **bir an üşür.** Hayatında ilk kez titrer; kulaklarını indirir. [Session 05 §3](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md#-tökezleme--vesna-nasıl)'te görünür |
+
+**Masada fark etmek:**
+
+| Check | Ne öğrenir |
+|---|---|
+| **Nature DC 10** | Kedi üşümüyor. Tüyleri kabarmıyor, nefesi buhar yapmıyor |
+| **Arcana DC 15** *(ya da Detect Magic + DC 12)* | Bağın üstünde **ikinci bir büyü** var. Rün değil. Eski |
+| **Arcana DC 20** | Weave'den çekmiyor. *"Bunu biri çalıyor olmalı"* gibi bir his: **ritmi var** |
+| **Performance DC 15** *(müzisyen)* | Kedinin yanında bir ölçü duyar gibi olursun. Calith'in evine yaklaştıkça netleşir |
 
 ## Kişilik
 
@@ -126,12 +162,15 @@ Kırk hane onu besliyor ve o herkese aynı derece nazik. Aç görünür, aç de�
 | **Int** 8 | −1 | −1 | **Wis** 14 | +2 | +4 | **Cha** 12 | +1 | +1 |
 
 **Skills** Perception +4, Stealth +7
+**Immunities** Cold
 **Gear** Silver harp-shaped collar ring
 **Senses** Darkvision 60 ft.; Passive Perception 14
 **Languages** Understands Common, Elvish, and Sylvan but can't speak
 **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
+
+***Calith's Refrain.*** Calith Auveran's magic rests on Fig. Fig doesn't age, doesn't need Watch Runes, and is immune to extreme cold and to the Frozen Air of the Black Still. He doesn't trigger raw-magic surges. *Dispel Magic* doesn't end this trait, but it ends if Calith dies.
 
 ***Bound Life.*** If Fig is reduced to 0 Hit Points, he doesn't die. He vanishes in a puff of warm, faintly sweet smoke and reappears at the next dawn with all his Hit Points, in an unoccupied space within 1 mile of where he fell. This trait ends if the bond to his master is severed.
 
@@ -157,7 +196,7 @@ Kırk hane onu besliyor ve o herkese aynı derece nazik. Aç görünür, aç de�
 
 ***Fey Slip (1/Day).*** *Trigger:* Fig takes damage. *Response:* Fig teleports up to 30 feet to an unoccupied space he can see.
 
-**Habitat:** Urban, Coastal (Calithra, Ravonia) &nbsp;·&nbsp; **Treasure:** None
+**Habitat:** Urban, Coastal (Calithra, Ravonia), Arctic (Black Still, Charaxis) &nbsp;·&nbsp; **Treasure:** None
 
 ---
 
@@ -168,8 +207,9 @@ Hedef: CR 1/2   (benchmark: AC 12 · HP 22 · attack +4 · DC 12 · DPR 8)
 
 D-CR
   Taban HP 14 (Tiny, d4 hit die — bir kedi için benchmark'ın altında, bilinçli)
-  × 1.1   Fey Slip (AC yükselten Reaction, 1/Day)             → 15
-  → tablo: CR 1/4 (13)
+  × 1.15  Cold immunity (Calith's Refrain)
+  × 1.1   Fey Slip (AC yükselten Reaction, 1/Day)             → 17
+  → tablo: CR 1/4 (13); CR 1/2 (22)'ye ulaşmıyor
   AC 13 vs CR 1/4 beklentisi 11 → +2 fark → +1 CR
   D-CR = 1/4 → 1/2
 
@@ -182,10 +222,12 @@ O-CR
   Attack +5 vs CR 1/4 beklentisi +3 → +2 fark → +1 CR
   O-CR = 1/4 → 1/2
 
-CR  = (1/2 + 1/2) / 2 = 1/2   ✅ hedefe oturdu
+CR  = (1/2 + 1/2) / 2 = 1/2   ✅ hedefe oturdu (Calith's Refrain CR'yi değiştirmedi)
 ```
 
 **Bound Life ve CR:** Bir *encounter* içinde ek HP değildir: Fig 0 HP'ye düşerse savaştan **çıkar**, sonra gün doğumunda geri gelir. Bu bir kaçış, ikinci can değil. Bu yüzden **çarpan uygulanmadı.** CR 1/2, "yüzlerce yaşında, ölümsüz gibi bir kedi" fikri için bilinçli olarak **küçük** tutuldu: gücü savaşta değil, **bağda ve anlamda.**
+
+**Calith's Refrain ve CR:** Yalnız Cold immunity savaşta sayılır. Yaşlanmamak ve Frozen Air bağışıklığı **anlatı** özelliği. Statlar değişmedi; CR 1/2 yerinde.
 
 **Denge notu:** Tiny, düşük HP / yüksek AC ve Dex; yaratık savaşmak istemiyor. Saldırı tek, hasar 5. Weave Underfoot bir **kaçış/nüfuz** aracı, tehdit değil.
 
@@ -223,6 +265,8 @@ Fig savaşmaz. Tehdit altında:
 
 ### Uzun ömrün üç adayı
 
+> ✅ **Çözüldü (DM, 2026-11-05):** Yaşlanmamasının sebebi **Calith'in büyüsü** → [Neden üşümüyor](#neden-üşümüyor--calithin-büyüsü). Aşağıdaki tablo eski taslak. Sonuç (a) ile aynı: Fig yaşıyorsa Calith de yaşıyor.
+
 | | Açıklama | Ne demek | Durum |
 |---|---|---|---|
 | **(a)** | **Fey-doğumlu bir kedi ~1372'de Calith'e bağlandı; bağ, Calith yaşadığı sürece yaşlanmayı askıda tutuyor.** Bağ bir *saat*: Fig'in yaşlanmaması Calith'in yaşadığının kanıtı | En sade. Fig'in sağlığı Calith'in **hayat göstergesi.** Calith'in **yerini belirlemez** — yalnız yaşadığını. Tarihteki üç Calith sürümüne (A — öldü / B — şehirde / C — aşağıda) sadece **A'yı** dışlar | ✅ **ÖNERİLEN** |
@@ -251,7 +295,7 @@ Fig savaşmaz. Tehdit altında:
 
 ### Açık sorular
 
-> **[AÇIK SORU]** Uzun ömrün açıklaması: (a) ✅ önerilen, (b) ⬜, (c) ⬜ → yukarıdaki tablo.
+> **[AÇIK SORU]** ~~Uzun ömrün açıklaması~~ ✅ Calith'in büyüsü (DM, 2026-11-05). Ne zaman, nasıl konduğu ⬜.
 > **[AÇIK SORU]** Fig'in üç günlük kayboluşu **Kırıkbağ Grafting**'iyle aynı haftaya mı denk geliyor?
 > **[AÇIK SORU]** Fig'in "baktığı yön" ve "geri döndüğü yer" — kullanılacak mı, yön ne?
 > **[AÇIK SORU]** ~~Halkayı kim taktı?~~ ✅ Calith. Kim biliyor: Vesna; Nedra ⬜.

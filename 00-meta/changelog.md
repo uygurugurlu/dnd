@@ -11,6 +11,8 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-11-05** — 🐈 **[Fig](../05-characters/npcs/minor/fig.md):** DM kararı: üstünde Calith'in büyüsü var; yaşlanmıyor, Charaxis'ten etkilenmiyor. Statblock'a *Calith's Refrain* ve Cold immunity eklendi, CR 1/2 yeniden doğrulandı; yeni bölüm: *Neden üşümüyor*.
+
 - **2026-11-05** — 🎵 **New Campaign: Session 05 yeniden yazıldı; Calith Auveran sahnede.**
   - **[Calith Auveran](../05-characters/npcs/major/calith-auveran/README.md)** (major NPC, **CR 24**, [statblock](../05-characters/npcs/major/calith-auveran/statblock.md) + [sırlar](../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md)): yaşıyor, Yedinci Kapı'dan geçti; Selûne'ü tanıyor ama ulaşamıyor; Grimgor'un ailesini katleden gücü (Malar) biliyor. Yeni yer: [Geç Kalan'ın Evi](../04-charaxis/regions/latecomers-house.md). [Fig](../05-characters/npcs/minor/fig.md) ve [Calithra sırları §3](../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md#3-calith-auveran-yaşıyor-mu) güncellendi.
   - **[session-05](../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md)** yeni akış (DM kararı): kapı → Fig kuzeye yürür → takip ederlerse Calith → kuyu (grup Stealth, kalırlarsa savaş) → şehir; takip etmezlerse Fig şehirde kapı tırmalar.
