@@ -252,6 +252,7 @@ Charaxis'te Grimgor'ın kategorisi yok: [üç ork defteri](../../../../04-charax
 | **Moondust** | Urzha: *"Ekmeği kim alıyor? Sen ne koyuyorsun?"* |
 | **Kurtlar yatıyor** | [Damga](../../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#maların-damgası--kurt-ahırı) — ailesi kurttu |
 | **Ay altında** | [Shae'Khar](../../../../04-charaxis/regions/stillreach/places.md#ay-çukuru): tanığın üstünde duruyor |
+| ⭐ **[Calith](../../../npcs/major/calith-auveran/05-secrets-dm-only.md#grimgor--kim-yaptı)** | **Sorarsa** söyler: *Malar.* Selûne gördü; neden gelmediğini Calith de bilmiyor. [Fig](../../../npcs/minor/fig.md) ona oturuyor |
 | ⚠️ **Fırtına** | [Kör Patlak'ın sebebi](../../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#kör-patlak-neden-oldu) parti olabilir. Bunu öğrendiği gün seyirci değildir |
 
 ---

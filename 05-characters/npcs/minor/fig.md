@@ -6,7 +6,7 @@ species: Fey kedi (Tiny Fey — familiar)
 class: Familiar (Calith Auveran'ın) — CR 1/2
 alignment: neutral good
 age: yüzlerce yıl (Calith'e bağı ~1372'den beri; doğum ⬜)
-location: Calithra — bütün vadi; akşamları Vesna'nın balkonu
+location: Calithra — bütün vadi; akşamları Vesna'nın balkonu. 1495, Uktar sonu: Black Still, Charaxis
 affiliation: Bağımsız görünür; yalnız Calith Auveran'a bağlı
 status: alive
 cr: 1/2
@@ -16,7 +16,7 @@ tags: [calithra, fig, cat, familiar, fey, calith-auveran, harpers, new-campaign,
 sources:
   - "SRD 5.2 (CC-BY-4.0) — stat block formatı s. 251-254; Find Familiar (familiar türü Celestial, Fey ya da Fiend seçilir), Cat"
   - "https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.pdf"
-updated: 2026-09-30
+updated: 2026-11-05
 ---
 
 # Fig — Calithra'nın Kedisi
@@ -243,12 +243,18 @@ Fig savaşmaz. Tehdit altında:
 
 > **[DM ONLY]** **Kim biliyor?** *(öneri ⬜)* **Vesna:** mührü tanıdı; Fig'in Calith'in olduğunu **hücre geleneğinden** biliyor ama **yaşını** bilmiyor. **Nedra** (~1355 doğumlu): Fig'in hep vadide olduğunu **biliyor**, ondan fazlasını sormadı. **Perrin:** Fig'in defterde **adı** var mı? — *Fig bir ad değil.* ⬜
 
+### ✅ Çözüldü — Calith nerede (DM, 2026-11-05)
+
+> **[DM ONLY]** **[Calith Auveran](../major/calith-auveran/README.md) yaşıyor: [Black Still](../../../04-charaxis/regions/black-still.md)'de, [Geç Kalan'ın Evi](../../../04-charaxis/regions/latecomers-house.md).** Yukarıdaki (a) geçerli. Fig Charaxis'te **üşümez,** rün taşımaz; [Yedinci Kapı](../../../03-ager/planar-sites/portal-network.md#7-yedinci-kapı--mühürlü-olan)'dan mühürlüyken de geçer ⬜ — üç günlük kayboluş **budur:** halkayı Calith taktı, *La.* → [Vesna'nın asıl sebebi](../major/calith-auveran/05-secrets-dm-only.md#neden-şimdi--vesnanın-asıl-sebebi).
+>
+> **Fig'in Kapısı:** Fig herhangi bir kapıyı tırmalarsa bir kez [eve](../../../04-charaxis/regions/latecomers-house.md#kurallar) açılır. *"Kedi neredeyse orası."* → [Session 05](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md#fig-kapıyı-tırmalıyor)
+
 ### Açık sorular
 
 > **[AÇIK SORU]** Uzun ömrün açıklaması: (a) ✅ önerilen, (b) ⬜, (c) ⬜ → yukarıdaki tablo.
 > **[AÇIK SORU]** Fig'in üç günlük kayboluşu **Kırıkbağ Grafting**'iyle aynı haftaya mı denk geliyor?
 > **[AÇIK SORU]** Fig'in "baktığı yön" ve "geri döndüğü yer" — kullanılacak mı, yön ne?
-> **[AÇIK SORU]** Halkayı **kim** taktı? Kim biliyor (Vesna, Nedra)? Oyunculara ne zaman ve nasıl?
+> **[AÇIK SORU]** ~~Halkayı kim taktı?~~ ✅ Calith. Kim biliyor: Vesna; Nedra ⬜.
 > **[AÇIK SORU]** Calith ölürse Fig'e ne olur? (öneri: üç sabah uyanmaz, sonra dağılır.)
 > **[AÇIK SORU]** Fig'in doğum tarihi / Feywild'deki kökeni?
 

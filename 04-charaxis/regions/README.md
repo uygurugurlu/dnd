@@ -114,6 +114,7 @@ kendi isteğiyle gelmedi.
 | [meridian-road.md](meridian-road.md) | **Yol** — mil taşları, vuruş (saat), yol sökücüler, seyahat tablosu |
 | [scorchvault.md](scorchvault.md) | ☀ Yukarı — cam çöl, güneş ocakları, gölge borcu |
 | [black-still.md](black-still.md) | ❄ Aşağı — buz, çürümeyen ölüler, vahanın yolu |
+| 🔒 [latecomers-house.md](latecomers-house.md) | ❄ **Geç Kalan'ın Evi:** [Calith](../../05-characters/npcs/major/calith-auveran/README.md) ve arp. Yolsuz buzda tek oda |
 | [ashkar-reach.md](ashkar-reach.md) · [brakk-dur.md](brakk-dur.md) · [vael-serith.md](vael-serith.md) · [stillreach.md](stillreach/README.md) · [nen-kharal.md](nen-kharal.md) | Beş yerleşim |
 | [../mines/README.md](../mines/README.md) | Dokuz maden |
 | [../mining/README.md](../mining/README.md) | **Nasıl kazılıyor** — vardiya, denge yükü, rün çivisi, borç |

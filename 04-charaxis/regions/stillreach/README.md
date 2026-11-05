@@ -108,7 +108,7 @@ Stillreach'in vitrini zaman ürünleridir ama **karnını doyuran buzdur.**
 | Depo gözü | 2 pul / Göz | Ölünün borcundan düşülür |
 | Depo ziyareti | 1 pul | Bekçi deftere yazar |
 | Gri Nefes, bir üfürük | 3 pul | [Moondust](../../README.md#️-moondust--gri-nefes) — Kumpanya'nın tek indirimli malı |
-| Elmas, 25 gp'lik | 40 gp *(Saatçi)* / 30 gp + bir soru *(Kumpanya)* | ⚠️ *Battle Familiar* bileşeni. Burada az bulunur |
+| Elmas, 25 gp'lik | 25 gp *([Emanet](places.md#stok), stok 3)* / 40 gp *(Saatçi)* / 30 gp + bir soru *(Kumpanya)* | ⚠️ *Battle Familiar* bileşeni. Burada az bulunur |
 | Gecikme camı | 300 gp | [Saatçiler](#saatçiler) |
 | Sayılmayan saat | 150 gp | **Yasa dışı** |
 | Uzun bekleme | 900 gp | |
@@ -158,6 +158,7 @@ ork kiralıyor — ve [Ager'deki üç ork gücünün](../../../06-campaigns/new-
 | [**Pres Hanesi**](places.md#pres-hanesi) | Şehri vuruşla titreten buhar presleri |
 | [**Kazan Sırası**](places.md#kazan-sırası) | Ork mahallesi: kazanlar, [Kazan Sofrası](places.md#kazan-sofrası), [Gri Oda](places.md#gri-oda) |
 | [**Kumpanya Hanı**](places.md#kumpanya-hanı) | Gharuk'un burnunun dibindeki bürosu |
+| [**Emanet Hanesi**](places.md#emanet-hanesi) | 🛒 Sihirli eşya dükkânı: ölü malı, kaçan malı, rehin malı. Pazar fiyatı |
 | [**Kurt Ahırı**](places.md#kurt-ahırı) | Kızak kurtları. Vaha seferleri buradan kalkar |
 | [**Depo**](places.md#depo) | 4.100 beden. Göz başına 2 pul; borçtan düşülür |
 | [**Saat Salonu**](places.md#saat-salonu) | Saatçiler loncası. Chronoshard'ı zaman büyüsüne çeviriyorlar |

@@ -30,6 +30,7 @@ updated: 2026-11-05
 | [Perrel Soan](#perrel-soan) | Saatçi ustası | **Mage** *(MM 2025, CR 6)* | [Saat Salonu](places.md#saat-salonu) |
 | [Tuk](#tuk) | Genç ateşçi; soğanı sulayan | **Commoner** *(MM 2025, CR 0)* | [Kazan Sofrası](places.md#kazan-sofrası) |
 | [Kumpanya kapıcıları](#kumpanya-kapıcıları) | Gri Oda / Han | **Tough** *(MM 2025, CR 1/2)* · **Tough Boss** *(CR 4)* | [Gri Oda](places.md#gri-oda) |
+| [Dorna Kelk](#dorna-kelk) | Emanet Hanesi sahibi, değerlemeci | **Spy** *(MM 2025, CR 1)* + 2 **Animated Armor** *(CR 1)* | [Emanet Hanesi](places.md#emanet-hanesi) |
 
 ---
 
@@ -125,3 +126,23 @@ updated: 2026-11-05
 ## Kumpanya kapıcıları
 
 Gharuk yeşili bez, kırık burun, kibar. **Tough** × kapıda 2, içeride 2 · başları **Vosk**, *Tough Boss* — Urzha'nın yeğeni; bunu her fırsatta söyler.
+
+## Dorna Kelk
+
+> *Eski İmtiyaz değerlemecisi; bu şehirde ölen herkesin en son neye sahip olduğunu bilir, ve size söyleyeceği tek şey fiyatıdır.*
+
+**Cüce, 112. Çok ufak, yüzü buruşuk. Tek gözüne kayışla bağlı mercek; yün eldivenlerinin parmakları kesik.**
+
+**Görünüş ve tik:** Karşısındakinin **üstündekine** bakarak selam verir ve bir sayı mırıldanır. Bu sizin değerinizdir. Sormayın.
+
+**Nasıl konuşur:**
+> *"Ölü malı, kaçan malı, rehin malı. Hepsi çalışır. Kim ödediyse ona teşekkür etmeyin."*
+> *"Pazarlık yapmam. Pazarlığı hak eden biri olursan başka."*
+
+**Ne ister:** Hesabın tutması. Ve bir şey daha: Demirdiş'ten ayrıldı, çünkü bir gün bir kardeşinin kâğıdını ipe kendi eliyle bağladı. ⬜
+
+**İlişkiler:** [Emmer Tolland](#emmer-tolland) *(eşyalarla adlar aynı defterden geçer; birbirlerini sevmez)* · [Urzha](../../../05-characters/npcs/minor/urzha-keth.md) *(rakip; birbirine indirim yapar, kimse bilmez)* · [Bralga](../../../05-characters/npcs/minor/bralga-ormak.md) *(eski klan)* · [Solyan](../../../05-characters/npcs/minor/vidrek-solyan.md) *(vergi öder; bunu bilir)*.
+
+**Statblock:** Spy; kavgaya girmez, masanın altında ⬜ *Wand of Web*. Kapıda iki **Animated Armor** *(toplam 400 XP; Emanet'i soymaya kalkana)*.
+
+> **[DM ONLY]** [Concord Defteri](../../../08-rules/homebrew/items/concord-ledger.md)'nin ne olduğunu bilmiyor ama bir tane daha **gördü:** üç yıl önce bir subay rehin bırakmak istedi; ertesi sabah subay yoktu, defter de. ⬜

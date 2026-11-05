@@ -505,7 +505,7 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
       ⚠️ Mevcut *ilahi savaş sonrası kıtaların yaklaştırılması* satırıyla ([history-overview](../03-ager/00-overview/history-overview.md)) uyum gerekiyor
 - [ ] ⭐ **Shapeshifter'ların ortak aklı ne?** *(Gwyndor Religion Nat 20)* → [Gwyndor DM notları](../05-characters/player-characters/new-campaign/gwyndor/04-dm-notes.md#shapeshifterlar). Dini ne, neye tapıyorlar?
 - [ ] **Gwyndor shapeshifter'ları neden avlıyor?** Ölümüyle/Kırk Gün'le bağı?
-- [ ] **Calith nerede?** *(Fig'in bağı onun yaşadığını gösteriyor)* → [Fig](../05-characters/npcs/minor/fig.md)
+- [x] ✅ **Calith nerede?** Black Still, Charaxis *(DM, 2026-11-05)* → [Calith Auveran](../05-characters/npcs/major/calith-auveran/README.md)
 - [ ] **Moondust'ı Son Mektup Fırını'ndaki ekmeğe kim koydu?** Marto mu, Gharuk Kumpanyası mı, kaza mı? Grimgor'ın tepkisi
 - [ ] **Stane, Gwyndor'dan ne istiyor?** *(öneri: paladin aurası — Vashka'nın susan tanrısı)*
 - [ ] **Oynanış tarihi ve seviye** — session-01 `real_date` / `level_*` ⬜
@@ -537,7 +537,11 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] **Vesna:** hangi limanda indi, şimdi nerede · oklar öldürmek için miydi, uyarı için mi · Calithra'da Nedra ne yapıyor?
 - [ ] **[Rahadin](../05-characters/npcs/minor/rahadin.md)'in bedeni kimin?** *(öneri: Rask Dorin)* · *Battle Familiar* kitap metni (elmas harcanıyor mu, Undead Fortitude kalıyor mu) — ikincil kaynaktan yazıldı
 - [ ] **Stillreach:** [yanar buz](../04-charaxis/regions/stillreach/README.md#şehir-neyle-yaşıyor) kanon mu · [Emmer = Yazan El](../04-charaxis/regions/stillreach/05-secrets-dm-only.md#yazan-el) · ölülerin uyanması Defter yüzünden mi?
-- [ ] **Kör Patlak'ın sebebi** parti mi *(fırtınayı öldürünce)* — söylenecek mi?
+- [ ] **Calith:** *ninni* ve *adsızlık* mekanizması · 1385'te kime geç kaldı · Selûne'ün son sözü (öneriler) → [sırlar](../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md)
+- [ ] **Vesna neden gönderdi:** *Fig'in halkası, La* önerisi onaylanacak
+- [ ] **XP mi milestone mu?** S05 XP'yi işler üzerinden veriyor; kampanyada L4→L5 nasıl?
+- [ ] **Emanet Hanesi:** rarity'ler masa öncesi DMG 2024'ten bakılacak
+- [ ] **Kör Patlak'ın sebebi** parti mi *(fırtınayı öldürünce)* — söylenecek mi? *([set piece](../04-charaxis/regions/stillreach/set-pieces.md), S06+)*
 - [ ] **Sorka'nın istediği** ne · Kırık Boynuz Gorestead'e baskın yaptı mı?
 - [ ] **Sayman'ın bir fazlası:** kim ölür *(öneri: Tuk)*
 - [ ] [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) DM yedeği statblock L5'e göre güncellenecek

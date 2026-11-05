@@ -183,6 +183,8 @@ Kararsızlık tablosu (d6, geçiş başına):
 | **Durum 1495** | **Uyandı** — Duraklama gecesi. Sabitlenmemiş: her geçişte [d6](../../06-campaigns/new-campaign/05-world-seeds.md#9-kararsız-portallar--charaxis-kapıları) |
 | **Arkasında** | Harper işaretiyle açılan niş: [Nöbet Rünleri](../../08-rules/homebrew/items/watch-runes.md) |
 
+> 🔒 **[DM ONLY]** **Calith 1421'de buradan geçti, dönmedi.** [Çıkışın ~1,5 mil kuzeyinde yaşıyor](../../04-charaxis/regions/latecomers-house.md).
+
 > 🔒 **[DM ONLY]** Duraklama'da bariyer bir an kalktığında elflerin mühür büyüsü de
 > çözüldü; kapı **nefes aldı** ve kapanamadı. Karşı yakadaki hücreyi kaçakçılar bastı.
 > → [Session 04 §4](../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)

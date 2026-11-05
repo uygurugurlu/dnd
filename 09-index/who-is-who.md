@@ -122,6 +122,7 @@ Unwoven'ın seçtiği dört lider →
 | [Esme "Kül"](../05-characters/npcs/minor/tek-kulak.md#esme-kül) | Human | Dördüncü Saat — Son Mektup Fırını'nın külcüsü; Tek Kulak'ı harcadı *(MM 2025 Spy)* | 1 |
 | **Rask Dorin** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Human | Eski Surfwale onbaşısı; Yedinci Kapı'yı ele geçiren kaçakçı elebaşı *(MM 2025 Bandit Captain)* | 2 |
 | **Maelis Toran** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Half-elf | Softsoil Harper hücresinin hayatta kalanı; Watcher *(MM 2025 Scout)* | 1/2 |
+| [Dorna Kelk](../04-charaxis/regions/stillreach/people.md#dorna-kelk) | Cüce | Stillreach, [Emanet Hanesi](../04-charaxis/regions/stillreach/places.md#emanet-hanesi): sihirli eşya dükkânı | 1 *(Spy)* |
 | [Rahadin](../05-characters/npcs/minor/rahadin.md) | Undead | Vasili'nin zombi familiar'ı; **uşak.** ⚠️ Adın anlamı | 1/4 |
 
 ### Faksiyon kadroları — statsheet'li NPC'ler
@@ -198,7 +199,7 @@ Hepsi tek dosyada: [calithra/people.md](../03-ager/continents/ravonia/regions/ca
 | **Marto Belh** | Goliath fırıncı | Yakılan mektupları okudu |
 | **Cassian Ferrow** | Ödül avcısı — şehre yeni geldi | Yürüyen görgüsüzlük |
 | **Fig** | Kedi. Kırk evin sahibi | Yol tariflerinde geçiyor |
-| **Calith Auveran** ✝ | **Kurucu.** Half-elf bard, eski Harper (Brightcandle) | 1421'de kayboldu — *belki* |
+| **[Calith Auveran](../05-characters/npcs/major/calith-auveran/README.md)** ✝ | **Kurucu.** Half-elf bard, eski Harper (Brightcandle) | 1421'de kayboldu. 🔒 *Yaşıyor: Charaxis, CR 24* |
 
 ⚜️ = gizli [Harper](../02-lore/factions/harpers.md) (oyuncular bilmez) ·
 ✝ = tarihî figür → [history.md](../03-ager/continents/ravonia/regions/calithra/history.md)

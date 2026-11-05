@@ -124,6 +124,7 @@ Session 03'te ekilenler:
 | **Neden gider** | Altı saniyede ailesinin ulumasını duydu ve bir şey **saymaya** başladı. Bariyeri bir an **açan** şey Charaxis'te. Partide sessizliği **savunan** tek kişi o — ve şimdi kapıyı açabilen şeyin **adresini** biliyor. Bonus: oraya bir kez gitti; [moondust](../../../04-charaxis/README.md#️-moondust--gri-nefes)'ın kaynağı orada |
 | **S03'te ekilen** | Blink Dog'un siyah karı (tanıyan o) · Roger'ın moondust'lı ekmeğinin izi → Dördüncü Saat → Charaxis · rüyadaki soru |
 | **Charaxis'te bekleyen** | [Miren Talvo](../../../05-characters/npcs/minor/miren-talvo.md) — eski **Selûne** rahibesi, rüya okuyucu; silüet ona *"Hayır ne demek?"* diye soruyor · Charaxis'in elfçe adı **Shae'Khar** — tanığının adı |
+| ⭐ **Calith** | [Geç Kalan](../../../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md#grimgor--kim-yaptı): *"Kim yaptı?"* sorusunun cevabı. Selûne'ü tanıyor, ulaşamıyor |
 | 🔒 **Gerilim** | **Unwoven "hayır"ı öğrenmeye çalışıyor** ([lore](../../../02-lore/magic/the-unwoven.md#nature)) — ve Grimgor'ın bütün duruşu **"hayır."** Silüet için Grimgor bir **öğretmen.** Grimgor bunu öğrendiği gün ya silüeti ikna eder ya da ona **nasıl hayır denileceğini** öğretir — ki bu, bariyeri kalıcı yapabilir **ya da** Unwoven'a ilk kez **reddetmeyi** öğretir |
 
 ### 🃏 Vasili — *"Tekrar olsun."*
@@ -190,7 +191,7 @@ Session 03'te ekilenler:
 |---|---|---|
 | **03** | Silik köy + boss · dönüş · Stane · Vesna · Tek Kulak ve Dördüncü Saat · **rüya**. **Tohumlar** | Parti uyanır; Vesna sessiz hücreyi söyler. **Karar verilmez** — sadece sorular masada |
 | **04** ✅ | [Oynandı](../sessions/session-04-yedinci-kapi.md#12-oynandı--ne-oldu): Stane + Harper ifşası → **Concord Defteri** · Vesna öğrendi, hücreyi durdurdu, vuruldu · kapı önü · rünler · L4 | **Yedinci Kapı'nın önü.** Şifre söylenir |
-| **05** *(prep)* | [Kapağın Altı](../sessions/session-05-kapagin-alti.md): Yedinci Kapı (d6) · buz, kuyu · Kuzey Bent · **[Stillreach](../../../04-charaxis/regions/stillreach/README.md)** · Grimgor ve orklar · Kör Patlak · Sayman | Sayman **bir fazla** saydı; Defter'de Vesna |
+| **05** *(prep)* | [Kapağın Altı](../sessions/session-05-kapagin-alti.md): Yedinci Kapı · **Fig** ve [Calith](../../../05-characters/npcs/major/calith-auveran/README.md) · kuyu (Stealth) · Kuzey Bent · **[Stillreach](../../../04-charaxis/regions/stillreach/README.md)** · Grimgor ve orklar · küçük işler · [Emanet Hanesi](../../../04-charaxis/regions/stillreach/places.md#emanet-hanesi) | Fig kuzeye bakıyor; Defter'de Vesna. **"La"** |
 
 ---
 

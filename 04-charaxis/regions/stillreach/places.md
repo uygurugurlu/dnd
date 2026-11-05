@@ -151,6 +151,97 @@ Otuz kadar kızak kurdu — Ager'den getirilmiş dire wolf'ların soğuğa alı�
 
 **Ocak'ın doğu kenarında perdelenmiş, askerli bir kazı.** Buzun altında kadim mezarlar — yazıları kimsenin okuyamadığı, [imparatorluk](../../00-overview/inhabitants.md#ölü-uygarlık) işi. İki ayrı kazı ekibi var, **aynı galeride, birbirini görmezden gelerek** çalışıyorlar: İmtiyaz'ın ve Saatçilerin.
 
+## Emanet Hanesi
+
+**Kazan Sırası ile Kışla arasında, kapısında iki zırh duran dar, yüksek bir bina. Ölü malı, kaçan malı, rehin malı.**
+
+İmtiyaz bir borçlunun borcunu önce **eşyasından** düşer; değerlenenler buraya gelir. Seferden dönmeyenlerin sandıkları, Depo'ya girenlerin yüzükleri, Ager'den kaçarken sırtında bir sihirli pelerinle gelen subayların son şeyleri. Her eşyanın ipinde bir kâğıt var: **bir ad ve bir borç.**
+
+- **Kim:** [Dorna Kelk](people.md#dorna-kelk). İki **Animated Armor** kapıda; ikisi de satılık değil, *"henüz"*.
+- **Kural:** Fiyat sabit: [DMG 2024 pazar değeri](#stok). Satın aldığı **yarı fiyat.** Persuasion DC 15 → %10 indirim, bir kez.
+- **Para:** gp; pul kabul eder, **15 pul = 1 gp.**
+- **Kimlik:** Ad sormaz, ama eşyadan kim çıktıysa **kâğıdı kalır;** parti bunu okuyabilir. ⬜
+
+> **[HOOK]** Kâğıttaki ad bazen tanıdıktır: bir Ravonya subayı. Gwyndor'ın bölüğünden biri ⬜.
+
+### Stok
+
+> **Fiyat:** Common 100 · Uncommon 400 · Rare 4.000 · Very Rare 40.000 *(DMG 2024 / SRD 5.2 s. 205–206)*. Sarf **yarı fiyat;** *Spell Scroll* yazım maliyetinin iki katı; temel eşyanın fiyatı eklenir.
+> ⬜ Rarity'ler SRD 5.2'den tarandı; PDF sütunları karışık okunduğu için masada kitaptan bakmak yerinde. A = attunement.
+
+**🧪 İksirler**
+
+| Eşya | Rarity | Fiyat | Stok | Not |
+|---|---|---:|:---:|---|
+| *Potion of Healing* | Common | 50 | 8 | Hattın en çok satılanı |
+| *Potion of Healing (Greater)* | Uncommon | 200 | 4 | |
+| *Potion of Healing (Superior)* | Rare | 2.000 | 1 | Bir subayın boğazına gitmedi |
+| *Potion of Resistance (Cold)* | Uncommon | 200 | 3 | Kuyu ve kuzey |
+| *Potion of Resistance (Fire)* | Uncommon | 200 | 2 | Ocak işçileri içmeyi bilmez |
+| *Potion of Climbing* | Common | 50 | 3 | Galeriler |
+| *Potion of Heroism* | Rare | 2.000 | 1 | |
+| *Oil of Slipperiness* | Uncommon | 200 | 2 | Kızakçılar sever |
+| *Antitoxin* | — | 50 | 4 | [Gri Nefes](quests.md#3-gri-nefes)'e iyi gelir mi? Gelmez |
+| **Elmas, 25 gp'lik** | — | 25 | 3 | ⚠️ *Battle Familiar*. Dışarıda [30–40 gp](README.md#fiyatlar) |
+
+**⚔️ Savaş**
+
+| Eşya | Rarity | Fiyat | Stok | Not |
+|---|---|---:|:---:|---|
+| *Weapon, +1 (War Pick)* | Uncommon | 405 | 1 | Demirdiş işi; sapında üç çentik |
+| *Weapon, +1 (Longsword)* | Uncommon | 415 | 1 | Ravonya subay kılıcı; arma kazınmış |
+| *Weapon, +1 (Quarterstaff)* | Uncommon | 400 | 1 | Kimse bunun kimin olduğunu bilmiyor |
+| *Weapon, +1 (Dagger)* | Uncommon | 402 | 1 | |
+| *Javelin of Lightning* | Uncommon | 401 | 1 | Kırık Boynuz'dan |
+| *Flame Tongue (Longsword)* | Rare · A | 4.015 | 1 | ⚠️ [Kuyuda yanmaz](../black-still.md#donduran-kuyular). Dorna bunu söylemez |
+| *Wand of Magic Missiles* | Uncommon | 400 | 1 | 3 yük kalmış ⬜ |
+| *Wand of Web* | Uncommon · A *(caster)* | 400 | 1 | |
+| *Wand of the War Mage, +1* | Uncommon · A *(caster)* | 400 | 1 | Bir Saatçi çırağından |
+
+**🛡️ Zırh ve koruma**
+
+| Eşya | Rarity | Fiyat | Stok | Not |
+|---|---|---:|:---:|---|
+| *Shield, +1* | Uncommon | 410 | 1 | |
+| *Mithral Armor (Chain Shirt)* | Uncommon | 450 | 1 | Stealth'e engel yok |
+| *Mithral Armor (Breastplate)* | Uncommon | 800 | 1 | |
+| *Adamantine Armor (Half Plate)* | Uncommon | 1.150 | 1 | Demirdiş |
+| *Armor, +1 (Breastplate)* | Rare | 4.400 | 1 | |
+| *Armor of Resistance (Cold, Chain Mail)* | Rare · A | 4.075 | 1 | Kuzeyden tek dönen zırh ⬜ |
+| *Bracers of Defense* | Rare · A | 4.000 | 1 | |
+| *Cloak of Protection* | Uncommon · A | 400 | 1 | |
+| *Periapt of Wound Closure* | Uncommon · A | 400 | 1 | |
+
+**🧰 Yol ve maden**
+
+| Eşya | Rarity | Fiyat | Stok | Not |
+|---|---|---:|:---:|---|
+| *Boots of the Winterlands* | Uncommon · A | 400 | 1 | ⭐ Buzda yürüme |
+| *Ring of Warmth* | Uncommon · A | 400 | 1 | ⭐ [Rün](../../../08-rules/homebrew/items/watch-runes.md) bitince |
+| *Necklace of Adaptation* | Uncommon · A | 400 | 1 | ⭐ Kapak ve gaz |
+| *Goggles of Night* | Uncommon | 400 | 1 | Kapak altında |
+| *Lantern of Revealing* | Uncommon | 400 | 1 | Silüet? ⬜ |
+| *Immovable Rod* | Uncommon | 400 | 1 | Bir ustabaşının son işi |
+| *Rope of Climbing* | Uncommon | 400 | 2 | |
+| *Bag of Holding* | Uncommon | 400 | 1 | İçindekiler ayrı satıldı |
+| *Eversmoking Bottle* | Uncommon | 400 | 1 | *"Burada kim fark eder?"* |
+| *Gauntlets of Ogre Power* | Uncommon · A | 400 | 1 | Madenci sever |
+| *Boots of Elvenkind* | Uncommon | 400 | 1 | |
+| *Cloak of Elvenkind* | Uncommon · A | 400 | 1 | |
+| *Pearl of Power* | Uncommon · A *(caster)* | 400 | 1 | |
+| *Amulet of Proof against Detection and Location* | Uncommon · A | 400 | 1 | ⭐ [Defter](../../../08-rules/homebrew/items/concord-ledger.md)'den saklar mı? ⬜ *Hayır: Unwoven büyü sayılmaz* |
+
+**📜 Parşömenler** *(arcane; 1494'ten önce yazılmış)*
+
+| Eşya | Fiyat | Stok |
+|---|---:|:---:|
+| *Spell Scroll: Shield* (Level 1) | 50 | 2 |
+| *Spell Scroll: Identify* (Level 1) | 50 | 2 |
+| *Spell Scroll: Misty Step* (Level 2) | 200 | 1 |
+| *Spell Scroll: Dispel Magic* (Level 3) | 300 | 1 |
+
+> ⚠️ **Dorna bir şeyi önceden söyler:** Yolsuz buzda parşömen de slotlu büyü gibi [ham büyü zarına](../../phenomena/README.md#3-ham-büyü--masa-kuralı) tabidir.
+
 ## Kışla
 
 **140 Karsovyalı; hattaki tek düzenli güç. Siyah buz değil, Ager'den getirilmiş taş.** Şehrin en çok

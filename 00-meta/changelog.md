@@ -11,6 +11,13 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-11-05** — 🎵 **New Campaign: Session 05 yeniden yazıldı; Calith Auveran sahnede.**
+  - **[Calith Auveran](../05-characters/npcs/major/calith-auveran/README.md)** (major NPC, **CR 24**, [statblock](../05-characters/npcs/major/calith-auveran/statblock.md) + [sırlar](../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md)): yaşıyor, Yedinci Kapı'dan geçti; Selûne'ü tanıyor ama ulaşamıyor; Grimgor'un ailesini katleden gücü (Malar) biliyor. Yeni yer: [Geç Kalan'ın Evi](../04-charaxis/regions/latecomers-house.md). [Fig](../05-characters/npcs/minor/fig.md) ve [Calithra sırları §3](../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md#3-calith-auveran-yaşıyor-mu) güncellendi.
+  - **[session-05](../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md)** yeni akış (DM kararı): kapı → Fig kuzeye yürür → takip ederlerse Calith → kuyu (grup Stealth, kalırlarsa savaş) → şehir; takip etmezlerse Fig şehirde kapı tırmalar.
+  - **Stillreach:** [Emanet Hanesi](../04-charaxis/regions/stillreach/places.md#emanet-hanesi) (resmî eşya, DMG 2024 pazar fiyatı) · [Dorna Kelk](../04-charaxis/regions/stillreach/people.md#dorna-kelk) · [5 küçük iş](../04-charaxis/regions/stillreach/quests.md#küçük-işler) (XP + altın).
+  - Kör Patlak ve Sayman S05'ten [set-pieces.md](../04-charaxis/regions/stillreach/set-pieces.md)'ye taşındı (henüz oynanmadı).
+  - ⬜ **Öneri, kanon değil:** Vesna'nın asıl sebebi (Fig'in halkası, *La*), ninni, adsızlık, Selûne'ün 1493'teki son sözü.
+
 - **2026-11-05** — 🎲 **New Campaign: Session 04 oynandı · Stillreach yeniden tasarlandı · Session 05 hazırlığı.**
   - **[session-04](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md)** §12: parti **Harper'ları Stane'e anlattı**, karşılığında **Defter** aldı; Vesna'ya da anlattı → **Calithra Harper faaliyeti durdu**; Vesna balkondan indi, boğazda **2 ok** yedi, birliğini toplamaya gitti. Kapı önündeki haydutlar öldü, 1 gün rün attunement. **Parti L4, Tek Kulak L5.** §6–§8 Session 05'e taşındı.
   - **Yeni homebrew eşya (DM masada tanıttı):** [Concord Ledger](../08-rules/homebrew/items/concord-ledger.md) — Unwoven işi; Identify boş; bütün defterler bağlı; kaydolan isimler Unwoven'a görünür. [Watch Runes](../08-rules/homebrew/items/watch-runes.md) masada 1 gün attune.

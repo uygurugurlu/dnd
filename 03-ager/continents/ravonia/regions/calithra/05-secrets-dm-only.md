@@ -126,6 +126,8 @@ açığı, şehrin kendi merhametsizliğinden doğdu: *deliyi ciddiye almadılar
 
 **1350 doğumlu half-elf → 1495'te 145 yaşında.** Ölmüş olması *gerekmiyor.*
 
+> ✅ **Karar (DM, 2026-11-05):** Yaşıyor. **[Yedinci Kapı](../../../../../03-ager/planar-sites/portal-network.md#7-yedinci-kapı--mühürlü-olan)'dan geçti, dönmedi.** Aşağıdaki üç sürümün hiçbiri değil: → [Calith Auveran](../../../../../05-characters/npcs/major/calith-auveran/README.md), [Geç Kalan'ın Evi](../../../../../04-charaxis/regions/latecomers-house.md). Tablo eski taslak olarak duruyor.
+
 Üç sürüm, git gide sert:
 
 | Sürüm | Ne demek |

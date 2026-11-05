@@ -16,515 +16,417 @@ updated: 2026-11-05
 # Session 05 — Kapağın Altı
 
 **Yukarı:** [Oturumlar](README.md) · **Önceki:** [Session 04](session-04-yedinci-kapi.md) ·
-**Yay:** [Charaxis Yolu](../arcs/charaxis-yolu.md) · **Şehir:** [Stillreach](../../../04-charaxis/regions/stillreach/README.md)
-([mekânlar](../../../04-charaxis/regions/stillreach/places.md) · [kadro](../../../04-charaxis/regions/stillreach/people.md) · [görevler](../../../04-charaxis/regions/stillreach/quests.md) · 🔒 [sırlar](../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md))
+**Yay:** [Charaxis Yolu](../arcs/charaxis-yolu.md) ·
+**Kim:** 🔒 [Calith](../../../05-characters/npcs/major/calith-auveran/README.md) ([statblock](../../../05-characters/npcs/major/calith-auveran/statblock.md) · [sırlar](../../../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md)) ·
+**Şehir:** [Stillreach](../../../04-charaxis/regions/stillreach/README.md) ([mekânlar](../../../04-charaxis/regions/stillreach/places.md) · [kadro](../../../04-charaxis/regions/stillreach/people.md) · [görevler](../../../04-charaxis/regions/stillreach/quests.md))
 
-> 🎲 **Kısa DM notları.** Masada açık durur. `⬜` = senin slotun. Portaldan geçtikleri an başlar.
+> 🎲 **Kısa DM notları.** `⬜` = senin slotun. Portaldan geçtikleri an başlar.
+> **Bu session'ın işi üç şey:** Calith ile tanışmak · kuyunun önünden geçmek · şehirde küçük işler ve alışveriş.
 
 ---
 
 ## 0. Önceki bölümde *(30 saniye)*
 
-- **Stane**'e Calithra'daki **Harper**'ları anlattınız. Karşılığında bir **Defter** aldınız: Concord'un kaydettiği herkes. Gwyndor taşıyor.
-- **Vesna**'ya bunu söylemeyin dendi. **Söylediniz.** Calithra'daki Harper işini durdurdu.
-- Boğazı Roger'ın gemisiyle geçerken Concord **Vesna'ya ateş etti:** iki ok. Bir limanda indi, size kapıyı gösterdi, kendi insanlarını toplamaya gitti.
-- Kapının önündeki haydutları öldürdünüz. Bir gün boyunca **rünlere** attune oldunuz.
-- **Şimdi:** elinizde taşlar, önünüzde soluk beyaz bir ışık. Şifreyi biliyorsunuz.
-
-## Masada kim var
-
-| PC | Seviye | Yanında | Bu session |
-|---|---|---|---|
-| **Gwyndor** | 4 | 📕 [Concord Defteri](../../../08-rules/homebrew/items/concord-ledger.md) | Depo · Aşağı Sıra · *"Stane'in adını söyle"* |
-| **Grimgor** | 4 | | ⭐ [Kazan Sofrası](#6-kazan-sofrası--grimgor-ve-orklar) · [moon druid anları](#moon-druid-anları) |
-| **Vasili** | 4 — **Necromancer** | 🧟 [Rahadin](../../../05-characters/npcs/minor/rahadin.md) · 🪡 [iğne](../../../08-rules/homebrew/items/gallows-needle.md) | Depo · *Battle Familiar* · uşak |
-| **Roger** | 4 | | [Urzha](../../../05-characters/npcs/minor/urzha-keth.md) ve geçen yılın paketi |
-| **Tek Kulak** *(varsa)* | **5** | | [Sayılmayan saat](../../../04-charaxis/regions/stillreach/quests.md#7-sayılmayan-saat) |
+- **Stane**'e Calithra'daki **Harper**'ları anlattınız. Karşılığında bir **Defter** aldınız. Gwyndor taşıyor.
+- **Vesna**'ya söylemeyin dendi. **Söylediniz.** Calithra'daki Harper işini durdurdu.
+- Boğazda Concord **Vesna'ya ateş etti:** iki ok. Size kapıyı gösterdi, kendi insanlarını toplamaya gitti.
+- Kapının önündeki haydutları öldürdünüz, bir gün **rünlere** attune oldunuz. **Şimdi:** soluk beyaz ışık. Şifreyi biliyorsunuz.
 
 ## Akış
+
+```
+              Kapı → ❄ Fig kuzeye yürüyor
+                 ┌───────┴────────┐
+          takip ediyorlar      etmiyorlar
+                 ↓                │
+        ⌂ Calith'in evi           │
+                 └───────┬────────┘
+                ◉ Donduran kuyu (Stealth)
+                         ↓
+           ▣ Stillreach: Bent · Sofra · işler · Emanet
+                         ↓
+     (evi görmedilerse: 🐈 Fig bir kapıyı tırmalar → ⌂ Calith)
+                         ↓
+                      📕 Bitiş
+```
 
 | # | Sahne | Süre | Tür |
 |---|---|---|---|
 | 1 | [Geçiş](#1-geçiş) | 5 dk | Geçiş |
-| 2 | [Charaxis — ilk adım](#2-charaxis--ilk-adım) | 10 dk | **Tasvir** |
-| 3 | ⚔️ [Donduran kuyu](#3-encounter--donduran-kuyu) | 35 dk | **Savaş** |
-| 4 | [Kuzey Bent](#4-kuzey-bent--kuzeyden-kimse-gelmez) | 15 dk | Sosyal |
-| 5 | [Kapağın altı](#5-kapağın-altı--şehir-girişi) | 10 dk | **Tasvir** |
-| 6 | ⭐ [Kazan Sofrası — Grimgor ve orklar](#6-kazan-sofrası--grimgor-ve-orklar) | 25 dk | Sosyal |
-| 7 | [Bir kol şehirde — PC anları](#7-bir-kol-şehirde--pc-anları) | 30 dk | Serbest |
-| 8 | ⚔️ [Kör Patlak](#8-encounter--kör-patlak) | 35 dk | **Set piece** |
-| 9 | [Bitiş — bir fazla](#9-bitiş--bir-fazla) | 5 dk | Kapanış |
+| 2 | [Buz ve Fig](#2-charaxis--ilk-adım) | 10 dk | **Seçim** |
+| 3 | ⭐ [Geç Kalan'ın Evi](#3-geç-kalanın-evi) | 40 dk | **Sosyal** |
+| 4 | ⚔️ [Donduran kuyu](#4-encounter--donduran-kuyu) | 5–35 dk | Stealth → **savaş** |
+| 5 | [Kuzey Bent, Kapak altı](#5-kuzey-bent-ve-kapak-altı) | 15 dk | Tasvir |
+| 6 | [Kazan Sofrası](#6-kazan-sofrası--grimgor-ve-orklar) | 20 dk | Sosyal |
+| 7 | 💰 [Küçük işler](#7-küçük-işler) | 30–45 dk | XP + altın |
+| 8 | 🛒 [Emanet Hanesi](#8-emanet-hanesi--dükkân) | 15 dk | Alışveriş |
+| 9 | [Bitiş](#9-bitiş) | 5 dk | Kapanış |
 
-> ⏳ **Zaman azsa:** §3'ü kaçışla bitir *(fırtına 60 ft'ten uzağa gelmiyor)*. §7'de oyuncu başına **tek** sahne. §8 kesilmez.
+> ⏳ **Zaman azsa:** §7'de **bir** iş, §6 sadece soğan. **§3 kesilmez.**
 
 ---
 
 ## 1. Geçiş
 
 - Şifre: *Vael'Toruun u thalas—shaen, khar.* Işık **açılır.**
-- 🎲 [d6 kararsızlık](../05-world-seeds.md#masada--geçiş-başına-d6): 1 bir gün bekle · **2** sapma *(öneri: 1d10 mil; 1d100 kampanyayı değiştirir)* · 3 herkes +1 Exhaustion · 4 **bir şey daha geçti** *(aşağıda)* · 5 kapı kapanmadı → [Saat 5](../06-clocks.md#-5-kapılar-bozuluyor) · 6 temiz.
-- **4 çıkarsa:** Bir **Ice Mephit** değil, tersi: Ager'den bir **martı.** Buza çarpıp ölür. Grimgor'ın burada gördüğü **tek hayvan** olur. *Sonra sıçanlar.*
-- 📕 **Defter:** Kapıdan geçerken sayfalardaki mürekkep bir an **donar**, sonra akmaya devam eder. Kimse bakmıyorsa sonra fark edilir. Çalışıyor.
-- ⏳ **Rün sayacı başlar: 10 gün** *(1 Ager günü = 4 kol)*. 8. gün soluyor.
-- 🧟 **Rahadin ve Gwyndor nefes almıyor:** Frozen Air işlemez. Rahadin'in rünü yok; soğuk onu ilgilendirmiyor.
+- 🎲 [d6](../05-world-seeds.md#masada--geçiş-başına-d6): 1 bir gün bekle · 2 sapma *(1d10 mil öneri)* · 3 herkes +1 Exhaustion · 4 bir şey daha geçti · 5 kapı kapanmadı · 6 temiz.
+- 📕 Defter'in mürekkebi bir an **donar**, sonra akar. Çalışıyor.
+- ⏳ **Rün sayacı başlar: 10 gün** *(1 Ager günü = 4 kol).*
+- 🧟 Rahadin ve Gwyndor nefes almıyor: Frozen Air işlemez.
 
 ## 2. Charaxis — ilk adım
 
 > 🎬 **Masada oku:**
 >
-> *Işık kapanıyor ve gece **bitmiyor.** Hiç bitmeyecek. Burada güneş hiç doğmadı.*
+> *Işık kapanıyor ve gece bitmiyor. Siyah bir buz düzlüğünün üstündesiniz. Ayaklarınızın altında, buzun içinde, **yüzler** var.*
 >
-> *Siyah bir buz düzlüğünün üstündesiniz. Kirli değil — siyah; altındaki hiçbir şey ışığı
-> geri vermiyor. Ayaklarınızın altında, buzun içinde, **yüzler** var. Bazıları çok eski,
-> giysileri hiçbir çağa benzemiyor. Biri yakın — alnına yapışık küçük bir metal pul,
-> üstünde bir vardiya numarası.*
+> *Rüzgâr tenini kesecek kadar sert, ama **ses çıkarmıyor.** Biriniz bir şey söylüyor ve kendi sesi ona **bir adım öteden** geliyor. Ufkun alçağında devasa, soluk bir yüz: **Ager.***
 >
-> *Rüzgâr esiyor. Tenini kesecek kadar sert. Ama **ses çıkarmıyor.** Biriniz bir şey
-> söylüyor ve kendi sesi ona **bir adım öteden** geliyor.*
+> *Güneyde, çok uzakta, mavi bir parıltı: kuleler. Kuzeyde hiçbir şey. Yıldızlar bile daha az.*
 >
-> *Yukarıda yıldızlar — ve onları çizen kızıl kuyruklu yıldızlar. Ufkun alçağında devasa,
-> soluk bir yüz: **Ager.** Evden bakınca Charaxis'i gördüğünüz gibi, şimdi o size bakıyor.*
+> *Ve kuzeye doğru, buzun üstünde, sizden yirmi adım önde, kırmızımsı bir tekir **yürüyor.***
 >
-> *Bileklerinizdeki rünler soluk mavi yanıyor. Nefes alıyorsunuz. Ve havanın ne kadar soğuk
-> olduğunu **sadece** rünün titreyişinden anlıyorsunuz.*
->
-> *Güneyde, çok uzakta, buzun üstünde mavi bir parıltı — kuleler gibi. Ve aranızdaki
-> düzlükte, yarı yolda, hiçbir yıldızı yansıtmayan **kubbe biçimli bir şey.***
+> *Acele etmiyor. Üşümüyor. Kuyruğu dik. Durup omzunun üstünden bakıyor. **Grimgor'a.** Sonra yürümeye devam ediyor.*
 
 | Ne | Masada |
 |---|---|
-| 📍 **Nerede** | Yolsuz buz, [Black Still](../../../04-charaxis/regions/black-still.md). Stillreach ~8 mil güneyde — buzda **1 gün** |
-| 🔇 **Ses** | Bir adım öteden. **Gizlice konuşmak imkânsız** — fısıltı da öyle. Verbal büyü çalışır |
-| ⏳ **Zaman** | Gündüz yok. **Kol** sayılır *(≈6 saat; [vuruş](../../../04-charaxis/regions/meridian-road.md#2-vuruş--gezegenin-tek-saati))* |
-| ✨ **Ham büyü** | Yolsuz buz: slot harcayan **her büyüde d20; 1–2 → Wild Magic Surge** ([kural](../../../04-charaxis/phenomena/README.md#3-ham-büyü--masa-kuralı)). Cantrip hariç. ⚠️ *Battle Familiar* buna dâhil — **Erdem'e söyle** |
-| 🧭 **Yön** | Mavi ışık · Survival DC 12 |
-| 🧊 **Kenarda** | İki haydudun cesedi — **rünsüz** geçmişlerdi. Donmuş, gözleri açık. Biri nefesini tutarken ölmüş |
-| 🧟 **Vasili** | Buzdaki yüzlerden birine bakıyor. **Bedeni çürümemiş, ama alamaz:** buz. Deste **ısınıyor.** Bir kart kıpırdıyor, dönmüyor |
-| 🌕 **Grimgor** | Selûne'ün sembolü boynunda. Charaxis'in elfçe adı **Shae'Khar.** Ay yok burada; **ayın üstündesin.** Tanığın ifadesini almaya gelmiştin; tanığın **ağzının içindesin.** |
-| 🛡️ **Gwyndor** | Yüzlerden biri **Ravonya ordusu paltosu** giyiyor. Kim olduğu ⬜ — **Defter'de var mı?** |
+| 🐈 **[Fig](../../../05-characters/npcs/minor/fig.md)** | Calithra'nın kedisi. Sol kulağında çentik, boynunda arp halkası. *Rün yok.* Karda iz bırakmıyor |
+| 🧭 **Yön** | Kuzey = daha soğuk, şehrin **tersi.** Güney = mavi ışık, Survival DC 12 |
+| 🔇 **Ses** | Bir adım öteden. **Fısıltı imkânsız** |
+| ✨ **Ham büyü** | Slotlu her büyüde d20: **1–2 → Wild Magic Surge** ([kural](../../../04-charaxis/phenomena/README.md#3-ham-büyü--masa-kuralı)). ⚠️ *Battle Familiar* dâhil: **Erdem'e söyle** |
+| 🧊 **Kenarda** | İki haydudun cesedi: **rünsüz** geçmişlerdi. Donmuş, gözleri açık |
+| 🌕 **Grimgor** | Charaxis'in elfçe adı *Shae'Khar.* *Ayın üstündesin.* Sembol ısınıyor |
 
-## 3. Encounter — donduran kuyu
+**Seçim masaya:**
 
-> 🎬 *Kubbe yaklaştıkça büyüyor: buzun içinden yükselen, kadim, pürüzsüz bir yapı — bir
-> kuyu ağzı. Etrafında hava **titriyor.** Bir an aynı adımı iki kez attığınızı
-> hissediyorsunuz. Sonra buzun altındaki yüzlerden biri **gözlerini açıyor** — ve buz
-> **yukarı akmaya** başlıyor.*
+| | |
+|---|---|
+| 🐈 **Takip ederlerse** | Bir saat kuzeye → [§3](#3-geç-kalanın-evi). Fig çok uzaklaşırsa bekler |
+| 🏙️ **Etmezlerse** | Fig bir daha bakar, gözden kaybolur. → [§4](#4-encounter--donduran-kuyu). **Sonra [şehirde](#fig-kapıyı-tırmalıyor) geri gelir** |
+| ⚔️ **Yakalamaya çalışırlarsa** | Yakalanmaz. Grimgor'a *değil,* elini uzatana bakıp yürür |
+
+---
+
+## 3. Geç Kalan'ın Evi
+
+> 🎬 *Bir saat. Ufuk değişmiyor; bir an önce olmayan bir şey orada: alçak, yuvarlak, taş bir kulübe. Bacadan **ince, düz** bir duman. Kapının önünde bir tabure.*
+>
+> *Fig eşiğe oturup size bakıyor. İçeriden bir şey geliyor: o kadar alçak ki önce **ses** olduğunu anlamıyorsunuz. Bir arp.*
+>
+> *Kapıyı açıyorsunuz ve biri bir şey diyor; **sesi kendi ağzından** geliyor. Ocak yanıyor. Saksıda bir asma. Dört uyumsuz sandalye. Ayakta, kırçıl sakallı, yalınayak, küçük bir adam, başını kaldırmadan çalıyor:*
+>
+> *"Oturun. Beş kişisiniz, dört sandalye var. Bu evde hep biri ayakta kaldı."*
+
+**Kim:** [Calith Auveran](../../../05-characters/npcs/major/calith-auveran/README.md), *Geç Kalan.* **[Yer kuralları](../../../04-charaxis/regions/latecomers-house.md#kurallar):** ses normal · rün sayacı durur · surge yok · bir kez uzun dinlenme.
+
+> **Oynama anahtarı:** Çok sıcak, çok neşeli, **elleri hiç durmuyor.** Kendisi **soru sormaz:** ne öğrenmek istiyorlarsa sormak zorundalar. Sordukları her şeye **doğru** cevap verir.
+
+### 📕 Eşikte Defter
+
+Fig Gwyndor'ın çantasına bakar, **eşikten çekilmez.** *"Onu dışarı bırakın. Çalınmaz; kim çalacak?"*
+Bırakmazlarsa: *"Peki. O zaman bu evde adımı söylemeyin."* → 🔒 [Defter ve ad](../../../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md#defter-ve-ad)
+
+### Soru → cevap
+
+| Parti sorar | Calith |
+|---|---|
+| *"Sen kimsin?"* | *"Bir şehri bıraktım, adını yerden aldılar. Beni Geç Kalan diye çağırın."* Fig'in halkasını gösterir: *yalnız arp* |
+| ⭐ ***"Vesna bizi neden gönderdi?"*** | *"Size rapor istediğini söyledi. **Rapor benim.** Halkayı ben taktım. Bir haftadır biliyordu. Söyleseydi birinin defterine yazılırdı. Haklıymış."* |
+| *"Gökyüzünü kim durdurdu?"* | *"Vahadaki şey. Kardan bir şekil. Sizi fark etti. Dört kişi aynı anda dört ayrı şey istediniz; bunu daha önce görmemişti."* |
+| *"Neden burada çalıyorsun?"* | *"Dinliyor. Çaldıkça yavaş geliyor."* Parmak uçlarına bakın: **kan** |
+| *"Bizimle gel."* | *"Bir mil. O kadar. Durursam bütün gezegen duyar."* |
+| *"Selûne?"* | *"Onu tanırım. Dua ettim demiyorum; **tanırım.** Sesini bilirim. Bir kez güldü. Bu dünyanın üstünde oturuyorum ve 1494'ten beri **ona ulaşamıyorum.** Adıyla çağırırsam duvara çarpar. Adsız çağırırsam kime gittiğini bilemem."* |
+| *"Vaha'ya nasıl gidilir?"* | *"Gidilmez. Biri döndü: [Sorka](../../../05-characters/npcs/minor/sorka-ucdis.md). Ona kimse sormadı. Kurtlarına sorun."* |
+
+### ⭐ Grimgor — *kim yaptı*
+
+> **Koray'ın anı.** Fig kucağına oturur, kalkmaz. Calith **söylemez.** Koray sorana kadar bekle. Sorarsa **merdiven:** [sırlar §Grimgor](../../../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md#grimgor--kim-yaptı).
+
+| Soru | Cevap |
+|---|---|
+| *"Ailemi kim öldürdü?"* | *"Köy. Sonra sordun, kim kurdu? **Malar.** Beastlord."* |
+| *"Selûne gördü mü?"* | *"Gördü. O gece gökyüzündeydi. Bana söyledi; son söylediklerinden biriydi."* |
+| *"Neden gelmedi?"* | *"Onu söylemedi. Geç kaldı mı, gelmedi mi, bilmiyorum. Geç kalmayı bilirim. İkisi uzaktan aynı görünür."* |
+| *"Ailem nerede?"* | *"Gitmediler. Hat koptu. **Bekliyorlar.** Duraklama'da duyduğun oydu."* |
+
+> ⚠️ Sonra sessizlik. Koray'a *ne yapıyorsun* diye sor, başka kimseye değil. Saksıdaki asma **toprak kokuyor;** *ne yapacağını bilemiyorsa ona dokunsun.*
+
+### Ötekiler
+
+| PC | An |
+|---|---|
+| 🛡️ **Gwyndor** | *"Çürümüyorsun. Ben de. Ben durdum. Sen başka bir şey oldun; bir gün birine sorarsın."* Defter'i sorarsa: *"Onu kimin verdiğini biliyorsun. Neyi **gördüğünü** sor."* |
+| 🧟 **Vasili** | Rahadin içeri girer, **sandalye çeker.** Calith gülmekten bir an tellerini kaçırıyor gibi olur; kaçırmaz. *"Uşağının adı güzel. Kimin adı olduğunu sormayacağım."* ⬜ Vasili sorarsa: *"Geri alınır mı?"* → *"Altı saniye aldın. Bedelini henüz sormadılar."* |
+| ⚓ **Roger** | *"Kurye. Paketlerin ne olduğunu sormadın. Bu kural bana ait; sana iyi gelmedi."* Moondust kokusunu alır. *"Fig yine de seni içeri aldı."* |
+| 🗡️ **Tek Kulak** | Calith ona hiç bakmaz, **sonra** bakar: *"Sen rüya görmüyorsun. Çok iyi. Onun göremediği iki kişi var bu odada."* |
+
+### ⭐ Tökezleme — *"Vesna nasıl?"*
+
+Calith Harper'ları sordurmaz; **Fig oradaydı,** biliyor: *"Sattınız, sonra da gidip söylediniz. İkincisini kimse yapmazdı."*
+
+Ama **okları bilmiyor.** Biri söylediği an:
+
+> 🎬 *Şarkı **bir nota tökezliyor.** Hiç duymadığınız bir şey duyuyorsunuz: sessizlik. Yarım saniye. Çok uzakta, kuzeyde, bir şey **kımıldıyor** ve ayağınızın altındaki buz dinliyor. Sonra arp yine.*
+>
+> *"...Kaçı öldürür iki ok, yaşlı bir kadını?"*
+
+İlk sorusu bu. Fig kulaklarını indirir. → [Saat 2](../06-clocks.md#-2-vahadaki-şey-yaklaşıyor) ⬜ +1.
+
+### Çıkış — *verdikleri*
+
+| Ne | Mekanik |
+|---|---|
+| 🛏️ **Bir uzun dinlenme** | Rün sayacı işlemez |
+| 🎵 **Şarkının sonundan bir ölçü** | Herkese **Heroic Inspiration** |
+| 🤫 **Kuyu tavsiyesi** | *"Kuyu sesi duymaz, **sıcaklığı** duyar. Rünü kolun içine çevir. Metali sarın."* → [§4](#4-encounter--donduran-kuyu) grup Stealth'e **Advantage** |
+| ✉️ **İstek** | *"Vesna'ya **La** deyin. Bilir."* · *"Bir daha gelmek isterseniz Fig'i bulun; kapıyı o tırmalar."* |
+
+> 🔒 **[DM ONLY]** Asıl istediği silüete *"hayır"* diyecek biri → [Ninni](../../../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md#ninni). **Söylemez.** Fig'in Grimgor'a oturması yeter.
+> 💰 **XP:** Calith'i bulmak **200 XP/kişi.**
+
+---
+
+## 4. Encounter — donduran kuyu
+
+**Her iki yol da buradan geçer:** Buz sırtları güneye giden her yolu kuyunun kenarına indirir.
+
+> 🎬 *Düzlükte hiçbir yıldızı yansıtmayan, **kubbe biçimli** bir şey. Etrafında hava titriyor. Bir an aynı adımı iki kez attığınızı hissediyorsunuz. Buz siyah, ve buradaki yüzler **size bakıyor.***
+
+### Önce Stealth
+
+**Grup Dexterity (Stealth) DC 14:** yarısı geçerse grup geçer.
+
+| Etki | |
+|---|---|
+| 🎵 Calith'in tavsiyesi | Herkese **Advantage** |
+| 🛡️ Metal zırh | Stealth Disadvantage *(zırhı kuralı)*: Gwyndor |
+| 🧟 Rahadin | Ayağını sürüyor. Erdem onu *pocket dimension*'a gönderirse sorun yok; göndermezse **grubun sonucuna −2** |
+| 💡 Işık | Fener/*Light* varsa **−2.** Ateş zaten yanmıyor |
+
+| Sonuç | Ne olur |
+|---|---|
+| ✅ **Geçti** | Kuyu arkalarında kalır. Sadece omuzdan bakanlar görür: buz **yukarı akıyor,** sonra duruyor. **220 XP/kişi** |
+| ❌ **Kaldı** | ↓ Savaş |
+
+### Savaş
+
+> 🎬 *Buzun altındaki yüzlerden biri **gözlerini açıyor.** Buz yukarı akmaya başlıyor. Kuyudan siyah kar yükseliyor: ses çıkarmadan.*
 
 | Kim | Statblock *(MM 2025)* | Sayı | XP |
 |---|---|---|---:|
-| **Siyah Kar Fırtınası** | **Air Elemental** (CR 5) — *görünüş: siyah kar; statlar aynen* | 1 | 1.800 |
-| **Buz yüzleri** | **Ice Mephit** (CR 1/2) | 4 *(ikişer dalga)* | 400 |
+| **Siyah Kar Fırtınası** | **Air Elemental** (CR 5): *görünüş siyah kar, statlar aynen* | 1 | 1.800 |
+| **Buz yüzleri** | **Ice Mephit** (CR 1/2) | 4 *(tur 2'de 2, tur 4'te 2)* | 400 |
 | **Toplam** | | | **2.200 — Moderate** |
 
-**Kuyunun kuralları** *(200 ft — [canon](../../../04-charaxis/regions/black-still.md#donduran-kuyular))*:
-
-| Kural | Mekanik |
+| Kuyunun kuralı | Mekanik |
 |---|---|
-| 🔥 **Ateş yanmaz** | **Fire damage çalışmaz — sihirli ateş dahil.** Arcana DC 15 savaştan önce fark ettirir |
-| 🔁 **Çift an** | Her tur başı **d6; 6** → bir yaratık (DM) bu tur **hareket edemez:** aynı anı yeniden yaşıyor |
-| 🔩 **Metal ısınır** | Metal zırhlı, kuyunun 30 ft içinde tur sonunda **2 (1d4) Fire damage** — *ateş yanmaz ama metal ısınır; kimse sebebini bilmiyor.* ⚠️ Gwyndor |
-| ✨ **Ham büyü** | Slotlu her büyü **d20: 1–2 surge** |
+| 🔥 **Ateş yanmaz** | **Fire damage çalışmaz, sihirli ateş dahil.** Arcana DC 15 savaştan önce fark ettirir |
+| 🔁 **Çift an** | Her tur başı **d6; 6** → bir yaratık (DM) bu tur **hareket edemez** |
+| 🔩 **Metal ısınır** | Metal zırhlı, kuyunun 30 ft içinde tur sonunda **2 (1d4) Fire damage** ⚠️ Gwyndor |
+| 💥 **Mephit ölünce** | Soğuk patlaması: dar alanda toplanmayın |
+| 🏃 **Kaçış** | Fırtına kuyudan **60 ft**'ten uzağa gelmez |
 
-**Akış:**
-1. **Tur 1:** Fırtına kuyudan yükselir.
-2. **Tur 2:** Yüzlerden 2 mephit kopar. **Tur 4:** 2 tane daha.
-3. Mephit ölünce **soğuk patlaması** — dar alanda toplanmayın.
-4. Fırtına kuyudan **60 ft**'ten uzağa gelmez → **kaçış bir seçenek.**
+> 🧟 Rahadin ilk kez savaşıyor: Vasili'nin *"Rahadin. Lütfen."* cümlesini masada duyalım.
+> 💰 **Ganimet:** Kuyunun dibinde donmuş madenci: **denge yükü** *(1 kol)*, **12 pul**, **vardiya pulu** *("Stillreach — Don-64 — 3. Bölük")* → [iş 5](#7-küçük-işler).
+> 🔒 **[DM ONLY]** Fırtınanın içinde bir an kardan yüzsüz bir **silüet.** Grimgor'a bakmaya çalışır. Sonra dağılır. Fırtına ölürse → [Kör Patlak](../../../04-charaxis/regions/stillreach/set-pieces.md#kör-patlak) sonraki session'a hazır.
 
-> 🧟 **Rahadin notu:** Air Elemental ve mephit poison'a bağışık, ama Rahadin'in vuruşu *Battle Familiar*'la **Force.** İlk kez savaşıyor: Vasili'nin *"Rahadin. Lütfen."* cümlesini masada duyalım.
+**Yürüyüş:** Kuyudan şehre ~1 kol. **Kısa dinlenme** yapılır.
 
-> 🔒 **[DM ONLY]** Fırtınanın içinde tek bir an **bir insan silüeti:** kardan, yüzsüz. **Grimgor'a** bakmaya çalışır. Sonra dağılır. Ölen fırtınanın yerinde buzda **beş parmak izi.** *(Silüet "hayır"ı [öğrenmeye çalışıyor](../arcs/charaxis-yolu.md#-grimgor--bir-daha-olmasın).)*
+---
 
-> 🔒 **[DM ONLY] — Fırtına ölürse:** kuyu bir kez **nefes verir.** Kimse fark etmez. Basınç buzun altından güneye yürür → [§8](#8-encounter--kör-patlak) · [sır](../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#kör-patlak-neden-oldu). **Kaçarlarsa:** Patlak yine olur; sebebi Duraklama'dan beri artan [Saat 2](../06-clocks.md#-2-vahadaki-şey-yaklaşıyor) dilim 3'tür — o zaman suç onların değil.
-
-> 💰 **Ganimet:** Kuyunun dibinde donmuş bir madenci: **denge yükü** *(1 kol kalmış)*, **12 pul**, bir **vardiya pulu** *("Stillreach — Don-64 — 3. Bölük")*.
-
-**Yürüyüş:** Sonra ~1 kol. **Kısa dinlenme** yapılır; uzun dinlenme rünle mümkün ama buzda *(soğuk uykuyu bölmez, ses bölmez — yüzler bölmez ⬜)*.
-
-## 4. Kuzey Bent — *kuzeyden kimse gelmez*
+## 5. Kuzey Bent ve Kapak altı
 
 ![Stillreach](../../../04-charaxis/regions/attachments/stillreach-ufuk.png)
 *Oyunculara göster.*
 
-> 🎬 *Buzun sonunda kuleler belirginleşiyor: yapılmamış, büyütülmüş gibi; çatlaksız, içeriden
-> mavi yanan. Bacalardan duman çıkıyor ama yükselmiyor — havada asılı kalıp kuleler boyunca
-> yana yayılıyor. Altında siyah bir tavan var ve şehrin yarısı tavanın altında kaybolmuş.
-> Önünde buzdan bir sed; üstünde üç fener. Bir ses, sedin üstünden, çok sıkılmış:*
->
-> *"...Kuzeyden mi geliyorsunuz?"*
+> 🎬 *Buzdan bir sed, üstünde üç fener. Bir ses, çok sıkılmış: "...Kuzeyden mi geliyorsunuz?"*
 
-**[Çavuş Tolga Erden](../../../04-charaxis/regions/stillreach/people.md#tolga-erden)** + 6 Guard. Defteri açar, kalemi yalar.
-
-| # | Tolga'nın sorusu | Cevaba göre |
-|---|---|---|
-| 1 | *"Sefer artığı mısınız?"* | **Evet** derlerse → *"Pulunuz?"* (kuyudan vardiya pulu işe yarar, DC 13 Deception) |
-| 2 | *"Sözleşme? Borç? Kâğıt?"* | [Trell kâğıdı](../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#trell-kâğıdı) *(kimde ⬜)* — geçer, **borcu devralır** |
-| 3 | *"Bilekte ne var?"* | Rün görünürse **bakar**, ne olduğunu bilmez, yazar. → Saatçiler 1 kol içinde duyar |
-| 4 | 🧟 *"Bu... iyi mi?"* | Vasili: *"Rahadin rahatsız oldu."* **Rask Dorin'in bedeniyse** ⬜: Tolga **tanır** — [bkz.](../../../05-characters/npcs/minor/rahadin.md#sırlar) |
-
-**Yollar:**
+**[Çavuş Tolga Erden](../../../04-charaxis/regions/stillreach/people.md#tolga-erden)** + 6 Guard. Defteri açar, kalemi yalar. *"Kuzeyde yol yoktur. Yazacak yer bulamıyorum."*
 
 | Yol | Sonuç |
 |---|---|
-| 💰 **Rüşvet** | 5 gp/kişi. Geçici pul; defterde *"sefer artığı"* |
-| 🗣️ **Yalan** | Persuasion/Deception DC 13 *(rün görünürse DC 16)* |
-| 🛡️ **Stane'in adı** | Tolga'da **işe yaramaz,** aksine: *"Karsovya kışlasında Marshal mı dedin?"* DC +2. Bu ad [Aşağı Sıra](#7-bir-kol-şehirde--pc-anları) için |
-| 🐺 **Sorka** | Kızak Ağzı'nda duruyor, parti yaklaşırken zaten bakıyor. *"Benim artıklarım."* Tolga rahatlar. **Sorka'nın bedeli sonra** |
-| ⚔️ **Kavga** | Yapma. Guard Captain + 6 Guard = 1.250 XP, kolay — ama Kışla bir kol içinde burada ve şehre girecek kapı kalmaz |
+| 💰 Rüşvet | **5 gp/kişi.** Geçici pul |
+| 🗣️ Yalan | Persuasion/Deception DC 13 *(rün görünürse DC 16)* |
+| 🪪 Vardiya pulu | Kuyudan çıktıysa: *"sefer artığıyız"* DC 10 |
+| 🐺 [Sorka](../../../05-characters/npcs/minor/sorka-ucdis.md) | Kızak Ağzı'nda bakıyor: *"Benim artıklarım."* Bedeli sonra |
 
-> 🔒 **[DM ONLY]** Tolga'nın raporu [Solyan](../../../05-characters/npcs/minor/vidrek-solyan.md)'a **2 vuruşta** ulaşır: *"Kuzeyden yürüyerek."* Solyan partiyi yemeğe çağırır → [§7](#kapak-üstü--solyanın-yemeği). Asıl sorusu: **"Geldiğiniz kapı kaç kişilik?"**
-
-## 5. Kapağın altı — *şehir girişi*
-
-> 🎬 *Kızak Ağzı'ndan geçtiğiniz an kuleler kayboluyor. Elli fit yukarıda gökyüzü bitiyor.
-> Tavan ıslak yün gibi siyah. Ağzınızda is, dişinizin arasında buz tozu. Fenerler yanıyor;
-> burada başka türlü gün yok.*
->
-> *Otuz adım ötesi gri. Önce bir ses: zincir, kızak demiri, öksürük. Sonra bir fener. Sonra
-> bir ork, sırtında kendisi kadar buz bloğu, size bakmadan geçiyor. Bir tane daha. Üç tane daha.
-> Biri sana bakıyor — yüzüne değil, **ellerine.** Sonra Grimgor'a bakıyor ve duruyor.*
+> 🎬 *Kızak Ağzı'ndan geçtiğiniz an kuleler kayboluyor. Elli fit yukarıda gökyüzü bitiyor. Tavan ıslak yün gibi siyah. Ağzınızda is, dişinizin arasında buz tozu. Otuz adım ötesi gri. Zincir, kızak demiri, öksürük. Bir ork, sırtında kendisi kadar buz bloğu, size bakmadan geçiyor. Biri duruyor, **Grimgor'a** bakıyor.*
 >
 > *"Kimin orkusun?"*
->
-> *Ayağınızın altında yer bir kez titriyor. Bir daha. Bütün şehir o vuruşla nefes alıyor.*
 
-**Masa kartı** *(detay: [kurallar](../../../04-charaxis/regions/stillreach/README.md#masa-kuralları--kapak-altı))*:
-🌫️ 30 ft net, 100 ft ötesi yok · 🌑 vuruşta d6:1 → Kapak iner · 😮‍💨 maskesiz uzun dinlenme DC 10 Con · ❄️ rün yeter · 🏃 koşma.
+**Masa kartı:** 🌫️ 30 ft net, 100 ft ötesi yok · 😮‍💨 maskesiz uzun dinlenme DC 10 Con *(maske 2 pul)* · 🏃 kimse koşmaz. → [kurallar](../../../04-charaxis/regions/stillreach/README.md#masa-kuralları--kapak-altı)
+**Kalacak yer:** [Kazan Sırası](../../../04-charaxis/regions/stillreach/places.md#kazan-sırası) barakası *(2 pul/kişi)* · Kumpanya Hanı *(1 gp, bir soru)*.
 
-**Parti nerede kalır:** [Kazan Sırası](../../../04-charaxis/regions/stillreach/places.md#kazan-sırası) barakası *(2 pul/kişi, sıcak)* — ya da Kumpanya Hanı *(1 gp, bir soru)*. Uzun dinlenme burada.
+**Şehir yaşıyor — d6, sahne geçişinde:**
 
-### Şehir yaşıyor — d8 *(her sahne geçişinde bir tane)*
-
-| d8 | Ne görüyorsun |
+| d6 | |
 |---|---|
-| 1 | Vardiya çanı. Sokak bir anda doluyor; kimse koşmuyor. Sırtlarında fener, gözleri yere. **Bir dakika sonra sokak boş** |
-| 2 | Bir kurt sürüsü, kızaksız, tek ork önde. Kimse yana çekilmiyor; **kurtlar insanların arasından geçiyor,** kimseye değmeden |
-| 3 | İki Demirdiş bir vinci tamir ediyor, cücece küfrediyor. Yanlarından geçen Gharuk ateşçisi orkça tükürüyor. İkisi de başını kaldırmıyor |
-| 4 | Bir saatçi çırağı sana geliyor: *"Son kolunuz ne kadar sürdü?"* Cevabı yazıyor. *"Teşekkürler."* Gidiyor |
-| 5 | Depo'dan dönen bir kadın. Elinde bir vardiya pulu. *"Yarın beni bir pul eksik say,"* diyor birine. Kimseyi kastetmiyor |
-| 6 | Kışla tahtası: *"Bu ay 0 isyan."* Önünde bir Ravonyalı durmuş, okuyor. Sonra yüksek sesle **sayıyor:** *"Sıfır."* Gülüp gidiyor. Asker gülmüyor |
-| 7 | Yukarıdan bir **kafes** iniyor, Kapak'ın içinden. İçinde temiz giyimli biri, ağzında bez, gözleri yaşlı. Yere inince bez düşüyor; **hemen Gri Oda'ya** yürüyor |
-| 8 | Ova Şarkısı — çağrı-cevap, bir kazandan ötekine. Sözler toprağı, otu, atı anlatıyor. **Söyleyenlerin yarısı toprak görmedi** |
+| 1 | Vardiya çanı. Sokak doluyor; kimse koşmuyor. Bir dakika sonra boş |
+| 2 | Kurt sürüsü, tek ork önde. **Kurtlar insanların arasından** kimseye değmeden geçiyor |
+| 3 | İki Demirdiş vinç tamir ediyor. Gharuk ateşçisi orkça tükürüp geçiyor. Kimse başını kaldırmıyor |
+| 4 | Saatçi çırağı: *"Son kolunuz ne kadar sürdü?"* Yazar. *"Teşekkürler."* |
+| 5 | Kışla tahtası: *"Bu ay 0 isyan."* Bir Ravonyalı yüksek sesle okur: *"Sıfır."* Asker gülmez |
+| 6 | Ova Şarkısı, kazandan kazana. Toprağı anlatıyor. **Söyleyenlerin yarısı toprak görmedi** |
 
 ---
 
 ## 6. Kazan Sofrası — Grimgor ve orklar
 
-> **Koray'ın session'ı.** Burada kimse Grimgor'ı dövmeye çalışmaz. Hepsi **sorar.**
-> Soruyu oyuncuya **doğrudan** sor ve cevabı yaz → [§ Grimgor'ın cevapları](#grimgorın-cevapları).
+> **Burada kimse Grimgor'ı dövmeye çalışmaz. Hepsi sorar.** Soruyu **Koray'a doğrudan** sor.
 
-**Tetik:** Şehirde bir ork ikinci kez *"Kimin orkusun?"* dediğinde **cevabı yok.** Biri:
-*"Sofraya gel. Bir tas. Soran çok olacak, bari sıcakta sorsunlar."*
+**Tetik:** İkinci *"Kimin orkusun?"*. Biri: *"Sofraya gel. Soran çok olacak, bari sıcakta sorsunlar."*
 
-> 🎬 *Kazan 7'nin sıcak duvarına yaslı tek bir uzun masa. Sıcak ilk kez yüzünüze değiyor; rün
-> tepki vermiyor bile. Bir ucunda yağlı ellerle cücece konuşanlar. Öbür ucunda yeşil bez
-> bağlamış ateşçiler. Köşede sırtı duvara dönük üç kişi, kurt kokuyor. Ve **ortada, kimsenin
-> oturmadığı bir boşluk.** Bir ucunda kömürle harf çizen tek gözlü yaşlı bir ork, başını
-> kaldırmadan: "Ortaya otur. Hepsine aynı anda cevap verirsin, zaman kazanırız."*
+> 🎬 *Kazanın sıcak duvarına yaslı uzun bir masa. Bir ucunda yağlı eller, öbür ucunda yeşil bez, köşede kurt kokanlar. **Ortada kimsenin oturmadığı bir boşluk.** Fener altında, kırık saksıda, **bir soğan.***
 
-*Fener altında, kırık bir saksıda, **bir soğan.***
-
-### Kimin orkusun — dört masa, dört soru
-
-| Kim | Soru | Duymak istediği | Grimgor'a batan yer |
-|---|---|---|---|
-| ⚙️ **[Bralga](../../../05-characters/npcs/minor/bralga-ormak.md)** *(Demirdiş)* | *"Bir insan köyünde büyümüşsün. Onlara ork muydun? Sana ne dediler?"* | *"Komşu."* Yani **çözdün** | *"Biz cücelerin içinde **çözdük.** 3.600 ork kazıyor, sıfırı imzalıyor; bunu görüyorum, ben de imzalamıyorum, ama aç kalmadık. Sen ne yaptın? Köyün şimdi nerede?"* |
-| 💰 **[Urzha](../../../05-characters/npcs/minor/urzha-keth.md)** *(Gharuk)* | *"Defterin yok. Borcun yok. **O zaman neden yaşıyorsun?** Kim seni bekliyor?"* | Sözleşme. Ya da nefret — ikisi de iş | ⭐ Moondust'ı sıkıştırırsa: *"Üç yüz ateşçi üçüncü kolu neyle yapacak? Ekmeği kimin aldığını sor. **Sen ne koyuyorsun yerine?**"* |
-| 🐺 **[Sorka](../../../05-characters/npcs/minor/sorka-ucdis.md)** *(Kırık Boynuz)* | *"Hangi tanrı seni bıraktı?"* | Bir isim | Grimgor bir dava dosyası anlatırsa: **ilk kez bakar.** *"Gorestead mi? Duymuştum. Kazıklarını içeri çekiyor."* ⬜ *Baskın yaptılar mı? Masumlar maddesi* |
-| 📜 **[Ulgar](../../../04-charaxis/regions/stillreach/people.md#ulgar-harfçi)** *(Ataman)* | *"Adını yaz. Sonra söyle: bir ork ulusu kurulsa nerede durursun?"* | Bir yer. Ya da güzel bir *"hayır"* | Grimgor: anarşist. Ulgar **gülümser,** yazar: *"Devletsiz ork. Bunu Ataman'a götüreceğim. Senden hoşlanacak; bu iyi bir şey değil."* |
-
-### Herkesin birleştiği yer
-
-| Soru | Kim sorar | Ağırlık |
+| Kim | Soru | Batan yer |
 |---|---|---|
-| ⭐⭐ *"Savaşta hangi taraftaydın?"* → *"Savaşa girmem."* | Ravonya ordusundan yaşlı bir ork ateşçi | **Seyirci suçludur** diyen adama: *"Yani seyrettin."* Masada sessizlik. **Cevabını yaz** |
-| *"Neye inanıyorsun?"* | Ortadaki herkes | Onun cevabı listede yok; kimsenin kategorisine uymuyor |
-| *"Çiftçi misin?"* | [Tuk](../../../04-charaxis/regions/stillreach/people.md#tuk) | Aşağıda ↓ |
+| ⚙️ [Bralga](../../../05-characters/npcs/minor/bralga-ormak.md) *(Demirdiş)* | *"İnsan köyünde büyümüşsün. Sana ne dediler?"* | *"Biz cücelerin içinde çözdük. Sen ne yaptın? Köyün nerede?"* |
+| 💰 [Urzha](../../../05-characters/npcs/minor/urzha-keth.md) *(Gharuk)* | *"Defterin yok, borcun yok. **O zaman neden yaşıyorsun?**"* | Moondust'a sıkıştırırsa: *"Ekmeği kim alıyor? Sen ne koyuyorsun?"* |
+| 🐺 [Sorka](../../../05-characters/npcs/minor/sorka-ucdis.md) *(Kırık Boynuz)* | *"Hangi tanrı seni bıraktı?"* | *Calith'ten sonra:* bu soruya ilk kez **cevabı** var |
+| 📜 [Ulgar](../../../04-charaxis/regions/stillreach/people.md#ulgar-harfçi) *(Ataman)* | *"Adını yaz. Ork ulusu kurulsa nerede durursun?"* | *"Devletsiz ork. Ataman'a götüreceğim. Bu iyi bir şey değil."* |
+| ⭐ Yaşlı bir ateşçi | *"Savaşta hangi taraftaydın?"* → *"Savaşa girmem."* | *"Yani **seyrettin.**"* Seyirci suçludur diyen adama. Sessizlik |
 
 ### ⭐ Soğan
 
-Grimgor *"çiftçiydim"* derse masa **güler.** Sonra gülme kesilir. Genç bir ateşçi — **Tuk** — saksıyı önüne iter:
-
-> *"Toprak nasıl kokuyor?"*
-
-Masadaki herkes **dinliyor.** Şarkıdaki ovayı görmüş tek kişi o. *Druidcraft* ya da bir tutam toprak sorusu:
-
-- **Soğan filizlenirse:** çıt çıkmaz. Üç defterin üç ucu **aynı anda susmuştur.** Biri kalkar, tasını ona bırakır. Bundan sonra Sofra Grimgor'a *ad* verir ↓.
-- ⚠️ **Mekanik gerekmez.** Bu sahne bir check değil.
-
-### Grimgor'ın cevapları
-
-> Koray ne derse **buraya yaz.** Bu cevaplar §8'de, §9'da ve Fitil'de geri döner.
-
-| Soru | Cevap |
-|---|---|
-| Kimin orkusun? | ⬜ |
-| Neye inanıyorsun? | ⬜ |
-| Bir ulus kurulsa? | ⬜ |
-| Moondust ve 300 ateşçi? | ⬜ |
-| *"Yani seyrettin?"* | ⬜ |
-
-**Sonra — Sofra'nın verdiği ad ⬜** *(öneri: *"Defterlisiz"* · *"Üç Ayak"* · *"Çiftçi"* — alay olarak başlar, olmaz)*.
-
-### Güven — *dört kutu, masada tut*
-
-| Grup | Başlangıç | +1 | −1 | 2+ olunca |
-|---|---|---|---|---|
-| ⚙️ Demirdiş | 0 | Makineye saygı · Gorestead'i anlatmak | Makineye zarar | §8'de Bralga **kesiciyi durdurur** |
-| 💰 Gharuk sözleşmeli | 0 | Borcu olanı küçümsememek · Tuk'a tas | Gri Oda'yı basmak *(ateşçiler; Urzha değil)* | §8'de ateşçiler **kurtarmaya koşar** |
-| 🐺 Kırık Boynuz | 0 | Kurtlar *(aşağıda)* · Dava dosyası | Baskın yüzünden suçlamak | Sorka **Kuzey Seferi'ni** konuşur |
-| 📜 Mektep | 0 | Adını yazmak | Ulgar'la alay | Mektup: Ataman onu duyar. [Saat 3](../06-clocks.md#-3-ghoragın-ulusu) |
+*"Çiftçiydim"* derse masa güler. Sonra [Tuk](../../../04-charaxis/regions/stillreach/people.md#tuk) saksıyı önüne iter: *"Toprak nasıl kokuyor?"* Herkes dinliyor. *Druidcraft* ya da bir tutam toprak: **soğan filizlenir, üç defterin üç ucu aynı anda susar.** Check yok.
 
 ### Moon druid anları
 
-> Her biri tek başına küçük; **ikisini** kullan.
+> İkisini kullan.
 
 | Ne | Masada |
 |---|---|
-| 🌑 **Ay nerede?** | Kapak altında **Ager görünmez.** Yukarısı is. Grimgor'ın ömründe ilk kez gökyüzünde **ne ay ne yıldız.** Bir yerde bir ok gibi bilir: *yukarıda değil; ayağının altında.* Yere dokunduğunda buzdan hiçbir şey dönmez, ama **sembol ısınır** |
-| 🌾 **Doğa yok** | *Druidcraft* burada kimseye hiçbir şey anlatmaz. Nature check: *"Burası ölü değil. Hiç yaşamadı."* Bitki yok. **Tek istisna soğan.** |
-| 🐀 **Toz sıçanları** | Galeride [kanarya](../../../04-charaxis/00-overview/inhabitants.md#yerli-yaşam): ham büyüye titrerler. *Speak with Animals* (Ager'den gelmişler; dilleri **hâlâ** Ager sıçanı). ↓ |
-| 🐺 **[Kurt Ahırı](../../../04-charaxis/regions/stillreach/places.md#kurt-ahırı)** | Otuz kurt başını kaldırır. Biri karnını gösterir. Sonra diğerleri. Sonra biri **önüne**, biri **arkasına** geçer: sürü düzeni. Sorka *ilk kez doğrudan bakar.* 🔒 [Damga](../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#maların-damgası--kurt-ahırı). Grimgor'ın ailesi **kurttu** — hatırlat ve sus |
-| 🐾 **Wild Shape** | Şehirde kurt formu **dikkat çekmez;** ayı ya da başka bir şey **çeker:** burada kimse o hayvanı görmemiş. Çocuklar peşinden yürür. Charaxis'te ilk dönüşümde **rün de dönüşür** — kürkün altında mavi damar |
-| 🌘 **[Ay Çukuru](../../../04-charaxis/regions/stillreach/places.md#ay-çukuru)** | *"Elini yere koy."* Ravonyalı dul, ork ateşçi, Karsovyalı er: aynı çukurda. Selûne'e **dua ediyorlar** ve o bunu duymuyor ve onlar bunu biliyor. Grimgor'ın davası **burada kimseye** söylenemez. ⬜ Söylerse? |
-| 🃏 **Vasili ile** | Bir zombi uşak ile bir druid aynı masada. Grimgor'ın **hayvan formu Rahadin'e yaklaşmaz.** Bu kavgayı hazırlama, sadece görün |
-| 🔢 **Sayım** | → [§9](#9-bitiş--bir-fazla): Sayman sayarken kendi sesini duyar. Duraklama'da *"bir"* demişti. **Şimdi "iki" der.** |
+| 🌑 **Ay nerede?** | Kapak altında ne ay ne yıldız. *Yukarıda değil: ayağının altında.* Yere dokununca **sembol ısınır** |
+| 🐀 **Toz sıçanı** | *Speak with Animals* çalışır. d4: *"Kapak'ın üstünde yemek var, çıkan dönmüyor."* · *"Depo'da biri tırmalıyor. Yemek tırmalamaz."* · *"Kurtlar sana yatıyor. Biz senden kaçmalı mıyız?"* · *"Gri odadakiler uyuyunca aynı şeyi söylüyor."* |
+| 🐺 **[Kurt Ahırı](../../../04-charaxis/regions/stillreach/places.md#kurt-ahırı)** | Otuz kurt başını kaldırır, biri karnını gösterir. Sürü düzeni. [Damga](../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#maların-damgası--kurt-ahırı). *Malar'ı duyduysa bu sahne başka okunur* |
+| 🐾 **Wild Shape** | Kurt dikkat çekmez. Ayı çeker: çocuklar peşinden yürür. Rün de dönüşür, kürkün altında mavi damar |
+| 🌘 **[Ay Çukuru](../../../04-charaxis/regions/stillreach/places.md#ay-çukuru)** | Selûne'e dua ediyorlar, duymuyor, biliyorlar. Davasını burada söyleyebilir mi? ⬜ |
 
-**🐀 Toz sıçanı — d6 *(tek cümle, doğru cümle)***
+### Fig kapıyı tırmalıyor
 
-| d6 | Sıçan der ki |
-|---|---|
-| 1 | *"Kapak'ın üstünde yemek var. Çıkan dönmüyor. Yemeğe değil, dönmemeye."* |
-| 2 | *"Depo'da biri tırmalıyor. Yemek değil. Yemek tırmalamaz."* → [Dördüncü Vaka](../../../04-charaxis/regions/stillreach/quests.md#1-dördüncü-vaka) |
-| 3 | *"Alt terasta kokuyu sevmiyoruz. Biz gidiyoruz. Siz de gidin."* → §8 uyarısı |
-| 4 | *"Kurtlar sana yatıyor. Neden yatıyor? Biz senden kaçmalı mıyız?"* |
-| 5 | *"Gri odadakiler uyuyunca aynı şeyi söylüyor. Aynı şeyi biz de duyuyoruz."* |
-| 6 | ⭐ *"Buz, sizin geldiğiniz yerden titredi."* *(§8'den sonra)* |
+> **Evi görmedilerse. Tam burada ya da [§7](#7-küçük-işler) sonunda.**
+
+> 🎬 *Kırk ateşçinin arasından, hiç kimseye değmeden, kırmızımsı bir tekir geliyor. Grimgor'un dizine çıkıyor, bir an duruyor, iniyor. Sofranın arkasındaki kömür kapısına gidiyor ve **tırmalıyor.** O kapı duvara açılır; herkes bilir.*
+>
+> *Kapının altından **ılık bir hava** geliyor. Ve bir arp.*
+
+Calithra'da duydular: ***"Kedi neredeyse orası."*** Kapı → [§3](#3-geç-kalanın-evi). Bitince aynı kapıdan Sofra'ya dönerler; Sofra'da **bir tas çorba hâlâ sıcak.** *(Kuyu tavsiyesi boşa gider; XP yine verilir.)*
 
 ---
 
-## 7. Bir kol şehirde — PC anları
+## 7. Küçük işler
 
-> **Oyuncu başına bir sahne.** Sıra önemli değil. §8 bir sonraki **vuruşta** patlar — "**yer titremiyor**" anını sen seç.
+> Kömürle duvara yazılmış, her işin bir alacaklısı var. **Tercihen 2 tane.** Oynanmayan **sonraki session'a kalır.** XP toplamı partiye bölünür. Altın **toplam.**
 
-### 🛡️ Gwyndor — Aşağı Sıra ve Depo
+| # | İş | Veren | Ne | XP | 💰 |
+|---|---|---|---:|---:|---:|
+| 1 | [Pas Kokusu](../../../04-charaxis/regions/stillreach/quests.md#pas-kokusu) | [Bralga](../../../05-characters/npcs/minor/bralga-ormak.md) | Galeri rayını yiyenleri temizle: 4 **Rust Monster** + 1 **Ochre Jelly** | 850 | 120 gp |
+| 2 | [Kayıp Kurt](../../../04-charaxis/regions/stillreach/quests.md#kayıp-kurt) | [Sorka](../../../05-characters/npcs/minor/sorka-ucdis.md) | Bent ötesinden kurdu getir: **Winter Wolf** + 2 **Ice Mephit** | 900 | 90 gp |
+| 3 | [Kör Kol](../../../04-charaxis/regions/stillreach/quests.md#kör-kol) | [Halla](../../../04-charaxis/regions/stillreach/people.md#halla-venn) | Gaz dolan galeriden üç kişi: skill challenge | 600 | 60 gp |
+| 4 | [Soğuk Tahsilat](../../../04-charaxis/regions/stillreach/quests.md#soğuk-tahsilat) | [Urzha](../../../05-characters/npcs/minor/urzha-keth.md) | Borçlu kapıya barikat kurdu: 91 gp'yi al. Tuk'un kardeşi ⬜ | 400 | 100 gp *(ya da 0)* |
+| 5 | [Son Pul](../../../04-charaxis/regions/stillreach/quests.md#son-pul) | Kuyudaki madenci | Vardiya pulunu dul eşe götür | 150 | 15 gp + *Potion of Healing* |
 
-> 🎬 *Barakada kırk kişi bir yığın halinde sırt sırta. Ortadaki adam uyuyor, kenardakiler
-> titriyor. Birisi fısıldıyor. Siz girince susuyor. Çorba önce bir kadının önüne konuyor.*
+> Roger için: [Geçen Yılın Paketi](../../../04-charaxis/regions/stillreach/quests.md#8-geçen-yılın-paketi). Tek Kulak için: [Sayılmayan Saat](../../../04-charaxis/regions/stillreach/quests.md#7-sayılmayan-saat). Büyük işler: [Dördüncü Vaka](../../../04-charaxis/regions/stillreach/quests.md#1-dördüncü-vaka) · [Kuzey Seferi](../../../04-charaxis/regions/stillreach/quests.md#6-kuzey-seferi).
 
-| Ne | Masada |
-|---|---|
-| **[Halla Venn](../../../04-charaxis/regions/stillreach/people.md#halla-venn)** | *"Numaran yok. Ama duruşun var."* **Stane'in adı** burada işler: *"Onu duymadım. Bir daha söyleme. Bir daha söyle."* Ravonyalılar **kulak verir** |
-| **Tanınma** | Biri Gwyndor'ın yürüyüşünü tanır. *[Gwyndor saati](../../../05-characters/player-characters/new-campaign/gwyndor/03-development.md#4-kişisel-saat--defterdeki-i̇sim).* *"Seni gömmüştük."* ⬜ |
-| *"Bizi kim sayacak?"* | Halla'nın gerçek sorusu. Elinde bir **Defter** olan adama. **Bakar mı, söyler mi?** ↓ [Defter](#defter--masada-canlı) |
-| **[Depo](../../../04-charaxis/regions/stillreach/places.md#depo)** | Emmer: *"Adınız?"* **Yazar.** *(→ Defter §5)* Çürümeyen bir ceset olarak dört bin yüz çürümeyen cesedin arasında yürümek. Bir nişten **tırnak sesi** → [Dördüncü Vaka](../../../04-charaxis/regions/stillreach/quests.md#1-dördüncü-vaka) |
-| **Saatçiler** | [Soan](../../../04-charaxis/regions/stillreach/people.md#perrel-soan): *"Sizi ölçebilir miyim?"* Çok nazik. **Yüksek para.** |
+---
 
-### 🧟 Vasili — uşak, ölü, elmas
+## 8. Emanet Hanesi — dükkân
 
-| Ne | Masada |
-|---|---|
-| **Depo** | Yüzyıllık hükümdar **dört bin yüz** bedeni görüyor: *fena değil.* Emmer: *"Bunun kaydı var mı?"* (Rahadin). Yoksa: **beden borçlu sayılır,** 1 Göz 2 pul — *Vasili'nin defterine.* Yazdırmazsa **Sayman** meselesi ↓ |
-| **Dokunma kuralı** | Bir bedene dokunmak = borcunu devralmak. *Animate Dead* henüz yok *(L5)* — ama Vasili soruyor. Emmer de söylüyor: *"Şehirde üç kişi sordu. Üçü de burada."* |
-| ⭐ ***Battle Familiar*** | Bu seviyede tek düşündüğü. **25 gp elmas:** [Saatçi 40 gp](../../../04-charaxis/regions/stillreach/README.md#fiyatlar) · [Urzha 30 gp + bir soru](../../../05-characters/npcs/minor/urzha-keth.md#kampanya-kancaları). Şehirde yolda slot **güvenli;** Ocak'ta d20. Masada: *"Rahadin, ceketini düzelt, savaşıyoruz."* |
-| **Dördüncü Vaka** | *"Rahadin'den ne farkı var?"* Bu soruyu **Gwyndor** sorarsa sahne kazanılmıştır |
-| 🔒 **Deste** | Rahadin adı verildiğinden beri yeni bir ses: *"Efendim."* ⬜ [Saat dilim 1–2](../../../05-characters/player-characters/new-campaign/vasili-von-holtz/03-development.md#4-kişisel-saat--kartlar-yeniden-konuşuyor) |
-| **Roger** | Keşiş kaldığı barakadaysa Vasili kapıda durur. Rahadin içeri girer, **sandalyesini çeker.** Söylenecek bir şey yok |
+> 🎬 *İki zırh kapıda duruyor, biri başını size çeviriyor. İçeride yüzlerce raf; her eşyanın ipinde bir kâğıt: **bir ad ve bir borç.** Masada ufak bir cüce kadın, gözünde mercek: "Ölü malı, kaçan malı, rehin malı. Hepsi çalışır. Kim ödediyse ona teşekkür etmeyin."*
 
-### ⚓ Roger — geçen yılın paketi
+**[Dorna Kelk](../../../04-charaxis/regions/stillreach/people.md#dorna-kelk).** **Tam stok ve fiyatlar:** [Emanet Hanesi](../../../04-charaxis/regions/stillreach/places.md#emanet-hanesi). Fiyatlar pazar *(DMG 2024)*; **satışta yarı fiyat alır.** Pazarlık yok; Persuasion DC 15 → %10.
 
-| Ne | Masada |
-|---|---|
-| **[Urzha](../../../05-characters/npcs/minor/urzha-keth.md)** | Terazi çıkıyor. *"Geçen sene bir paket getirdin. Konuşmuyordun. Adın başkaydı. Bir imza eksik."* → [görev](../../../04-charaxis/regions/stillreach/quests.md#8-geçen-yılın-paketi) |
-| **Koku** | Moondust'ın tatlı kokusu: **rüya.** *"Buldum seni, kuryem"*'in aynı ağız kokusu ⬜ |
-| **Kendi ayak izi** | Kumpanya'nın **imza defterinde** kendi elyazısı: Cadının eli. *Bir yıl önce buradaydın.* Hatırlamıyorsun |
-| **Ione ve gemi** | Yok. **İlk kez crew'süz.** Limanda gemi bekliyor; gökyüzünde görünmüyor. *Kapak altında.* |
+**Bu masaya en çok yarayanlar:**
 
-### 🗡️ Tek Kulak — *(varsa)*
+| Kime | Ne | Fiyat |
+|---|---|---:|
+| Herkes | *Potion of Healing* · *(Greater)* | 50 · 200 |
+| 🧟 Vasili | **Elmas** *(Battle Familiar)* · *Pearl of Power* | 25 · 400 |
+| 🛡️ Gwyndor | *Shield, +1* · *Armor of Resistance (Cold)* | 410 · 4.075 |
+| 🌕 Grimgor | *Ring of Warmth* · *Boots of the Winterlands* | 400 · 400 |
+| ⚓ Roger | *Cloak of Protection* · *Bracers of Defense* | 400 · 4.000 |
+| 🗡️ Tek Kulak | *Cloak of Elvenkind* · *Dagger, +1* | 400 · 402 |
+| 📕 Defter sahibi | *Amulet of Proof against Detection and Location* | 400 |
 
-[Sayılmayan saat](../../../04-charaxis/regions/stillreach/quests.md#7-sayılmayan-saat) · Altıncı rün taşı ⬜ *(hırsız için servet: borçlu bir madenciye paha biçilmez)* · Depo bekçisinin defterinden sayfa koparmak: çok iyi fikir, çok kötü sonuç.
-
-### Kapak üstü — Solyan'ın yemeği
-
-> Fırsat olursa (§4'ün 2 vuruş sonrası). Vakit yoksa **Session 06 açılışı.**
-
-Bir er, temiz: *"Kapitan, kuzeyden gelen konuklarını akşam yemeğine bekliyor."* Kafes yukarı çıkıyor; Kapak'tan **geçiyorsunuz.** Yıldızlar. Ager. **Ağzınız birdenbire temiz.** Masada sıcak et, tıraşlı bir adam, tek eli eldivensiz. → [Solyan](../../../05-characters/npcs/minor/vidrek-solyan.md)
-
-| Solyan | Masada |
-|---|---|
-| *"Kuzeyde yol yoktur. Bir hata görüyorum. Düzeltmek benim işim."* | Kibar. Adlarınızı tekrar eder |
-| *"Geldiğiniz kapı kaç kişilik?"* | ⭐ **Asıl soru** — [Karsovia'nın kendi kapısı](../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#solyan--arşiv). Maelis orada tek başına |
-| *"Bir ay kalın. Şirketin misafiri. Borç işlemez."* | Tuzak değil; **gerçek teklif.** Reddederseniz kapı tıkanır |
+> **Dorna ve Defter:** Gösterirlerse merceği bırakır: *"Değer biçemediğim ilk şey. Satılık mı? — Hayır, alma diyorum. Sadece sordum."*
+> **Dorna ve Rahadin:** *"Bu satılık mı?"* 🧟 Vasili: *"Sorduğunu duymadı. Sen de sormadın."*
 
 ---
 
 ## Defter — *masada canlı*
 
-> 📕 **Gwyndor ne zaman baksa:** yeni bir satır düşmüş olabilir. Yeni satır **araya** girer.
-> Fark etmek: DC 15 Perception/Investigation. *Defterde bir adı aramak:* 10 dk, DC 12.
+> 📕 **Gwyndor ne zaman baksa** yeni satır **araya** girmiş olabilir. Fark etmek DC 15 · Ad aramak 10 dk, DC 12.
 
 | # | Ne zaman | Satır | Anlamı |
 |---|---|---|---|
-| 1 | Bent'ten sonra | *Maelis Toran — half-elf — Softsoil — Harper (Watcher)* | ⬜ *(Maelis kurtulduysa)* Parti konuştu; **Concord yürüdü.** Hücre artık sayılıyor |
-| 2 | İlk kol | *Tuk — ork — ateşçi — Stillreach — borç 91 gp — **niş: —*** | Biri **şehirde** yazıyor. Neden *niş* diye bir sütun var? → [Yazan El](../../../04-charaxis/regions/stillreach/quests.md#2-yazan-el) |
-| 3 | §6'dan sonra | Sofra'da adını söylediği biri | Aynı el |
-| 4 | Depo sonrası | *Oren Ask — Ravonya 3. Alay — borç 74 gp — niş Üç-Dip-12 — **durum: geç*** | Ölü bir adam. *"Geç"* ne demek? |
-| 5 | Emmer'e ad verirlerse | *Grimgor — ork — ⬜ — Gorestead.* / *Vasili von Holtz — ⬜.* / **hepsi** | 🔒 **Artık Unwoven'a görünüyorlar.** Takma ad da ad. Gwyndor'ın satırı → ↓ |
-| 6 | ⬜ Gwyndor'ı ararsa | *Gwyndor — Ravonya Kraliyet Ordusu — **tür: —** — **durum: görüldü*** | [Kişisel saat dilim 3](../../../05-characters/player-characters/new-campaign/gwyndor/03-development.md#4-kişisel-saat--defterdeki-i̇sim) |
-| 7 | ⭐ **§9** | *Vesna Marroc — insan — kemancı — Calithra — **iki ok yarası** — yer: Softsoil yolu ⬜* | Bulundu mu, sayıldı mı? *Yazan kim?* |
-
-> 🔒 **[DM ONLY]** Yazan el: [Emmer Tolland](../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#yazan-el). Adlar Unwoven'a görünüyor. **Ölüler** de. Bunun sonucu: [neden uyanıyorlar](../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#-neden-ölüler-uyanıyor).
+| 1 | Bent'ten sonra | *Maelis Toran — half-elf — Softsoil — Harper (Watcher)* ⬜ | Parti konuştu, **Concord yürüdü** |
+| 2 | İlk kol | *Tuk — ork — ateşçi — borç 91 gp — **niş: —*** | Biri **şehirde** yazıyor. Neden *niş* sütunu? → [Yazan El](../../../04-charaxis/regions/stillreach/quests.md#2-yazan-el) |
+| 3 | Sofra'dan sonra | Adını söylediği biri | Aynı el |
+| 4 | ⬜ Gwyndor'ı ararsa | *Gwyndor — Ravonya Kraliyet Ordusu — **tür: —** — **durum: görüldü*** | [Kişisel saat](../../../05-characters/player-characters/new-campaign/gwyndor/03-development.md#4-kişisel-saat--defterdeki-i̇sim) |
+| 5 | ⚠️ **Calith'i ararsa** | **Yok.** Hiçbir sayfada. Sahibi: *adsız* | Parti ilk kez defterin **göremediği** birini bildi. **Yazılmasın** |
+| 6 | ⭐ **§9** | *Vesna Marroc — insan — kemancı — **iki ok yarası** — yer: ⬜* | Bulundu mu, sayıldı mı? |
 
 ---
 
-## 8. Encounter — Kör Patlak
+## 9. Bitiş
 
-> 🎬 *Vuruş gelmiyor. Bütün şehir aynı anda fark ediyor: yer titremedi. Sokaktaki herkes
-> durmuş, ayaklarına bakıyor. Pres Hanesi'nden bir düdük.*
->
-> *Sonra ağır, alçak, gökyüzü olmayan bir yerde gök gürültüsüne benzer bir şey. Kapak'ın
-> altı **turuncuya** dönüyor. Büyük Ocak'tan.*
->
-> *Birileri koşmaya başlıyor. Burada kimse koşmaz.*
+Vardiya çanı. Parti barakada, kazanın duvarı sıcak. Üç şey, sırayla:
 
-**Nerede:** [Büyük Ocak](../../../04-charaxis/regions/stillreach/places.md#büyük-ocak), alt teras. Parti nerede olursa olsun **1 kol değil, 3 tur** uzakta — sesin geldiği yöne herkes koşuyor.
+1. **Fig** Grimgor'un dizinde. Kuzeye bakıyor. Hep aynı yöne.
+2. **Defter** Gwyndor'ın çantasında ağır. Sayfa kendi kendine açık. → **Vesna'nın satırı.**
+3. Çok uzakta, duymanız gerekmeyen bir yerde, **bir arp.** *Yere kulağını dayayan bir orkun yüzü değişiyor.*
 
-| Kim | Statblock | Sayı | XP |
-|---|---|---|---:|
-| **Başı boş buz kesici** — kabini yanmış, kesmeye devam ediyor | [Concord Ironclad](../../../02-lore/bestiary/concord-ironclad.md) (CR 4) | 1 | 1.100 |
-| **Cep mefitleri** | **Ice Mephit** (CR 1/2) | 4 *(tur 2, tur 4)* | 400 |
-| **Toplam** | | | **1.500 — Low** + zaman baskısı |
-
-### Üç ekip, altı tur
-
-> **Asıl mesele savaş değil.** Üç teras, üç ekip. Alev rampayı **yukarı** çıkıyor.
-
-| Ekip | Yer | Kim | Sorun |
-|---|---|---|---|
-| **A** | Alt teras, damar | 6 Ravonyalı + 1 Halla'nın adamı | Buz kırığı altında. **Athletics DC 13, 2 başarı** |
-| **B** | Orta teras, kesicinin yolu | 4 Gharuk ateşçisi — ⭐ **Tuk** | Kesici **Standing Order** ile onlara kesiyor. Kesiciyi durdur ya da ekibi çek |
-| **C** | Üst teras kenarı | 3 Demirdiş, 2 Kırık Boynuz | Rampa yıkık. **Çekme:** ip + Athletics DC 12 ya da kurt |
-
-| Tur | Olay |
-|---|---|
-| **1** | Kesici çalışıyor. Duman iniyor: Ocak'ta **30 ft ötesi Heavily Obscured** |
-| **2** | 2 mephit. **Alev alt terası alıyor:** orada biten **DC 13 Dex, 3d6 Fire,** yarısı |
-| **3** | Kesici B'ye 15 ft |
-| **4** | 2 mephit. **Alev orta terasa çıkıyor.** A hâlâ alttaysa **bitti** |
-| **5** | Kesici B'ye ulaşır — *Clearing Charge* |
-| **6** | **Üst teras kırılır.** C hâlâ oradaysa bitti |
-
-**Kim ne yapar:**
-
-| | |
-|---|---|
-| 🧟 **Rahadin** | Nefes almıyor, poison işlemiyor, soğuk işlemiyor. **Yangının içine yürür.** 2 turda 1 kişi taşır. Komut: *"Rahadin. Lütfen."* — ⭐ Madenciler **uşağı alevin içinden kendilerine yürürken** görür. *Fire* ona işler: Vasili hesap yapmak zorunda |
-| 🐻 **Grimgor** | Bear form: Athletics **Advantage.** Kurtlar yanındaysa ekip C serbest. ⭐ **Güven 2+:** bağırır, orklar **gruplar arası** yardıma koşar — ilk kez. Sayılar: bir terasın bedeli düşer. Güven 0: bağırır, kimse kimseye koşmaz |
-| 🛡️ **Gwyndor** | Nefes almıyor. Lay on Hands. *"Çavuş!"* diye bağırılır. **Ravonyalılar ona bakar** — emir verirse uygular. *Stane'in adamı gibi görünmüştür.* |
-| ⚓ **Roger** | Hız. Tur 5 kesiciye yetişen tek kişi |
-| ⚙️ **[Bralga](../../../05-characters/npcs/minor/bralga-ormak.md)** | **Güven 2+:** 2. turda gelir, tur 4'te kesiciyi durdurur *(Pull the Pin)*. Yoksa sadece kendi adamlarını çeker |
-| ✨ **Büyü** | Ocak çivisiz: slotlu büyüde d20, **1** → [cep](../../../04-charaxis/mining/README.md#cep-açıldığında--d10). **Fire** ya da **açık alev** damarda: **alev 1 tur erken.** |
-
-**Kesiciyi durdurmak:** 68 HP *(AC 17)* · ya da 5 ft'ten *Concord Cell* **DC 17 Sleight of Hand** ([statblock](../../../02-lore/bestiary/concord-ironclad.md)) · ya da Bralga.
-
-### Sonuç — *kaç kişi çıktı*
-
-| Çıkan ekip | Ne olur |
-|---|---|
-| **3/3** | Şehir konuşur: *"kuzeyden gelenler."* Söylenti **Mahalle** seviyesi. **Üç grubun üçü** bir Güven +1 |
-| **2/3** | Hangi ekip kaldıysa, onun halkı **sorar:** *"Neden onlar?"* Grimgor'ın **masumlar** maddesi. ⚠️ Kimi seçtiklerini yazın |
-| **1/3** | Fitil +1 · İmtiyaz *"Demirdiş'in bakımı"* der; Demirdiş işi bırakmayı konuşur |
-| **0/3** | Fitil +2 · Kışla tahtasındaki **0** ertesi vuruşta değişir |
-
-> 🔒 **[DM ONLY]** Bunun sebebi [partinin öldürdüğü fırtına](../../../04-charaxis/regions/stillreach/05-secrets-dm-only.md#kör-patlak-neden-oldu). **Kimse bilmiyor.** İpuçları: sıçan · Arcana DC 18 · Sorka'nın kurtları *patlaktan önce* kuzeye uludu. *Söylenmek zorunda değil.* Söylenirse Grimgor'ın en kötü sahnesidir; bir sonraki session'a sakla.
-
-> 💰 **Ödül:** Halla bir **kol** borç siler *(değeri yok; anlamı var)* · Bralga'dan makine yağı + **20 gp** · Ateşçiler: Sofra'da ömür boyu tas · Urzha'dan bir not: *"Fena değil. Bir fatura yolladım."*
-
-## 9. Bitiş — bir fazla
-
-> Ekipler çıkıyor. Ağız'da kafes durmuş. **Vuruş geri geldi** — yer titriyor. Herkes yan yana,
-> simsiyah, öksürerek. Sonra kimse konuşmuyor. Herkes **aynı yere** bakıyor.
-
-*[Sayman](../../../02-lore/bestiary/the-tallyman.md) · [kural 2](../../../04-charaxis/phenomena/README.md#kurallar)*
-
-> 🎬 *Ağız'ın dibinde biri duruyor. Madenci giysili ama giysi hiçbir şirketin değil. Yüzü olması
-> gereken yerde bir yüzey, üstünde tebeşir çentikleri. Yanınızdaki adam çok yavaş, sadece
-> dudaklarıyla: "Sayman sayarken konuşma."*
->
-> *Sayıyor. Kafanızın içinde. **Kendi sesinizle.** Bir. İki. Üç.*
->
-> *Rahadin ceketini düzeltiyor.*
-
-| Ne olur | Masada |
-|---|---|
-| 🧟 **Rahadin sayılır** | Ekipten ve partiden **bir fazla** |
-| 🔢 **Çentik** | Dört dik, bir çapraz — ve **bir tane daha** |
-| Hattın cümlesi | Birisi fısıldar: *"Sayman bir fazla saydı."* Herkes başını indirir. **Birini aramaya başlıyorlar** |
-| 🌕 **Grimgor** | Kafasındaki kendi sesi sayıyor — ve son sayıyı **başka bir şey** söylüyor. Duraklama'da *"bir"* demişti. Şimdi: ***"İki."*** |
-| ⚠️ **Konuşan olursa** | [Kural 2](../../../04-charaxis/phenomena/README.md#kurallar). Sayman **o kişiye döner.** Dokunmaz. *Yeniden başlar.* |
-| 📕 **Defter** | Gwyndor'ın çantası ağır. Sayfa açık. Yeni bir satır → **[#7: Vesna](#defter--masada-canlı)** |
-
-> 🎬 **Son kare — Tuk:** *Eğer çıktıysa,* Sofra'ya dönüyorsunuz. Vardiya başlıyor. **Tuk'un yeri boş.** Tası duruyor. Kimse oturmuyor. Saksı kuru — ve soğan ⬜ *(filizlendiyse: açık)*. Birileri Grimgor'a bakıyor. Kimse bir şey demiyor. Kimse *"Kimin orkusun?"* diye de sormuyor.
-
-> 🔒 **[DM ONLY]** **Bir fazla sayılan kolda biri ölür.** Öneri: **[Tuk](../../../04-charaxis/regions/stillreach/people.md#tuk)** — sessizce, yatağında; yanık yok, soğuk yok. Kurtarıldıysa daha da kötü. Kimin sayıldığını **kimse bilmiyor.** Vasili **hesaplayabilir** *(Arcana/Insight DC 15: "Bir tane fazla. Kim?")*. Söylemez mi? Sorun bu.
-
-**Son soru masaya:** *Kim fazla?*
+**Son soru masaya:** *Vesna'ya La'yı nasıl götüreceksiniz?* *(Evi görmedilerse: Fig'in kapısı açık.)*
 
 ---
 
-## 10. Denge — *XP bütçesi (DMG 2024)*
+## 10. Denge — *XP (DMG 2024)*
 
 | Parti | Low | Moderate | High |
 |---|---:|---:|---:|
 | **4 × L4 + 1 × L5** | 1.500 | 2.250 | 3.100 |
 | **4 × L4** *(Ozan yoksa)* | 1.000 | 1.500 | 2.000 |
 
-| Encounter | XP | 5 kişi | 4 kişi | Knob |
-|---|---:|---|---|---|
-| **Donduran kuyu** | 2.200 | Moderate | **High+** | 4 kişide: mephit **2** (2.000 = High) · Zor: Çift an'ı parti lehine |
-| **Kör Patlak** | 1.500 | Low | Moderate | Kesici ya da alev: birini **yavaşlat**. Zorluk zamanda, HP'de değil |
-| *(opsiyonel)* Gri Oda baskını | 1.500 | Low | Moderate | [Vosk + 4 Tough](../../../04-charaxis/regions/stillreach/people.md#kumpanya-kapıcıları) |
+| Ne | XP | Not |
+|---|---:|---|
+| **Donduran kuyu** | 2.200 *(Moderate; 4 kişide High+)* | 4 kişide 2 mephit → 2.000 |
+| Stealth ile geçiş | 1.100 | 220/kişi |
+| Calith'i bulmak | 1.000 | 200/kişi |
+| İş 1 / 2 | 850 / 900 | **Low** altı; parti dinlenmiş |
+| İş 3 / 4 / 5 | 600 / 400 / 150 | Check |
 
-> ⚠️ **Gün sırası:** kuyu → yürüyüş *(kısa dinlenme)* → Bent → şehir → **uzun dinlenme barakada** → Patlak. Patlak dinlenmeden tetiklenirse parti eksik: alev 1 tur **geç** başlasın.
-> ✏️ **Not:** [S04 §9](session-04-yedinci-kapi.md#9-denge--xp-bütçesi-dmg-2024)'daki *5×L4* satırı hatalıydı; doğrusu 1.250 / 1.875 / 2.500.
+> ⚠️ L4→L5 kişi başı 3.800 XP ister. Hepsi yapılırsa ~1.200/kişi. **Bu session seviye atlatmaz.**
+> ✏️ [S04 §9](session-04-yedinci-kapi.md#9-denge--xp-bütçesi-dmg-2024)'daki *5×L4* satırı hatalıydı; doğrusu 1.250 / 1.875 / 2.500.
 
 ## 11. Saatler *(öneri ⬜)*
 
 | Saat | Dilim | Neden |
 |---|---|---|
-| [Saat 2 — Vahadaki Şey](../06-clocks.md#-2-vahadaki-şey-yaklaşıyor) | **dilim 3 işareti** | Kuyuda doğan fırtına |
-| [Saat 5 — Kapılar](../06-clocks.md#-5-kapılar-bozuluyor) | **dilim 4** erken hâli | Yedinci Kapı kapanmıyor; d6'ya göre |
-| [Saat 6 — Dört Cevap](../06-clocks.md#-6-dört-cevap) | +1 öneri | Concord Calithra'daki Harper'ları avlıyor; Vesna vuruldu |
-| [Fitil](../../../04-charaxis/regions/stillreach/quests.md#5-fitil) | §8 sonucu | |
-| **Gwyndor** | dilim 3 | Defterde *"görüldü"* |
-| **Grimgor** | dilim 3 + 4 | Kurtlar · *"iki"* |
-| **Vasili** | dilim 1 ya da 2 | Deste · *"Efendim"* |
-| **Roger** | ⬜ | Geçen yılın imzası |
+| [Saat 2 — Vahadaki Şey](../06-clocks.md#-2-vahadaki-şey-yaklaşıyor) | +1 | **Tökezleme.** Calith'in şarkısı durdu |
+| [Saat 5 — Kapılar](../06-clocks.md#-5-kapılar-bozuluyor) | d6'ya göre | Yedinci Kapı kapanmıyor |
+| [Saat 6 — Dört Cevap](../06-clocks.md#-6-dört-cevap) | +1 | Concord Harper'ları avlıyor |
+| **Grimgor** | +1 | *Malar'ı duyduysa* |
+| **Gwyndor** | dilim 3 | *"görüldü"* |
 
 ## 12. Canlı notlar
 
 | # | Ne | Not |
 |---|---|---|
-| 1 | Rün sayacı | Geçişten beri ⬜ gün |
-| 2 | Kim Emmer'e ad verdi? | ⬜ |
-| 3 | Rahadin kayıtlı mı? | ⬜ |
-| 4 | Bir fazla: kim öldü | ⬜ |
-| 5 | Sofra'nın verdiği ad | ⬜ |
-
-## 13. Karşılaşmalar
-
-| Sahne | Encounter | Sonuç |
-|---|---|---|
-| §3 | Siyah Kar Fırtınası + Ice Mephit'ler | ⬜ |
-| §8 | Kör Patlak | ⬜ *(kaç ekip)* |
+| 1 | Rün sayacı | ⬜ gün |
+| 2 | Fig'i takip ettiler mi? | ⬜ |
+| 3 | Calith'in adı Defter'e / Emmer'e girdi mi? | ⬜ ⚠️ |
+| 4 | Grimgor neyi sordu? Cevabı? | ⬜ |
+| 5 | Kuyu: Stealth mi, savaş mı? | ⬜ |
+| 6 | Hangi işler bitti, ne alındı | ⬜ |
+| 7 | Grimgor'un Sofra'daki cevapları | ⬜ |
 
 ## Sonraki session *(tohumlar)*
 
-Solyan'ın yemeği · [Dördüncü Vaka](../../../04-charaxis/regions/stillreach/quests.md#1-dördüncü-vaka) · [Yazan El](../../../04-charaxis/regions/stillreach/quests.md#2-yazan-el) · [Kuzey Seferi](../../../04-charaxis/regions/stillreach/quests.md#6-kuzey-seferi) · Parti Tuk'u gömmek isterse: **Depo ücreti.**
+[Vesna'ya La](../../../05-characters/npcs/major/calith-auveran/README.md#kampanya-kancaları) · [Kör Patlak ve Sayman](../../../04-charaxis/regions/stillreach/set-pieces.md) · [Dördüncü Vaka](../../../04-charaxis/regions/stillreach/quests.md#1-dördüncü-vaka) · [Yazan El](../../../04-charaxis/regions/stillreach/quests.md#2-yazan-el) · [Kuzey Seferi](../../../04-charaxis/regions/stillreach/quests.md#6-kuzey-seferi) · Solyan'ın yemeği: *"Geldiğiniz kapı kaç kişilik?"*
 
 ## Güncellenecek Dosyalar *(oynandıktan sonra)*
 
 - [ ] `03-timeline.md` · 4× PC `03-development.md` · [Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md)
-- [ ] [Stillreach kadro](../../../04-charaxis/regions/stillreach/people.md) — kim öldü, kim kimi duydu
-- [ ] [Concord Defteri](../../../08-rules/homebrew/items/concord-ledger.md) · [Nöbet Rünleri](../../../08-rules/homebrew/items/watch-runes.md) — sayaç
+- [ ] [Calith](../../../05-characters/npcs/major/calith-auveran/README.md) · [Fig](../../../05-characters/npcs/minor/fig.md) · [Stillreach kadro](../../../04-charaxis/regions/stillreach/people.md)
+- [ ] [Concord Defteri](../../../08-rules/homebrew/items/concord-ledger.md) · [Nöbet Rünleri](../../../08-rules/homebrew/items/watch-runes.md) *(sayaç)*
 - [ ] [06-clocks.md](../06-clocks.md) · `00-meta/changelog.md`

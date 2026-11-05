@@ -147,6 +147,8 @@ updated: 2026-11-05
 | **Roger** | Cadının sesi geri geldi. Bariyeri delebilen şeyin cadıyı da getirip getirmeyeceğini bilmek ister. **Gemi onun** — karşıya o götürür |
 | **Tek Kulak** *(varsa)* | Vesna'nın işareti açacağı **nişte ne var**? Bir hırsız için yeter |
 
+> 🔒 **[DM ONLY] — Vesna'nın söylemediği:** [Fig'in halkası](../../../05-characters/npcs/minor/fig.md#arp-halkası--harper-işareti). Calith çağırıyordu → [asıl sebep](../../../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md#neden-şimdi--vesnanın-asıl-sebebi).
+
 > ⚠️ **Gitmezlerse:** zorlama. Ertesi sabah Nedra'nın fıçılarından biri daha gelir —
 > **kanlı.** Hücre bitmiş. Bu, ikinci bir davettir.
 
@@ -350,7 +352,7 @@ oturur, taş **açılır.** İçinde kararmış gümüş bir kutu: **[Nöbet Rü
 | Sahne | Encounter | Sonuç |
 |---|---|---|
 | §4 | Rask Dorin + haydutlar | ✅ **Haydutlar öldürüldü.** Rask Dorin ⬜ *(öneri: öldü → [Rahadin](../../../05-characters/npcs/minor/rahadin.md)'in bedeni)* |
-| §7 | Siyah Kar Fırtınası + Ice Mephit'ler | ➡️ [Session 05](session-05-kapagin-alti.md#3-encounter--donduran-kuyu) |
+| §7 | Siyah Kar Fırtınası + Ice Mephit'ler | ➡️ [Session 05](session-05-kapagin-alti.md#4-encounter--donduran-kuyu) |
 
 ## 12. Oynandı — ne oldu
 

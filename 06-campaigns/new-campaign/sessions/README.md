@@ -19,4 +19,4 @@ Oynanan oturumlar. Dosya adı: `session-NN-<slug>.md`. Her oturumdan sonra [03-t
 | [session-02-grafting-ici.md](session-02-grafting-ici.md) | **Grafting'in İçi** — 21 Uktar. Tek Kulak, ghoul'lar, centaur'lar, **Duraklama** (kuyruklu yıldızlar durdu). Blink Dog'un ölümünde bitti |
 | [session-03-silik-koy.md](session-03-silik-koy.md) | **Silik Köy** — Speaker öldü, centaur kurtarıldı, Halime/Halit öldürüldü, Vasili'nin iğnesi. **Çıkış yolunda bitti**; dönüş sahneleri (§4d–§9) Session 04'e |
 | [session-04-yedinci-kapi.md](session-04-yedinci-kapi.md) | **Yedinci Kapı** — Harper'lar Concord'a anlatıldı → **Concord Defteri** · Vesna öğrendi, hücreyi durdurdu, **vuruldu** · kapıdaki haydutlar · rünlere attune · L4. **Kapının önünde bitti** |
-| [session-05-kapagin-alti.md](session-05-kapagin-alti.md) | **Kapağın Altı** — *(prep)* Charaxis'e ilk adım, donduran kuyu, Kuzey Bent, **Stillreach**, Grimgor ve orklar, Kör Patlak, Sayman |
+| [session-05-kapagin-alti.md](session-05-kapagin-alti.md) | **Kapağın Altı** — *(prep)* Charaxis'e ilk adım, **Fig ve Calith**, donduran kuyu (Stealth), Stillreach, Grimgor ve orklar, küçük işler, Emanet Hanesi |

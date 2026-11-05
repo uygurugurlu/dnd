@@ -142,11 +142,12 @@ Haritada yok; [New Campaign tohumlarından](../06-campaigns/new-campaign/05-worl
 | **Meridyen Yolu** / Dünya Omurgası | Yol | Ekvator boyunca |
 | **Scorchvault** / Yakım Kubbesi | Yarımküre | Camlaşmış çöl, ateş elementalleri |
 | **Black Still** / Kara Dinginlik | Yarımküre | Sonsuz buz; ölüler çürümez. ☄️ **Vaha burada** |
+| 🔒 [**Geç Kalan'ın Evi**](../04-charaxis/regions/latecomers-house.md) | Tek oda · Black Still | [Calith Auveran](../05-characters/npcs/major/calith-auveran/README.md). Yedinci Kapı çıkışının ~1,5 mil kuzeyi |
 | **Ashkar Reach** | Şehir · Kül-71 | İnsan/tiefling; **moondust** ticareti, kara pazar | [→](../04-charaxis/regions/ashkar-reach.md) |
 | **Brakk-Dur Omurga** | Şehir · Kül-28 | Cüce/ork; madencilik lojistiği, denge odaları | [→](../04-charaxis/regions/brakk-dur.md) |
 | **Vael'Serith** | Şehir · Taş 0 | Elf; **Sıfır Taşı**, Nöbet, izleme matrisi | [→](../04-charaxis/regions/vael-serith.md) |
 | **Nen-Kharal** | Köy · Don-14 | **Deep gnome**; Dinleyiciler loncası, yolun altında | [→](../04-charaxis/regions/nen-kharal.md) |
-| **Stillreach** | Şehir · Don-64 | Ravonyalı borçlu, **~600 ork**, Karsovyalı; buz ocağı, soğuk depo, Saatçiler. [Mekânlar](../04-charaxis/regions/stillreach/places.md): Kuzey Bent · Büyük Ocak · Pres Hanesi · Kazan Sırası · Kumpanya Hanı · Kurt Ahırı · Depo · Saat Salonu · Arşiv Kazısı · Kışla · Aşağı Sıra · Ay Çukuru | [→](../04-charaxis/regions/stillreach/README.md) |
+| **Stillreach** | Şehir · Don-64 | Ravonyalı borçlu, **~600 ork**, Karsovyalı; buz ocağı, soğuk depo, Saatçiler. [Mekânlar](../04-charaxis/regions/stillreach/places.md): Emanet Hanesi · Kuzey Bent · Büyük Ocak · Pres Hanesi · Kazan Sırası · Kumpanya Hanı · Kurt Ahırı · Depo · Saat Salonu · Arşiv Kazısı · Kışla · Aşağı Sıra · Ay Çukuru | [→](../04-charaxis/regions/stillreach/README.md) |
 
 ### Madenler *(hepsi Meridyen Yolu üzerinde, taş sırasına göre)*
 

@@ -87,7 +87,7 @@ Sebep [damga](../../../05-characters/player-characters/new-campaign/grimgor/04-d
 
 ## Sayman ve Rahadin
 
-[Sayman](../../../02-lore/bestiary/the-tallyman.md) canlıyı değil **yolu geçeni** sayar. [Rahadin](../../../05-characters/npcs/minor/rahadin.md) ekiple Ağız'dan çıkarsa sayılır. Listede yok. **Sayı bir fazla tutar.** Bir fazla sayılan kolda biri ölür — Vasili'nin uşağı, bir madencinin ölümüne imza atmıştır. Kimse bunu bir suç olarak okumaz; okuyacak bir defter yok. Masada: [S05 §9](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md#9-bitiş--bir-fazla).
+[Sayman](../../../02-lore/bestiary/the-tallyman.md) canlıyı değil **yolu geçeni** sayar. [Rahadin](../../../05-characters/npcs/minor/rahadin.md) ekiple Ağız'dan çıkarsa sayılır. Listede yok. **Sayı bir fazla tutar.** Bir fazla sayılan kolda biri ölür — Vasili'nin uşağı, bir madencinin ölümüne imza atmıştır. Kimse bunu bir suç olarak okumaz; okuyacak bir defter yok. Masada: [set piece](set-pieces.md#bir-fazla).
 
 ## Trell kâğıdı
 

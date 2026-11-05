@@ -25,6 +25,63 @@ updated: 2026-11-05
 | 7 | [Sayılmayan Saat](#7-sayılmayan-saat) | Tek Kulak'ın kendisi | Tek Kulak | Hırsızlık | ½ oturum |
 | 8 | [Geçen Yılın Paketi](#8-geçen-yılın-paketi) | [Urzha](../../../05-characters/npcs/minor/urzha-keth.md) | Roger | Sosyal | Sahne |
 
+**Hazır set piece'ler** *(S05'ten taşındı, sonraya):* [Kör Patlak ve Sayman](set-pieces.md).
+
+---
+
+## Küçük işler
+
+> **Tek sahnelik, XP + altın.** Kömürle Sofra duvarında. Şehri tanıtır, yan NPC'leri sevdirir, dükkâna para getirir. XP partiye bölünür; altın toplamdır.
+
+| İş | Veren | XP | 💰 | Süre |
+|---|---|---:|---:|---|
+| [Pas Kokusu](#pas-kokusu) | [Bralga](../../../05-characters/npcs/minor/bralga-ormak.md) | 850 | 120 gp | 25 dk |
+| [Kayıp Kurt](#kayıp-kurt) | [Sorka](../../../05-characters/npcs/minor/sorka-ucdis.md) | 900 | 90 gp | 25 dk |
+| [Kör Kol](#kör-kol) | [Halla](people.md#halla-venn) | 600 | 60 gp | 15 dk |
+| [Soğuk Tahsilat](#soğuk-tahsilat) | [Urzha](../../../05-characters/npcs/minor/urzha-keth.md) | 400 | 100 gp | 15 dk |
+| [Son Pul](#son-pul) | Kuyudaki madenci | 150 | 15 gp + *Potion of Healing* | 10 dk |
+
+### Pas Kokusu
+
+**Bralga:** *"Dokuzuncu galeride ray yok oldu. Çalınmadı. **Yendi.** Çıkan adam kör değil ama ayakkabısının çivileri yok."*
+
+- **Düşman:** 4 **Rust Monster** (CR 1/2) + 1 **Ochre Jelly** (CR 2): **850 XP.** Dar galeri, 30 ft görüş, Rust Monster'lar metale gider.
+- ⚠️ **Gwyndor'ın zırhı** ve kılıcı: *Rust Metal* sihirsiz metali bozar. Önceden söyle: Demirdiş bir **bez** uzatır: *"Çıkar. Ciddiyim."* Bozulursa yenisi [Emanet'te](places.md#stok).
+- **Grimgor:** Toz sıçanları yolu gösterir. Wild Shape metalsiz: **ideal.**
+- **Ödül:** **120 gp.** Ve Bralga bir daha *"Kimin orkusun"* demez.
+
+### Kayıp Kurt
+
+**Sorka** burnunun yanından bakar: *"Kurdum kuzeye gitti. Ben gidersem ötekiler peşimden gelir. Gidip getir. Kapıya bağlama. Adı Üç. Sadece ona söyleyin."*
+
+- **Yer:** Bent ötesi, 1 mil, buz yarığı. Kurt yaralı, bir **Winter Wolf** (CR 3) ile *konuşuyor.* Winter Wolf ona **sürü** teklif ediyor. + 2 **Ice Mephit**: **900 XP.**
+- **Grimgor:** *Speak with Animals*: kurt ona **yatar.** *Winter Wolf:* *"Sen. Damgalı. Burada ne işin var?"* 🔒 [Damga](05-secrets-dm-only.md#maların-damgası--kurt-ahırı)
+- **Sosyal çözüm:** Winter Wolf'a *hayır* demek; Intimidation DC 15 *(Grimgor Advantage)*. XP yine verilir.
+- **Ödül:** **90 gp.** Sorka **doğrudan bakar.** [Kuzey Seferi](#6-kuzey-seferi) konuşulur.
+
+### Kör Kol
+
+**Halla Venn:** *"Üçüncü bölük, yedi numara, üç kişi. Yirmi dakika önce kör kolda gaz çıktı. İmtiyaz vardiyayı kapatmıyor. Numaran yok ama duruşun var."*
+
+- **Skill challenge:** **3 başarı, 3 başarısızlık öncesi.** DC 13. Athletics *(kaya)* · Medicine *(taşımak)* · Survival/Nature *(gazın yönü)* · Perception *(çığlık sesi bir adım öteden gelir)* · ⭐ Rahadin ve Gwyndor gaza **etkilenmez:** bir başarı bedava, *ama:* madenciler uşaktan kaçar.
+- **Başarısızlık başına:** bir kişi kalır. Herkes 1d6 Poison.
+- **Ödül:** **600 XP · 60 gp** *(borçlular topladı; **almak** da bir karar)*. Aşağı Sıra kulak verir. Parayı geri verirlerse [Fitil](#5-fitil) bir adım yakın.
+
+### Soğuk Tahsilat
+
+**Urzha:** *"Gri Oda'nın arkasında bir borçlu. 91 gp. Kapıyı kapattı. Vosk'u yollarsam tahsilat olmaz, cenaze olur. Siz yabancısınız; size açar. Onda on."*
+
+- **Kim:** [Tuk](people.md#tuk)'un babasından kalan borç ⬜: kardeşi **Marek** *(Commoner)*. Keseyi verir, sonra kışı geçiremez.
+- **Seçenekler:** Tahsil et **(100 gp, 400 XP)** · Borcu öde **(−91 gp, 400 XP, Sofra'da ömür boyu tas)** · Urzha'ya yalan: Deception DC 16 **(0 gp, 400 XP)** · Kavga: Vosk + 2 Tough, sadece parti başlatırsa.
+- ⭐ **Grimgor:** *"Masumlar"* maddesi. Ve Defter satırı: *Tuk — borç 91 gp.* Bu aynı borç.
+
+### Son Pul
+
+**Tetik:** Kuyudaki madencinin vardiya pulu *("Don-64 — 3. Bölük")*. Depo'da [Emmer](people.md#emmer-tolland) adını bulur: **Aksa**, ⬜ dul eşi Aşağı Sıra'da. *"Pulu getirirseniz borcu düşer. Getirmezseniz düşmez. Size kalmış."*
+
+- **Dul eş:** Gözleri kuru. Pul alır, sayar, *"Geç kaldı."* Bir kese verir: **15 gp** ve son *Potion of Healing*: *"Sizde kalsın. Ben neye içeyim?"*
+- **150 XP.** ⚠️ Emmer **ad sorar.** Söylerlerse → [Defter](../../../08-rules/homebrew/items/concord-ledger.md).
+
 ---
 
 ## 1. Dördüncü Vaka
@@ -66,7 +123,7 @@ updated: 2026-11-05
 
 ## 4. Kör Patlak
 
-**Tetik:** [Session 05 §8](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md#8-encounter--kör-patlak)'deki Ocak patlaması. Sonrası her taraf **başkasını** suçlar:
+**Tetik:** [Set piece: Kör Patlak](set-pieces.md#kör-patlak) — Ocak patlaması *(S05'ten sonraya kaldı)*. Sonrası her taraf **başkasını** suçlar:
 
 | Suçlayan | Suçlanan | Kanıtı |
 |---|---|---|
