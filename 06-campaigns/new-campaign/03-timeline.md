@@ -5,7 +5,7 @@ campaign: New Campaign
 canon: homebrew
 status: stub
 tags: [timeline]
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Zaman Çizelgesi
@@ -71,7 +71,8 @@ updated: 2026-11-05
 | 2 | [Grafting'in İçi](sessions/session-02-grafting-ici.md) | 21 Uktar 1495 DR | Nehirden Grafting'e giriş; köy evinde **Tek Kulak** (konuk rogue, Roger'ı tanıyor). Ghoul'lar ve bozulmuş centaur'lar öldü. Blink Dog Unwoven'dan güç aldı → ⭐ **Duraklama:** kuyruklu yıldızlar anlık durdu, parti (Tek Kulak hariç) bir an eski güçlerine kavuştu. Shadowfell kuşağı Session 03'e kaldı |
 | 3 | [Silik Köy](sessions/session-03-silik-koy.md) | 21 Uktar 1495 DR ⬜ | Silik köyde **Gallows Speaker öldürüldü**; bozduğu **centaur kurtarıldı** (partiyle dönmedi). **Halime ve Halit** bulundu — çıkarmak tehlikeli bulundu, **öldürüldü**. Communion'ın notu Halime'nin elinde. **Vasili Speaker'ın iğnesini aldı** (curse aktarımı). Çıkış yolunda bitti |
 | 4 | [Yedinci Kapı](sessions/session-04-yedinci-kapi.md) | ~23–25 Uktar 1495 DR ⬜ | Parti **Calithra'daki Harper'ları Concord'a anlattı**; Stane karşılığında **[Concord Defteri](../../08-rules/homebrew/items/concord-ledger.md)**'ni verdi (Gwyndor'da; Unwoven işi). Parti Vesna'ya söyledi: **Harper faaliyeti durdu.** Vesna on bir yıl sonra balkondan indi, Roger'ın teknesiyle boğazı geçti; **Concord ona saldırdı, 2 ok.** Bir limanda indi, birliğini toplamaya gitti. Kapı önündeki haydutlar öldü; 1 gün **[rünlere](../../08-rules/homebrew/items/watch-runes.md) attune.** **Parti L4, Tek Kulak L5. Vasili → Necromancer ([Rahadin](../../05-characters/npcs/minor/rahadin.md))** |
-| 5 | [Kapağın Altı](sessions/session-05-kapagin-alti.md) *(prep)* | ~26–28 Uktar 1495 DR ⬜ | Yedinci Kapı → Charaxis · Fig ve Geç Kalan'ın Evi · donduran kuyu · [Stillreach](../../04-charaxis/regions/stillreach/README.md) · Grimgor ve orklar · küçük işler, Emanet Hanesi |
+| 5 | [Kapağın Altı](sessions/session-05-kapagin-alti.md) | ~26–28 Uktar 1495 DR ⬜ | Yedinci Kapı'dan **Charaxis'e geçildi.** [Fig](../../05-characters/npcs/minor/fig.md) kuzeye yürüdü; Grimgor onunla konuştu (*efendisi iyi biri; adı yok*), parti **takip etmedi:** Calith ile tanışılmadı. Donduran kuyuda **elementaller öldürüldü.** [Stillreach](../../04-charaxis/regions/stillreach/README.md)'e girildi; **bir hanın kapısında bitti** |
+| 6 | [Beşinci Saat](sessions/session-06-besinci-saat.md) *(prep)* | ~27–28 Uktar 1495 DR ⬜ | Kumpanya Hanı · Tek Kulak'ı harcayan [Dördüncü Saat](../../05-characters/npcs/minor/tek-kulak.md#dördüncü-saat--calithranın-hırsız-loncası)'in hain kolu ([Beşinci Saat](../../05-characters/npcs/minor/the-fifth-hour/README.md)) + Communion'dan [Saelith](../../05-characters/npcs/minor/the-first-communion/saelith.md) · sorgu · S05'ten devreden şehir sahneleri |
 
 > Her session sonrası: `sessions/session-NN-<slug>.md` aç, bu tabloya satır ekle,
 > değişen dünya dosyalarını güncelle, `00-meta/changelog.md`'ye satır at.

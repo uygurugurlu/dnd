@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Değişiklik Kaydı
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Değişiklik Kaydı
@@ -10,6 +10,26 @@ Evrende ne zaman ne değişti. Her önemli ekleme/karar buraya bir satır.
 Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
+
+- **2026-11-12** — 🗡️ **New Campaign: Session 05 oynandı, Session 06 hazırlığı (han kavgası).**
+  - [Session 05](../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md) **oynandı** olarak işlendi: Charaxis'e geçiş; **Fig takip edilmedi** (Grimgor *Speak with Animals* ile konuştu: efendisinin adı yok, *iyi biri*); donduran kuyuda **elementaller öldü;** Stillreach'e giriş; **hanın kapısında bitti.** Calith, Sofra, küçük işler, Emanet oynanmadı → S06'ya devretti. [03-timeline.md](../06-campaigns/new-campaign/03-timeline.md), dört PC günlüğü, [Fig](../05-characters/npcs/minor/fig.md), [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) güncellendi.
+  - Yeni session: [Beşinci Saat](../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md) *(prep)* — [Kumpanya Hanı](../04-charaxis/regions/stillreach/places.md#kumpanya-hanı)'nda tanıma sahnesi, **2.400 XP (Moderate)** encounter, mavi han arenası, kapıcı saati (5 tur), altı basamaklı **First Communion sorgu tablosu,** Urzha'nın hesabı.
+  - Yeni NPC klasörü: **[Beşinci Saat](../05-characters/npcs/minor/the-fifth-hour/README.md)** — Dördüncü Saat'in hain toz kolu. [Maşa / Brenn Dalt](../05-characters/npcs/minor/the-fifth-hour/masa.md) (rogue, **CR 3**, doğrulamalı) + [Kürek · İs · Maya](../05-characters/npcs/minor/the-fifth-hour/fifth-hour-knife.md) (*Fifth Hour Knife*, **CR 1**, doğrulamalı). Hepsi Sneak Attack / Cunning Action / hançer.
+  - Yeni Communion NPC'si: [Saelith Thirne](../05-characters/npcs/minor/the-first-communion/saelith.md) (elf druid, **CR 4**, doğrulamalı) — Marr'ın 1494 R-2 ekibinden Charaxis'e düşen; cemaatin öbür yakadaki kulağı. Saha tahtasına **FC-6 — Öte Yaka** eklendi.
+  - Geri linkler: Stillreach [mekânlar](../04-charaxis/regions/stillreach/places.md) (Kumpanya Hanı'nın içi ve kuralı, Ay Çukuru) · [görevler](../04-charaxis/regions/stillreach/quests.md) (Dördüncü Vaka'ya beşinci talip) · who-is-who · minor README. Sihirli eşya yok (bir *Potion of Healing*). VTT sahnesi için `vtt` projesinde oturum açıldı.
+
+- **2026-11-08** — ⬇️ **Uykusuzlar seviye 10 → 9** (DM kararı). Tam build'ler yeniden kuruldu (HP, slot, cantrip/hazırlık sayıları; Darya'dan *Divine Intervention*, Aurel'den *Aura of Courage*, Sylvaine'den *The Third Eye*, Gaurok'tan *Eldritch Strike* + bir mastery + bir Second Wind düştü). Statblock'lar **CR 7 → CR 6**, yeniden doğrulandı. Toplam 11,600 → **9,200 XP** (4 × L8 High'ın %110'u). [Parti](../06-campaigns/chains-of-the-burning-compact/factions-in-play/the-unsleeping/README.md), [sırlar §5](../06-campaigns/chains-of-the-burning-compact/factions-in-play/the-unsleeping/05-secrets-dm-only.md#5-kim-cevap-veriyor--ışığın-rengi), [session](../06-campaigns/chains-of-the-burning-compact/sessions/session-01-uykusuz-gozler.md), [Kör Gözcü Kulesi](../06-campaigns/chains-of-the-burning-compact/encounters/kor-gozcu-kulesi.md) güncellendi. Darya'ya *Cure Wounds* eklendi (*Guiding Bolt* çıktı).
+
+- **2026-11-08** — 🌲🌊 **CotBC: iki encounter + tekne kuralları.**
+  - [Kör Gözcü Kulesi](../06-campaigns/chains-of-the-burning-compact/encounters/kor-gozcu-kulesi.md): Uykusuzlar'la **orman** savaşı (Calithra'nın kuralı Standing Stone'da biter); sis, kütük köprü, dere, yangın; gece varyantı.
+  - [Demir Halka](../06-campaigns/chains-of-the-burning-compact/encounters/demir-halka.md): boğazda **ork korsan gemisi** — kovalamaca → bordalama, kürek bankında 20 esir. Yeni NPC: [Ruuk Tuzdiş](../05-characters/npcs/minor/ruuk-tuzdis.md) (CR 6, doğrulamalı).
+  - Yeni house rule: **[Tekne Kuralları](../08-rules/house-rules/ships.md)** — roller ve zarları, denizde bir gün, aşınma (0–4) ve tamir, tekne savaşı (Damage Threshold, gövde hâlleri, parça hasarı, yangın, bindirme, bordalama, kovalamaca).
+  - [Session: Uykusuz Gözler](../06-campaigns/chains-of-the-burning-compact/sessions/session-01-uykusuz-gozler.md) §7 ormana taşındı (rıhtım alternatif), §7b deniz eklendi. VTT sahneleri için `vtt` projesinde oturum açıldı.
+
+- **2026-11-08** — 🛡️ **Chains of the Burning Compact: rakip parti [Uykusuzlar](../06-campaigns/chains-of-the-burning-compact/factions-in-play/the-unsleeping/README.md) + yeni session.**
+  - Dört major NPC, her biri **MM 2024 statblock (CR 7, doğrulamalı)** + **spell slot'lu tam seviye-10 build**: [Darya Volkhan](../05-characters/npcs/major/darya-volkhan/README.md) (Light cleric), [Ser Aurel Drevka](../05-characters/npcs/major/aurel-drevka/README.md) (aasimar Devotion paladin), [Sylvaine Orrec](../05-characters/npcs/major/sylvaine-orrec/README.md) (yüksek elf Diviner), [Gaurok Kalanath](../05-characters/npcs/major/gaurok-kalanath/README.md) (goliath Eldritch Knight). Tanrı: [Helm](../02-lore/pantheon/faerunian/helm.md) — 1492 sonundan beri onlara susuyor (Kapı Gecesi, [Surfwale](../03-ager/continents/karsovia/sites/surfwale.md) K-1). 🔒 [Sırlar](../06-campaigns/chains-of-the-burning-compact/factions-in-play/the-unsleeping/05-secrets-dm-only.md): rüya Cyric'ten (öneri).
+  - CotBC'ye **[sessions/](../06-campaigns/chains-of-the-burning-compact/sessions/README.md)** klasörü açıldı: [Uykusuz Gözler](../06-campaigns/chains-of-the-burning-compact/sessions/session-01-uykusuz-gozler.md) (prep) — Calithra'da tekne, Gaurok rıhtımda, max/ea basr kamp ateşinde, Gri Tuz yarışı, Üçüncü Basamak'ta yüzleşme, rıhtım savaşı, esaret → Surfwale.
+  - [03-timeline.md](../06-campaigns/chains-of-the-burning-compact/03-timeline.md): Thornhold önündeki pusu ve kafilenin dağılması işlendi. Surfwale ve Helm dosyalarına geri link; who-is-who güncellendi.
 
 - **2026-11-05** — 🖼️ **[Calith Auveran](../05-characters/npcs/major/calith-auveran/README.md) görseli** (Midjourney) eklendi; prompt dosyada, [Session 05 §3](../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md#3-geç-kalanın-evi)'te oyunculara gösterilir.
 

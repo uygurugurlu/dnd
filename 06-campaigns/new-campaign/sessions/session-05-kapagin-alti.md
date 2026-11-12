@@ -9,8 +9,8 @@ in_world_elapsed: ⬜
 level_at_start: 4
 level_at_end: ⬜
 players_present: [Ardan, Koray, Erdem, Burak, ⬜ Ozan (konuk)]
-status: prep
-updated: 2026-11-05
+status: played
+updated: 2026-11-12
 ---
 
 # Session 05 — Kapağın Altı
@@ -19,6 +19,9 @@ updated: 2026-11-05
 **Yay:** [Charaxis Yolu](../arcs/charaxis-yolu.md) ·
 **Kim:** 🔒 [Calith](../../../05-characters/npcs/major/calith-auveran/README.md) ([statblock](../../../05-characters/npcs/major/calith-auveran/statblock.md) · [sırlar](../../../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md)) ·
 **Şehir:** [Stillreach](../../../04-charaxis/regions/stillreach/README.md) ([mekânlar](../../../04-charaxis/regions/stillreach/places.md) · [kadro](../../../04-charaxis/regions/stillreach/people.md) · [görevler](../../../04-charaxis/regions/stillreach/quests.md))
+
+> ✅ **Oynandı** *(kayıt: 2026-11-12)*. §1, §2, §4 ve §5'in girişi oynandı; **hanın kapısında** bitti. Ne olduğu →
+> [§13](#13-oynandı--ne-oldu). **§3 (Calith), §6–§8 oynanmadı:** [Session 06](session-06-besinci-saat.md#7-şehir--s05ten-devreden)'ya devretti.
 
 > 🎲 **Kısa DM notları.** `⬜` = senin slotun. Portaldan geçtikleri an başlar.
 > **Bu session'ın işi üç şey:** Calith ile tanışmak · kuyunun önünden geçmek · şehirde küçük işler ve alışveriş.
@@ -417,20 +420,40 @@ Vardiya çanı. Parti barakada, kazanın duvarı sıcak. Üç şey, sırayla:
 | # | Ne | Not |
 |---|---|---|
 | 1 | Rün sayacı | ⬜ gün |
-| 2 | Fig'i takip ettiler mi? | ⬜ |
-| 3 | Calith'in adı Defter'e / Emmer'e girdi mi? | ⬜ ⚠️ |
-| 4 | Grimgor neyi sordu? Cevabı? | ⬜ |
-| 5 | Kuyu: Stealth mi, savaş mı? | ⬜ |
-| 6 | Hangi işler bitti, ne alındı | ⬜ |
-| 7 | Grimgor'un Sofra'daki cevapları | ⬜ |
+| 2 | Fig'i takip ettiler mi? | **Hayır.** Grimgor *Speak with Animals* ile konuştu; Fig efendisinin adını vermedi, iyi biri olduğuna ikna etti. Yine de güneye döndüler |
+| 3 | Calith'in adı Defter'e / Emmer'e girdi mi? | **Hayır:** adını hiç öğrenmediler |
+| 4 | Grimgor neyi sordu? Cevabı? | Calith'e ulaşılmadı. Fig'e efendisini sordu → cevap yok |
+| 5 | Kuyu: Stealth mi, savaş mı? | **Savaş.** Elementallerin hepsi öldü *(Stealth denendi mi ⬜)* |
+| 6 | Hangi işler bitti, ne alındı | Hiçbiri: şehre yeni girdiler → [S06 §7](session-06-besinci-saat.md#7-şehir--s05ten-devreden) |
+| 7 | Grimgor'un Sofra'daki cevapları | Oynanmadı → S06 |
+
+## 13. Oynandı — ne oldu
+
+| # | Ne oldu | Sonuç |
+|---|---|---|
+| 1 | 🌀 Parti Yedinci Kapı'dan **Charaxis'e geçti** | Rün sayacı başladı. Geçiş d6'sı ⬜ |
+| 2 | 🐈 **[Fig](../../../05-characters/npcs/minor/fig.md) kuzeye yürüdü; parti takip etmedi.** Grimgor *Speak with Animals* ile konuştu. Fig **efendisinin kim olduğunu söylemedi,** ama **iyi biri** olduğuna partiyi ikna etti | [§3](#3-geç-kalanın-evi) oynanmadı: **Calith ile tanışılmadı.** Fig'in kapısı ([§6](#fig-kapıyı-tırmalıyor)) hâlâ açık. Parti artık Fig'in bir efendisi olduğunu **biliyor** |
+| 3 | 🏙️ Güneye, **Stillreach'e** yürüdüler | Kuyu tavsiyesi alınmadı *(Advantage yok)* |
+| 4 | ⚔️ **Donduran kuyuda elementallerle savaştılar; hepsini öldürdüler** | [§4](#4-encounter--donduran-kuyu): **2.200 XP** *(5 kişi: 440/kişi)*. Fırtına **öldü** → [Kör Patlak](../../../04-charaxis/regions/stillreach/set-pieces.md#kör-patlak) hazır. Ganimet (madenci, vardiya pulu) ⬜ |
+| 5 | 🚪 **Stillreach'e girdiler** | Kuzey Bent'ten nasıl geçtikleri ⬜ *(rüşvet / yalan / pul / Sorka)* |
+| 6 | 🍺 **Bir barın kapısına geldiler. Session burada bitti** | Sıradaki: içeri giriyorlar → [Session 06](session-06-besinci-saat.md). Bar ⬜ *(varsayım: [Kumpanya Hanı](../../../04-charaxis/regions/stillreach/places.md#kumpanya-hanı))* |
+
+> 🔒 **[DM ONLY] — Fig neden ısrar etmedi.** Fig bir kez bakar, bir kez daha bakar, sonra gider; Calith kimseyi çağırmaz, **beklemeyi** bilir. Ama Grimgor'la konuştu ve *"iyi biri"* dedi: bu, Calith'in değil **Fig'in** kararıydı. Parti şehirde onu tekrar gördüğünde kapıyı tırmalaması bir davet değil, bir **ısrar** olur.
+
+### Açık kalanlar ⬜
+
+- Geçiş d6'sı · kuyuda Stealth denendi mi · madencinin pulu alındı mı · Bent'ten nasıl geçildi · barın adı · rün sayacı kaç gün
 
 ## Sonraki session *(tohumlar)*
+
+> ➡️ **[Session 06 — Beşinci Saat](session-06-besinci-saat.md):** hanın içinde Tek Kulak'ı harcayan loncadan biri.
 
 [Vesna'ya La](../../../05-characters/npcs/major/calith-auveran/README.md#kampanya-kancaları) · [Kör Patlak ve Sayman](../../../04-charaxis/regions/stillreach/set-pieces.md) · [Dördüncü Vaka](../../../04-charaxis/regions/stillreach/quests.md#1-dördüncü-vaka) · [Yazan El](../../../04-charaxis/regions/stillreach/quests.md#2-yazan-el) · [Kuzey Seferi](../../../04-charaxis/regions/stillreach/quests.md#6-kuzey-seferi) · Solyan'ın yemeği: *"Geldiğiniz kapı kaç kişilik?"*
 
 ## Güncellenecek Dosyalar *(oynandıktan sonra)*
 
-- [ ] `03-timeline.md` · 4× PC `03-development.md` · [Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md)
-- [ ] [Calith](../../../05-characters/npcs/major/calith-auveran/README.md) · [Fig](../../../05-characters/npcs/minor/fig.md) · [Stillreach kadro](../../../04-charaxis/regions/stillreach/people.md)
-- [ ] [Concord Defteri](../../../08-rules/homebrew/items/concord-ledger.md) · [Nöbet Rünleri](../../../08-rules/homebrew/items/watch-runes.md) *(sayaç)*
-- [ ] [06-clocks.md](../06-clocks.md) · `00-meta/changelog.md`
+- [x] `03-timeline.md` · 4× PC `03-development.md` · [Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md)
+- [x] [Fig](../../../05-characters/npcs/minor/fig.md) *(Grimgor'la konuştu)* · [Calith](../../../05-characters/npcs/major/calith-auveran/README.md) *(değişmedi: tanışılmadı)*
+- [ ] [Stillreach kadro](../../../04-charaxis/regions/stillreach/people.md) *(Bent ⬜)* · [Concord Defteri](../../../08-rules/homebrew/items/concord-ledger.md) · [Nöbet Rünleri](../../../08-rules/homebrew/items/watch-runes.md) *(sayaç ⬜)*
+- [ ] [06-clocks.md](../06-clocks.md) *(Tökezleme olmadı: Saat 2 **ilerlemedi;** öbürleri ⬜)*
+- [x] `00-meta/changelog.md`

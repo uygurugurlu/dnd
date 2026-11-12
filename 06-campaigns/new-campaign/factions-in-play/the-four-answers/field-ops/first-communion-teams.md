@@ -7,7 +7,7 @@ canon: homebrew
 status: usable
 board_date: 20 Uktar 1495 DR
 tags: [first-communion, field-ops, tracker, four-answers, new-campaign]
-updated: 2026-08-30
+updated: 2026-11-12
 ---
 
 # First Communion — Saha Ekipleri
@@ -156,6 +156,26 @@ dağınık** komuta zinciri:
 
 ---
 
+## FC-6 — Öte Yaka *(Charaxis)*
+
+> ✏️ **Eklendi (2026-11-12),** tahta tarihi **~27 Uktar.** Parti Charaxis'e geçtiği için açıldı.
+
+| | |
+|---|---|
+| **Başında** | [Saelith Thirne](../../../../../05-characters/npcs/minor/the-first-communion/saelith.md) *(Elf, 187 — CR 4)* |
+| **Kadro** | Tek. Kiralık el: [Beşinci Saat](../../../../../05-characters/npcs/minor/the-fifth-hour/README.md) — dört Calithra'lı hırsız, cemaatten **değil** |
+| **Şu an** | [Stillreach](../../../../../04-charaxis/regions/stillreach/README.md) — Ay Çukuru / Kumpanya Hanı 🔴 |
+| **Neden orada** | 1494'te Marr'ın R-2 ekibiyle Charaxis'e düştü. Bir yıldır orada; ölüsü Depo'da |
+| **Neyi kovalıyor** | Depo'da **uyanan** bir ölü: dikişte dokuz gün dayanabilecek *"geç kalmış"* biri → FC-1'e |
+| **Sonraki hamle** | Hırsızlara bedeni çaldırıp K-1'den çıkarmak. Sonra: Marr için **vahanın yolu** |
+| **Ne olursa hareket eder** | Hırsızlar düşerse işi **kendisi** yapar, kurt hâlinde. Kırıkbağ'a insan **satıldığını** öğrenirse durur ve [Ilrien](../../../../../05-characters/npcs/minor/the-first-communion/ilrien.md)'e yazar |
+| **Partinin gördüğü iz** | Bir handa, mavi ışıkta, dört hırsızla aynı masada oturan bir elf → [Session 06](../../../sessions/session-06-besinci-saat.md) |
+
+> **[DM ONLY]** FC-6'yı kimse **kurmadı.** Mektuplar Ilrien'den gidiyor, istek Nerath'tan geliyor, Marr yalnız *"öbür yakada biri var"* biliyor.
+> Saelith üç ayrı kişiye çalıştığını sanmıyor; **tek bir cemaate** çalıştığını sanıyor.
+
+---
+
 ## Takviye kuralı
 
 Communion'ın yedek gücü yok — **davet gücü var.**
@@ -167,6 +187,7 @@ Communion'ın yedek gücü yok — **davet gücü var.**
 | FC-3 düşerse | İçerideki yedi kişi orada kalır ve **konuşmaya başlar** |
 | FC-4 düşerse | Marr haberi **anında** alır. Bu, partinin sanabileceğinin aksine kötü bir sonuçtur |
 | FC-5 düşerse | Faction bir sonraki ince yeri bulamaz. Tek gerçek yavaşlama bu |
+| FC-6 düşerse | Marr vahaya **kör** geçer. Ve Depo'daki uyanan ölüler Communion'ın değil, Saatçilerin olur |
 
 > **Ölçek uyarısı:** bu ekiplerden hiçbiri partiye saldırarak başlamaz.
 > Communion'ın sahneye giriş şekli **davet**tir. → [Dört Cevap §8](../README.md#8-masada-nasıl-işletilir)

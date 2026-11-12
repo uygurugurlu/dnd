@@ -6,7 +6,7 @@ faction: The First Communion
 canon: homebrew
 status: usable
 tags: [npc, roster, first-communion, four-answers, new-campaign]
-updated: 2026-08-30
+updated: 2026-11-12
 ---
 
 # The First Communion — Kadro
@@ -30,6 +30,7 @@ Beşi de **farklı bir iş** yapıyor: ikisi gözcü/casus, ikisi dövüşçü, 
 | [Mirel Ashvane](mirel-ashvane.md) | Tiefling, 44 | *(halkasız)* | **Kurtarıcı.** Moon druid; grafted bölgelerden insan çıkarıyor | 7 |
 | [Ilrien](ilrien.md) | Elf, 214 | Geçenler *(baş)* | **Casus.** Ethereal kurye — konuşmuyor, yazıyor | 5 |
 | [Corvane Sull](corvane-sull.md) | Tiefling, 31 | Dinleyiciler | **Gözcü.** İnce yerleri bulan; ölüleri duyan | 4 |
+| [Saelith Thirne](saelith.md) | Elf, 187 | Dinleyiciler *(Charaxis yakası)* | **Öbür yakadaki kulak.** Druid; Stillreach'te uyanan ölüleri izliyor. Ana kadroyla yalnız mektupla konuşur | 4 |
 
 ## Sahnede nasıl kullanılır
 
@@ -41,6 +42,7 @@ Communion bir sahneye **dövüşle girmez — davetle girer.**
 | Grafted bir kasabanın içi | [Mirel](mirel-ashvane.md) — muhtemelen partiyle **aynı tarafta** |
 | Hazırlanmış zemin, iki dünya üst üste | [Nerath](nerath.md) *(Grafted Ground)* |
 | Ritüel, geri alma, "nasıl durdurulur" | [Thava](thava-vessek.md) |
+| Charaxis: Stillreach, Depo, *"geç kalmış"* ölüler | [Saelith](saelith.md) — yanında kiralık hırsızlar ([Beşinci Saat](../the-fifth-hour/README.md)) |
 
 > ⚠️ [Nerath'ı](nerath.md) hazırlıksız yakalarsanız CR 6 gibi oynar; kendi
 > hazırladığı bir korulukta CR 9 gibi. **Onu her zaman kendi zemininde bulun.**

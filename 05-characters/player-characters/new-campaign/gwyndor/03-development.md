@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, gwyndor, development, log, undead, iron-concord]
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Gwyndor — Gelişim Günlüğü
@@ -57,6 +57,7 @@ updated: 2026-11-05
 | 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | Nehirden Grafting'e girdi; ghoul'lar, bozulmuş centaur'lar. [Tek Kulak](../../../npcs/minor/tek-kulak.md) ile tanıştı. ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu ve Gwyndor bir an **eski gücüne** kavuştu ⬜ *(ne geri geldi — öneri: kalbi attı)* | Undead olarak ilk kez **ne kaybettiğini hissetti.** Stane randevusu (21 Uktar) **kaçtı** |
 | 3 | **21 Uktar 1495** ⬜ | [Session 03](../../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) | Silik köyde **Gallows Speaker**'ı öldürdü; bozulmuş **centaur**'u kurtardılar (onlarla dönmedi). **Halime ve Halit**'i çıkarmanın tehlikeli olduğuna karar verip **öldürdüler**; Communion'ın notu Halime'nin elindeydi | ⬜ |
 | 4 | **~23–25 Uktar 1495** ⬜ | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) | Stane'e Harper'ları anlattılar; Vesna'ya da anlattılar. Vesna hücreyi durdurdu, boğazda 2 ok yedi. Kapı önündeki haydutlar öldü; 1 gün [rünlere](../../../../08-rules/homebrew/items/watch-runes.md) attune. **Level 4.** 📕 **[Concord Defteri](../../../../08-rules/homebrew/items/concord-ledger.md)** artık onda | Eski ordusunun kayıt defterini **elinde taşıyor** — ve defter [kişisel saatinin](#4-kişisel-saat--defterdeki-i̇sim) adı. ⬜ Kendi adına baktı mı? |
+| 5 | **~26–28 Uktar 1495** ⬜ | [Session 05](../../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md) | Yedinci Kapı'dan **Charaxis'e** geçtiler. [Fig](../../../npcs/minor/fig.md) kuzeye yürüdü; **takip etmediler.** Donduran kuyuda **elementalleri öldürdüler.** [Stillreach](../../../../04-charaxis/regions/stillreach/README.md)'e girdiler; bir hanın kapısında bitti | ⬜ Ölülerin çürümediği dünyaya ilk adım. Defter onda |
 
 ## 3. Dönüm Noktaları
 

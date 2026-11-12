@@ -17,7 +17,7 @@ sources:
   - "DM, 2026-11-05: Fig'in üstünde Calith'in büyüsü var; bu yüzden yaşlanmıyor ve Charaxis'ten etkilenmiyor"
   - "SRD 5.2 (CC-BY-4.0) — stat block formatı s. 251-254; Find Familiar (familiar türü Celestial, Fey ya da Fiend seçilir), Cat"
   - "https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.pdf"
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Fig — Calithra'nın Kedisi
@@ -86,6 +86,7 @@ Kırk hane onu besliyor ve o herkese aynı derece nazik. Aç görünür, aç de�
 | 1421–1494 | 74 yıl. Fig kırk hanenin kedisi olur; **kimse yıl saymaz** |
 | **1494** | Kuyruklu yıldızlar. Tanrılar susar. Fig'in büyüsü **etkilenmez** — bağ **arcane ve fey**, ilahi değil |
 | **1495 (Uktar)** | Üç gün kaybolur; boynunda arp halkasıyla döner. *(Kırıkbağ Grafting'inin açıldığı haftaya denk gelip gelmediği ⬜ — bkz. DM ONLY.)* Session 01'de Grimgor'la tanışır |
+| **~26 Uktar 1495** | [Session 05](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md#13-oynandı--ne-oldu): Yedinci Kapı'nın Charaxis ağzında partiyi bekledi, kuzeye yürüdü. Grimgor *Speak with Animals* ile sordu; Fig **efendisinin adını vermedi,** yalnız *iyi biri* olduğunu söyledi. Parti gelmedi. Fig ısrar etmedi; **şehirde tekrar deneyecek** |
 
 ## Neden üşümüyor — Calith'in büyüsü
 
@@ -139,7 +140,7 @@ Kırk hane onu besliyor ve o herkese aynı derece nazik. Aç görünür, aç de�
 | [Calith Auveran](../../../03-ager/continents/ravonia/regions/calithra/history.md#kurucu-calith-auveran) | Sahibi. Yaşıyor ⬜ (bkz. DM ONLY) |
 | [Vesna Marroc](../../../03-ager/continents/ravonia/regions/calithra/people.md#vesna-marroc) | Ateşini ısıtır; her akşam balkonda. Halkayı gördüğünde çalmayı bıraktı |
 | [Marto Belh](../../../03-ager/continents/ravonia/regions/calithra/people.md#marto-belh) | Kırk hane arasında **en cömert.** Fig ona ekmek getirmeyi öğretti gibi davranıyor |
-| [Grimgor](../../player-characters/new-campaign/grimgor/README.md) | Fig'e yemek verdi, sincapları rahat bırakmasını istedi; Fig uydu. Fig artık onun yanında **oturuyor** |
+| [Grimgor](../../player-characters/new-campaign/grimgor/README.md) | Fig'e yemek verdi, sincapları rahat bırakmasını istedi; Fig uydu. Fig artık onun yanında **oturuyor**. Charaxis'te onunla **konuştu:** efendisinin adını sakladı, niyetini saklamadı |
 | [Nedra Corm](../../../03-ager/continents/ravonia/regions/calithra/people.md#nedra-corm) | 140'larında; şehirden **eski** ve Fig'in hep burada olduğunu biliyor. Sormadı |
 
 ---

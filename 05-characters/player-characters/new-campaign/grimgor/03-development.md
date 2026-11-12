@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: homebrew
 status: draft
 tags: [pc, grimgor, development, log, malar]
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Grimgor — Gelişim Günlüğü
@@ -57,6 +57,7 @@ updated: 2026-11-05
 | 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | Nehirden Grafting'e girdi; ghoul'lar, Feywild'da bozulmuş centaur'lar. [Tek Kulak](../../../npcs/minor/tek-kulak.md) ile tanıştı. ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu, Grimgor bir an **eski gücüne** kavuştu ⬜ *(ne geri geldi)*. Blink Dog'u öldürdüler | Sessizliği savunan adam, sessizliğin **altı saniye kalktığını** gördü |
 | 3 | **21 Uktar 1495** ⬜ | [Session 03](../../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) | Silik köyde **Gallows Speaker**'ı öldürdü; bozulmuş **centaur**'u kurtardılar (onlarla dönmedi). **Halime ve Halit**'i çıkarmanın tehlikeli olduğuna karar verip **öldürdüler**; Communion'ın notu Halime'nin elindeydi | ⬜ |
 | 4 | **~23–25 Uktar 1495** ⬜ | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) | Stane'e Harper'ları anlattılar; Vesna'ya da anlattılar. Vesna hücreyi durdurdu, boğazda 2 ok yedi. Kapı önündeki haydutlar öldü; 1 gün [rünlere](../../../../08-rules/homebrew/items/watch-runes.md) attune. **Level 4.** | ⬜ Otoriteye bilgi veren bir partide durdu. *Seyirci suçludur* diyen biri bu sahneyi nasıl okudu? |
+| 5 | **~26–28 Uktar 1495** ⬜ | [Session 05](../../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md) | Yedinci Kapı'dan **Charaxis'e** geçti: *Shae'Khar,* ayın üstü. ⭐ **[Fig](../../../npcs/minor/fig.md) ile *Speak with Animals* üzerinden konuştu:** Fig efendisinin kim olduğunu söylemedi, ama **iyi biri** olduğuna ikna etti. Parti yine de **takip etmedi.** Donduran kuyuda **elementalleri öldürdüler.** [Stillreach](../../../../04-charaxis/regions/stillreach/README.md)'e girdiler; bir hanın kapısında bitti | Kedinin sözüne inandı ama peşinden gitmedi. [Calith](../../../npcs/major/calith-auveran/README.md) ve *kim yaptı* sorusu hâlâ **kapının öbür yanında;** Fig'in kapısı açık ⬜ |
 
 ## 3. Dönüm Noktaları
 

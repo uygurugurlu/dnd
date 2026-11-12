@@ -3,7 +3,7 @@ type: meta
 title: Kim Kimdir
 canon: mixed
 status: usable
-updated: 2026-10-29
+updated: 2026-11-12
 ---
 
 # Kim Kimdir
@@ -21,6 +21,10 @@ updated: 2026-10-29
 | [Zariel](../05-characters/npcs/major/zariel/README.md) | Archduchess of Avernus; düşmüş solar | CotBC (+ evrensel lore) | **→** |
 | [Bel](../05-characters/npcs/major/bel/README.md) | Avernus'un eski lordu; 3. Lejyon recruitment ağı | CotBC | **→** |
 | [Marcus Hale](../05-characters/npcs/major/marcus-hale/README.md) | Lvl 8 Paladin (Vengeance), Ilmater; max'ın hocası | CotBC | **→** |
+| [Darya Volkhan](../05-characters/npcs/major/darya-volkhan/README.md) | *Gözcü Ana* — Light cleric 9 (CR 6), Helm; [Uykusuzlar](../06-campaigns/chains-of-the-burning-compact/factions-in-play/the-unsleeping/README.md) lideri; rakip parti | CotBC | **→** |
+| [Ser Aurel Drevka](../05-characters/npcs/major/aurel-drevka/README.md) | *Kalkan* — aasimar Devotion paladin 9 (CR 6), Helm; Uykusuzlar | CotBC | **→** |
+| [Sylvaine Orrec](../05-characters/npcs/major/sylvaine-orrec/README.md) | *Defter* — yüksek elf Diviner wizard 9 (CR 6); Uykusuzlar | CotBC | **→** |
+| [Gaurok "Kapı" Kalanath](../05-characters/npcs/major/gaurok-kalanath/README.md) | Goliath Eldritch Knight 9 (CR 6); Uykusuzlar; Calithra'da Tartı Muhafızı | CotBC | **→** |
 | [Halden Rooke](../05-characters/npcs/major/halden-rooke/README.md) | "the Hand" — Level Hand lideri; gizli Unwoven sorcerer, CR 10 | New Campaign | **→** |
 
 ---
@@ -56,6 +60,7 @@ updated: 2026-10-29
 | [Nada Coldo](../05-characters/npcs/minor/nada-coldo.md) | Kralın truth-sayer'ı | **→** |
 | [Ocakbaşı Geyren](../05-characters/npcs/minor/geyren.md) | Wheatrest demircisi, Ocak 152; savaş yıllarında Mühürlü (CR 6) | **→** |
 | [Vorga Yarıkdil](../05-characters/npcs/minor/vorga-split-tongue.md) | Kırık Boynuz reisi, possessed; Nethryn kafilesine pusu (CR 6) | **→** |
+| [Ruuk Tuzdiş](../05-characters/npcs/minor/ruuk-tuzdis.md) | Ork korsan kaptan, *Demir Halka*; Kırık Boynuz sürgünü, Lejyon'a esir satıyor (CR 6) | **→** |
 | [Kâtip Skarvaine](../05-characters/npcs/minor/skarvaine.md) | Bel'in 3. Lejyon kâtibi; Old Fenrick'in bedeninde (CR 8) | **→** |
 
 ## Henüz dosyası olmayanlar
@@ -120,6 +125,8 @@ Unwoven'ın seçtiği dört lider →
 | [Fig](../05-characters/npcs/minor/fig.md) | Fey kedi | Calithra'nın kedisi; Calith Auveran'ın familiar'ı | 1/2 |
 | [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) | ⬜ | **Konuk PC (Ozan)** — rogue, eski barbar; Dördüncü Saat'in ihanete uğrayan hırsızı; Roger'ı tanıyor. DM yedeği statblock | 1 |
 | [Esme "Kül"](../05-characters/npcs/minor/tek-kulak.md#esme-kül) | Human | Dördüncü Saat — Son Mektup Fırını'nın külcüsü; Tek Kulak'ı harcadı *(MM 2025 Spy)* | 1 |
+| [Maşa (Brenn Dalt)](../05-characters/npcs/minor/the-fifth-hour/masa.md) | Human | [Beşinci Saat](../05-characters/npcs/minor/the-fifth-hour/README.md) — Dördüncü Saat'in hain toz kolunun başı; Tek Kulak'a krokiyi veren el; Communion'ın kiralık eli. Stillreach, Kumpanya Hanı | 3 |
+| [Kürek · İs · Maya](../05-characters/npcs/minor/the-fifth-hour/fifth-hour-knife.md) | Human | Beşinci Saat bıçakçıları — üç rogue, tek statblock *(Fifth Hour Knife)* | 1 |
 | **Rask Dorin** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Human | Eski Surfwale onbaşısı; Yedinci Kapı'yı ele geçiren kaçakçı elebaşı *(MM 2025 Bandit Captain)* | 2 |
 | **Maelis Toran** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Half-elf | Softsoil Harper hücresinin hayatta kalanı; Watcher *(MM 2025 Scout)* | 1/2 |
 | [Dorna Kelk](../04-charaxis/regions/stillreach/people.md#dorna-kelk) | Cüce | Stillreach, [Emanet Hanesi](../04-charaxis/regions/stillreach/places.md#emanet-hanesi): sihirli eşya dükkânı | 1 *(Spy)* |
@@ -164,6 +171,7 @@ Unwoven'ın seçtiği dört lider →
 | [Mirel Ashvane](../05-characters/npcs/minor/the-first-communion/mirel-ashvane.md) | Tiefling | Circle of the Moon; grafted bölgelerin çeperi | 7 |
 | [Ilrien](../05-characters/npcs/minor/the-first-communion/ilrien.md) | Elf | İkizlerden sessiz olanı; Geçenler'in başı — **casus** | 5 |
 | [Corvane Sull](../05-characters/npcs/minor/the-first-communion/corvane-sull.md) | Tiefling | Dinleyici; ince yerleri bulan gözcü | 4 |
+| [Saelith Thirne](../05-characters/npcs/minor/the-first-communion/saelith.md) | Elf | Dinleyici — cemaatin **Charaxis yakasındaki** tek kulağı; druid. Stillreach, Ay Çukuru | 4 |
 
 **[The Unfettered Wind](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-unfettered-wind.md)** — anarşist hücreler; her biri farklı bir iş yapıyor
 
@@ -284,6 +292,7 @@ Tam liste: [`02-lore/pantheon/`](../02-lore/pantheon/README.md)
 | [Tempus](../02-lore/pantheon/faerunian/tempus.md) | aysif'i Ysgard'a almaya geldi |
 | **Cyric** | aysif'in ruhunu **çaldı** |
 | [Ilmater](../02-lore/pantheon/faerunian/ilmater.md) | Marcus Hale'in tanrısı |
+| [Helm](../02-lore/pantheon/faerunian/helm.md) | [Uykusuzlar](../06-campaigns/chains-of-the-burning-compact/factions-in-play/the-unsleeping/README.md)'ın tanrısı — 1492 sonundan beri **onlara** susuyor (1494'ten bir yıl önce) |
 | [Lathander](../02-lore/pantheon/faerunian/lathander.md) | Ravonia'nın en güçlü dini; Zariel'in eski efendisi |
 | **Deneir** | Quill 4'ün tanrısı (oneshot) |
 | 🔒 **[Malar](../02-lore/pantheon/faerunian/malar.md)** | **New Campaign** — [Grimgor](../05-characters/player-characters/new-campaign/grimgor/README.md)'ın ailesini öldüren avı kurdu. 1494'te hattı koptu; **kapıda bekliyor** |

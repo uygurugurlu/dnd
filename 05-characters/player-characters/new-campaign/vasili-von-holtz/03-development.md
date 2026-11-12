@@ -8,7 +8,7 @@ campaign: New Campaign
 canon: adapted
 status: draft
 tags: [pc, vasili-von-holtz, development, log]
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Vasili von Holtz — Gelişim Günlüğü
@@ -62,6 +62,7 @@ updated: 2026-11-05
 | 2 | **21 Uktar 1495** | [Session 02](../../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) | İttifakın sınırı olan **Grafting'e girdi** — ve ekiple kaldı. Ghoul'lar, bozulmuş centaur'lar, [Tek Kulak](../../../npcs/minor/tek-kulak.md). ⭐ **[Duraklama](../../../../06-campaigns/new-campaign/arcs/charaxis-yolu.md#1-kıvılcım--duraklama-session-02):** kuyruklu yıldızlar durdu ve Vasili bir an **eski gücüne** kavuştu ⬜ *(deste ne gösterdi?)* | **Güç geri alınabiliyor.** Süreli ittifak bitti; kalmak için artık **kendi sebebi** var |
 | 3 | **21 Uktar 1495** ⬜ | [Session 03](../../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) | Silik köyde **Gallows Speaker**'ı öldürdü; bozulmuş **centaur**'u kurtardılar (onlarla dönmedi). **Halime ve Halit**'i çıkarmanın tehlikeli olduğuna karar verip **öldürdüler**; Communion'ın notu Halime'nin elindeydi. 🪡 Speaker'ın elindeki **iğneyi keşfetti ve aldı** → [Gallows Needle](../../../../08-rules/homebrew/items/gallows-needle.md) | Lanet vermeyi bilen adamın elinde artık lanet **aktaran** bir alet var |
 | 4 | **~23–25 Uktar 1495** ⬜ | [Session 04](../../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) | Stane'e Harper'ları anlattılar; Vesna'ya da anlattılar. Vesna hücreyi durdurdu, boğazda 2 ok yedi. Kapı önündeki haydutlar öldü; 1 gün [rünlere](../../../../08-rules/homebrew/items/watch-runes.md) attune. **Level 4.** 🧟 Seviye atlarken **Necromancer**'a döndü; zombi familiar'ına **[Rahadin](../../../npcs/minor/rahadin.md)** adını verdi; ona uşak gibi davranıyor | Monarşi **bir kişilik** kuruldu: bir hükümdar, bir uşak. *Şaka gibi. Değil* |
+| 5 | **~26–28 Uktar 1495** ⬜ | [Session 05](../../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md) | Yedinci Kapı'dan **Charaxis'e** geçtiler. [Fig](../../../npcs/minor/fig.md) kuzeye yürüdü; **takip etmediler.** Donduran kuyuda **elementalleri öldürdüler.** [Stillreach](../../../../04-charaxis/regions/stillreach/README.md)'e girdiler; bir hanın kapısında bitti | ⬜ [Rahadin](../../../npcs/minor/rahadin.md)'in ilk savaşı |
 
 ## 3. Dönüm Noktaları
 

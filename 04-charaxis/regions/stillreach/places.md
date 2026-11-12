@@ -5,7 +5,7 @@ continent: Charaxis
 canon: homebrew
 status: usable
 tags: [charaxis, stillreach, places, mining, orc, depo]
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Stillreach — Mekânlar
@@ -114,6 +114,10 @@ Gharuk Kumpanyası [Soğuk İmtiyaz'ın düşmanı](../../factions.md#kim-kimden
 
 - Karşılama: *"Otur. Borcun yok. Bunu düzeltelim."*
 - **Satar:** her şey — bir soruyla birlikte. Urzha gp almaz, **bilgi** alır.
+- **İçerisi:** ateş yok; her masada, her nişte yumruk kadar bir **pres buzu taşı** mavi yanar. Ortada ışık vermeyen bir demir soba. Üst katta salona bakan bir galeri; arkada dar sokağa açılan ikinci kapı.
+- **Kural:** *Kılıç kında kalır, hançer çatal sayılır. İlk kanı döken masanın borcunu öder.*
+
+> **[HOOK]** Kapının pervazında, diz hizasında, tebeşirle bir **fırın küreği** çizili. Calithra'lı bir hırsız bu işareti tanır. Kimin çizdiği → 🔒 [Beşinci Saat](../../../05-characters/npcs/minor/the-fifth-hour/README.md) · [Session 06](../../../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md).
 
 ## Kurt Ahırı
 
@@ -265,3 +269,5 @@ Duvarına kaba bir hilal kazınmış. Dipte buza gömülü bozuk paralar, pullar
 > *Bu dünyanın adı [Shae'Khar](../../../02-lore/pantheon/faerunian/selune.md).* **Ay burası. Üstünde yürüyorsun.**
 
 Selûne 1494'ten beri kimseye cevap vermiyor. Kimse de cevap beklemiyor; *"yine de üstünde duruyoruz"* diyorlar.
+
+> **[HOOK]** Çukurun yanındaki buz kovuğunda bir elf yatıyor: [Saelith Thirne](../../../05-characters/npcs/minor/the-first-communion/saelith.md). Şehir ona *"Çukur'un elfi"* der ve onu çukurun bekçisi sanır. O da elini yere koyuyor; ama dua etmiyor, **dinliyor.**

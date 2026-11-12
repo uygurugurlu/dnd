@@ -17,7 +17,7 @@ tags: [npc, guest-pc, rogue, barbarian, thieves-guild, dorduncu-saat, calithra, 
 sources:
   - "SRD 5.2 (CC-BY-4.0) — stat block formatı s. 251–254; Rogue (Sneak Attack, Cunning Action, Thieves' Cant), Barbarian (Rage); XP/PB by CR s. 253: https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.pdf"
   - "Monster Manual 2025 — Spy (Esme 'Kül' için resmî statblock)"
-updated: 2026-10-15
+updated: 2026-11-12
 ---
 
 # Tek Kulak
@@ -28,7 +28,7 @@ updated: 2026-10-15
 
 **Oyuncu:** Ozan *(konuk)* · **Kampanya:** [New Campaign](../../../06-campaigns/new-campaign/README.md) ·
 **İlk görünüş:** [Session 02](../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md) ·
-**Sonraki:** [Session 03](../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) · [Session 04](../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) · [Session 05](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md)
+**Sonraki:** [Session 03](../../../06-campaigns/new-campaign/sessions/session-03-silik-koy.md) · [Session 04](../../../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md) · [Session 05](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md) · [Session 06](../../../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md)
 
 > ⚠️ **Bu bir konuk oyuncu karakteri.** Ozan masadayken **sheet onundur** ve
 > aşağıdaki geçmişin her satırı **DM önerisidir** — oyuncunun söylediği her şey
@@ -77,6 +77,7 @@ konuşmazdı. Sadece kan konuşurdu."*
 | **1494–95** | Calithra'ya yerleşti; [Dördüncü Saat](#dördüncü-saat--calithranın-hırsız-loncası)'e girdi. Kimse geçmişini sormadı — şehri bu yüzden seçti |
 | **~20 Uktar 1495** | **"Kolay iş":** Kırıkbağ yakınındaki **boş bir köy evinden** küçük bir sandık alınacak. Ev, [ghoul'a dönmüş Trell ailesinin](../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md#5c-köy-evi--ghoulların-evi) eviydi ve **Grafting'in içindeydi** |
 | **21 Uktar 1495** | Partiyle Grafting'in içinde karşılaştı; ghoul'lara, bozulmuş centaur'lara ve Blink Dog'a karşı onlarla dövüştü → [Session 02](../../../06-campaigns/new-campaign/sessions/session-02-grafting-ici.md#12-oynandı--ne-oldu) |
+| **~26–28 Uktar 1495** | Partiyle Yedinci Kapı'dan [Charaxis](../../../04-charaxis/README.md)'e geçti, kuyuda elementallerle dövüştü, [Stillreach](../../../04-charaxis/regions/stillreach/README.md)'e girdi → [Session 05](../../../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md#13-oynandı--ne-oldu). Sırada: hanın içinde loncadan bir yüz → [Session 06](../../../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md) |
 
 ### Duraklama'da *(Session 02)*
 
@@ -167,6 +168,7 @@ olmalarından alıyor. Buluşma yeri [Son Mektup Fırını](../../../03-ager/con
 |---|---|
 | **[Roful Roger](../../player-characters/new-campaign/roful-roger/README.md)** | Tanıyor → [Roger ile](#roger-ile). Partide güvendiği tek kişi |
 | **[Esme "Kül"](#esme-kül)** | Onu ölüme gönderen kişi. Tek Kulak bunu **Grafting'in içinde** anladı |
+| **[Maşa](the-fifth-hour/masa.md)** ve [Beşinci Saat](the-fifth-hour/README.md) | Loncanın toz kolu; krokiyi eline veren el *(öneri ⬜)*. Stillreach'te, [Kumpanya Hanı](../../../04-charaxis/regions/stillreach/places.md#kumpanya-hanı)'nda. Tek Kulak'ı ölü biliyorlar |
 | **[Marto Belh](../../../03-ager/continents/ravonia/regions/calithra/people.md#marto-belh)** | Her sabah ekmek alır. Marto onun adını bilmez; *"Tek"* der |
 | **[Torc Halbrand](../../../03-ager/continents/ravonia/regions/calithra/people.md#torc-halbrand)** | Limanda onun mallarından çaldı; Torc bunu **biliyor** ve hesabına yazdı |
 | **[Vasili von Holtz](../../player-characters/new-campaign/vasili-von-holtz/README.md)** | Ilva'nın kolunu kesen adam. Tek Kulak liman işçisi Ilva'yı tanıyordu ⬜ — gerilim |
@@ -286,6 +288,8 @@ Sihirli eşya **yok.**
 > üzerinden)*, eski bir çavuştan bir mektup ve bir tutam moondust. Bir kapı kâğıdı,
 > kimsenin kaydedilmediği şehirde **en değerli kâğıttır.**
 
+> **[DM ONLY]** **Harcanmadı, satıldı** *(öneri ⬜, [Session 06](../../../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md#5-sorgu--kim-ne-biliyor) hazırlığı)*: Esme onun ölmesini istedi; **evi [Maşa](the-fifth-hour/masa.md#sırlar) seçti,** çünkü Kırıkbağ'daki Communion kampı dikişe giren her canlıya 30 gp ödüyordu. Esme parayı bilmiyor.
+
 > **[AÇIK SORU]** Sandığı **kim** sipariş etti? Öneri: [Torc Halbrand](../../../03-ager/continents/ravonia/regions/calithra/people.md#torc-halbrand) —
 > işvereni için ([sırlar §6](../../../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md#6-torcun-işvereni)).
 > ⬜ → [open-questions.md](../../../00-meta/open-questions.md)
@@ -299,6 +303,8 @@ Sihirli eşya **yok.**
 > **[HOOK]** Dördüncü Saat'in çaldığı mektuplardan biri **partiden birinin** ⬜ olabilir —
 > [Marto'nun okuduğu yedi mektup](../../../03-ager/continents/ravonia/regions/calithra/05-secrets-dm-only.md#7-küçük-sırlar)
 > ile aynı yığın.
+
+> **[HOOK]** **Stillreach, Kumpanya Hanı.** Kapının pervazında tebeşirle bir fırın küreği: lonca burada iş görüyor. İçeride [Beşinci Saat](the-fifth-hour/README.md) → [Session 06](../../../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md). Hayatta kalan biri, Esme ile hesaplaşmanın **tanığıdır.**
 
 > **[HOOK]** Sandıktaki kâğıt **dört kişilik.** Parti dört kişi. Tek Kulak beşinci —
 > Charaxis'e giderse **kâğıtsız** gider. Bunu kendisi söyler: *"Ben kâğıtsız

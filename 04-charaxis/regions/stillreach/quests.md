@@ -5,7 +5,7 @@ continent: Charaxis
 canon: homebrew
 status: draft
 tags: [charaxis, stillreach, quests, hooks, orc, depo, moondust, new-campaign]
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Stillreach — Görevler
@@ -98,6 +98,8 @@ updated: 2026-11-05
 > **Statblock:** **Commoner** (MM 2025) — *Undead* etiketli, nefes almaz, çürümez. Kavga etmez.
 
 **Gwyndor:** Kendisinin ne olduğunu gören ilk kişi bu. **Vasili:** İlk kez kendi kendine kalkmış bir ölü. *"Rahadin'den ne farkı var?"* Bu soru masada kalsın.
+
+> 🔒 **[DM ONLY]** **Beşinci talip:** [First Communion](../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md). [Saelith](../../../05-characters/npcs/minor/the-first-communion/saelith.md) tırnak sesini Emmer'den sonra duyan tek kişi; Oren'i [hırsızlara](../../../05-characters/npcs/minor/the-fifth-hour/README.md) çaldırıp Kırıkbağ'daki dikişe yollamak istiyor *("geç kalmış biri dokuz gün dayanır mı?")*. Parti [Session 06](../../../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md)'daki taş tahtayı bulursa buraya **o yoldan** gelir.
 
 **Sonuçlar:** Saatçiye verilirse: para + Gwyndor'ın yüzüne bakan Halla. Halla'ya: Aşağı Sıra açılır, Fitil bir adım. Serbest bırakılırsa: *nereye?* Bu gezegende gidilecek yer yok.
 

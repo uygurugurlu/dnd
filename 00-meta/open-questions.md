@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Açık Sorular
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Açık Sorular
@@ -530,6 +530,21 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] **Halime/Halit Orphaned Voice ile yaşayabilirdi** (Speaker önce öldü) — bunu partiye kim, ne zaman söyler (öneri: kimse / Mirel Ashvane)?
 - [ ] Session 03'ün oyun içi süresi ve seviye (`real_date`, `level_*`)
 
+## CotBC — Uykusuz Gözler *(prep, 2026-11-08)*
+
+- [ ] **"Savaştan sonra Ravonia'ya yerleşti"** → 1493'te savaş sürüyor; Uykusuzlar *"savaşın ilk yılından sonra"* (1493 baharı) geçti diye yazıldı. Doğru mu?
+- [ ] **Helm'in 1492'de susması** 1494'ün küresel sessizliğinden **önce** — bilinçli öncül olarak yazıldı (sırlar §1-B). Onay?
+- [ ] **Rüyanın sahibi:** Cyric (öneri) · Bel · Unwoven?
+- [ ] **K-1'den ne geçti:** hiçbir şey (öneri) · imp · tohum?
+- [ ] **Pusuda kim öldü** (isimli köylülerden biri var mı?) · Calithra'ya kaç köylü vardı?
+- [ ] Köylüler **tohumları** gördü mü?
+- [ ] [04-road-ambush.md](../06-campaigns/chains-of-the-burning-compact/arcs/calithra-1493/04-road-ambush.md) pusuyu "3. gün, Kırık Köprü" diye anlatıyor; oyunda **Thornhold'un önünde** oldu — dosya oynanmış hâline göre güncellenecek
+- [ ] CotBC session numarası: repoda ilk kayıt **01** oldu; gerçek sayıya göre yeniden adlandırılsın mı?
+- [ ] **Ruuk'un teslim noktası** (imp'e esir verdiği koy) neresi? · Kürek bankında **köylüler** var mı (Bettony/Nim)?
+- [ ] **Kör Gözcü Kulesi** dünya dosyasına (Calithra çevresi) site olarak eklensin mi?
+- [ ] Tekne kuralları: Necrotic/Radiant ahşaba yarı — masa kuralı, onay?
+- [ ] **Ilmater'in Sessiz Zinciri** ve Surfwale kaptanı **Alwin Brackwater**'ın 1493 hâli için dosya yok
+
 ## Session 05 — Kapağın Altı *(prep, 2026-11-05)*
 
 - [ ] **[Concord Defteri](../08-rules/homebrew/items/concord-ledger.md):** rarity · attunement · elle yazılabilir mi · Stane sayfaları görüyor mu · kaç kopya var?
@@ -545,6 +560,18 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] **Sorka'nın istediği** ne · Kırık Boynuz Gorestead'e baskın yaptı mı?
 - [ ] **Sayman'ın bir fazlası:** kim ölür *(öneri: Tuk)*
 - [ ] [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) DM yedeği statblock L5'e göre güncellenecek
+
+## Session 05 oynandı / Session 06 — Beşinci Saat *(prep, 2026-11-12)*
+
+- [ ] **Hangi bar?** Session 05 bir barın kapısında bitti; S06 bunu [Kumpanya Hanı](../04-charaxis/regions/stillreach/places.md#kumpanya-hanı) varsaydı
+- [ ] S05 boşlukları: geçiş d6'sı · kuyuda Stealth denendi mi · madencinin pulu alındı mı · **Kuzey Bent'ten nasıl geçildi** · rün sayacı
+- [ ] **Maşa'nın rolü** *(Tek Kulak'a krokiyi veren el; evi o seçti, 30 gp aldı)* bir **DM önerisi:** Ozan'ın masada anlattığıyla çelişiyor mu? → [Maşa](../05-characters/npcs/minor/the-fifth-hour/masa.md#sırlar)
+- [ ] **Dördüncü Saat moondust taşıyor mu?** [Beşinci Saat](../05-characters/npcs/minor/the-fifth-hour/README.md) bu öneriye yaslanıyor; reddedilirse ekip *"Stillreach kuryeleri"* olarak kalır
+- [ ] Kırıkbağ'a Tek Kulak'tan önce yollanan **iki kişi** kim; FC-1'in *"üç kişi denedi, üçü öldü"* satırındakilerle aynı mı?
+- [ ] **Marr'ın 1494 R-2 ekibi:** Charaxis'e kaç kişi düştü, [Saelith](../05-characters/npcs/minor/the-first-communion/saelith.md) ve Maeral dışındakiler nerede? Düşüş tarihi *(öneri: 1494 sonu)*
+- [ ] **Maeral uyanacak mı?** · Sorka, Saelith'in kurt hâlini tanıyor mu?
+- [ ] Maşa'nın **yedi mektubu:** biri partiden birinin mi? Kimin?
+- [ ] Un çuvallarındaki moondust'ın miktarı / değeri · Urzha çuvalları partiye teslim ederse Grimgor ne yapar?
 
 ## Session 04 — Yedinci Kapı *(oynandı, 2026-11-05)*
 

@@ -3,7 +3,7 @@ type: meta
 title: Minor NPC'ler
 canon: homebrew
 status: usable
-updated: 2026-09-30
+updated: 2026-11-12
 ---
 
 # Minor NPC'ler
@@ -28,7 +28,7 @@ tablosunu, sahne dizilimini ve iç çatlaklarını taşır — NPC'yi masada ara
 |---|---|---|---|
 | 📁 **[the-level-hand/](the-level-hand/README.md)** | [The Level Hand](../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-level-hand.md) — *insanlar, drowlar, halflingler* | 4 *(+1 major)* | 1–7 |
 | 📁 **[the-iron-concord/](the-iron-concord/README.md)** | [The Iron Concord](../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-iron-concord.md) — *gaziler, asker, mühendis, paladin* | 5 *(+1 construct)* | 4–9 |
-| 📁 **[the-first-communion/](the-first-communion/README.md)** | [The First Communion](../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md) — *druidler; elf, dragonborn, tiefling* | 5 | 4–8 |
+| 📁 **[the-first-communion/](the-first-communion/README.md)** | [The First Communion](../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-first-communion.md) — *druidler; elf, dragonborn, tiefling* | 6 | 4–8 |
 | 📁 **[the-unfettered-wind/](the-unfettered-wind/README.md)** | [The Unfettered Wind](../../../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-unfettered-wind.md) — *anarşist hücreler* | 5 | 4–8 |
 
 **Parti bağlantılı:**
@@ -36,6 +36,7 @@ tablosunu, sahne dizilimini ve iç çatlaklarını taşır — NPC'yi masada ara
 | Klasör | Ne | Kaç NPC | CR bandı |
 |---|---|---|---|
 | 📁 **[the-hungry-gull/](the-hungry-gull/README.md)** | [Roger](../../player-characters/new-campaign/roful-roger/README.md)'ın mürettebatı | 5 | 1–4 |
+| 📁 **[the-fifth-hour/](the-fifth-hour/README.md)** | **Beşinci Saat** — [Tek Kulak](tek-kulak.md)'ı harcayan loncanın hain toz kolu; dört rogue *([Session 06](../../../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md))* | 4 | 1–3 |
 
 **Klasör dışında duranlar:**
 
@@ -45,7 +46,7 @@ tablosunu, sahne dizilimini ve iç çatlaklarını taşır — NPC'yi masada ara
 | [Fig](fig.md) | `minor/fig.md` | Calithra'nın kedisi; **Calith Auveran'ın familiar'ı** (CR 1/2) |
 | [Concord Ironclad](../../../02-lore/bestiary/concord-ironclad.md) | `02-lore/bestiary/` | Yaratık, NPC değil |
 
-### Hızlı bakış — 19 NPC, CR sırasına göre
+### Hızlı bakış — 20 NPC, CR sırasına göre
 
 | CR | Kim | Faksiyon |
 |---:|---|---|
@@ -55,7 +56,7 @@ tablosunu, sahne dizilimini ve iç çatlaklarını taşır — NPC'yi masada ara
 | 7 | [Selvarr Dhune](the-level-hand/selvarr-dhune.md) · [Rhoswen Marek](the-iron-concord/rhoswen-marek.md) · [Thava Vessek](the-first-communion/thava-vessek.md) · [Mirel Ashvane](the-first-communion/mirel-ashvane.md) · [Corr](the-unfettered-wind/corr.md) | dört faksiyon da |
 | 6 | [Gruvv Ashani](the-iron-concord/gruvv-ashani.md) · [Kesh Duva](the-unfettered-wind/kesh-duva.md) | Concord · Wind |
 | 5 | [Nyrra Delsaeth](the-level-hand/nyrra-delsaeth.md) · [Ilrien](the-first-communion/ilrien.md) · [Serane Ardo](the-unfettered-wind/serane-ardo.md) | Level Hand · Communion · Wind |
-| 4 | [Perra Voight](the-level-hand/perra-voight.md) · [Aleth Brann](the-iron-concord/aleth-brann.md) · [Corvane Sull](the-first-communion/corvane-sull.md) · [Emrys Tal](the-unfettered-wind/emrys-tal.md) | dört faksiyon da |
+| 4 | [Perra Voight](the-level-hand/perra-voight.md) · [Aleth Brann](the-iron-concord/aleth-brann.md) · [Corvane Sull](the-first-communion/corvane-sull.md) · [Saelith Thirne](the-first-communion/saelith.md) · [Emrys Tal](the-unfettered-wind/emrys-tal.md) | dört faksiyon da |
 | 1 | [Tem "Kâğıt" Ossary](the-level-hand/tem-ossary.md) | Level Hand |
 
 Hepsinde 2024 (MM 2025) formatı ve dosya içi `## CR Doğrulaması` bloğu var.
@@ -107,6 +108,7 @@ Hepsinde 2024 formatı ve `## CR Doğrulaması` bloğu var; homebrew sihirli eş
 | [Ocakbaşı Geyren](geyren.md) | Wheatrest demircisi (Ocak 152); savaş yıllarında Mühürlü — CR 6 |
 | [Vorga Yarıkdil](vorga-split-tongue.md) | Kırık Boynuz reisi; possessed, Lejyon'a esir topluyor — CR 6 |
 | [Kâtip Skarvaine](skarvaine.md) | 3. Lejyon kâtibi; Old Fenrick'in bedeninde — CR 8 |
+| [Ruuk Tuzdiş](ruuk-tuzdis.md) | Ork korsan, *Demir Halka*'nın kaptanı; boğazda mülteci avlıyor, esirleri Lejyon'a satıyor — CR 6 |
 
 ## Ravonia / Karsovia — Siyaset (dosyasız)
 
