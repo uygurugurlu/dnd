@@ -59,6 +59,13 @@ vincini geri istiyor.
 > 🎲 Listede olmayan biri lazımsa: [Anında NPC üreteci](../../../../09-index/townsfolk.md#anında-npc--dört-zar).
 > Statblock kuralı için de aynı dosya — sivil NPC'ye **resmî SRD statblock'u** atanır.
 
+## Geçmiş — K-1'in ilahi nöbeti
+
+1488–1492 arasında K-1'i kale askerlerinin yanında Helm kilisesinin dört muhafızı da
+tuttu. 1492'nin sonunda, boğazdaki ilk büyük gece baskınında kaptan onları bataryaya
+çağırdı; kapının başı bir gece boş kaldı ve sabah kapı **açık** bulundu. O dört kişi
+1493'te Ravonia'ya geçti → [Uykusuzlar](../../../../06-campaigns/chains-of-the-burning-compact/factions-in-play/the-unsleeping/README.md) (CotBC).
+
 ## Kampanya Kancaları
 
 > **[HOOK]** **K-1 son üç ayda iki kez kendiliğinden açıldı.** Kâtip bunu rapor etti ve rapor kraliyete gitmedi — kaptanın masasında duruyor.

@@ -48,7 +48,10 @@ Second Sundering'de geri döndü.
 
 ## Ager'de
 
-<!-- doldur: şehir muhafızları, kale garnizonları, Helm tapınakları -->
+- **Karsovia:** Helm kilisesi kapı bekçileri yetiştirir; kilisenin bir *Gözcü Ana*sı ve üç öğrencisi 1488–1492 arasında [Surfwale](../../../03-ager/continents/karsovia/sites/surfwale.md)'deki [K-1 kapısının](../../../03-ager/planar-sites/portal-network.md) ilahi nöbetini tuttu → [Uykusuzlar](../../../06-campaigns/chains-of-the-burning-compact/factions-in-play/the-unsleeping/README.md) (CotBC).
+- Karsovia kraliyet flamasının adı — *Crimson Vigil* — "nöbet" demektir.
+
+<!-- doldur: şehir muhafızları, kale garnizonları, Helm tapınakları (Ravonia) -->
 
 > **[HOOK]** Bir kale 200 yıldır bir muhafız tarafından korunuyor. Muhafız ölmedi —
 > ve neyi koruduğunu artık hatırlamıyor.

@@ -212,3 +212,15 @@ Parti Wheatrest'ten sonra **Thornhold üzerinden** doğuya, [Calithra](../../03-
 [Nethryn](../../03-ager/continents/ravonia/villages/nethryn/README.md)'in **laneti kaldırıldı, köy temizlendi.** Yanlarında Nethryn'den kurtardıkları **~40 köylü** var (Muhtar Halla Vellum, Grimna, Peder Ossic, Bettony, Nim); onları Calithra'ya götürüyorlar.
 
 ⏳ Yolda: [Kırık Köprü Pususu](arcs/calithra-1493/04-road-ambush.md) — Kırık Boynuz orkları, possessed reis Vorga Yarıkdil.
+
+## Savaş yılları — Thornhold önü, kafile dağılıyor
+
+> Oynandı (DM özeti, 2026-11-08).
+
+- Kafile: Nethryn köylüleri + Wheatrest'te possession'dan kurtarılanlar. Plan: Thornhold'un durumuna bakmak; uygunsa köylüleri oraya yerleştirmek, değilse Calithra.
+- **Thornhold Kalesi'nin önünde pusu.** Köylülerden **birkaçı öldü.** ⬜ *(isimler)*
+- Köylüler partiye **güvenmediklerini** söyleyip yollarını ayırdı.
+- Parti bir kamptan sonra **Calithra**'ya vardı. Şehri güvenli bulunca **max ve ea basr** köylüleri aramak için geri döndü; han ve aysif şehirde.
+- Köylüler yolda **[Uykusuzlar](factions-in-play/the-unsleeping/README.md)** ile karşılaştı — Calithra'da yaşayan dört Karsovyalı Helm muhafızı. Hikâyeyi dinlediler; partiye **husumetliler.**
+
+⏳ Sıradaki session: [Uykusuz Gözler](sessions/session-01-uykusuz-gozler.md)

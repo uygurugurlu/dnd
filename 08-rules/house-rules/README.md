@@ -23,6 +23,7 @@ Masanın kendi sistemleri. Her biri kendi dosyasında, masada açıp zar atılac
 | **Nat 1 / Nat 20** | 1 veya 20 atınca ekstra d20 → komplikasyon ya da ödül. Ortak tablo + her karaktere özel satırlar. | [crit-and-fumble.md](crit-and-fumble.md) |
 | **Söylenti Sistemi** | Bir dedikodu nasıl doğar, büyür, bozulur ve kimi harekete geçirir. | [rumor-system.md](rumor-system.md) |
 | **Bölgesel Ekonomi** | Bir bölgenin hâline göre fiyatlar kaçla çarpılır, ne stokta bulunur. | [economy.md](economy.md) |
+| **Tekne Kuralları** | Teknede roller (kim hangi zarı atar), denizde bir gün, aşınma ve tamir, tekne savaşı (Damage Threshold, parça hasarı, yangın, bindirme, bordalama, kovalamaca). | [ships.md](ships.md) |
 
 > Üçü birbirine bağlı: bir söylenti Bölge seviyesine çıkarsa ekonomiyi kaydırır,
 > ekonomik çöküş yeni söylenti doğurur, Nat 20'ler söylenti üretir.

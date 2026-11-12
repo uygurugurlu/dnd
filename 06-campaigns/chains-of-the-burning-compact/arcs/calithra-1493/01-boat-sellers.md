@@ -28,6 +28,8 @@ subayı. Denize çıkabilen her tekne ya **satılık**, ya **el konulmuş**, ya 
 
 ## Tekneler — PHB 2024
 
+> **Masada tekne yönetimi:** roller, denizde bir gün, aşınma/tamir ve tekne savaşı → [Tekne Kuralları](../../../../08-rules/house-rules/ships.md).
+
 | Tekne | Taban | **Calithra 1493** (×2) | Hız | Mürettebat / Yolcu | Yük | AC | HP |
 |---|---:|---:|---|---|---|---:|---:|
 | **Rowboat** | 50 gp | **100 gp** | 1.5 mph | 1 / 3 | — | 11 | 50 |

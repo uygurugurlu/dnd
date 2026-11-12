@@ -29,6 +29,7 @@ updated: 2026-10-17
 | [02-quest-grey-salt.md](02-quest-grey-salt.md) | ★ **Görev: Gri Tuz'un batığı** — yapılırsa teknede indirim |
 | [03-secrets-dm-only.md](03-secrets-dm-only.md) | 🔒 Satıcıların sırları, Torc'un işvereni, Zariel ve Bel |
 | [04-road-ambush.md](04-road-ambush.md) | ⚔️ **Yolda pusu:** Kırık Boynuz orkları Nethryn kafilesine (~40 köylü) saldırıyor — reis possessed |
+| 📁 [Uykusuzlar](../../factions-in-play/the-unsleeping/README.md) | 🛡️ **Rakip parti** — Calithra'da yaşayan dört Karsovyalı Helm muhafızı; köylüleri buldular. Session: [Uykusuz Gözler](../../sessions/session-01-uykusuz-gozler.md) |
 
 ---
 

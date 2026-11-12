@@ -24,7 +24,7 @@ updated: 2026-08-10
 | **Durum** | Aktif |
 | **Parti** | max (Maximus Legroom) · han · ea basr · aysif *(öldü → Cyric aldı → **Zariel'in sözleşmesiyle Cyric bağı kesildi**, göğsünde Zariel'in rünü)* — **seviye 8** |
 | **Bölüm** | Chapter 1 — Ravonia |
-| **Son bilinen konum** | **Savaş yılları** — işgal altındaki [Wheatrest](../../03-ager/continents/ravonia/villages/wheatrest.md); Thornhold üzerinden **Calithra**'ya gidiyor (tekne almak için); büyük hedef: Silvaerûn (3. tohum) |
+| **Son bilinen konum** | **1493, Calithra.** han ve aysif şehirde; max ve ea basr köylüleri aramak için geri döndü. Hedef: **tekne**; büyük hedef: Silvaerûn (3. tohum) |
 
 ## Adın Anlamı
 
@@ -46,6 +46,8 @@ yanan bir sözleşmenin (*burning compact*) zincirleri.
 | [arcs/calithra-1493/](arcs/calithra-1493/README.md) | ★ **Sıradaki session:** Thornhold → Calithra; tekne satıcıları + Gri Tuz batığı görevi |
 | [arcs/road-to-silvaerun/](arcs/road-to-silvaerun/README.md) | ★ **Soygundan sonra:** Silvaerûn yolu — orman (doğa), Charaxis kısa atlama, Nöbet'in elf yolu |
 | [factions-in-play/zhentarim-ravonia.md](factions-in-play/zhentarim-ravonia.md) | Zhentarim & Ilyon Verne |
+| [factions-in-play/the-unsleeping/](factions-in-play/the-unsleeping/README.md) | ★ **Uykusuzlar** — rakip parti: 4 × seviye 9 Helm muhafızı (cleric, paladin, wizard, fighter); köylülerle bozuşmanın bedeli |
+| [sessions/](sessions/README.md) | ★ **Sıradaki session:** [Uykusuz Gözler](sessions/session-01-uykusuz-gozler.md) — Calithra'da tekne, Uykusuzlar'la yüzleşme |
 
 ## Kadro
 
@@ -58,6 +60,7 @@ yanan bir sözleşmenin (*burning compact*) zincirleri.
 | **Ilyon Verne** | Zhentarim'le çalışan Councilor — **aslında masum** | **→** |
 | **Molly Thorne** | Grand Duke; köşkünde infernal sözleşme bulundu | **→** |
 | **Elric Varn / Maera Holt** | Thornhold komutanları — zıt yollar | **→** |
+| [Darya Volkhan](../../05-characters/npcs/major/darya-volkhan/README.md) · [Aurel Drevka](../../05-characters/npcs/major/aurel-drevka/README.md) · [Sylvaine Orrec](../../05-characters/npcs/major/sylvaine-orrec/README.md) · [Gaurok Kalanath](../../05-characters/npcs/major/gaurok-kalanath/README.md) | [Uykusuzlar](factions-in-play/the-unsleeping/README.md) — Karsovyalı Helm muhafızları, Calithra'da; partiye husumetli | **→** |
 
 ## Ana Hat (özet)
 
