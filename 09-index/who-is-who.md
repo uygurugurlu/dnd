@@ -129,6 +129,8 @@ Unwoven'ın seçtiği dört lider →
 | [Kürek · İs · Maya](../05-characters/npcs/minor/the-fifth-hour/fifth-hour-knife.md) | Human | Beşinci Saat bıçakçıları — üç rogue, tek statblock *(Fifth Hour Knife)* | 1 |
 | **Rask Dorin** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Human | Eski Surfwale onbaşısı; Yedinci Kapı'yı ele geçiren kaçakçı elebaşı *(MM 2025 Bandit Captain)* | 2 |
 | **Maelis Toran** ([S04 §4](../06-campaigns/new-campaign/sessions/session-04-yedinci-kapi.md#4-encounter--yağmalanmış-hücre)) | Half-elf | Softsoil Harper hücresinin hayatta kalanı; Watcher *(MM 2025 Scout)* | 1/2 |
+| [Yorga · Tolk · Mahu](../02-lore/bestiary/bearfolk-warden.md#tanınan-bireyler) | Bearfolk | [Ay Kuyusu Katedrali](../04-charaxis/regions/moonwell-cathedral/README.md)'nin bekçileri: baş bekçi, kapıcı, koklayan *(Bearfolk Warden)* | 3 |
+| **Maeve Dornal** ([K2](../04-charaxis/regions/moonwell-cathedral/01-dungeon.md#k2--rahipler-mahzeni)) | Human | Katedralin son baş rahibi; kriptada 1494'ten beri oturuyor *(MM 2025 Priest)* | 2 |
 | [Dorna Kelk](../04-charaxis/regions/stillreach/people.md#dorna-kelk) | Cüce | Stillreach, [Emanet Hanesi](../04-charaxis/regions/stillreach/places.md#emanet-hanesi): sihirli eşya dükkânı | 1 *(Spy)* |
 | [Rahadin](../05-characters/npcs/minor/rahadin.md) | Undead | Vasili'nin zombi familiar'ı; **uşak.** ⚠️ Adın anlamı | 1/4 |
 
@@ -172,6 +174,7 @@ Unwoven'ın seçtiği dört lider →
 | [Ilrien](../05-characters/npcs/minor/the-first-communion/ilrien.md) | Elf | İkizlerden sessiz olanı; Geçenler'in başı — **casus** | 5 |
 | [Corvane Sull](../05-characters/npcs/minor/the-first-communion/corvane-sull.md) | Tiefling | Dinleyici; ince yerleri bulan gözcü | 4 |
 | [Saelith Thirne](../05-characters/npcs/minor/the-first-communion/saelith.md) | Elf | Dinleyici — cemaatin **Charaxis yakasındaki** tek kulağı; druid. Stillreach, Ay Çukuru | 4 |
+| **Thessa** · **Daeris** ([Ay Kuyusu](../04-charaxis/regions/moonwell-cathedral/01-dungeon.md)) | Elf | Marr'ın yanındaki cemaat: çan kulesindeki Geçen gözcü *(MM 2025 Spy)* · kuyudaki Dinleyici *(MM 2025 Druid)* | 1 · 2 |
 
 **[The Unfettered Wind](../06-campaigns/new-campaign/factions-in-play/the-four-answers/the-unfettered-wind.md)** — anarşist hücreler; her biri farklı bir iş yapıyor
 

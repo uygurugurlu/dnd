@@ -7,7 +7,7 @@ terrain: buz çölü
 canon: homebrew
 status: usable
 tags: [charaxis, black-still, ice, time-anomaly, chardalyn, unwoven, grimdark]
-updated: 2026-09-07
+updated: 2026-11-12
 ---
 
 # Black Still — *Kara Dinginlik*
@@ -99,6 +99,10 @@ Son beş seferden **ikisi** döndü.
 > hepsi **[moondust](../mines/the-grey-seam.md)** solumuş. Ashkar Reach bunu
 > reddediyor. [Miren Talvo](../../05-characters/npcs/minor/miren-talvo.md) reddetmiyor —
 > Grey Seam'de bunu bir *hizmet* olarak satıyor.
+
+## Ay Kuyusu Katedrali
+
+Karanlık yüzün kıyısında, Don-88'in 2 mil dışında, içinden ışık sızan kara bir Selûne katedrali → [Ay Kuyusu](moonwell-cathedral/README.md).
 
 ## Madenler
 

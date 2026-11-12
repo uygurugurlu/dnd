@@ -7,7 +7,7 @@ canon: homebrew
 status: usable
 dm_only: true
 tags: [charaxis, black-still, calith-auveran, fig, seventh-gate, new-campaign]
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Geç Kalan'ın Evi
@@ -61,5 +61,7 @@ Alçak, yuvarlak, taş bir kulübe: bir balıkçının yapacağı gibi. Sıvası
 ## Kancalar
 
 > **[HOOK]** Stillreach'in efsanesi: *"Kuzeyde bir ev var."* [Sorka](../../05-characters/npcs/minor/sorka-ucdis.md)'nın kurtları oraya doğru **ulumaz.**
+
+> **[DM ONLY]** **Saksıdaki asma** bir görevin hedefi: [Communion](../../06-campaigns/new-campaign/quests/quest-the-root.md) onu *düğüm* sayıyor ve partiye çaldırmak istiyor → [gerçeği](moonwell-cathedral/05-secrets-dm-only.md#kök-görevinin-gerçeği).
 
 > **[DM ONLY]** → [Calith sırları](../../05-characters/npcs/major/calith-auveran/05-secrets-dm-only.md)

@@ -17,7 +17,7 @@ tags: [npc, major, calith-auveran, bard, harpers, calithra, charaxis, black-stil
 sources:
   - "Görsel: Midjourney (DM'in hesabı), 2026-11-05"
   - "DM, 2026-11-05: Calith Yedinci Kapı'dan geçti ve dönmedi; yüce, yarı tanrı seviyesine yakın bir bard; Selûne'ü tanıyor ama iletişim kuramıyor; Grimgor'un ailesini katleden gücü biliyor; Fig onun evine götürür"
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Calith Auveran — *Geç Kalan*
@@ -125,6 +125,8 @@ Sıcak, acelesiz, tuhaf derecede neşeli. Soru sormaz: Calithra'nın kuralını 
 > **[HOOK]** **Vesna'ya mesaj:** *"Ona 'La' deyin. Bilir."* Partinin Harper'lar karşısındaki tek telafi fırsatı.
 
 > **[HOOK]** **Kuzey Seferi:** *"Vahaya yol yok. [Sorka](../../minor/sorka-ucdis.md) dönmüş. Ona kimse sormadı, kurtlarına sorun."* → [görev](../../../../04-charaxis/regions/stillreach/quests.md#6-kuzey-seferi)
+
+> **[HOOK]** **Kök:** [Ay Kuyusu](../../../../04-charaxis/regions/moonwell-cathedral/README.md)'ndaki Communion, evdeki asma kökünü istiyor ve partiyi gönderiyor → [görev](../../../../06-campaigns/new-campaign/quests/quest-the-root.md). Calith engellemez.
 
 > **[HOOK]** **Şarkının sonu:** Bitmemiş şarkının bir *son satırı* yok. Adsızlar Bahçesi'nde ters kiremidin altında mı? ⬜ → [Bitmemiş Şarkı](../../../../03-ager/continents/ravonia/regions/calithra/quests.md#7-bitmemiş-şarkı)
 

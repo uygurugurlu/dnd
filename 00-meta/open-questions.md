@@ -573,6 +573,16 @@ Ana dosya: [`03-ager/planar-sites/portal-network.md`](../03-ager/planar-sites/po
 - [ ] Maşa'nın **yedi mektubu:** biri partiden birinin mi? Kimin?
 - [ ] Un çuvallarındaki moondust'ın miktarı / değeri · Urzha çuvalları partiye teslim ederse Grimgor ne yapar?
 
+## Ay Kuyusu Katedrali / Kök görevi *(prep, 2026-11-12)*
+
+- [ ] **Ysolde Marr'ın statblock'u** hâlâ yok; kuyudaki sahne sosyal yazıldı. Dövüş ihtimali için gerekir mi?
+- [ ] Çalınacak eşya **asma kökü** olarak önerildi *(evin çapası)*: onay? Alınırsa Saat 2'nin günde +1 ilerlemesi çok mu sert?
+- [ ] **Bearfolk'un kökeni** *(kayıp kuzey seferleri, kuyunun dileği)* ve **Sorka'nın onları tanıması:** onay?
+- [ ] Katedrali **kim, ne zaman** kurdu *(öneri: 1385 sonrası elfler ve hacılar, ölü uygarlığın kuyusu üstüne)*? Elfçe ad *Shaen'Thalas* ve anlamı?
+- [ ] R-2 sabitlemesi çözülünce kapı **kuyuya** mı açılıyor? Eski Yanlış İniş ne oldu?
+- [ ] Katedralden Geç Kalan'ın Evi'ne mesafe *(öneri: ~3 gün yaya ya da Fig'in kapısı)*
+- [ ] Kuyuya varınca **L5** verilsin mi?
+
 ## Session 04 — Yedinci Kapı *(oynandı, 2026-11-05)*
 
 - [ ] Grafting'den çıkınca dışarıda **kaç gün** geçmiş? *(öneri: 2 — 23 Uktar)*

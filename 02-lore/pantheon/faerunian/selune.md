@@ -11,7 +11,7 @@ home_plane: Gates of the Moon (Ysgard)
 canon: fr-canon
 status: usable
 tags: [selune, moon, charaxis, light, lycanthropes]
-updated: 2026-08-30
+updated: 2026-11-12
 ---
 
 # Selûne
@@ -90,6 +90,8 @@ arasında doğrudan bir bağ vardır.
 > → [02-ties.md](../../../05-characters/player-characters/new-campaign/grimgor/02-ties.md#selûne--tapınma-değil-dava)
 
 ## Ager'de
+
+- **Charaxis'te:** [Ay Kuyusu Katedrali](../../../04-charaxis/regions/moonwell-cathedral/README.md) *(Don-88)*: 1494'e kadar hac yeri; silüetinin orada göründüğü söylenir. Stillreach'teki [Ay Çukuru](../../../04-charaxis/regions/stillreach/places.md#ay-çukuru) onun yoksul kopyası.
 
 <!-- doldur: Selûne tapınakları, moonwell'ler, dolunay festivalleri, Charaxis inancı -->
 

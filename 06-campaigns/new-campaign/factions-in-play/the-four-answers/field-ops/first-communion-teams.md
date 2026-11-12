@@ -49,6 +49,7 @@ dağınık** komuta zinciri:
 | **Sonraki hamle** | Sabitleme çözülünce Black Still vahasına geçmek → [silüetle randevu](../../../01-premise.md#rüya) |
 | **Ne olursa hareket eder** | Kırıkbağ'ı **duyarsa.** Şu anda duymuyor çünkü FC-4 haberi taşımıyor |
 | **Partinin gördüğü iz** | Wheatrest'te kapı bekçileri iki haftadır maaş alamıyor ve kimse yerinde değil |
+| ✏️ **~26 Uktar** | **Sabitleme çözüldü; geçti.** FC-0 ve [Ilrien](../../../../../05-characters/npcs/minor/the-first-communion/ilrien.md) Charaxis'te, [Ay Kuyusu Katedrali](../../../../../04-charaxis/regions/moonwell-cathedral/README.md)'nde 🔴. Sıradaki: vaha. Partiye [Kök](../../../quests/quest-the-root.md) görevini verecek |
 
 > **[HOOK]** Marr'ı kampanyanın ilk yayında **hiç görmemek** en güçlü seçenek.
 > Parti onun adını duyar, işini görür, öğrencilerini yener — ve ona ancak

@@ -104,7 +104,7 @@ gibi gelmedi; bir yıldır gördüğü şeyin tarifi gibi geldi.
 | Amaç | Görünen | Gerçek |
 |---|---|---|
 | Depo'daki uyanan ölü | *"Onu buradan çıkarmak istiyorum. Burada ona borç yazıyorlar."* | > **[DM ONLY]** [Oren Ask](../../../../04-charaxis/regions/stillreach/quests.md#1-dördüncü-vaka)'ı Kırıkbağ'a, [Nerath](nerath.md)'a yollamak: *geç kalmış biri dikişte dokuz gün dayanır mı?* Dayanırsa Maeral için bir yol var demektir |
-| Kuzey | Ay Çukuru'nda oturmak | > **[DM ONLY]** Marr [vahaya](../../../../04-charaxis/regions/black-still.md#vaha) geçmek istiyor. Saelith yolu dinliyor: hangi kuyu, kaç kol, kim döndü |
+| Kuzey | Ay Çukuru'nda oturmak | > **[DM ONLY]** Marr'ın geçeceği yeri o dinledi: [Ay Kuyusu](../../../../04-charaxis/regions/moonwell-cathedral/README.md). Cemaat ~26 Uktar'da oraya kamp kurdu; sıradaki [vaha](../../../../04-charaxis/regions/black-still.md#vaha) |
 | Hırsızlar | Kiralık eller | Onlara güvenmiyor. İş bitince kâğıtlarını imzalayıp göndermek istiyor; insan sattıklarını **bilmiyor** |
 
 ## İlişkiler

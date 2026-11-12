@@ -270,4 +270,6 @@ Duvarına kaba bir hilal kazınmış. Dipte buza gömülü bozuk paralar, pullar
 
 Selûne 1494'ten beri kimseye cevap vermiyor. Kimse de cevap beklemiyor; *"yine de üstünde duruyoruz"* diyorlar.
 
+> **[HOOK]** Çukura gelenler asıl hac yerini bilir: kuzeyde, karanlık yüze doğru, [Ay Kuyusu Katedrali](../moonwell-cathedral/README.md). *Tanrıça orada hâlâ görünüyormuş.*
+
 > **[HOOK]** Çukurun yanındaki buz kovuğunda bir elf yatıyor: [Saelith Thirne](../../../05-characters/npcs/minor/the-first-communion/saelith.md). Şehir ona *"Çukur'un elfi"* der ve onu çukurun bekçisi sanır. O da elini yere koyuyor; ama dua etmiyor, **dinliyor.**

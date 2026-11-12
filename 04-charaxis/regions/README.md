@@ -4,7 +4,7 @@ title: Charaxis — Bölgeler, Hat ve Yerleşimler
 canon: homebrew
 status: usable
 tags: [charaxis, vael-toruun, meridyen-yolu, mining, settlements, grimdark]
-updated: 2026-09-07
+updated: 2026-11-12
 ---
 
 # Charaxis — Bölgeler ve Yerleşimler
@@ -114,6 +114,7 @@ kendi isteğiyle gelmedi.
 | [meridian-road.md](meridian-road.md) | **Yol** — mil taşları, vuruş (saat), yol sökücüler, seyahat tablosu |
 | [scorchvault.md](scorchvault.md) | ☀ Yukarı — cam çöl, güneş ocakları, gölge borcu |
 | [black-still.md](black-still.md) | ❄ Aşağı — buz, çürümeyen ölüler, vahanın yolu |
+| [moonwell-cathedral/](moonwell-cathedral/README.md) | ❄ **Ay Kuyusu Katedrali** *(Kara Katedral)*, Don-88 yol dışı: Selûne katedrali, bearfolk bekçiler, altında kuyu. 🔒 [dungeon](moonwell-cathedral/01-dungeon.md) |
 | 🔒 [latecomers-house.md](latecomers-house.md) | ❄ **Geç Kalan'ın Evi:** [Calith](../../05-characters/npcs/major/calith-auveran/README.md) ve arp. Yolsuz buzda tek oda |
 | [ashkar-reach.md](ashkar-reach.md) · [brakk-dur.md](brakk-dur.md) · [vael-serith.md](vael-serith.md) · [stillreach.md](stillreach/README.md) · [nen-kharal.md](nen-kharal.md) | Beş yerleşim |
 | [../mines/README.md](../mines/README.md) | Dokuz maden |

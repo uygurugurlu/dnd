@@ -11,6 +11,14 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-11-12** — 🌙 **New Campaign ana görev: [Ay Kuyusu Katedrali](../04-charaxis/regions/moonwell-cathedral/README.md).**
+  - Yeni yer klasörü (Don-88 yol dışı): kapak, 🔒 [17 alanlı dungeon](../04-charaxis/regions/moonwell-cathedral/01-dungeon.md) (dış, nef, üst kat, kripta, kuyu), 🔒 [sırlar](../04-charaxis/regions/moonwell-cathedral/05-secrets-dm-only.md). **DM kanonu:** Selûne sanılan silüet, ham büyünün yoğunluğundan doğan Unwoven etkisi.
+  - Yeni yaratık: [Bearfolk Warden](../02-lore/bestiary/bearfolk-warden.md) (**CR 3**, doğrulamalı): katedralin yeni bekçileri; Yorga, Tolk, Mahu.
+  - Yeni görev: [Kök](../06-campaigns/new-campaign/quests/quest-the-root.md): Ysolde Marr partiden Calith'in evindeki asma kökünü çalmasını ister. FC-0 Charaxis'e geçti (saha tahtası güncellendi).
+  - [Session 06 §8](../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md#8-ana-görev--ay-kuyusu-katedrali): tapınağın nasıl öğrenildiği, söylentiler, yol. Sorgu basamak 6 buna göre düzeltildi.
+  - ✏️ **Yazım tarzı:** bu dosyalardan itibaren session ve dungeon notları **hap bilgi;** replik ve uzun tasvir yok (DM geri bildirimi).
+  - Görsel: `04-charaxis/regions/attachments/moonwell-cathedral.png` (Midjourney; prompt [katedral dosyasında](../04-charaxis/regions/moonwell-cathedral/README.md#görsel-promptu)). VTT: beş sahne `vtt` projesinde hazırlanıyor.
+
 - **2026-11-12** — 🗡️ **New Campaign: Session 05 oynandı, Session 06 hazırlığı (han kavgası).**
   - [Session 05](../06-campaigns/new-campaign/sessions/session-05-kapagin-alti.md) **oynandı** olarak işlendi: Charaxis'e geçiş; **Fig takip edilmedi** (Grimgor *Speak with Animals* ile konuştu: efendisinin adı yok, *iyi biri*); donduran kuyuda **elementaller öldü;** Stillreach'e giriş; **hanın kapısında bitti.** Calith, Sofra, küçük işler, Emanet oynanmadı → S06'ya devretti. [03-timeline.md](../06-campaigns/new-campaign/03-timeline.md), dört PC günlüğü, [Fig](../05-characters/npcs/minor/fig.md), [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) güncellendi.
   - Yeni session: [Beşinci Saat](../06-campaigns/new-campaign/sessions/session-06-besinci-saat.md) *(prep)* — [Kumpanya Hanı](../04-charaxis/regions/stillreach/places.md#kumpanya-hanı)'nda tanıma sahnesi, **2.400 XP (Moderate)** encounter, mavi han arenası, kapıcı saati (5 tur), altı basamaklı **First Communion sorgu tablosu,** Urzha'nın hesabı.

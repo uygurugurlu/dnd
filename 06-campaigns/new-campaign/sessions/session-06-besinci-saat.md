@@ -10,7 +10,7 @@ level_at_start: 4
 level_at_end: ⬜
 players_present: [Ardan, Koray, Erdem, Burak, ⬜ Ozan (konuk)]
 status: prep
-tags: [session, stillreach, kumpanya-hani, tek-kulak, dorduncu-saat, besinci-saat, first-communion, encounter, rogue, vtt]
+tags: [session, stillreach, kumpanya-hani, moonwell-cathedral, main-quest, tek-kulak, dorduncu-saat, besinci-saat, first-communion, encounter, rogue, vtt]
 updated: 2026-11-12
 ---
 
@@ -45,6 +45,7 @@ updated: 2026-11-12
 | 5 | 🗣️ [Sorgu: kim ne biliyor](#5-sorgu--kim-ne-biliyor) | 20 dk | Sosyal |
 | 6 | [Urzha'nın hesabı](#6-urzhanın-hesabı) | 10 dk | Sosyal |
 | 7 | [Şehir](#7-şehir--s05ten-devreden) *(S05'ten)* | kalan | Serbest |
+| 8 | ⭐ [Ana görev: Ay Kuyusu Katedrali](#8-ana-görev--ay-kuyusu-katedrali) | 10 dk + sonraki session | **Ana quest** |
 
 ---
 
@@ -253,7 +254,7 @@ updated: 2026-11-12
 | **3** | **Buradaki iş** | *"Depo. Üçüncü sıra. Bir ölü; elf 'geç kalmış' diyor. Tırnaklıyormuş. Onu çıkarıp kapıdan geçireceğiz, kuzeye, Kırıkbağ'a."* → [Dördüncü Vaka](../../../04-charaxis/regions/stillreach/quests.md#1-dördüncü-vaka) |
 | **4** | ⭐ **Kırıkbağ** | *"Orada bir kampları var. Dikişin içine kendi ayağıyla giren her canlıya **otuz altın** veriyorlar. Lonca birini harcayacaksa Maşa işi oraya çıkarıyordu. Senden önce iki kişi."* → **Tek Kulak satıldı.** [FC-1](../factions-in-play/the-four-answers/field-ops/first-communion-teams.md) |
 | **5** | **Neden** | *"Dikişin içinde **dokuz gün** dayanacak birini arıyorlar. Kimse dayanmadı. Canlı dayanmıyor. Şimdi ölüyü deneyecekler."* Kampın başı: *"konuşan ikiz"* → [Nerath](../../../05-characters/npcs/minor/the-first-communion/nerath.md) *(adını bilmezler)* |
-| **6** | **Büyük olan** *(yalnız Maşa)* | *"Başlarına **Dokuz** diyorlar. Kadın. Wheatrest'in doğusundaki kapıda oturuyor, kapının düğümünü çözüyormuş. Çözünce **buraya** geçecek: kuzeye, buzun ortasına. Elf ona yol hazırlıyor."* → [Marr](../factions-in-play/the-four-answers/the-first-communion.md#ysolde-marr) · [vaha](../../../04-charaxis/regions/black-still.md#vaha) |
+| **6** | **Büyük olan** *(yalnız Maşa)* | Başlarına **Dokuz** diyorlar; kadın. Wheatrest'in doğusundaki kapının düğümünü çözdü ve **geçti.** Cemaat karanlık yüze doğru, eski bir **Selûne tapınağında** kamp kurdu; elf oraya yol hazırlıyordu → [Marr](../factions-in-play/the-four-answers/the-first-communion.md#ysolde-marr) · [§8](#8-ana-görev--ay-kuyusu-katedrali) |
 
 **Bilmedikleri** *(ne kadar sıkıştırılırsa sıkıştırılsın)*: Marr'ın adı · cemaatin [iç çatlağı](../../../05-characters/npcs/minor/the-first-communion/README.md#kim-kime-karşı) · Unwoven · Grafting'in nasıl yapıldığı.
 
@@ -271,9 +272,9 @@ updated: 2026-11-12
 | *"İnsan satın alıyorsunuz."* | **İlk kez durur.** *"Gönüllüler, yazıyordu."* Mektubu çıkarır, okur. *"...Gönüllüler."* → 🔒 [sırlar](../../../05-characters/npcs/minor/the-first-communion/saelith.md#sırlar) |
 | 🛡️ Gwyndor'a *(o sormadan)* | *"Sen iki tarafta da değilsin. Tek taraftasın ve yanlış olanında. Bunu sana ilk ben söylemiyorum, değil mi?"* |
 | 🌕 Grimgor'a | *"Sen de dinliyorsun. Burada ne duydun? Ben bir yıl hiçbir şey duymadım."* *Druidcraft* yapar: avucunda **kırağı** açar, çiçek değil |
-| *"Dokuz nerede?"* | *"Geliyor."* Başka bir şey demez. Bilmiyor da |
+| *Dokuz nerede?* | Söyler: kuzeyde, **Ay Kuyusu**'nda. Saklamaz; partinin oraya gitmesini **ister** → [§8](#8-ana-görev--ay-kuyusu-katedrali) |
 
-> 🔒 **[DM ONLY]** Saelith ne kazandırır: **(a)** Communion'ın Charaxis'te bir eli olduğu · **(b)** Marr'ın **vahaya** geleceği *(parti ondan önce varmalı)* · **(c)** cemaatin içinde insan satın alındığını **bilmeyen** bir kanat olduğu. Üçü de [Saat 6](../06-clocks.md#-6-dört-cevap)'ya yazılır.
+> 🔒 **[DM ONLY]** Saelith ne kazandırır: **(a)** Communion'ın Charaxis'te bir eli olduğu · **(b)** Marr'ın **geçtiği** ve [Ay Kuyusu](../../../04-charaxis/regions/moonwell-cathedral/README.md)'nda olduğu · **(c)** cemaatin içinde insan satın alındığını **bilmeyen** bir kanat olduğu. Üçü de [Saat 6](../06-clocks.md#-6-dört-cevap)'ya yazılır.
 
 ---
 
@@ -316,7 +317,53 @@ S05'te oynanmayan her şey **aynen duruyor;** bu dosyada tekrar yazılmadı:
 
 ---
 
-## 8. Denge — *XP (DMG 2024)*
+## 8. Ana görev — Ay Kuyusu Katedrali
+
+> ⭐ **Sonraki hedef.** Hap notlar. Yer: [Ay Kuyusu Katedrali](../../../04-charaxis/regions/moonwell-cathedral/README.md) · 🔒 [dungeon](../../../04-charaxis/regions/moonwell-cathedral/01-dungeon.md) · 🔒 [sırlar](../../../04-charaxis/regions/moonwell-cathedral/05-secrets-dm-only.md) · görev: [Kök](../quests/quest-the-root.md)
+
+**Ne öğrenirler:** First Communion, Charaxis'in karanlık yüzüne doğru, eski bir **Selûne tapınağında** kamp kurdu. Liderleri orada.
+
+**Kimden öğrenirler** *(biri yeter)*:
+
+| Kaynak | Nasıl |
+|---|---|
+| **Maşa** | [Sorgu](#5-sorgu--kim-ne-biliyor) basamak 6 |
+| **Saelith** | Sorulunca söyler; gitmelerini ister |
+| **Saelith'in mektupları** | Elfçe; biri kampın yerini *"kuyunun başı"* diye geçer |
+| **Urzha** | Bir soru karşılığı: gri giyimli elflerin Bent'ten çıktığını **o da** duydu |
+| **Tolga Erden** *(Kuzey Bent)* | Bir hafta önce geçen elfleri deftere **yazamadığını** anlatır |
+
+**Tapınak — görünüş:** Düz kara buzun ortasında geniş, yayvan, **ortaçağ katedrali.** Çok katlı. Taşın derzlerinden soluk mavi-yeşil ışık sızar; biyolüminesans gibi, canlı değil. Görsel → [katedral](../../../04-charaxis/regions/moonwell-cathedral/README.md).
+
+**Şehirde sorarlarsa — gizemler:**
+
+| Söylenti | Kimden | 🔒 |
+|---|---|---|
+| ⭐ **Selûne'nin silüeti orada hâlâ görünüyor** | [Ay Çukuru](../../../04-charaxis/regions/stillreach/places.md#ay-çukuru)'na gelenler | Selûne değil: ham büyü ve Unwoven'ın yansıması |
+| ⭐ **Ayı halkı oranın yeni bekçisi** | [Sorka](../../../05-characters/npcs/minor/sorka-ucdis.md), kızakçılar | Doğru → [Bearfolk Warden](../../../02-lore/bestiary/bearfolk-warden.md) |
+| Rahipler hâlâ orada oturuyor | Emmer | Kriptada, on iki kişi |
+| Giden dilediğini görüp dönüyor | Gri Oda | Ayna etkisi |
+| Saatçiler oraya gitmez | Perrel Soan | Ölçüleri tutmuyor |
+
+Tam tablo → [katedral §söylentiler](../../../04-charaxis/regions/moonwell-cathedral/README.md#stillreachte-ne-söylenir).
+
+**Yol:** 24 mil + 2 mil yol dışı · yaya 2 gün, [Sorka](../../../05-characters/npcs/minor/sorka-ucdis.md)'nın kızağıyla 1 gün · Bent'ten çıkış izni ya da kaçak · gidiş-dönüş rün sayacının **yarısı.**
+
+**Katedralde ne olur** *(sonraki session)*:
+
+| Sıra | Ne |
+|---|---|
+| 1 | **Bekçiler:** 8 ayı-adam. Silah bağlatır, adak ister. Grimgor'ın sembolü kapıyı açar |
+| 2 | **Nef ve şapeller:** dört ay evresi bulmacası kriptayı açar |
+| 3 | **Kripta:** oturan on iki rahip, mefitler, kuyudan doğan elemental |
+| 4 | **Kuyu:** Communion kampı. **Ysolde Marr** ve **Ilrien** partiyi **bekliyor;** savaş yok |
+| 5 | **Konuşma:** Marr amacını anlatır: perdeyi inceltmek, vahaya geçmek |
+| 6 | ⭐ **Görev:** Calith'in evinden **asma kökünü** çalıp getirmek → [Kök](../quests/quest-the-root.md) |
+
+> ⚠️ Parti Calith ile tanışmadı. Görev onları eve ilk kez **hırsız olarak** götürür.
+> ⚠️ Marr'ın statblock'u yok ⬜; sahne sosyal.
+
+## 9. Denge — *XP (DMG 2024)*
 
 | Parti | Low | Moderate | High |
 |---|---:|---:|---:|
@@ -332,7 +379,7 @@ S05'te oynanmayan her şey **aynen duruyor;** bu dosyada tekrar yazılmadı:
 > ⚠️ **Sneak Attack patlaması:** Üç bıçakçı + Maşa aynı hedefte: hepsi isabet ederse **tur başına ~60 hasar,** beklenen *(AC 16'ya karşı)* **~35.** L4 bir karakteri bir turda düşürür. Bu yüzden ilk hedef **Tek Kulak** *(L5, Uncanny Dodge)* ve bu yüzden masalar, karanlık ve ayırma önemli. Parti çiftleri **bölerse** savaş kolaylaşır; bunu ikinci turda fark etmeliler.
 > ⚠️ Parti S05'te kuyuda **2.200 XP** dövüştü; aradan uzun dinlenme geçmediyse kaynakları eksik. Gerekirse **İs galeriden inmesin.**
 
-## 9. Saatler *(öneri ⬜)*
+## 10. Saatler *(öneri ⬜)*
 
 | Saat | Dilim | Neden |
 |---|---|---|
@@ -340,7 +387,7 @@ S05'te oynanmayan her şey **aynen duruyor;** bu dosyada tekrar yazılmadı:
 | [Saat 2 — Vahadaki Şey](../06-clocks.md#-2-vahadaki-şey-yaklaşıyor) | — | Marr'ın vahaya geleceği öğrenildiyse **not düş;** dilim yok |
 | **Tek Kulak** | ⭐ | *Esme ile hesap* artık iki katmanlı: onu harcayan Esme, **satan** Maşa |
 
-## 10. Canlı notlar
+## 11. Canlı notlar
 
 | # | Ne | Not |
 |---|---|---|
@@ -353,10 +400,12 @@ S05'te oynanmayan her şey **aynen duruyor;** bu dosyada tekrar yazılmadı:
 | 7 | Urzha'ya ne söylendi? | ⬜ |
 | 8 | Mektup destesi, kurye kâğıdı, un çuvalları kimde? | ⬜ |
 | 9 | Rün sayacı | ⬜ gün |
+| 10 | Tapınağı kimden öğrendiler? Hangi söylentileri duydular? | ⬜ |
+| 11 | Kuzeye nasıl çıkıyorlar *(izin / kaçak / Sorka)*? | ⬜ |
 
 ## VTT sahnesi
 
-Sahne: `~/Documents/Projects/vtt/scenes/stillreach-kumpanya-hani-s06.recipe.json` *(VTT oturumunda hazırlanıyor)*.
+Sahne: `~/Documents/Projects/vtt/scenes/stillreach-kumpanya-hani-s06.recipe.json` *(hazır; 19 token, 7 mavi ışık)*.
 İki katlı taş han, mavi buz taşlarıyla aydınlık; bar batıda, loca kuzeybatıda, merdiven ve galeri kuzeydoğuda, ön kapı güneyde, arka kapı kuzeyde. Token'lar [§2](#2-salon--kim-nerede)'deki yerlerinde.
 
 ## Güncellenecek Dosyalar *(oynandıktan sonra)*
@@ -364,4 +413,5 @@ Sahne: `~/Documents/Projects/vtt/scenes/stillreach-kumpanya-hani-s06.recipe.json
 - [ ] `03-timeline.md` · 4× PC `03-development.md` · [Tek Kulak](../../../05-characters/npcs/minor/tek-kulak.md) *(Esme/Maşa; amaçlar)*
 - [ ] [Beşinci Saat](../../../05-characters/npcs/minor/the-fifth-hour/README.md) *(status: kim öldü, kim kaçtı)* · [Saelith](../../../05-characters/npcs/minor/the-first-communion/saelith.md)
 - [ ] [Urzha](../../../05-characters/npcs/minor/urzha-keth.md) *(ne öğrendi)* · [Stillreach görevler](../../../04-charaxis/regions/stillreach/quests.md) *(Dördüncü Vaka)*
+- [ ] [Ay Kuyusu Katedrali](../../../04-charaxis/regions/moonwell-cathedral/README.md) *(öğrenildi mi)* · [Kök](../quests/quest-the-root.md) *(status)*
 - [ ] [first-communion-teams.md](../factions-in-play/the-four-answers/field-ops/first-communion-teams.md) *(FC-6)* · [06-clocks.md](../06-clocks.md) · `00-meta/changelog.md`

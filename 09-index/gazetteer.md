@@ -3,7 +3,7 @@ type: meta
 title: Gazetteer — Yerler Dizini
 canon: mixed
 status: usable
-updated: 2026-10-29
+updated: 2026-11-12
 ---
 
 # Gazetteer
@@ -143,6 +143,7 @@ Haritada yok; [New Campaign tohumlarından](../06-campaigns/new-campaign/05-worl
 | **Scorchvault** / Yakım Kubbesi | Yarımküre | Camlaşmış çöl, ateş elementalleri |
 | **Black Still** / Kara Dinginlik | Yarımküre | Sonsuz buz; ölüler çürümez. ☄️ **Vaha burada** |
 | 🔒 [**Geç Kalan'ın Evi**](../04-charaxis/regions/latecomers-house.md) | Tek oda · Black Still | [Calith Auveran](../05-characters/npcs/major/calith-auveran/README.md). Yedinci Kapı çıkışının ~1,5 mil kuzeyi |
+| [**Ay Kuyusu Katedrali**](../04-charaxis/regions/moonwell-cathedral/README.md) / Kara Katedral | Tapınak, zindan · Don-88 yol dışı | Selûne katedrali; içinden mavi-yeşil ışık sızar. [Bearfolk](../02-lore/bestiary/bearfolk-warden.md) bekçiler; kuyuda First Communion kampı |
 | **Ashkar Reach** | Şehir · Kül-71 | İnsan/tiefling; **moondust** ticareti, kara pazar | [→](../04-charaxis/regions/ashkar-reach.md) |
 | **Brakk-Dur Omurga** | Şehir · Kül-28 | Cüce/ork; madencilik lojistiği, denge odaları | [→](../04-charaxis/regions/brakk-dur.md) |
 | **Vael'Serith** | Şehir · Taş 0 | Elf; **Sıfır Taşı**, Nöbet, izleme matrisi | [→](../04-charaxis/regions/vael-serith.md) |
