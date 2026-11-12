@@ -11,6 +11,8 @@ Format: `- **YYYY-MM-DD** — açıklama. (etkilenen dosyalar)`
 
 ## 2026
 
+- **2026-11-12** — 🎲 **Nat 1 / Nat 20: Tek Kulak tablosu.** Konuk PC [Tek Kulak](../05-characters/npcs/minor/tek-kulak.md) için **Rogue (eski Barbarian)** komplikasyon ve ödül tabloları (13–20) eklendi: sol kulak, Old Blood, Sneak Attack / Cunning Strike / Uncanny Dodge. ([crit-and-fumble.md](../08-rules/house-rules/crit-and-fumble.md#rogue-eski-barbarian), tek-kulak.md)
+
 - **2026-11-12** — 🌙 **New Campaign ana görev: [Ay Kuyusu Katedrali](../04-charaxis/regions/moonwell-cathedral/README.md).**
   - Yeni yer klasörü (Don-88 yol dışı): kapak, 🔒 [17 alanlı dungeon](../04-charaxis/regions/moonwell-cathedral/01-dungeon.md) (dış, nef, üst kat, kripta, kuyu), 🔒 [sırlar](../04-charaxis/regions/moonwell-cathedral/05-secrets-dm-only.md). **DM kanonu:** Selûne sanılan silüet, ham büyünün yoğunluğundan doğan Unwoven etkisi.
   - Yeni yaratık: [Bearfolk Warden](../02-lore/bestiary/bearfolk-warden.md) (**CR 3**, doğrulamalı): katedralin yeni bekçileri; Yorga, Tolk, Mahu.

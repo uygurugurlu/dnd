@@ -8,7 +8,7 @@ sources:
   - https://a5e.tools/rules/criticals-and-fumbles
   - https://www.hipstersanddragons.com/critical-misses-5e-dnd/
   - https://www.enworld.org/threads/what-are-your-favourite-fumble-tables.552370/
-updated: 2026-11-05
+updated: 2026-11-12
 ---
 
 # Nat 1 / Nat 20 — Komplikasyon ve Ödül
@@ -92,7 +92,7 @@ Yani sonuçların %40'ı sana özeldir.
 
 # Karaktere Özel Tablolar (13–20)
 
-> Bu dört tablo **[New Campaign](../../06-campaigns/new-campaign/README.md)**
+> Bu beş tablo **[New Campaign](../../06-campaigns/new-campaign/README.md)**
 > partisi için yazıldı → [04-party.md](../../06-campaigns/new-campaign/04-party.md)
 
 | Sınıf | Karakter | Oyuncu |
@@ -101,9 +101,11 @@ Yani sonuçların %40'ı sana özeldir.
 | [Moon Druid](#moon-druid) | **[Grimgor](../../05-characters/player-characters/new-campaign/grimgor/README.md)** | Koray |
 | [Necromancer Wizard](#necromancer-wizard) | **[Vasili von Holtz](../../05-characters/player-characters/new-campaign/vasili-von-holtz/README.md)** | Erdem |
 | [Monk](#monk) | **[Roful Roger](../../05-characters/player-characters/new-campaign/roful-roger/README.md)** | Burak |
+| [Rogue (eski Barbarian)](#rogue-eski-barbarian) | **[Tek Kulak](../../05-characters/npcs/minor/tek-kulak.md)** *(konuk)* | Ozan |
 
 > ✏️ **2026-08-30:** Fighter tablosu kaldırıldı, yerine **Monk** yazıldı.
 > ✏️ **2026-11-05:** Vasili L4'te respec yaptı: **Bladesinger** tablosu kaldırıldı, yerine **Necromancer** yazıldı.
+> ✏️ **2026-11-12:** Konuk PC **Tek Kulak** için **Rogue** tablosu eklendi.
 
 ## Undead Paladin
 
@@ -232,6 +234,40 @@ Yani sonuçların %40'ı sana özeldir.
 | 18 | **Ritim okuma.** Bu yaratığın ritmini çözdün: sahne boyunca **aynı tipteki** yaratıkların sana yönelen saldırılarına karşı **AC +1**. |
 | 19 | **Sinir noktası.** Hedef DC 8 + proficiency + Wisdom **Constitution save**, başarısızsa bir sonraki turunun sonuna kadar **hızı 0**. |
 | 20 | **Boşluk.** Bu sahnede bir kez: sana yönelen bir saldırıyı Reaction ile **tamamen** kaçırırsın — Focus harcamaz, Deflect Attacks saymaz. Ve bunu gören anlatır: lehine **Mahalle** seviyesinde bir söylenti doğar ([rumor-system.md](rumor-system.md)). |
+
+---
+
+## Rogue (eski Barbarian)
+
+*Öfkesini bir cepte taşıyor; sol kulağı yok. Tökezlediğinde ya duymadığı bir şey ya da uyanan eski kan yüzünden.*
+
+> **[Tek Kulak](../../05-characters/npcs/minor/tek-kulak.md)** = konuk PC (L5). **Old Blood** = sheet'teki hikâye özelliği (Bloodied'da istemsiz rage, long rest başına 1). Masada açık değilse o satırlar için "**Mantık kazanır**".
+
+### Komplikasyon (13–20)
+
+| d20 | Sonuç |
+|---|---|
+| 13 | **Sol taraf.** Sol yanından gelen şeyi duymadın. Sıradaki turunun başına kadar **sol yarından** (DM belirler) gelen saldırılar **Advantage** alır. |
+| 14 | **Eski kan kaynadı.** **Old Blood** şimdi, Bloodied olmadan açılır — kullanılmışsa yine açılır. Bir tur boyunca **Hide** yapamazsın ve **en yakın** düşmana yürümek zorundasın. Sonra söner. |
+| 15 | **Gölge yırtıldı.** Saklıysan **Hidden** biter ve 30 fit içindeki herkes yerini bilir. Saklı değilsen bir sonraki turunda **Cunning Action** kullanamazsın. |
+| 16 | **Fırsatı kaçırdın.** Bu turun ve sıradakinin sonuna kadar **Sneak Attack** yok. Doğru anı duyamadın. |
+| 17 | **Hançer kaydı.** Elindeki hançer/shortsword kayar ve **1d4 × 5 fit** öteye düşer. Kılıfta yedek varsa çekmek serbest (Tek Kulak'ın üç hançeri var). |
+| 18 | **Kolay iş.** Hedef seni küçümsemeyi bıraktı: bu sahne boyunca **o hedefe** karşı **Cunning Strike** kullanırken DC **−2**. Artık seni izliyor. |
+| 19 | **Dudak okuyamadın.** Bir müttefikin seslendiği şeyi kaçırdın. Bir tur boyunca müttefik **Help** veya sana yönelik büyü/yetenek verirse etkisi ancak **sıradaki turunda** işler. |
+| 20 | **Kontrolsüz.** Barbarken yaptığın gibi vurdun: bu ıska **5 fit içindeki bir müttefiki** bulur (varsa) — **normal silah hasarı**, Sneak Attack yok. Müttefik yoksa hançerin bir duvara saplanır: çekip almak **Action**. |
+
+### Ödül (13–20)
+
+| d20 | Sonuç |
+|---|---|
+| 13 | **Gölgeye geri.** Bu turda **Hide** action'ı serbest; Cunning Action'ı başka şeye harcayabilirsin. |
+| 14 | **Kulak yerine göz.** Hedefin bir sonraki hamlesini dudağından/omzundan okudun: sıradaki turunun başına kadar **o hedefin** sana saldırıları **Disadvantage**. |
+| 15 | **Doğru an.** Bu turda Sneak Attack koşulu sağlanmasa da Sneak Attack işler — ve zarlardan birini **maksimum** sayarsın. |
+| 16 | **Cunning, bedava.** Bu vuruşa **Cunning Strike** ekle (Poison, Trip ya da Withdraw) — **Sneak Attack zarı düşmeden.** |
+| 17 | **Eski kan, kendi isteğinle.** Bu sahnede bir kez **Old Blood**'u Bonus Action ile açabilirsin — Bloodied olman gerekmez. Long rest kullanımını yemez. |
+| 18 | **Cebe attın.** Vurduğun hedeften küçük bir şey alırsın: anahtar, mühür, kese (**2d10 gp**) ya da bir **mektup** — Dördüncü Saat'in elinden geçmiş olabilir. |
+| 19 | **Uncanny, iki kez.** Bu sahne boyunca **Uncanny Dodge** bir kez daha kullanılabilir — Reaction harcamadan. |
+| 20 | **Kimse kolay iş demesin.** Hedef zeki bir yaratıksa DC 8 + proficiency + Dexterity **Wisdom save**, başarısızsa bir tur **Frightened**. Ve tanıklar anlatır: lehine **Fısıltı** seviyesinde bir söylenti doğar, Calithra alt mahallesinde ([rumor-system.md](rumor-system.md)). |
 
 ---
 

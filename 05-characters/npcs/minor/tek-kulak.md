@@ -266,6 +266,9 @@ Sihirli eşya **yok.**
 > PC'ye de **hikâye özelliği** olarak verilebilir (long rest başına 1, istemsiz).
 > Mekanik bağlayıcı değil — DM ve oyuncu karar verir.
 
+> 🎲 **Nat 1 / Nat 20:** Tek Kulak'a özel komplikasyon ve ödül tablosu (13–20) →
+> [crit-and-fumble.md — Rogue (eski Barbarian)](../../../08-rules/house-rules/crit-and-fumble.md#rogue-eski-barbarian)
+
 ## Taktik *(DM oynarken)*
 
 1. **Açılış:** Gölgeden başlar; ilk tur **Hide** (Cunning Action), sonra Sneak Attack için bir dostun yanındaki hedefi seçer.
